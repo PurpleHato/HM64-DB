@@ -81,8 +81,13 @@ export const DatabaseView: React.FC = () => {
     if (!gameId || !databaseId || isTutorial) return null;
 
     const gameFolder = gameId.toUpperCase();
-    // Capitalize first letter of dbName to match folder names (Dlists, SegmentCalls, etc.)
-    const dbName = databaseId.charAt(0).toUpperCase() + databaseId.slice(1);
+    // Map database ID to folder name (handle special cases like segment-calls -> SegmentCalls)
+    const folderNameMap: Record<string, string> = {
+      'segment-calls': 'SegmentCalls',
+    };
+    // Default: capitalize first letter (dlists -> Dlists, sounds -> Sounds, etc.)
+    const defaultName = databaseId.charAt(0).toUpperCase() + databaseId.slice(1);
+    const dbName = folderNameMap[databaseId] || defaultName;
 
     if (subcategoryConfig?.dataFile) {
       return `${basePath}data/${gameFolder}/${dbName}/${subcategoryConfig.dataFile}`;
