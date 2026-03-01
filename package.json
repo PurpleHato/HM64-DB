@@ -9,7 +9,7 @@
     "start": "vite",
     "build": "tsc -b && vite build",
     "preview": "vite preview",
-    "predeploy": "npm run build && node -e \"const fs=require('fs');fs.existsSync('build/data')&&fs.rmSync('build/data',{recursive:true,force:true});fs.cpSync('data','build/data',{recursive:true})\"",
+    "predeploy": "npm run build && node scripts/copy-data.js",
     "deploy": "gh-pages -d build"
   },
   "dependencies": {
