@@ -1,0 +1,30 @@
+[
+  {
+    "Directory": "objects/object_ikn_demo",
+    "DL Name": "object_ikn_demo_Skel_007B48",
+    "Matches": "object_ikn_demo_Skel_0038F0",
+    "Description": "Variant of demo",
+    "DevNotes": "Auto-detected variant pattern"
+  },
+  {
+    "Directory": "objects/object_ikn_demo",
+    "DL Name": "object_ikn_demo_Skel_00B490",
+    "Matches": "object_ikn_demo_Skel_0038F0",
+    "Description": "Variant of demo",
+    "DevNotes": "Auto-detected variant pattern"
+  },
+  {
+    "Directory": "objects/object_link_goron",
+    "DL Name": "gLinkGoronSkel",
+    "Matches": "gLinkGoronShieldingSkel",
+    "Description": "Variant of goron",
+    "DevNotes": "Auto-detected variant pattern"
+  },
+  {
+    "Directory": "objects/object_horse_link_child",
+    "DL Name": "gEponaSkel",
+    "Matches": "gLinkHumanSkel",
+    "Description": "Variant of child",
+    "DevNotes": "Auto-detected variant pattern"
+  }
+]

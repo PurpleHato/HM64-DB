@@ -1,9 +1,329 @@
+@import "tailwindcss";
+
+@source "../src/**/*.{js,ts,jsx,tsx}";
+
+@theme {
+  /* Neo-retro palette from Shiploader */
+  --color-background: rgb(20, 18, 30);
+  --color-surface: rgb(28, 25, 45);
+  --color-surface-elevated: rgb(35, 32, 55);
+  --color-border: rgb(70, 65, 90);
+  --color-primary: rgb(184, 83, 233);
+  --color-primary-hover: rgb(198, 102, 240);
+  --color-primary-active: rgb(160, 64, 217);
+
+  /* Accent Colors */
+  --color-accent: rgb(217, 102, 255);
+  --color-fuchsia: rgb(217, 70, 239);
+  --color-pink: rgb(244, 114, 182);
+  --color-indigo: rgb(129, 140, 248);
+  --color-blue: rgb(96, 165, 250);
+  --color-violet: rgb(139, 92, 246);
+  --color-cyan: rgb(34, 211, 238);
+
+  /* Text colors */
+  --text-primary: rgb(250, 248, 255);
+  --text-secondary: rgb(200, 195, 220);
+  --text-muted: rgb(140, 135, 160);
+
+  /* Status colors */
+  --color-success: rgb(34, 197, 94);
+  --color-error: rgb(239, 68, 68);
+  --color-warning: rgb(234, 179, 8);
+
+  /* Semantic Aliases */
+  --color-primary-foreground: rgb(255, 255, 255);
+  --color-secondary: rgb(35, 32, 55);
+  --color-secondary-foreground: rgb(250, 248, 255);
+
+  /* Database color coding for OOT */
+  --color-dl-green: rgb(34, 197, 94);
+  --color-dl-purple: rgb(168, 85, 247);
+  --color-dl-teal: rgb(20, 184, 166);
+  --color-dl-orange: rgb(249, 115, 22);
+  --color-dl-blue: rgb(96, 165, 250);
+  --color-dl-red: rgb(239, 68, 68);
+  --color-dl-indigo: rgb(129, 140, 248);
+  --color-dl-brown: rgb(234, 179, 8);
+  --color-dl-pink: rgb(244, 114, 182);
+}
+
+/* Global styles */
 * {
   box-sizing: border-box;
 }
 
-body {
+html,
+body,
+#root {
+  height: 100%;
+  width: 100%;
   margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', sans-serif;
+  background-color: var(--color-background);
+  color: var(--text-primary);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+/* Scrollbar styling */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--color-surface);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--color-border);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-primary);
+}
+
+/* Glass morphism utilities */
+.glass {
+  background: rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+}
+
+.glass-border {
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+/* Gradient text */
+.gradient-text {
+  background: linear-gradient(135deg, var(--color-primary), var(--color-fuchsia), var(--color-pink));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* Animations */
+@keyframes shimmer {
+  0% {
+    transform: translateX(-100%);
+  }
+  100% {
+    transform: translateX(100%);
+  }
+}
+
+.animate-shimmer {
+  animation: shimmer 2s infinite;
+}
+
+@keyframes fade-in {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes slide-in-from-top {
+  from {
+    transform: translateY(-10px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+.animate-in {
+  animation-name: fade-in;
+  animation-duration: 0.2s;
+  animation-timing-function: ease-out;
+  animation-fill-mode: forwards;
+}
+
+.fade-in {
+  animation-name: fade-in;
+}
+
+.slide-in-from-top-2 {
+  animation-name: slide-in-from-top;
+}
+
+.duration-200 {
+  animation-duration: 200ms;
+}
+
+/* Holographic card effect */
+@keyframes holographic {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+.holographic-card {
+  position: relative;
+  overflow: hidden;
+}
+
+.holographic-card::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    45deg,
+    transparent 30%,
+    rgba(184, 83, 233, 0.05) 50%,
+    transparent 70%
+  );
+  background-size: 200% 200%;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  pointer-events: none;
+  border-radius: inherit;
+}
+
+.holographic-card:hover::after {
+  opacity: 1;
+  animation: holographic 3s ease infinite;
+}
+
+/* Staggered entry animation */
+@keyframes slide-in-up {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.stagger-enter {
+  animation: slide-in-up 0.4s ease-out forwards;
+  opacity: 0;
+}
+
+/* Electric border animation */
+.electric-border {
+  position: relative;
+}
+
+.electric-border::before {
+  content: '';
+  position: absolute;
+  inset: -2px;
+  border-radius: inherit;
+  padding: 2px;
+  background: linear-gradient(
+    90deg,
+    transparent,
+    rgb(184, 83, 233),
+    rgb(198, 102, 240),
+    rgb(184, 83, 233),
+    transparent
+  );
+  background-size: 200% 100%;
+  animation: electric-flow 3s linear infinite;
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  mask-composite: exclude;
+  pointer-events: none;
+}
+
+@keyframes electric-flow {
+  0% {
+    background-position: 0% 50%;
+  }
+  100% {
+    background-position: 200% 50%;
+  }
+}
+
+/* Code block styling */
+code {
+  font-family: 'Consolas', 'Monaco', 'Courier New', monospace;
+  font-size: 0.875em;
+}
+
+/* Responsive grid layout for cards */
+.mod-grid-auto {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(auto-fill, minmax(min(280px, 100%), 1fr));
+}
+
+@media (min-width: 768px) {
+  .mod-grid-auto {
+    grid-template-columns: repeat(auto-fill, minmax(min(320px, 100%), 1fr));
+  }
+}
+
+@media (min-width: 1280px) {
+  .mod-grid-auto {
+    grid-template-columns: repeat(auto-fill, minmax(min(360px, 100%), 1fr));
+  }
+}
+
+/* Line clamp utility */
+.line-clamp-2 {
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+}
+
+/* Enhanced table styling */
+table {
+  border-collapse: separate;
+  border-spacing: 0;
+}
+
+table thead th {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+
+table tbody tr {
+  transition: all 0.2s ease;
+}
+
+table tbody td {
+  position: relative;
+}
+
+/* Hide scrollbar utility */
+.scrollbar-hide {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+
+/* Text cyan utility */
+.text-cyan {
+  color: rgb(34, 211, 238);
+}
+
+/* Primary/8 utility */
+.bg-primary\/8 {
+  background-color: rgba(184, 83, 233, 0.08);
 }

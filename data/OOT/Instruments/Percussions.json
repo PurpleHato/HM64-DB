@@ -1,0 +1,26 @@
+[
+  {
+    "location": "Hyrule Field",
+    "details": "00 - 0F: Bass drum\n10 - 11: Snare drum\n12 - 14: Snare drum 2\n15 - 20: Cymbal\n21 - 3F: Timpani"
+  },
+  {
+    "location": "Market",
+    "details": "00 - 1A: Drum 1\n1B - 1C: Drum 2\n1D - 3F: Tambourine"
+  },
+  {
+    "location": "Jabu-Jabu",
+    "details": "00 - 10: Bass drum\n11 - 3F: Snare drum"
+  },
+  {
+    "location": "Fire Temple",
+    "details": "00 - 20: Cymbal\n21 - 3F: Drum"
+  },
+  {
+    "location": "Spirit Temple",
+    "details": "00 - 11: Gong\n12 - 3F: Wind chime"
+  },
+  {
+    "location": "Zora's Domain",
+    "details": "00 - 14: Low bongo\n15 - 27: Bongo\n28 - 3B: Clap\n3C - 3F: Shaker"
+  }
+]

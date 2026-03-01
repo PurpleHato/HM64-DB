@@ -1,0 +1,709 @@
+[
+  {
+    "Directory": "objects/object_triforce_completed",
+    "DL Name": "gTriforcePieceCompletedDL",
+    "Source Model File": "https://github.com/HarbourMasters/Shipwright/tree/8a14fea94c07332bcf61a135076d930073e1d2da/soh/assets/sources/triforce-hunt/triforce_complete.blend",
+    "Description": "Completed Triforce for Triforce Hunt",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_triforce_piece_0",
+    "DL Name": "gTriforcePiece0DL",
+    "Source Model File": "https://github.com/HarbourMasters/Shipwright/tree/8a14fea94c07332bcf61a135076d930073e1d2da/soh/assets/sources/triforce-hunt/triforce_shard_0.blend",
+    "Description": "Triforce Hunt Shard - first variant",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_triforce_piece_1",
+    "DL Name": "gTriforcePiece1DL",
+    "Source Model File": "https://github.com/HarbourMasters/Shipwright/tree/8a14fea94c07332bcf61a135076d930073e1d2da/soh/assets/sources/triforce-hunt/triforce_shard_1.blend",
+    "Description": "Triforce Hunt Shard - second variant",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_triforce_piece_2",
+    "DL Name": "gTriforcePiece2DL",
+    "Source Model File": "https://github.com/HarbourMasters/Shipwright/tree/8a14fea94c07332bcf61a135076d930073e1d2da/soh/assets/sources/triforce-hunt/triforce_shard_2.blend",
+    "Description": "Triforce Hunt Shard - third variant",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "textures/nintendo_rogo_static",
+    "DL Name": "gShipLogoDL",
+    "Source Model File": "",
+    "Description": "Ship model shown on the SoH boot screen",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_ocarina_a_button",
+    "DL Name": "gOcarinaAButtonDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_ocarina_c_left_button",
+    "DL Name": "gOcarinaCLeftButtonDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_ocarina_c_right_button",
+    "DL Name": "gOcarinaCRightButtonDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_ocarina_c_up_button",
+    "DL Name": "gOcarinaCUpButtonDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_ocarina_c_down_button",
+    "DL Name": "gOcarinaCDownButtonDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_boss_soul",
+    "DL Name": "gGIBossSoulSkullDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/gameplay_dangeon_keep",
+    "DL Name": "gRandoPotDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/gameplay_field_keep",
+    "DL Name": "gFieldBushRandomDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/gameplay_field_keep",
+    "DL Name": "gFieldBushMinorDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/gameplay_field_keep",
+    "DL Name": "gFieldBushMajorDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/gameplay_field_keep",
+    "DL Name": "gFieldBushSmallKeyDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/gameplay_field_keep",
+    "DL Name": "gFieldBushBossKeyDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/gameplay_field_keep",
+    "DL Name": "gFieldBushTokenDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/gameplay_field_keep",
+    "DL Name": "gFieldBushMaskDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/gameplay_field_keep",
+    "DL Name": "gFieldBushFairyDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/gameplay_field_keep",
+    "DL Name": "gFieldBushHeartDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/gameplay_field_keep",
+    "DL Name": "gFieldBushJunkDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/gameplay_keep",
+    "DL Name": "gRandoCuttableGrassRandomDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/gameplay_keep",
+    "DL Name": "gRandoCuttableGrassMinorDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/gameplay_keep",
+    "DL Name": "gRandoCuttableGrassMajorDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/gameplay_keep",
+    "DL Name": "gRandoCuttableGrassSmallKeyDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/gameplay_keep",
+    "DL Name": "gRandoCuttableGrassBossKeyDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/gameplay_keep",
+    "DL Name": "gRandoCuttableGrassTokenDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/gameplay_keep",
+    "DL Name": "gRandoCuttableGrassMaskDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/gameplay_keep",
+    "DL Name": "gRandoCuttableGrassFairyDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/gameplay_keep",
+    "DL Name": "gRandoCuttableGrassHeartDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/gameplay_keep",
+    "DL Name": "gRandoCuttableGrassJunkDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_gi_fishing_pole",
+    "DL Name": "gFishingPoleGiDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_mystery_item",
+    "DL Name": "gMysteryItemDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_bombchubag",
+    "DL Name": "gBombchuBagBodyDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_bombchubag",
+    "DL Name": "gBombchuBagMaskDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_kibako2",
+    "DL Name": "gLargeMajorCrateDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_kibako2",
+    "DL Name": "gLargeMinorCrateDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_kibako2",
+    "DL Name": "gLargeRandoCrateDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_kibako2",
+    "DL Name": "gLargeSmallKeyCrateDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_kibako2",
+    "DL Name": "gLargeTokenCrateDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_kibako2",
+    "DL Name": "gLargeBossKeyCrateDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_kibako2",
+    "DL Name": "gLargeHeartCrateDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_kibako2",
+    "DL Name": "gLargeJunkCrateDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_kibako",
+    "DL Name": "gSmallMajorCrateDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_kibako",
+    "DL Name": "gSmallMinorCrateDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_kibako",
+    "DL Name": "gSmallRandoCrateDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_kibako",
+    "DL Name": "gSmallSmallKeyCrateDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_kibako",
+    "DL Name": "gSmallTokenCrateDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_kibako",
+    "DL Name": "gSmallBossKeyCrateDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_kibako",
+    "DL Name": "gSmallHeartCrateDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_kibako",
+    "DL Name": "gSmallJunkCrateDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_bosskey",
+    "DL Name": "gBossKeyCustomDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_bosskey",
+    "DL Name": "gBossKeyIconForestTempleDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_bosskey",
+    "DL Name": "gBossKeyIconFireTempleDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_bosskey",
+    "DL Name": "gBossKeyIconWaterTempleDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_bosskey",
+    "DL Name": "gBossKeyIconSpiritTempleDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_bosskey",
+    "DL Name": "gBossKeyIconShadowTempleDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_bosskey",
+    "DL Name": "gBossKeyIconGanonsCastleDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_key",
+    "DL Name": "gSkeletonKeyDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_key",
+    "DL Name": "gSmallKeyCustomDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_key",
+    "DL Name": "gSmallKeyIconForestTempleDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_key",
+    "DL Name": "gSmallKeyIconFireTempleDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_key",
+    "DL Name": "gSmallKeyIconWaterTempleDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_key",
+    "DL Name": "gSmallKeyIconGerudoFortressDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_key",
+    "DL Name": "gSmallKeyIconGerudoTrainingGroundDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_key",
+    "DL Name": "gSmallKeyIconSpiritTempleDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_key",
+    "DL Name": "gSmallKeyIconBottomoftheWellDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_key",
+    "DL Name": "gSmallKeyIconShadowTempleDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_key",
+    "DL Name": "gSmallKeyIconGanonsCastleDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_key",
+    "DL Name": "gSmallKeyIconTreasureChestGameDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_keyring",
+    "DL Name": "gKeyringRingDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_keyring",
+    "DL Name": "gKeyringIconForestTempleDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_keyring",
+    "DL Name": "gKeyringIconFireTempleDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_keyring",
+    "DL Name": "gKeyringIconWaterTempleDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_keyring",
+    "DL Name": "gKeyringIconGerudoFortressDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_keyring",
+    "DL Name": "gKeyringIconGerudoTrainingGroundDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_keyring",
+    "DL Name": "gKeyringIconSpiritTempleDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_keyring",
+    "DL Name": "gKeyringIconBottomoftheWellDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_keyring",
+    "DL Name": "gKeyringIconShadowTempleDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_keyring",
+    "DL Name": "gKeyringIconGanonsCastleDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_keyring",
+    "DL Name": "gKeyringIconTreasureChestGameDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_keyring",
+    "DL Name": "gKeyringKeysForestTempleDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_keyring",
+    "DL Name": "gKeyringKeysFireTempleDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_keyring",
+    "DL Name": "gKeyringKeysWaterTempleDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_keyring",
+    "DL Name": "gKeyringKeysGerudoFortressDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_keyring",
+    "DL Name": "gKeyringKeysGerudoTrainingGroundDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_keyring",
+    "DL Name": "gKeyringKeysSpiritTempleDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_keyring",
+    "DL Name": "gKeyringKeysBottomoftheWellDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_keyring",
+    "DL Name": "gKeyringKeysShadowTempleDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_keyring",
+    "DL Name": "gKeyringKeysGanonsCastleDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_keyring",
+    "DL Name": "gKeyringKeysTreasureChestGameDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_keyring",
+    "DL Name": "gKeyringKeysForestTempleMQDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_keyring",
+    "DL Name": "gKeyringKeysFireTempleMQDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_keyring",
+    "DL Name": "gKeyringKeysWaterTempleMQDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_keyring",
+    "DL Name": "gKeyringKeysGerudoTrainingGroundMQDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_keyring",
+    "DL Name": "gKeyringKeysSpiritTempleMQDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_keyring",
+    "DL Name": "gKeyringKeysBottomoftheWellMQDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_keyring",
+    "DL Name": "gKeyringKeysShadowTempleMQDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_keyring",
+    "DL Name": "gKeyringKeysGanonsCastleMQDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_housekey",
+    "DL Name": "gHouseKeyDL",
+    "Source Model File": "",
+    "Description": "",
+    "DevNotes": ""
+  }
+]
