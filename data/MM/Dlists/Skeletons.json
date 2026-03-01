@@ -1,0 +1,1500 @@
+[
+  {
+    "Decomp Directory": "objects/object_zos",
+    "Decomp File Name (For Import)": "gEvanSkel",
+    "Description": "Evan",
+    "SoH Directory": "objects/object_zos",
+    "SoH Name (For Export)": "gEvanSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_ph",
+    "Decomp File Name (For Import)": "object_ph_Skel_001C80",
+    "Description": "Player",
+    "SoH Directory": "objects/object_ph",
+    "SoH Name (For Export)": "object_ph_Skel_001C80"
+  },
+  {
+    "Decomp Directory": "objects/object_link_boy",
+    "Decomp File Name (For Import)": "gLinkFierceDeitySkel",
+    "Description": "Fierce Deity Link",
+    "SoH Directory": "objects/object_link_boy",
+    "SoH Name (For Export)": "gLinkFierceDeitySkel"
+  },
+  {
+    "Decomp Directory": "objects/object_link_nuts",
+    "Decomp File Name (For Import)": "gLinkDekuSkel",
+    "Description": "Deku Link",
+    "SoH Directory": "objects/object_link_nuts",
+    "SoH Name (For Export)": "gLinkDekuSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_bee",
+    "Decomp File Name (For Import)": "gBeeSkel",
+    "Description": "Giant Bee",
+    "SoH Directory": "objects/object_bee",
+    "SoH Name (For Export)": "gBeeSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_ka",
+    "Decomp File Name (For Import)": "object_ka_Skel_0065B0",
+    "Description": "Pierre the Scarecrow",
+    "SoH Directory": "objects/object_ka",
+    "SoH Name (For Export)": "object_ka_Skel_0065B0"
+  },
+  {
+    "Decomp Directory": "objects/object_wiz",
+    "Decomp File Name (For Import)": "gWizrobeSkel",
+    "Description": "Wizrobe",
+    "SoH Directory": "objects/object_wiz",
+    "SoH Name (For Export)": "gWizrobeSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_dekubaba",
+    "Decomp File Name (For Import)": "gDekuBabaSkel",
+    "Description": "Deku Baba",
+    "SoH Directory": "objects/object_dekubaba",
+    "SoH Name (For Export)": "gDekuBabaSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_kz",
+    "Decomp File Name (For Import)": "gFighterPirateSkel",
+    "Description": "",
+    "SoH Directory": "objects/object_kz",
+    "SoH Name (For Export)": "gFighterPirateSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_gmo",
+    "Decomp File Name (For Import)": "gNejironSkel",
+    "Description": "",
+    "SoH Directory": "objects/object_gmo",
+    "SoH Name (For Export)": "gNejironSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_trt",
+    "Decomp File Name (For Import)": "gKotakeSkel",
+    "Description": "Kotake",
+    "SoH Directory": "objects/object_trt",
+    "SoH Name (For Export)": "gKotakeSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_shn",
+    "Decomp File Name (For Import)": "gBurlyGuySkel",
+    "Description": "Swamp Tourist Center Guide",
+    "SoH Directory": "objects/object_shn",
+    "SoH Name (For Export)": "gBurlyGuySkel"
+  },
+  {
+    "Decomp Directory": "objects/object_tite",
+    "Decomp File Name (For Import)": "object_tite_Skel_003A20",
+    "Description": "Tektite",
+    "SoH Directory": "objects/object_tite",
+    "SoH Name (For Export)": "object_tite_Skel_003A20"
+  },
+  {
+    "Decomp Directory": "objects/object_bg",
+    "Decomp File Name (For Import)": "gTreasureChestShopGalSkel",
+    "Description": "",
+    "SoH Directory": "objects/object_bg",
+    "SoH Name (For Export)": "gTreasureChestShopGalSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_bg",
+    "Decomp File Name (For Import)": "object_bg_Skel_011B60",
+    "Description": "",
+    "SoH Directory": "objects/object_bg",
+    "SoH Name (For Export)": "object_bg_Skel_011B60"
+  },
+  {
+    "Decomp Directory": "objects/object_am",
+    "Decomp File Name (For Import)": "object_am_Skel_005948",
+    "Description": "Armos",
+    "SoH Directory": "objects/object_am",
+    "SoH Name (For Export)": "object_am_Skel_005948"
+  },
+  {
+    "Decomp Directory": "objects/object_owl",
+    "Decomp File Name (For Import)": "gOwlFlyingSkel",
+    "Description": "Kaepora Gaebora",
+    "SoH Directory": "objects/object_owl",
+    "SoH Name (For Export)": "gOwlFlyingSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_owl",
+    "Decomp File Name (For Import)": "gOwlPerchingSkel",
+    "Description": "Kaepora Gaebora",
+    "SoH Directory": "objects/object_owl",
+    "SoH Name (For Export)": "gOwlPerchingSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_in2",
+    "Decomp File Name (For Import)": "object_in2_Skel_0078B0",
+    "Description": "",
+    "SoH Directory": "objects/object_in2",
+    "SoH Name (For Export)": "object_in2_Skel_0078B0"
+  },
+  {
+    "Decomp Directory": "objects/object_gk",
+    "Decomp File Name (For Import)": "object_gk_Skel_0079C0",
+    "Description": "Goron Elder's Son",
+    "SoH Directory": "objects/object_gk",
+    "SoH Name (For Export)": "object_gk_Skel_0079C0"
+  },
+  {
+    "Decomp Directory": "objects/object_ps",
+    "Decomp File Name (For Import)": "object_ps_Skel_007230",
+    "Description": "",
+    "SoH Directory": "objects/object_ps",
+    "SoH Name (For Export)": "object_ps_Skel_007230"
+  },
+  {
+    "Decomp Directory": "objects/object_js",
+    "Decomp File Name (For Import)": "object_js_Skel_006990",
+    "Description": "Moon Child",
+    "SoH Directory": "objects/object_js",
+    "SoH Name (For Export)": "object_js_Skel_006990"
+  },
+  {
+    "Decomp Directory": "objects/object_dnq",
+    "Decomp File Name (For Import)": "gDekuPrincessSkel",
+    "Description": "Deku King",
+    "SoH Directory": "objects/object_dnq",
+    "SoH Name (For Export)": "gDekuPrincessSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_osn",
+    "Decomp File Name (For Import)": "gHappyMaskSalesmanSkel",
+    "Description": "Happy Mask Salesman",
+    "SoH Directory": "objects/object_osn",
+    "SoH Name (For Export)": "gHappyMaskSalesmanSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_osn",
+    "Decomp File Name (For Import)": "gDekuMaskSkel",
+    "Description": "Happy Mask Salesman",
+    "SoH Directory": "objects/object_osn",
+    "SoH Name (For Export)": "gDekuMaskSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_thiefbird",
+    "Decomp File Name (For Import)": "gTakkuriSkel",
+    "Description": "Takkuri",
+    "SoH Directory": "objects/object_thiefbird",
+    "SoH Name (For Export)": "gTakkuriSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_jso",
+    "Decomp File Name (For Import)": "gGaroMasterSkel",
+    "Description": "Garo",
+    "SoH Directory": "objects/object_jso",
+    "SoH Name (For Export)": "gGaroMasterSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_jso",
+    "Decomp File Name (For Import)": "gGaroSkel",
+    "Description": "Garo",
+    "SoH Directory": "objects/object_jso",
+    "SoH Name (For Export)": "gGaroSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_stk",
+    "Decomp File Name (For Import)": "gSkullKidSkel",
+    "Description": "Skull Kid/Majora's Mask",
+    "SoH Directory": "objects/object_stk",
+    "SoH Name (For Export)": "gSkullKidSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_an1",
+    "Decomp File Name (For Import)": "gAnju1Skel",
+    "Description": "",
+    "SoH Directory": "objects/object_an1",
+    "SoH Name (For Export)": "gAnju1Skel"
+  },
+  {
+    "Decomp Directory": "objects/object_zob",
+    "Decomp File Name (For Import)": "object_zob_Skel_010810",
+    "Description": "Japas",
+    "SoH Directory": "objects/object_zob",
+    "SoH Name (For Export)": "object_zob_Skel_010810"
+  },
+  {
+    "Decomp Directory": "objects/object_boss07",
+    "Decomp File Name (For Import)": "gMajorasIncarnationSkel",
+    "Description": "",
+    "SoH Directory": "objects/object_boss07",
+    "SoH Name (For Export)": "gMajorasIncarnationSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_boss07",
+    "Decomp File Name (For Import)": "gMajorasMaskSkel",
+    "Description": "",
+    "SoH Directory": "objects/object_boss07",
+    "SoH Name (For Export)": "gMajorasMaskSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_boss07",
+    "Decomp File Name (For Import)": "gMajorasWrathSkel",
+    "Description": "",
+    "SoH Directory": "objects/object_boss07",
+    "SoH Name (For Export)": "gMajorasWrathSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_eg",
+    "Decomp File Name (For Import)": "gEyegoreSkel",
+    "Description": "",
+    "SoH Directory": "objects/object_eg",
+    "SoH Name (For Export)": "gEyegoreSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_az",
+    "Decomp File Name (For Import)": "gBeaverOlderBrotherSkel",
+    "Description": "Beaver Bro",
+    "SoH Directory": "objects/object_az",
+    "SoH Name (For Export)": "gBeaverOlderBrotherSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_az",
+    "Decomp File Name (For Import)": "gBeaverYoungerBrotherSkel",
+    "Description": "Beaver Bro",
+    "SoH Directory": "objects/object_az",
+    "SoH Name (For Export)": "gBeaverYoungerBrotherSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_cne",
+    "Decomp File Name (For Import)": "gHylianYoungWomanSkel",
+    "Description": "",
+    "SoH Directory": "objects/object_cne",
+    "SoH Name (For Export)": "gHylianYoungWomanSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_giant",
+    "Decomp File Name (For Import)": "gGiantSkel",
+    "Description": "Giant",
+    "SoH Directory": "objects/object_giant",
+    "SoH Name (For Export)": "gGiantSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_famos",
+    "Decomp File Name (For Import)": "gFamosSkel",
+    "Description": "Death Armos",
+    "SoH Directory": "objects/object_famos",
+    "SoH Name (For Export)": "gFamosSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_ikn_demo",
+    "Decomp File Name (For Import)": "object_ikn_demo_Skel_0038F0",
+    "Description": "",
+    "SoH Directory": "objects/object_ikn_demo",
+    "SoH Name (For Export)": "object_ikn_demo_Skel_0038F0"
+  },
+  {
+    "Decomp Directory": "objects/object_ikn_demo",
+    "Decomp File Name (For Import)": "object_ikn_demo_Skel_007B48",
+    "Description": "",
+    "SoH Directory": "objects/object_ikn_demo",
+    "SoH Name (For Export)": "object_ikn_demo_Skel_007B48"
+  },
+  {
+    "Decomp Directory": "objects/object_ikn_demo",
+    "Decomp File Name (For Import)": "object_ikn_demo_Skel_00B490",
+    "Description": "",
+    "SoH Directory": "objects/object_ikn_demo",
+    "SoH Name (For Export)": "object_ikn_demo_Skel_00B490"
+  },
+  {
+    "Decomp Directory": "objects/object_zoraegg",
+    "Decomp File Name (For Import)": "gZoraBabySkel",
+    "Description": "Zora Egg",
+    "SoH Directory": "objects/object_zoraegg",
+    "SoH Name (For Export)": "gZoraBabySkel"
+  },
+  {
+    "Decomp Directory": "objects/object_tsn",
+    "Decomp File Name (For Import)": "object_tsn_Skel_008AB8",
+    "Description": "Great Bay Fisherman",
+    "SoH Directory": "objects/object_tsn",
+    "SoH Name (For Export)": "object_tsn_Skel_008AB8"
+  },
+  {
+    "Decomp Directory": "objects/object_gg",
+    "Decomp File Name (For Import)": "object_gg_Skel_00F6C0",
+    "Description": "Darmani's Ghost",
+    "SoH Directory": "objects/object_gg",
+    "SoH Name (For Export)": "object_gg_Skel_00F6C0"
+  },
+  {
+    "Decomp Directory": "objects/object_kgy",
+    "Decomp File Name (For Import)": "object_kgy_Skel_00F910",
+    "Description": "Gabora",
+    "SoH Directory": "objects/object_kgy",
+    "SoH Name (For Export)": "object_kgy_Skel_00F910"
+  },
+  {
+    "Decomp Directory": "objects/object_oF1d_map",
+    "Decomp File Name (For Import)": "gGoronSkel",
+    "Description": "",
+    "SoH Directory": "objects/object_oF1d_map",
+    "SoH Name (For Export)": "gGoronSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_fr",
+    "Decomp File Name (For Import)": "gFrogSkel",
+    "Description": "- EnFr",
+    "SoH Directory": "objects/object_fr",
+    "SoH Name (For Export)": "gFrogSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_cs",
+    "Decomp File Name (For Import)": "gBomberSkel",
+    "Description": "",
+    "SoH Directory": "objects/object_cs",
+    "SoH Name (For Export)": "gBomberSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_fsn",
+    "Decomp File Name (For Import)": "gFsnSkel",
+    "Description": "Curiosity Shop Man",
+    "SoH Directory": "objects/object_fsn",
+    "SoH Name (For Export)": "gFsnSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_ru2",
+    "Decomp File Name (For Import)": "gAdultRutoSkel",
+    "Description": "",
+    "SoH Directory": "objects/object_ru2",
+    "SoH Name (For Export)": "gAdultRutoSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_jg",
+    "Decomp File Name (For Import)": "gGoronElderSkel",
+    "Description": "Goron Elder",
+    "SoH Directory": "objects/object_jg",
+    "SoH Name (For Export)": "gGoronElderSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_jg",
+    "Decomp File Name (For Import)": "gGoronElderDrumSkel",
+    "Description": "Goron Elder",
+    "SoH Directory": "objects/object_jg",
+    "SoH Name (For Export)": "gGoronElderDrumSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_mk",
+    "Decomp File Name (For Import)": "gMarineResearcherSkel",
+    "Description": "Marine Researcher",
+    "SoH Directory": "objects/object_mk",
+    "SoH Name (For Export)": "gMarineResearcherSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_in",
+    "Decomp File Name (For Import)": "object_in_Skel_014EA8",
+    "Description": "Gorman Brother",
+    "SoH Directory": "objects/object_in",
+    "SoH Name (For Export)": "object_in_Skel_014EA8"
+  },
+  {
+    "Decomp Directory": "objects/object_pst",
+    "Decomp File Name (For Import)": "gPostboxSkel",
+    "Description": "Postbox",
+    "SoH Directory": "objects/object_pst",
+    "SoH Name (For Export)": "gPostboxSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_dnt",
+    "Decomp File Name (For Import)": "gBusinessScrubSkel",
+    "Description": "",
+    "SoH Directory": "objects/object_dnt",
+    "SoH Name (For Export)": "gBusinessScrubSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_dns",
+    "Decomp File Name (For Import)": "gKingsChamberDekuGuardSkel",
+    "Description": "King's Chamber Deku Guard",
+    "SoH Directory": "objects/object_dns",
+    "SoH Name (For Export)": "gKingsChamberDekuGuardSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_sth",
+    "Decomp File Name (For Import)": "gSthSkel",
+    "Description": "Guy looking at Moon/Uncursed Man",
+    "SoH Directory": "objects/object_sth",
+    "SoH Name (For Export)": "gSthSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_warp1",
+    "Decomp File Name (For Import)": "gWarpCrystalSkel",
+    "Description": "Warp portal/crystal / Majora's Mask boss warp platform",
+    "SoH Directory": "objects/object_warp1",
+    "SoH Name (For Export)": "gWarpCrystalSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_wf",
+    "Decomp File Name (For Import)": "gWolfosWhiteSkel",
+    "Description": "Wolfos/White Wolfos",
+    "SoH Directory": "objects/object_wf",
+    "SoH Name (For Export)": "gWolfosWhiteSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_wf",
+    "Decomp File Name (For Import)": "gWolfosNormalSkel",
+    "Description": "Wolfos/White Wolfos",
+    "SoH Directory": "objects/object_wf",
+    "SoH Name (For Export)": "gWolfosNormalSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_kitan",
+    "Decomp File Name (For Import)": "gKeatonSkel",
+    "Description": "Keaton",
+    "SoH Directory": "objects/object_kitan",
+    "SoH Name (For Export)": "gKeatonSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_rz",
+    "Decomp File Name (For Import)": "object_rz_Skel_00D8D8",
+    "Description": "Judo/Marilla Rosa",
+    "SoH Directory": "objects/object_rz",
+    "SoH Name (For Export)": "object_rz_Skel_00D8D8"
+  },
+  {
+    "Decomp Directory": "objects/object_ds2n",
+    "Decomp File Name (For Import)": "gDs2nSkel",
+    "Description": "Potion Shop Owner",
+    "SoH Directory": "objects/object_ds2n",
+    "SoH Name (For Export)": "gDs2nSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_tru",
+    "Decomp File Name (For Import)": "gKoumeSkel",
+    "Description": "Koume",
+    "SoH Directory": "objects/object_tru",
+    "SoH Name (For Export)": "gKoumeSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_kamejima",
+    "Decomp File Name (For Import)": "gTurtleSkel",
+    "Description": "",
+    "SoH Directory": "objects/object_kamejima",
+    "SoH Name (For Export)": "gTurtleSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_ms",
+    "Decomp File Name (For Import)": "gBeanSalesmanSkel",
+    "Description": "Bean Seller",
+    "SoH Directory": "objects/object_ms",
+    "SoH Name (For Export)": "gBeanSalesmanSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_pr",
+    "Decomp File Name (For Import)": "object_pr_Skel_0038B8",
+    "Description": "Desbreko",
+    "SoH Directory": "objects/object_pr",
+    "SoH Name (For Export)": "object_pr_Skel_0038B8"
+  },
+  {
+    "Decomp Directory": "objects/object_pr",
+    "Decomp File Name (For Import)": "object_pr_Skel_004188",
+    "Description": "Desbreko",
+    "SoH Directory": "objects/object_pr",
+    "SoH Name (For Export)": "object_pr_Skel_004188"
+  },
+  {
+    "Decomp Directory": "objects/object_bsb",
+    "Decomp File Name (For Import)": "object_bsb_Skel_00C3E0",
+    "Description": "Captain Keeta",
+    "SoH Directory": "objects/object_bsb",
+    "SoH Name (For Export)": "object_bsb_Skel_00C3E0"
+  },
+  {
+    "Decomp Directory": "objects/object_link_zora",
+    "Decomp File Name (For Import)": "gLinkZoraSkel",
+    "Description": "Zora Link",
+    "SoH Directory": "objects/object_link_zora",
+    "SoH Name (For Export)": "gLinkZoraSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_hintnuts",
+    "Decomp File Name (For Import)": "object_hintnuts_Skel_0023B8",
+    "Description": "",
+    "SoH Directory": "objects/object_hintnuts",
+    "SoH Name (For Export)": "object_hintnuts_Skel_0023B8"
+  },
+  {
+    "Decomp Directory": "objects/object_efc_tw",
+    "Decomp File Name (For Import)": "gTimewarpSkel",
+    "Description": "",
+    "SoH Directory": "objects/object_efc_tw",
+    "SoH Name (For Export)": "gTimewarpSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_bob",
+    "Decomp File Name (For Import)": "gHylianWoman2Skel",
+    "Description": "",
+    "SoH Directory": "objects/object_bob",
+    "SoH Name (For Export)": "gHylianWoman2Skel"
+  },
+  {
+    "Decomp Directory": "objects/object_zod",
+    "Decomp File Name (For Import)": "gTijoSkel",
+    "Description": "Zora Drummer Tijo",
+    "SoH Directory": "objects/object_zod",
+    "SoH Name (For Export)": "gTijoSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_ik",
+    "Decomp File Name (For Import)": "gIronKnuckleSkel",
+    "Description": "Iron Knuckle",
+    "SoH Directory": "objects/object_ik",
+    "SoH Name (For Export)": "gIronKnuckleSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_al",
+    "Decomp File Name (For Import)": "gMadameAromaSkel",
+    "Description": "Madame Aroma",
+    "SoH Directory": "objects/object_al",
+    "SoH Name (For Export)": "gMadameAromaSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_mu",
+    "Decomp File Name (For Import)": "gHoneyAndDarlingSkel",
+    "Description": "",
+    "SoH Directory": "objects/object_mu",
+    "SoH Name (For Export)": "gHoneyAndDarlingSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_tab",
+    "Decomp File Name (For Import)": "gBartenSkel",
+    "Description": "Mr. Barten",
+    "SoH Directory": "objects/object_tab",
+    "SoH Name (For Export)": "gBartenSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_daiku",
+    "Decomp File Name (For Import)": "object_daiku_Skel_00A850",
+    "Description": "Carpenter",
+    "SoH Directory": "objects/object_daiku",
+    "SoH Name (For Export)": "object_daiku_Skel_00A850"
+  },
+  {
+    "Decomp Directory": "objects/object_boss_hakugin",
+    "Decomp File Name (For Import)": "gGohtSkel",
+    "Description": "",
+    "SoH Directory": "objects/object_boss_hakugin",
+    "SoH Name (For Export)": "gGohtSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_dnj",
+    "Decomp File Name (For Import)": "gDekuButlerSkel",
+    "Description": "",
+    "SoH Directory": "objects/object_dnj",
+    "SoH Name (For Export)": "gDekuButlerSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_bal",
+    "Decomp File Name (For Import)": "gTingleSkel",
+    "Description": "Tingle",
+    "SoH Directory": "objects/object_bal",
+    "SoH Name (For Export)": "gTingleSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_link_goron",
+    "Decomp File Name (For Import)": "gLinkGoronShieldingSkel",
+    "Description": "Goron Link",
+    "SoH Directory": "objects/object_link_goron",
+    "SoH Name (For Export)": "gLinkGoronShieldingSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_link_goron",
+    "Decomp File Name (For Import)": "gLinkGoronSkel",
+    "Description": "Goron Link",
+    "SoH Directory": "objects/object_link_goron",
+    "SoH Name (For Export)": "gLinkGoronSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_yb",
+    "Decomp File Name (For Import)": "gYbSkel",
+    "Description": "Kamaro",
+    "SoH Directory": "objects/object_yb",
+    "SoH Name (For Export)": "gYbSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_dy_obj",
+    "Decomp File Name (For Import)": "gGreatFairySkel",
+    "Description": "",
+    "SoH Directory": "objects/object_dy_obj",
+    "SoH Name (For Export)": "gGreatFairySkel"
+  },
+  {
+    "Decomp Directory": "objects/object_firefly",
+    "Decomp File Name (For Import)": "gFireKeeseSkel",
+    "Description": "Keese",
+    "SoH Directory": "objects/object_firefly",
+    "SoH Name (For Export)": "gFireKeeseSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_ah",
+    "Decomp File Name (For Import)": "object_ah_Skel_009E70",
+    "Description": "Anju's Mother",
+    "SoH Directory": "objects/object_ah",
+    "SoH Name (For Export)": "object_ah_Skel_009E70"
+  },
+  {
+    "Decomp Directory": "objects/object_knight",
+    "Decomp File Name (For Import)": "gIgosSkel",
+    "Description": "Igos du Ikana/IdI Lackey",
+    "SoH Directory": "objects/object_knight",
+    "SoH Name (For Export)": "gIgosSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_knight",
+    "Decomp File Name (For Import)": "gKnightSkel",
+    "Description": "Igos du Ikana/IdI Lackey",
+    "SoH Directory": "objects/object_knight",
+    "SoH Name (For Export)": "gKnightSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_bigslime",
+    "Decomp File Name (For Import)": "gGekkoSkel",
+    "Description": "Fused Jellies & Gekko",
+    "SoH Directory": "objects/object_bigslime",
+    "SoH Name (For Export)": "gGekkoSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_boss05",
+    "Decomp File Name (For Import)": "gBioDekuBabaLilyPadSkel",
+    "Description": "",
+    "SoH Directory": "objects/object_boss05",
+    "SoH Name (For Export)": "gBioDekuBabaLilyPadSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_boss05",
+    "Decomp File Name (For Import)": "gBioDekuBabaHeadSkel",
+    "Description": "",
+    "SoH Directory": "objects/object_boss05",
+    "SoH Name (For Export)": "gBioDekuBabaHeadSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_boss02",
+    "Decomp File Name (For Import)": "gTwinmoldHeadSkel",
+    "Description": "",
+    "SoH Directory": "objects/object_boss02",
+    "SoH Name (For Export)": "gTwinmoldHeadSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_boss02",
+    "Decomp File Name (For Import)": "gTwinmoldBodySkel",
+    "Description": "",
+    "SoH Directory": "objects/object_boss02",
+    "SoH Name (For Export)": "gTwinmoldBodySkel"
+  },
+  {
+    "Decomp Directory": "objects/object_bb",
+    "Decomp File Name (For Import)": "gBubbleSkel",
+    "Description": "Bubble",
+    "SoH Directory": "objects/object_bb",
+    "SoH Name (For Export)": "gBubbleSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_and",
+    "Decomp File Name (For Import)": "gAndSkel",
+    "Description": "Anju",
+    "SoH Directory": "objects/object_and",
+    "SoH Name (For Export)": "gAndSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_ge1",
+    "Decomp File Name (For Import)": "gGerudoWhiteSkel",
+    "Description": "White-clad Gerudo Pirate",
+    "SoH Directory": "objects/object_ge1",
+    "SoH Name (For Export)": "gGerudoWhiteSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_bji",
+    "Decomp File Name (For Import)": "gShikashiSkel",
+    "Description": "",
+    "SoH Directory": "objects/object_bji",
+    "SoH Name (For Export)": "gShikashiSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_dekunuts",
+    "Decomp File Name (For Import)": "gDekuScrubSkel",
+    "Description": "Mad Scrub",
+    "SoH Directory": "objects/object_dekunuts",
+    "SoH Name (For Export)": "gDekuScrubSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_boj",
+    "Decomp File Name (For Import)": "object_boj_Skel_00C240",
+    "Description": "",
+    "SoH Directory": "objects/object_boj",
+    "SoH Name (For Export)": "object_boj_Skel_00C240"
+  },
+  {
+    "Decomp Directory": "objects/object_dno",
+    "Decomp File Name (For Import)": "gDekuKingSkel",
+    "Description": "Deku Butler",
+    "SoH Directory": "objects/object_dno",
+    "SoH Name (For Export)": "gDekuKingSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_ds2",
+    "Decomp File Name (For Import)": "object_ds2_Skel_004258",
+    "Description": "",
+    "SoH Directory": "objects/object_ds2",
+    "SoH Name (For Export)": "object_ds2_Skel_004258"
+  },
+  {
+    "Decomp Directory": "objects/object_sb",
+    "Decomp File Name (For Import)": "object_sb_Skel_002BF0",
+    "Description": "Shellblade",
+    "SoH Directory": "objects/object_sb",
+    "SoH Name (For Export)": "object_sb_Skel_002BF0"
+  },
+  {
+    "Decomp Directory": "objects/object_po_fusen",
+    "Decomp File Name (For Import)": "gPoeBalloonSkel",
+    "Description": "",
+    "SoH Directory": "objects/object_po_fusen",
+    "SoH Name (For Export)": "gPoeBalloonSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_um",
+    "Decomp File Name (For Import)": "gUmSkel",
+    "Description": "Cremia's Cart",
+    "SoH Directory": "objects/object_um",
+    "SoH Name (For Export)": "gUmSkel"
+  },
+  {
+    "Decomp Directory": "objects/gameplay_field_keep",
+    "Decomp File Name (For Import)": "gameplay_field_keep_Skel_002FA0",
+    "Description": "Original name is \"ana01_modelT\"",
+    "SoH Directory": "objects/gameplay_field_keep",
+    "SoH Name (For Export)": "gameplay_field_keep_Skel_002FA0"
+  },
+  {
+    "Decomp Directory": "objects/object_drs",
+    "Decomp File Name (For Import)": "gWeddingDressMannequinSkel",
+    "Description": "Wedding Dress Mannequin",
+    "SoH Directory": "objects/object_drs",
+    "SoH Name (For Export)": "gWeddingDressMannequinSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_zl1",
+    "Decomp File Name (For Import)": "gChildZelda1Skel",
+    "Description": "",
+    "SoH Directory": "objects/object_zl1",
+    "SoH Name (For Export)": "gChildZelda1Skel"
+  },
+  {
+    "Decomp Directory": "objects/object_mnk",
+    "Decomp File Name (For Import)": "gMonkeyTiedUpPoleSkel",
+    "Description": "Monkey",
+    "SoH Directory": "objects/object_mnk",
+    "SoH Name (For Export)": "gMonkeyTiedUpPoleSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_mnk",
+    "Decomp File Name (For Import)": "gMonkeySkel",
+    "Description": "Monkey",
+    "SoH Directory": "objects/object_mnk",
+    "SoH Name (For Export)": "gMonkeySkel"
+  },
+  {
+    "Decomp Directory": "objects/object_mnk",
+    "Decomp File Name (For Import)": "gMonkeyHangingRopeSkel",
+    "Description": "Monkey",
+    "SoH Directory": "objects/object_mnk",
+    "SoH Name (For Export)": "gMonkeyHangingRopeSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_wallmaster",
+    "Decomp File Name (For Import)": "gWallmasterSkel",
+    "Description": "",
+    "SoH Directory": "objects/object_wallmaster",
+    "SoH Name (For Export)": "gWallmasterSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_box",
+    "Decomp File Name (For Import)": "gBoxChestSkel",
+    "Description": "Chest",
+    "SoH Directory": "objects/object_box",
+    "SoH Name (For Export)": "gBoxChestSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_box",
+    "Decomp File Name (For Import)": "gBoxLightCurveSkel",
+    "Description": "Chest",
+    "SoH Directory": "objects/object_box",
+    "SoH Name (For Export)": "gBoxLightCurveSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_bai",
+    "Decomp File Name (For Import)": "object_bai_Skel_007908",
+    "Description": "",
+    "SoH Directory": "objects/object_bai",
+    "SoH Name (For Export)": "object_bai_Skel_007908"
+  },
+  {
+    "Decomp Directory": "objects/object_zog",
+    "Decomp File Name (For Import)": "object_zog_Skel_029170",
+    "Description": "Mikau",
+    "SoH Directory": "objects/object_zog",
+    "SoH Name (For Export)": "object_zog_Skel_029170"
+  },
+  {
+    "Decomp Directory": "objects/object_geldb",
+    "Decomp File Name (For Import)": "gGerudoRedSkel",
+    "Description": "",
+    "SoH Directory": "objects/object_geldb",
+    "SoH Name (For Export)": "gGerudoRedSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_ma1",
+    "Decomp File Name (For Import)": "gRomaniSkel",
+    "Description": "",
+    "SoH Directory": "objects/object_ma1",
+    "SoH Name (For Export)": "gRomaniSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_zm",
+    "Decomp File Name (For Import)": "object_zm_Skel_00A978",
+    "Description": "",
+    "SoH Directory": "objects/object_zm",
+    "SoH Name (For Export)": "object_zm_Skel_00A978"
+  },
+  {
+    "Decomp Directory": "objects/object_dog",
+    "Decomp File Name (For Import)": "gDogSkel",
+    "Description": "",
+    "SoH Directory": "objects/object_dog",
+    "SoH Name (For Export)": "gDogSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_boss01",
+    "Decomp File Name (For Import)": "gOdolwaSkel",
+    "Description": "",
+    "SoH Directory": "objects/object_boss01",
+    "SoH Name (For Export)": "gOdolwaSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_boss01",
+    "Decomp File Name (For Import)": "gOdolwaBugSkel",
+    "Description": "",
+    "SoH Directory": "objects/object_boss01",
+    "SoH Name (For Export)": "gOdolwaBugSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_po",
+    "Decomp File Name (For Import)": "gPoeSkel",
+    "Description": "",
+    "SoH Directory": "objects/object_po",
+    "SoH Name (For Export)": "gPoeSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_tro",
+    "Decomp File Name (For Import)": "gKoumeKioskSkel",
+    "Description": "",
+    "SoH Directory": "objects/object_tro",
+    "SoH Name (For Export)": "gKoumeKioskSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_bigpo",
+    "Decomp File Name (For Import)": "gBigPoeSkel",
+    "Description": "Big Poe",
+    "SoH Directory": "objects/object_bigpo",
+    "SoH Name (For Export)": "gBigPoeSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_aob",
+    "Decomp File Name (For Import)": "gMamamuYanSkel",
+    "Description": "",
+    "SoH Directory": "objects/object_aob",
+    "SoH Name (For Export)": "gMamamuYanSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_utubo",
+    "Decomp File Name (For Import)": "gDeepPythonSkel",
+    "Description": "",
+    "SoH Directory": "objects/object_utubo",
+    "SoH Name (For Export)": "gDeepPythonSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_st",
+    "Decomp File Name (For Import)": "object_st_Skel_005298",
+    "Description": "Large Skulltula",
+    "SoH Directory": "objects/object_st",
+    "SoH Name (For Export)": "object_st_Skel_005298"
+  },
+  {
+    "Decomp Directory": "objects/object_toryo",
+    "Decomp File Name (For Import)": "object_toryo_Skel_007150",
+    "Description": "",
+    "SoH Directory": "objects/object_toryo",
+    "SoH Name (For Export)": "object_toryo_Skel_007150"
+  },
+  {
+    "Decomp Directory": "objects/object_mm",
+    "Decomp File Name (For Import)": "object_mm_Skel_0096E8",
+    "Description": "Rock Sirloin",
+    "SoH Directory": "objects/object_mm",
+    "SoH Name (For Export)": "object_mm_Skel_0096E8"
+  },
+  {
+    "Decomp Directory": "objects/object_cow",
+    "Decomp File Name (For Import)": "gCowSkel",
+    "Description": "Cow",
+    "SoH Directory": "objects/object_cow",
+    "SoH Name (For Export)": "gCowSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_cow",
+    "Decomp File Name (For Import)": "gCowTailSkel",
+    "Description": "Cow",
+    "SoH Directory": "objects/object_cow",
+    "SoH Name (For Export)": "gCowTailSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_nb",
+    "Decomp File Name (For Import)": "gNbSkel",
+    "Description": "Anju's Grandma",
+    "SoH Directory": "objects/object_nb",
+    "SoH Name (For Export)": "gNbSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_snowman",
+    "Decomp File Name (For Import)": "gEenoSkel",
+    "Description": "Eeno",
+    "SoH Directory": "objects/object_snowman",
+    "SoH Name (For Export)": "gEenoSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_snowman",
+    "Decomp File Name (For Import)": "gEenoSnowPileSkel",
+    "Description": "Eeno",
+    "SoH Directory": "objects/object_snowman",
+    "SoH Name (For Export)": "gEenoSnowPileSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_fu",
+    "Decomp File Name (For Import)": "gGuruGuruSkel",
+    "Description": "Honey & Darling",
+    "SoH Directory": "objects/object_fu",
+    "SoH Name (For Export)": "gGuruGuruSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_crow",
+    "Decomp File Name (For Import)": "gGuaySkel",
+    "Description": "Guay",
+    "SoH Directory": "objects/object_crow",
+    "SoH Name (For Export)": "gGuaySkel"
+  },
+  {
+    "Decomp Directory": "objects/gameplay_keep",
+    "Decomp File Name (For Import)": "gPinkDekuFlowerSkel",
+    "Description": "Bottles",
+    "SoH Directory": "objects/gameplay_keep",
+    "SoH Name (For Export)": "gPinkDekuFlowerSkel"
+  },
+  {
+    "Decomp Directory": "objects/gameplay_keep",
+    "Decomp File Name (For Import)": "gGoldDekuFlowerSkel",
+    "Description": "Original name is \"dnp_zawa\" (\"rustling\")",
+    "SoH Directory": "objects/gameplay_keep",
+    "SoH Name (For Export)": "gGoldDekuFlowerSkel"
+  },
+  {
+    "Decomp Directory": "objects/gameplay_keep",
+    "Decomp File Name (For Import)": "gameplay_keep_Skel_014560",
+    "Description": "Bottles",
+    "SoH Directory": "objects/gameplay_keep",
+    "SoH Name (For Export)": "gameplay_keep_Skel_014560"
+  },
+  {
+    "Decomp Directory": "objects/gameplay_keep",
+    "Decomp File Name (For Import)": "gDoorSkel",
+    "Description": "Bomb",
+    "SoH Directory": "objects/gameplay_keep",
+    "SoH Name (For Export)": "gDoorSkel"
+  },
+  {
+    "Decomp Directory": "objects/gameplay_keep",
+    "Decomp File Name (For Import)": "gameplay_keep_Skel_02AF58",
+    "Description": "EnMThunder (Spin Attack and Sword Beams)",
+    "SoH Directory": "objects/gameplay_keep",
+    "SoH Name (For Export)": "gameplay_keep_Skel_02AF58"
+  },
+  {
+    "Decomp Directory": "objects/gameplay_keep",
+    "Decomp File Name (For Import)": "gStrayFairySkel",
+    "Description": "Stray Fairy",
+    "SoH Directory": "objects/gameplay_keep",
+    "SoH Name (For Export)": "gStrayFairySkel"
+  },
+  {
+    "Decomp Directory": "objects/gameplay_keep",
+    "Decomp File Name (For Import)": "gameplay_keep_Skel_02F028",
+    "Description": "Bottles",
+    "SoH Directory": "objects/gameplay_keep",
+    "SoH Name (For Export)": "gameplay_keep_Skel_02F028"
+  },
+  {
+    "Decomp Directory": "objects/gameplay_keep",
+    "Decomp File Name (For Import)": "gameplay_keep_Skel_0527A0",
+    "Description": "Goron Elegy of Emptiness Shell",
+    "SoH Directory": "objects/gameplay_keep",
+    "SoH Name (For Export)": "gameplay_keep_Skel_0527A0"
+  },
+  {
+    "Decomp Directory": "objects/object_dai",
+    "Decomp File Name (For Import)": "object_dai_Skel_0130D0",
+    "Description": "Biggoron",
+    "SoH Directory": "objects/object_dai",
+    "SoH Name (For Export)": "object_dai_Skel_0130D0"
+  },
+  {
+    "Decomp Directory": "objects/object_link_child",
+    "Decomp File Name (For Import)": "gLinkHumanSkel",
+    "Description": "Child Link",
+    "SoH Directory": "objects/object_link_child",
+    "SoH Name (For Export)": "gLinkHumanSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_boss04",
+    "Decomp File Name (For Import)": "gWartSkel",
+    "Description": "",
+    "SoH Directory": "objects/object_boss04",
+    "SoH Name (For Export)": "gWartSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_raf",
+    "Decomp File Name (For Import)": "gCarnivorousLilyPadSkel",
+    "Description": "Carnivorous Lily Pad",
+    "SoH Directory": "objects/object_raf",
+    "SoH Name (For Export)": "gCarnivorousLilyPadSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_pamera",
+    "Decomp File Name (For Import)": "gPamelaSkel",
+    "Description": "Pamela",
+    "SoH Directory": "objects/object_pamera",
+    "SoH Name (For Export)": "gPamelaSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_test3",
+    "Decomp File Name (For Import)": "gKafeiSkel",
+    "Description": "Kafei",
+    "SoH Directory": "objects/object_test3",
+    "SoH Name (For Export)": "gKafeiSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_okuta",
+    "Decomp File Name (For Import)": "gOctorokSkel",
+    "Description": "Octorok",
+    "SoH Directory": "objects/object_okuta",
+    "SoH Name (For Export)": "gOctorokSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_horse_link_child",
+    "Decomp File Name (For Import)": "gEponaSkel",
+    "Description": "",
+    "SoH Directory": "objects/object_horse_link_child",
+    "SoH Name (For Export)": "gEponaSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_sdn",
+    "Decomp File Name (For Import)": "gSoldierSkel",
+    "Description": "",
+    "SoH Directory": "objects/object_sdn",
+    "SoH Name (For Export)": "gSoldierSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_tk",
+    "Decomp File Name (For Import)": "object_tk_Skel_00B9E8",
+    "Description": "Dampe",
+    "SoH Directory": "objects/object_tk",
+    "SoH Name (For Export)": "object_tk_Skel_00B9E8"
+  },
+  {
+    "Decomp Directory": "objects/object_grasshopper",
+    "Decomp File Name (For Import)": "gDragonflySkel",
+    "Description": "Dragonfly",
+    "SoH Directory": "objects/object_grasshopper",
+    "SoH Name (For Export)": "gDragonflySkel"
+  },
+  {
+    "Decomp Directory": "objects/object_fish",
+    "Decomp File Name (For Import)": "gFishingBassSkel",
+    "Description": "Fish",
+    "SoH Directory": "objects/object_fish",
+    "SoH Name (For Export)": "gFishingBassSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_fish",
+    "Decomp File Name (For Import)": "gFishingOwnerSkel",
+    "Description": "Fish",
+    "SoH Directory": "objects/object_fish",
+    "SoH Name (For Export)": "gFishingOwnerSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_fish",
+    "Decomp File Name (For Import)": "gFishingLoachSkel",
+    "Description": "Fish",
+    "SoH Directory": "objects/object_fish",
+    "SoH Name (For Export)": "gFishingLoachSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_tl",
+    "Decomp File Name (For Import)": "gSpikedSnapperSkel",
+    "Description": "",
+    "SoH Directory": "objects/object_tl",
+    "SoH Name (For Export)": "gSpikedSnapperSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_tl",
+    "Decomp File Name (For Import)": "gSnapperSkel",
+    "Description": "",
+    "SoH Directory": "objects/object_tl",
+    "SoH Name (For Export)": "gSnapperSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_ani",
+    "Decomp File Name (For Import)": "gAniSkel",
+    "Description": "Man in Tree in South Termina Field",
+    "SoH Directory": "objects/object_ani",
+    "SoH Name (For Export)": "gAniSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_ob",
+    "Decomp File Name (For Import)": "gMoonChildSkel",
+    "Description": "",
+    "SoH Directory": "objects/object_ob",
+    "SoH Name (For Export)": "gMoonChildSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_skb",
+    "Decomp File Name (For Import)": "gStalchildSkel",
+    "Description": "Stalchild",
+    "SoH Directory": "objects/object_skb",
+    "SoH Name (For Export)": "gStalchildSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_dnk",
+    "Decomp File Name (For Import)": "gDekuPalaceGuardSkel",
+    "Description": "Hallucinatory Mad Scrub",
+    "SoH Directory": "objects/object_dnk",
+    "SoH Name (For Export)": "gDekuPalaceGuardSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_ha",
+    "Decomp File Name (For Import)": "gHorseBanditSkel",
+    "Description": "",
+    "SoH Directory": "objects/object_ha",
+    "SoH Name (For Export)": "gHorseBanditSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_ha",
+    "Decomp File Name (For Import)": "gDonkeySkel",
+    "Description": "",
+    "SoH Directory": "objects/object_ha",
+    "SoH Name (For Export)": "gDonkeySkel"
+  },
+  {
+    "Decomp Directory": "objects/object_zl4",
+    "Decomp File Name (For Import)": "gZl4Skel",
+    "Description": "Glitched Skull Kid T-pose",
+    "SoH Directory": "objects/object_zl4",
+    "SoH Name (For Export)": "gZl4Skel"
+  },
+  {
+    "Decomp Directory": "objects/object_fb",
+    "Decomp File Name (For Import)": "object_fb_Skel_006190",
+    "Description": "",
+    "SoH Directory": "objects/object_fb",
+    "SoH Name (For Export)": "object_fb_Skel_006190"
+  },
+  {
+    "Decomp Directory": "objects/object_dmask",
+    "Decomp File Name (For Import)": "object_dmask_Skel_001D0",
+    "Description": "",
+    "SoH Directory": "objects/object_dmask",
+    "SoH Name (For Export)": "object_dmask_Skel_001D0"
+  },
+  {
+    "Decomp Directory": "objects/object_dmask",
+    "Decomp File Name (For Import)": "object_dmask_Skel_010B0",
+    "Description": "",
+    "SoH Directory": "objects/object_dmask",
+    "SoH Name (For Export)": "object_dmask_Skel_010B0"
+  },
+  {
+    "Decomp Directory": "objects/object_dmask",
+    "Decomp File Name (For Import)": "object_dmask_Skel_013D0",
+    "Description": "",
+    "SoH Directory": "objects/object_dmask",
+    "SoH Name (For Export)": "object_dmask_Skel_013D0"
+  },
+  {
+    "Decomp Directory": "objects/object_dmask",
+    "Decomp File Name (For Import)": "object_dmask_Skel_042B0",
+    "Description": "",
+    "SoH Directory": "objects/object_dmask",
+    "SoH Name (For Export)": "object_dmask_Skel_042B0"
+  },
+  {
+    "Decomp Directory": "objects/object_bjt",
+    "Decomp File Name (For Import)": "gToiletHandSkel",
+    "Description": "Hand in Toilet",
+    "SoH Directory": "objects/object_bjt",
+    "SoH Name (For Export)": "gToiletHandSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_po_composer",
+    "Decomp File Name (For Import)": "gPoeComposerSkel",
+    "Description": "",
+    "SoH Directory": "objects/object_po_composer",
+    "SoH Name (For Export)": "gPoeComposerSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_dinofos",
+    "Decomp File Name (For Import)": "gDinolfosSkel",
+    "Description": "Dinolfos",
+    "SoH Directory": "objects/object_dinofos",
+    "SoH Name (For Export)": "gDinolfosSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_dodongo",
+    "Decomp File Name (For Import)": "object_dodongo_Skel_008318",
+    "Description": "Dodongo",
+    "SoH Directory": "objects/object_dodongo",
+    "SoH Name (For Export)": "object_dodongo_Skel_008318"
+  },
+  {
+    "Decomp Directory": "objects/object_kbt",
+    "Decomp File Name (For Import)": "object_kbt_Skel_00DEE8",
+    "Description": "Zubora",
+    "SoH Directory": "objects/object_kbt",
+    "SoH Name (For Export)": "object_kbt_Skel_00DEE8"
+  },
+  {
+    "Decomp Directory": "objects/object_rb",
+    "Decomp File Name (For Import)": "gLeeverSkel",
+    "Description": "",
+    "SoH Directory": "objects/object_rb",
+    "SoH Name (For Export)": "gLeeverSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_hata",
+    "Decomp File Name (For Import)": "gFlagpoleSkel",
+    "Description": "Flag on Post",
+    "SoH Directory": "objects/object_hata",
+    "SoH Name (For Export)": "gFlagpoleSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_death",
+    "Decomp File Name (For Import)": "gGomessSkel",
+    "Description": "Gomess",
+    "SoH Directory": "objects/object_death",
+    "SoH Name (For Export)": "gGomessSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_wdhand",
+    "Decomp File Name (For Import)": "gDexihandSkel",
+    "Description": "Dexihand",
+    "SoH Directory": "objects/object_wdhand",
+    "SoH Name (For Export)": "gDexihandSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_po_sisters",
+    "Decomp File Name (For Import)": "gPoeSistersSkel",
+    "Description": "",
+    "SoH Directory": "objects/object_po_sisters",
+    "SoH Name (For Export)": "gPoeSistersSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_zov",
+    "Decomp File Name (For Import)": "gLuluSkel",
+    "Description": "Lulu",
+    "SoH Directory": "objects/object_zov",
+    "SoH Name (For Export)": "gLuluSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_niw",
+    "Decomp File Name (For Import)": "gNiwSkel",
+    "Description": "Cucco",
+    "SoH Directory": "objects/object_niw",
+    "SoH Name (For Export)": "gNiwSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_rd",
+    "Decomp File Name (For Import)": "gGibdoSkel",
+    "Description": "Redead/Gibdo",
+    "SoH Directory": "objects/object_rd",
+    "SoH Name (For Export)": "gGibdoSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_rd",
+    "Decomp File Name (For Import)": "gRedeadSkel",
+    "Description": "Redead/Gibdo",
+    "SoH Directory": "objects/object_rd",
+    "SoH Name (For Export)": "gRedeadSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_uch",
+    "Decomp File Name (For Import)": "gAlienSkel",
+    "Description": "",
+    "SoH Directory": "objects/object_uch",
+    "SoH Name (For Export)": "gAlienSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_ot",
+    "Decomp File Name (For Import)": "object_ot_Skel_004800",
+    "Description": "Seahorse",
+    "SoH Directory": "objects/object_ot",
+    "SoH Name (For Export)": "object_ot_Skel_004800"
+  },
+  {
+    "Decomp Directory": "objects/object_rat",
+    "Decomp File Name (For Import)": "gRealBombchuSkel",
+    "Description": "Real Bombchu",
+    "SoH Directory": "objects/object_rat",
+    "SoH Name (For Export)": "gRealBombchuSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_dt",
+    "Decomp File Name (For Import)": "object_dt_Skel_00B0CC",
+    "Description": "Mayor Detour",
+    "SoH Directory": "objects/object_dt",
+    "SoH Name (For Export)": "object_dt_Skel_00B0CC"
+  },
+  {
+    "Decomp Directory": "objects/object_harfgibud",
+    "Decomp File Name (For Import)": "gPamelasFatherGibdoSkel",
+    "Description": "",
+    "SoH Directory": "objects/object_harfgibud",
+    "SoH Name (For Export)": "gPamelasFatherGibdoSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_harfgibud",
+    "Decomp File Name (For Import)": "gPamelasFatherHumanSkel",
+    "Description": "",
+    "SoH Directory": "objects/object_harfgibud",
+    "SoH Name (For Export)": "gPamelasFatherHumanSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_ssh",
+    "Decomp File Name (For Import)": "object_ssh_Skel_006470",
+    "Description": "Cursed Man",
+    "SoH Directory": "objects/object_ssh",
+    "SoH Name (For Export)": "object_ssh_Skel_006470"
+  },
+  {
+    "Decomp Directory": "objects/object_bigokuta",
+    "Decomp File Name (For Import)": "gBigOctoSkel",
+    "Description": "Big Octo",
+    "SoH Directory": "objects/object_bigokuta",
+    "SoH Name (For Export)": "gBigOctoSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_rsn",
+    "Decomp File Name (For Import)": "gBombShopkeeperSkel",
+    "Description": "Bomb Shop Man",
+    "SoH Directory": "objects/object_rsn",
+    "SoH Name (For Export)": "gBombShopkeeperSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_pp",
+    "Decomp File Name (For Import)": "gUnusedHiploopSkel",
+    "Description": "Hiploop",
+    "SoH Directory": "objects/object_pp",
+    "SoH Name (For Export)": "gUnusedHiploopSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_pp",
+    "Decomp File Name (For Import)": "gHiploopSkel",
+    "Description": "Hiploop",
+    "SoH Directory": "objects/object_pp",
+    "SoH Name (For Export)": "gHiploopSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_boss03",
+    "Decomp File Name (For Import)": "gGyorgSkel",
+    "Description": "",
+    "SoH Directory": "objects/object_boss03",
+    "SoH Name (For Export)": "gGyorgSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_boss03",
+    "Decomp File Name (For Import)": "gGyorgSmallFishSkel",
+    "Description": "",
+    "SoH Directory": "objects/object_boss03",
+    "SoH Name (For Export)": "gGyorgSmallFishSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_stk2",
+    "Decomp File Name (For Import)": "gClockTowerOcarinaOfTimeSkel",
+    "Description": "",
+    "SoH Directory": "objects/object_stk2",
+    "SoH Name (For Export)": "gClockTowerOcarinaOfTimeSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_hs",
+    "Decomp File Name (For Import)": "gHsSkel",
+    "Description": "Grog",
+    "SoH Directory": "objects/object_hs",
+    "SoH Name (For Export)": "gHsSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_gla",
+    "Decomp File Name (For Import)": "gGerudoPurpleSkel",
+    "Description": "",
+    "SoH Directory": "objects/object_gla",
+    "SoH Name (For Export)": "gGerudoPurpleSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_bba",
+    "Decomp File Name (For Import)": "gBombShopLadySkel",
+    "Description": "",
+    "SoH Directory": "objects/object_bba",
+    "SoH Name (For Export)": "gBombShopLadySkel"
+  },
+  {
+    "Decomp Directory": "objects/object_ahg",
+    "Decomp File Name (For Import)": "gAhgSkel",
+    "Description": "",
+    "SoH Directory": "objects/object_ahg",
+    "SoH Name (For Export)": "gAhgSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_ma2",
+    "Decomp File Name (For Import)": "gCremiaSkel",
+    "Description": "",
+    "SoH Directory": "objects/object_ma2",
+    "SoH Name (For Export)": "gCremiaSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_tanron4",
+    "Decomp File Name (For Import)": "gSeagullSkel",
+    "Description": "Seagull",
+    "SoH Directory": "objects/object_tanron4",
+    "SoH Name (For Export)": "gSeagullSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_bh",
+    "Decomp File Name (For Import)": "gBhSkel",
+    "Description": "Brown Bird",
+    "SoH Directory": "objects/object_bh",
+    "SoH Name (For Export)": "gBhSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_zo",
+    "Decomp File Name (For Import)": "gZoraSkel",
+    "Description": "Zora",
+    "SoH Directory": "objects/object_zo",
+    "SoH Name (For Export)": "gZoraSkel"
+  },
+  {
+    "Decomp Directory": "objects/object_vm",
+    "Decomp File Name (For Import)": "gBeamosSkel",
+    "Description": "Beamos",
+    "SoH Directory": "objects/object_vm",
+    "SoH Name (For Export)": "gBeamosSkel"
+  }
+]

@@ -1,0 +1,205 @@
+[
+  {
+    "Directory": "objects/object_link_child_kokiri",
+    "DL Name": "gLinkChildKokiriTunicSkel",
+    "Matches": "gLinkChildSkel",
+    "Description": "Child Link model in Kokiri Tunic",
+    "DevNotes": "Generally, this is going to be what your basic gLinkChildSkel was/is"
+  },
+  {
+    "Directory": "objects/object_link_child_goron",
+    "DL Name": "gLinkChildGoronTunicSkel",
+    "Matches": "gLinkChildSkel",
+    "Description": "Child Link model in Goron Tunic",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_link_child_zora",
+    "DL Name": "gLinkChildZoraTunicSkel",
+    "Matches": "gLinkChildSkel",
+    "Description": "Child Link model in Zora Tunic",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_link_boy_kokiri",
+    "DL Name": "gLinkAdultKokiriTunicSkel",
+    "Matches": "gLinkAdultSkel",
+    "Description": "Adult Link model in Kokiri Tunic",
+    "DevNotes": "As with Child, this is likely to match what your basic gLinkAdultSkel was/is"
+  },
+  {
+    "Directory": "objects/object_link_boy_goron",
+    "DL Name": "gLinkAdultGoronTunicSkel",
+    "Matches": "gLinkAdultSkel",
+    "Description": "Adult Link model in Goron Tunic",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_link_boy_zora",
+    "DL Name": "gLinkAdultZoraTunicSkel",
+    "Matches": "gLinkAdultSkel",
+    "Description": "Adult Link model in Zora Tunic",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "",
+    "DL Name": "",
+    "Matches": "ALL ENTRIES BELOW THIS POINT ARE PROPOSALS ONLY; NOT YET IMPLEMENTED IN ANY TEST BUILDS",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_link_boy_keatonmask",
+    "DL Name": "gLinkAdultKeatonmaskSkel",
+    "Matches": "gLinkAdultSkel",
+    "Description": "Adult Link Keaton Mask Costume",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_link_boy_skullmask",
+    "DL Name": "gLinkAdultSkullmaskSkel",
+    "Matches": "gLinkAdultSkel",
+    "Description": "Adult Link Skull Mask Costume",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_link_boy_spookymask",
+    "DL Name": "gLinkAdultSpookymaskSkel",
+    "Matches": "gLinkAdultSkel",
+    "Description": "Adult Link Spooky Mask Costume",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_link_boy_bunnyhood",
+    "DL Name": "gLinkAdultBunnyhoodSkel",
+    "Matches": "gLinkAdultSkel",
+    "Description": "Adult Link Bunny Hood Costume",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_link_boy_truthmask",
+    "DL Name": "gLinkAdultTruthmaskSkel",
+    "Matches": "gLinkAdultSkel",
+    "Description": "Adult Link Mask of Truth Costume",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_link_boy_zoramask",
+    "DL Name": "gLinkAdultZoramaskSkel",
+    "Matches": "gLinkAdultSkel",
+    "Description": "Adult Link Zora Mask Costume",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_link_boy_goronmask",
+    "DL Name": "gLinkAdultGoronmaskSkel",
+    "Matches": "gLinkAdultSkel",
+    "Description": "Adult Link Goron Mask Costume",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_link_boy_gerudomask",
+    "DL Name": "gLinkAdultGerudomaskSkel",
+    "Matches": "gLinkAdultSkel",
+    "Description": "Adult Link Gerudo Mask Costume",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_link_child_keatonmask",
+    "DL Name": "gLinkChildKeatonmaskSkel",
+    "Matches": "gLinkChildSkel",
+    "Description": "Child Link Keaton Mask Costume",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_link_child_skullmask",
+    "DL Name": "gLinkChildSkullmaskSkel",
+    "Matches": "gLinkChildSkel",
+    "Description": "Child Link Skull Mask Costume",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_link_child_spookymask",
+    "DL Name": "gLinkChildSpookymaskSkel",
+    "Matches": "gLinkChildSkel",
+    "Description": "Child Link Spooky Mask Costume",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_link_child_bunnyhood",
+    "DL Name": "gLinkChildBunnyhoodSkel",
+    "Matches": "gLinkChildSkel",
+    "Description": "Child Link Bunny Hood Costume",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_link_child_truthmask",
+    "DL Name": "gLinkChildTruthmaskSkel",
+    "Matches": "gLinkChildSkel",
+    "Description": "Child Link Mask of Truth Costume",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_link_child_zoramask",
+    "DL Name": "gLinkChildZoramaskSkel",
+    "Matches": "gLinkChildSkel",
+    "Description": "Child Link Zora Mask Costume",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_link_child_goronmask",
+    "DL Name": "gLinkChildGoronmaskSkel",
+    "Matches": "gLinkChildSkel",
+    "Description": "Child Link Goron Mask Costume",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_link_child_gerudomask",
+    "DL Name": "gLinkChildGerudomaskSkel",
+    "Matches": "gLinkChildSkel",
+    "Description": "Child Link Gerudo Mask Costume",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "",
+    "DL Name": "",
+    "Matches": "",
+    "Description": "",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_link_boy_ironboots",
+    "DL Name": "gLinkIronBootsSkel",
+    "Matches": "gLinkAdultSkel",
+    "Description": "Full secondary skeleton for skinning additional geometry to any part of Link's body - for Iron Boots",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_link_boy_hoverboots",
+    "DL Name": "gLinkHoverBootsSkel",
+    "Matches": "gLinkAdultSkel",
+    "Description": "Full secondary skeleton for skinning additional geometry to any part of Link's body - for Hover Boots",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_link_child_bracelet",
+    "DL Name": "gLinkBraceletSkel",
+    "Matches": "gLinkChildSkel",
+    "Description": "Full secondary skeleton for skinning additional geometry to any part of Child Link's body - for Goron's Bracelet",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_link_boy_silvergauntlets",
+    "DL Name": "gLinkSilverGauntletsSkel",
+    "Matches": "gLinkAdultSkel",
+    "Description": "Full secondary skeleton for skinning additional geometry to any part of Link's body - for Silver Gauntlets",
+    "DevNotes": ""
+  },
+  {
+    "Directory": "objects/object_link_boy_goldgauntlets",
+    "DL Name": "gLinkGoldGauntletsSkel",
+    "Matches": "gLinkAdultSkel",
+    "Description": "Full secondary skeleton for skinning additional geometry to any part of Link's body - for Golden Gauntlets",
+    "DevNotes": ""
+  }
+]

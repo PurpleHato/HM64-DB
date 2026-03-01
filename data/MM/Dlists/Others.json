@@ -1,0 +1,590 @@
+[
+  {
+    "Decomp Directory": "overlays/ovl_Obj_Jgame_Light",
+    "Decomp File Name (For Import)": "gObjJgameLightIncorrectDL",
+    "SoH Directory": "overlays/ovl_Obj_Jgame_Light",
+    "SoH Name (For Export)": "gObjJgameLightIncorrectDL",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "overlays/ovl_Obj_Jgame_Light",
+    "Decomp File Name (For Import)": "gObjJgameLightCorrectDL",
+    "SoH Directory": "overlays/ovl_Obj_Jgame_Light",
+    "SoH Name (For Export)": "gObjJgameLightCorrectDL",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "overlays/ovl_Oceff_Wipe4",
+    "Decomp File Name (For Import)": "sScarecrowSongMaterialDL",
+    "SoH Directory": "overlays/ovl_Oceff_Wipe4",
+    "SoH Name (For Export)": "sScarecrowSongMaterialDL",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "overlays/ovl_Oceff_Wipe4",
+    "Decomp File Name (For Import)": "sScarecrowSongUnusedMaterialDL",
+    "SoH Directory": "overlays/ovl_Oceff_Wipe4",
+    "SoH Name (For Export)": "sScarecrowSongUnusedMaterialDL",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "overlays/ovl_Oceff_Wipe4",
+    "Decomp File Name (For Import)": "sScarecrowSongModelDL",
+    "SoH Directory": "overlays/ovl_Oceff_Wipe4",
+    "SoH Name (For Export)": "sScarecrowSongModelDL",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "overlays/ovl_En_Sth",
+    "Decomp File Name (For Import)": "gEnSthHeadDL",
+    "SoH Directory": "overlays/ovl_En_Sth",
+    "SoH Name (For Export)": "gEnSthHeadDL",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "overlays/ovl_En_Sth",
+    "Decomp File Name (For Import)": "gEnSthExtraHairDL",
+    "SoH Directory": "overlays/ovl_En_Sth",
+    "SoH Name (For Export)": "gEnSthExtraHairDL",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "overlays/ovl_En_Clear_Tag",
+    "Decomp File Name (For Import)": "gClearTagDebrisEffectMaterialDL",
+    "SoH Directory": "overlays/ovl_En_Clear_Tag",
+    "SoH Name (For Export)": "gClearTagDebrisEffectMaterialDL",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "overlays/ovl_En_Clear_Tag",
+    "Decomp File Name (For Import)": "gClearTagDebrisEffectDL",
+    "SoH Directory": "overlays/ovl_En_Clear_Tag",
+    "SoH Name (For Export)": "gClearTagDebrisEffectDL",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "overlays/ovl_En_Clear_Tag",
+    "Decomp File Name (For Import)": "gClearTagFireEffectMaterialDL",
+    "SoH Directory": "overlays/ovl_En_Clear_Tag",
+    "SoH Name (For Export)": "gClearTagFireEffectMaterialDL",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "overlays/ovl_En_Clear_Tag",
+    "Decomp File Name (For Import)": "gClearTagFireEffectDL",
+    "SoH Directory": "overlays/ovl_En_Clear_Tag",
+    "SoH Name (For Export)": "gClearTagFireEffectDL",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "overlays/ovl_En_Clear_Tag",
+    "Decomp File Name (For Import)": "gClearTagFlashEffectDL",
+    "SoH Directory": "overlays/ovl_En_Clear_Tag",
+    "SoH Name (For Export)": "gClearTagFlashEffectDL",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "overlays/ovl_En_Clear_Tag",
+    "Decomp File Name (For Import)": "gClearTagFlashEffectGroundDL",
+    "SoH Directory": "overlays/ovl_En_Clear_Tag",
+    "SoH Name (For Export)": "gClearTagFlashEffectGroundDL",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "overlays/ovl_En_Clear_Tag",
+    "Decomp File Name (For Import)": "gClearTagLightRayEffectMaterialDL",
+    "SoH Directory": "overlays/ovl_En_Clear_Tag",
+    "SoH Name (For Export)": "gClearTagLightRayEffectMaterialDL",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "overlays/ovl_En_Clear_Tag",
+    "Decomp File Name (For Import)": "gClearTagLightRayEffectDL",
+    "SoH Directory": "overlays/ovl_En_Clear_Tag",
+    "SoH Name (For Export)": "gClearTagLightRayEffectDL",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "overlays/ovl_fbdemo_wipe1",
+    "Decomp File Name (For Import)": "sTransWipe1DL",
+    "SoH Directory": "overlays/ovl_fbdemo_wipe1",
+    "SoH Name (For Export)": "sTransWipe1DL",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "overlays/ovl_Oceff_Wipe5",
+    "Decomp File Name (For Import)": "gOceff5DL",
+    "SoH Directory": "overlays/ovl_Oceff_Wipe5",
+    "SoH Name (For Export)": "gOceff5DL",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "overlays/ovl_Effect_Ss_Fhg_Flash",
+    "Decomp File Name (For Import)": "gEffFhgFlashDL",
+    "SoH Directory": "overlays/ovl_Effect_Ss_Fhg_Flash",
+    "SoH Name (For Export)": "gEffFhgFlashDL",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "overlays/ovl_En_Tru",
+    "Decomp File Name (For Import)": "D_80A89000",
+    "SoH Directory": "overlays/ovl_En_Tru",
+    "SoH Name (For Export)": "D_80A89000",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "overlays/ovl_En_Tru",
+    "Decomp File Name (For Import)": "D_80A890A8",
+    "SoH Directory": "overlays/ovl_En_Tru",
+    "SoH Name (For Export)": "D_80A890A8",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "overlays/ovl_En_Tru",
+    "Decomp File Name (For Import)": "D_80A8A108",
+    "SoH Directory": "overlays/ovl_En_Tru",
+    "SoH Name (For Export)": "D_80A8A108",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "overlays/ovl_En_Tru",
+    "Decomp File Name (For Import)": "D_80A8B1C8",
+    "SoH Directory": "overlays/ovl_En_Tru",
+    "SoH Name (For Export)": "D_80A8B1C8",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "overlays/ovl_En_Tru",
+    "Decomp File Name (For Import)": "D_80A8B238",
+    "SoH Directory": "overlays/ovl_En_Tru",
+    "SoH Name (For Export)": "D_80A8B238",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "overlays/ovl_Oceff_Wipe3",
+    "Decomp File Name (For Import)": "sSariaSongFrustrumMaterialDL",
+    "SoH Directory": "overlays/ovl_Oceff_Wipe3",
+    "SoH Name (For Export)": "sSariaSongFrustrumMaterialDL",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "overlays/ovl_Oceff_Wipe3",
+    "Decomp File Name (For Import)": "sSariaSongFrustumModelDL",
+    "SoH Directory": "overlays/ovl_Oceff_Wipe3",
+    "SoH Name (For Export)": "sSariaSongFrustumModelDL",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "overlays/ovl_En_Bombers",
+    "Decomp File Name (For Import)": "gBomberRedBandanaDL",
+    "SoH Directory": "overlays/ovl_En_Bombers",
+    "SoH Name (For Export)": "gBomberRedBandanaDL",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "overlays/ovl_En_Bombers",
+    "Decomp File Name (For Import)": "gBomberBlueBandanaDL",
+    "SoH Directory": "overlays/ovl_En_Bombers",
+    "SoH Name (For Export)": "gBomberBlueBandanaDL",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "overlays/ovl_Oceff_Wipe",
+    "Decomp File Name (For Import)": "sSongOfTimeFrustumMaterialDL",
+    "SoH Directory": "overlays/ovl_Oceff_Wipe",
+    "SoH Name (For Export)": "sSongOfTimeFrustumMaterialDL",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "overlays/ovl_Oceff_Wipe",
+    "Decomp File Name (For Import)": "sSongOfTimeFrustumModelDL",
+    "SoH Directory": "overlays/ovl_Oceff_Wipe",
+    "SoH Name (For Export)": "sSongOfTimeFrustumModelDL",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "overlays/ovl_En_Mm3",
+    "Decomp File Name (For Import)": "sEnMm3DL",
+    "SoH Directory": "overlays/ovl_En_Mm3",
+    "SoH Name (For Export)": "sEnMm3DL",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "overlays/ovl_En_Bom",
+    "Decomp File Name (For Import)": "gPowderKegFuseMaterialDL",
+    "SoH Directory": "overlays/ovl_En_Bom",
+    "SoH Name (For Export)": "gPowderKegFuseMaterialDL",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "overlays/ovl_En_Bom",
+    "Decomp File Name (For Import)": "gPowderKegFuseModel1DL",
+    "SoH Directory": "overlays/ovl_En_Bom",
+    "SoH Name (For Export)": "gPowderKegFuseModel1DL",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "overlays/ovl_En_Bom",
+    "Decomp File Name (For Import)": "gPowderKegFuseModel2DL",
+    "SoH Directory": "overlays/ovl_En_Bom",
+    "SoH Name (For Export)": "gPowderKegFuseModel2DL",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "overlays/ovl_En_Bom",
+    "Decomp File Name (For Import)": "gPowderKegBarrelDL",
+    "SoH Directory": "overlays/ovl_En_Bom",
+    "SoH Name (For Export)": "gPowderKegBarrelDL",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "overlays/ovl_En_Bom",
+    "Decomp File Name (For Import)": "gPowderKegGoronSkullDL",
+    "SoH Directory": "overlays/ovl_En_Bom",
+    "SoH Name (For Export)": "gPowderKegGoronSkullDL",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "overlays/ovl_En_Bomjima",
+    "Decomp File Name (For Import)": "gBomberJimRedBandanaDL",
+    "SoH Directory": "overlays/ovl_En_Bomjima",
+    "SoH Name (For Export)": "gBomberJimRedBandanaDL",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "overlays/ovl_En_Bomjima",
+    "Decomp File Name (For Import)": "gBomberJimBlueBandanaDL",
+    "SoH Directory": "overlays/ovl_En_Bomjima",
+    "SoH Name (For Export)": "gBomberJimBlueBandanaDL",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "overlays/ovl_Oceff_Spot",
+    "Decomp File Name (For Import)": "sSunSongEffectCylinderMaterialDL",
+    "SoH Directory": "overlays/ovl_Oceff_Spot",
+    "SoH Name (For Export)": "sSunSongEffectCylinderMaterialDL",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "overlays/ovl_Oceff_Spot",
+    "Decomp File Name (For Import)": "sSunSongEffectCylinderModelDL",
+    "SoH Directory": "overlays/ovl_Oceff_Spot",
+    "SoH Name (For Export)": "sSunSongEffectCylinderModelDL",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "overlays/ovl_En_Mm2",
+    "Decomp File Name (For Import)": "sEnMm2EmptyDL",
+    "SoH Directory": "overlays/ovl_En_Mm2",
+    "SoH Name (For Export)": "sEnMm2EmptyDL",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "overlays/ovl_En_Mm2",
+    "Decomp File Name (For Import)": "sEnMm2DL",
+    "SoH Directory": "overlays/ovl_En_Mm2",
+    "SoH Name (For Export)": "sEnMm2DL",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "overlays/ovl_Oceff_Wipe7",
+    "Decomp File Name (For Import)": "sSongOfHealingEffectFrustumDL",
+    "SoH Directory": "overlays/ovl_Oceff_Wipe7",
+    "SoH Name (For Export)": "sSongOfHealingEffectFrustumDL",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "overlays/ovl_Oceff_Wipe2",
+    "Decomp File Name (For Import)": "sEponaSongFrustumMaterialDL",
+    "SoH Directory": "overlays/ovl_Oceff_Wipe2",
+    "SoH Name (For Export)": "sEponaSongFrustumMaterialDL",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "overlays/ovl_Oceff_Wipe2",
+    "Decomp File Name (For Import)": "sEponaSongFrustumModelDL",
+    "SoH Directory": "overlays/ovl_Oceff_Wipe2",
+    "SoH Name (For Export)": "sEponaSongFrustumModelDL",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "overlays/ovl_Oceff_Storm",
+    "Decomp File Name (For Import)": "sSongOfStormsMaterialDL",
+    "SoH Directory": "overlays/ovl_Oceff_Storm",
+    "SoH Name (For Export)": "sSongOfStormsMaterialDL",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "overlays/ovl_Oceff_Storm",
+    "Decomp File Name (For Import)": "sSongOfStormsCylinderMaterialDL",
+    "SoH Directory": "overlays/ovl_Oceff_Storm",
+    "SoH Name (For Export)": "sSongOfStormsCylinderMaterialDL",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "overlays/ovl_Oceff_Storm",
+    "Decomp File Name (For Import)": "sSongOfStormsCylinderModelDL",
+    "SoH Directory": "overlays/ovl_Oceff_Storm",
+    "SoH Name (For Export)": "sSongOfStormsCylinderModelDL",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "overlays/ovl_En_Bom_Bowl_Man",
+    "Decomp File Name (For Import)": "gBomberRedBandanaTex",
+    "SoH Directory": "overlays/ovl_En_Bom_Bowl_Man",
+    "SoH Name (For Export)": "gBomberRedBandanaTex",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "overlays/ovl_En_Bom_Bowl_Man",
+    "Decomp File Name (For Import)": "gBomberBlueBandanaTex",
+    "SoH Directory": "overlays/ovl_En_Bom_Bowl_Man",
+    "SoH Name (For Export)": "gBomberBlueBandanaTex",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "overlays/ovl_Obj_Grass",
+    "Decomp File Name (For Import)": "gObjGrass_D_809AA9F0",
+    "SoH Directory": "overlays/ovl_Obj_Grass",
+    "SoH Name (For Export)": "gObjGrass_D_809AA9F0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "overlays/ovl_Obj_Grass",
+    "Decomp File Name (For Import)": "gObjGrass_D_809AAA68",
+    "SoH Directory": "overlays/ovl_Obj_Grass",
+    "SoH Name (For Export)": "gObjGrass_D_809AAA68",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "overlays/ovl_Obj_Grass",
+    "Decomp File Name (For Import)": "gObjGrass_D_809AAAE0",
+    "SoH Directory": "overlays/ovl_Obj_Grass",
+    "SoH Name (For Export)": "gObjGrass_D_809AAAE0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "overlays/ovl_En_Bomjimb",
+    "Decomp File Name (For Import)": "gBomberCatchRedBandanaDL",
+    "SoH Directory": "overlays/ovl_En_Bomjimb",
+    "SoH Name (For Export)": "gBomberCatchRedBandanaDL",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "overlays/ovl_En_Bomjimb",
+    "Decomp File Name (For Import)": "gBomberCatchBlueBandanaDL",
+    "SoH Directory": "overlays/ovl_En_Bomjimb",
+    "SoH Name (For Export)": "gBomberCatchBlueBandanaDL",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "overlays/ovl_En_Tanron1",
+    "Decomp File Name (For Import)": "ovl_En_Tanron1_DL_001888",
+    "SoH Directory": "overlays/ovl_En_Tanron1",
+    "SoH Name (For Export)": "ovl_En_Tanron1_DL_001888",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "overlays/ovl_En_Tanron1",
+    "Decomp File Name (For Import)": "ovl_En_Tanron1_DL_001900",
+    "SoH Directory": "overlays/ovl_En_Tanron1",
+    "SoH Name (For Export)": "ovl_En_Tanron1_DL_001900",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "overlays/ovl_fbdemo_triforce",
+    "Decomp File Name (For Import)": "sTransTriforceDL",
+    "SoH Directory": "overlays/ovl_fbdemo_triforce",
+    "SoH Name (For Export)": "sTransTriforceDL",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "overlays/ovl_En_Okuta",
+    "Decomp File Name (For Import)": "gOctorokBlueMaterialDL",
+    "SoH Directory": "overlays/ovl_En_Okuta",
+    "SoH Name (For Export)": "gOctorokBlueMaterialDL",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "overlays/ovl_fbdemo_wipe3",
+    "Decomp File Name (For Import)": "sTransWipe3DL",
+    "SoH Directory": "overlays/ovl_fbdemo_wipe3",
+    "SoH Name (For Export)": "sTransWipe3DL",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "overlays/ovl_En_Kanban",
+    "Decomp File Name (For Import)": "gEnKanban_D_80957DE0",
+    "SoH Directory": "overlays/ovl_En_Kanban",
+    "SoH Name (For Export)": "gEnKanban_D_80957DE0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "overlays/ovl_En_Sda",
+    "Decomp File Name (For Import)": "ovl_En_Sda_DL_1498",
+    "SoH Directory": "overlays/ovl_En_Sda",
+    "SoH Name (For Export)": "ovl_En_Sda_DL_1498",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "overlays/ovl_En_Sda",
+    "Decomp File Name (For Import)": "ovl_En_Sda_DL_14B8",
+    "SoH Directory": "overlays/ovl_En_Sda",
+    "SoH Name (For Export)": "ovl_En_Sda_DL_14B8",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "overlays/ovl_En_Sth2",
+    "Decomp File Name (For Import)": "gEnSth2HeadDL",
+    "SoH Directory": "overlays/ovl_En_Sth2",
+    "SoH Name (For Export)": "gEnSth2HeadDL",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "overlays/ovl_En_Sth2",
+    "Decomp File Name (For Import)": "gEnSth2HairDL",
+    "SoH Directory": "overlays/ovl_En_Sth2",
+    "SoH Name (For Export)": "gEnSth2HairDL",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "overlays/ovl_En_Gakufu",
+    "Decomp File Name (For Import)": "gGakufuButtonIndexDL",
+    "SoH Directory": "overlays/ovl_En_Gakufu",
+    "SoH Name (For Export)": "gGakufuButtonIndexDL",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "overlays/ovl_Oceff_Wipe6",
+    "Decomp File Name (For Import)": "gOceff6DL",
+    "SoH Directory": "overlays/ovl_Oceff_Wipe6",
+    "SoH Name (For Export)": "gOceff6DL",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "overlays/ovl_Arrow_Fire",
+    "Decomp File Name (For Import)": "gFireArrowMaterialDL",
+    "SoH Directory": "overlays/ovl_Arrow_Fire",
+    "SoH Name (For Export)": "gFireArrowMaterialDL",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "overlays/ovl_Arrow_Fire",
+    "Decomp File Name (For Import)": "gFireArrowModelDL",
+    "SoH Directory": "overlays/ovl_Arrow_Fire",
+    "SoH Name (For Export)": "gFireArrowModelDL",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "overlays/ovl_Arrow_Light",
+    "Decomp File Name (For Import)": "gLightArrowMaterialDL",
+    "SoH Directory": "overlays/ovl_Arrow_Light",
+    "SoH Name (For Export)": "gLightArrowMaterialDL",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "overlays/ovl_Arrow_Light",
+    "Decomp File Name (For Import)": "gLightArrowModelDL",
+    "SoH Directory": "overlays/ovl_Arrow_Light",
+    "SoH Name (For Export)": "gLightArrowModelDL",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "overlays/ovl_En_Holl",
+    "Decomp File Name (For Import)": "gEnHollCentralPlaneDL",
+    "SoH Directory": "overlays/ovl_En_Holl",
+    "SoH Name (For Export)": "gEnHollCentralPlaneDL",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "overlays/ovl_En_Syateki_Okuta",
+    "Decomp File Name (For Import)": "gShootingGalleryOctorokBlueMaterialDL",
+    "SoH Directory": "overlays/ovl_En_Syateki_Okuta",
+    "SoH Name (For Export)": "gShootingGalleryOctorokBlueMaterialDL",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "overlays/ovl_En_Syateki_Okuta",
+    "Decomp File Name (For Import)": "gShootingGalleryOctorokCrossDL",
+    "SoH Directory": "overlays/ovl_En_Syateki_Okuta",
+    "SoH Name (For Export)": "gShootingGalleryOctorokCrossDL",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "overlays/ovl_En_Syateki_Okuta",
+    "Decomp File Name (For Import)": "gShootingGalleryOctorokCircleDL",
+    "SoH Directory": "overlays/ovl_En_Syateki_Okuta",
+    "SoH Name (For Export)": "gShootingGalleryOctorokCircleDL",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "overlays/ovl_Arrow_Ice",
+    "Decomp File Name (For Import)": "gIceArrowMaterialDL",
+    "SoH Directory": "overlays/ovl_Arrow_Ice",
+    "SoH Name (For Export)": "gIceArrowMaterialDL",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "overlays/ovl_Arrow_Ice",
+    "Decomp File Name (For Import)": "gIceArrowModelDL",
+    "SoH Directory": "overlays/ovl_Arrow_Ice",
+    "SoH Name (For Export)": "gIceArrowModelDL",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "code/eff_footmark",
+    "Decomp File Name (For Import)": "gEffFootprintMaterialDL",
+    "SoH Directory": "code/eff_footmark",
+    "SoH Name (For Export)": "gEffFootprintMaterialDL",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "code/eff_footmark",
+    "Decomp File Name (For Import)": "gEffFootprintModelDL",
+    "SoH Directory": "code/eff_footmark",
+    "SoH Name (For Export)": "gEffFootprintModelDL",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "code/sub_s",
+    "Decomp File Name (For Import)": "gShadowMaterialDL",
+    "SoH Directory": "code/sub_s",
+    "SoH Name (For Export)": "gShadowMaterialDL",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "code/sub_s",
+    "Decomp File Name (For Import)": "gShadowModelDL",
+    "SoH Directory": "code/sub_s",
+    "SoH Name (For Export)": "gShadowModelDL",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "code/debug_display",
+    "Decomp File Name (For Import)": "sDebugDisplay1DL",
+    "SoH Directory": "code/debug_display",
+    "SoH Name (For Export)": "sDebugDisplay1DL",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "code/debug_display",
+    "Decomp File Name (For Import)": "sDebugDisplay2DL",
+    "SoH Directory": "code/debug_display",
+    "SoH Name (For Export)": "sDebugDisplay2DL",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "code/debug_display",
+    "Decomp File Name (For Import)": "sDebugDisplay3DL",
+    "SoH Directory": "code/debug_display",
+    "SoH Name (For Export)": "sDebugDisplay3DL",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "code/debug_display",
+    "Decomp File Name (For Import)": "sDebugDisplaySpriteDL",
+    "SoH Directory": "code/debug_display",
+    "SoH Name (For Export)": "sDebugDisplaySpriteDL",
+    "Description": ""
+  }
+]

@@ -1,0 +1,3818 @@
+[
+  {
+    "Decomp Skel Name (For Import)": "gButterflySkel",
+    "SoH Skel Name (For Export)": "gButterflySkel",
+    "Bone Name": "bone003_gButterflySkelLimbsLimb_0036A4",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gButterflySkel",
+    "SoH Skel Name (For Export)": "gButterflySkel",
+    "Bone Name": "bone006_gButterflySkelLimbsLimb_0036C8",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gFieldUnusedFishSkel",
+    "SoH Skel Name (For Export)": "gFieldUnusedFishSkel",
+    "Bone Name": "bone003_gFieldUnusedFishSkelLimbsLimb_0088CC",
+    "Description": "Caudal Fin"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gFieldUnusedFishSkel",
+    "SoH Skel Name (For Export)": "gFieldUnusedFishSkel",
+    "Bone Name": "bone004_gFieldUnusedFishSkelLimbsLimb_0088D8",
+    "Description": "Body"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gArrowSkel",
+    "SoH Skel Name (For Export)": "gArrowSkel",
+    "Bone Name": "bone003_gArrowSkelLimbsLimb_005FF0",
+    "Description": "Arrow"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gBugSkel",
+    "SoH Skel Name (For Export)": "gBugSkel",
+    "Bone Name": "bone002_gBugSkelLimbsLimb_035438",
+    "Description": "Body"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gBugSkel",
+    "SoH Skel Name (For Export)": "gBugSkel",
+    "Bone Name": "bone006_gBugSkelLimbsLimb_035468",
+    "Description": "Right Lower Foreleg"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gBugSkel",
+    "SoH Skel Name (For Export)": "gBugSkel",
+    "Bone Name": "bone007_gBugSkelLimbsLimb_035474",
+    "Description": "Right Upper Foreleg"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gBugSkel",
+    "SoH Skel Name (For Export)": "gBugSkel",
+    "Bone Name": "bone011_gBugSkelLimbsLimb_0354A4",
+    "Description": "Right Lower Hind Leg"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gBugSkel",
+    "SoH Skel Name (For Export)": "gBugSkel",
+    "Bone Name": "bone012_gBugSkelLimbsLimb_0354B0",
+    "Description": "Right Upper Hind Leg"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gBugSkel",
+    "SoH Skel Name (For Export)": "gBugSkel",
+    "Bone Name": "bone016_gBugSkelLimbsLimb_0354E0",
+    "Description": "Left Lower Hind Leg"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gBugSkel",
+    "SoH Skel Name (For Export)": "gBugSkel",
+    "Bone Name": "bone017_gBugSkelLimbsLimb_0354EC",
+    "Description": "Left Upper Hind Leg"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gBugSkel",
+    "SoH Skel Name (For Export)": "gBugSkel",
+    "Bone Name": "bone021_gBugSkelLimbsLimb_03551C",
+    "Description": "Left Lower Foreleg"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gBugSkel",
+    "SoH Skel Name (For Export)": "gBugSkel",
+    "Bone Name": "bone022_gBugSkelLimbsLimb_035528",
+    "Description": "Left Upper Foreleg"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gDoorSkel",
+    "SoH Skel Name (For Export)": "gDoorSkel",
+    "Bone Name": "bone003_gDoorSkelLimbsLimb_00FF5C",
+    "Description": "Door"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gFairySkel",
+    "SoH Skel Name (For Export)": "gFairySkel",
+    "Bone Name": "bone003_gFairySkelLimbsLimb_01698C",
+    "Description": "Upper Right Wing"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gFairySkel",
+    "SoH Skel Name (For Export)": "gFairySkel",
+    "Bone Name": "bone006_gFairySkelLimbsLimb_0169B0",
+    "Description": "Upper Left Wing"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gFairySkel",
+    "SoH Skel Name (For Export)": "gFairySkel",
+    "Bone Name": "bone007_gFairySkelLimbsLimb_0169BC",
+    "Description": "Body"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gFairySkel",
+    "SoH Skel Name (For Export)": "gFairySkel",
+    "Bone Name": "bone010_gFairySkelLimbsLimb_0169E0",
+    "Description": "Lower Right Wing"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gFairySkel",
+    "SoH Skel Name (For Export)": "gFairySkel",
+    "Bone Name": "bone013_gFairySkelLimbsLimb_016A04",
+    "Description": "Lower Left Wing"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gFishSkel",
+    "SoH Skel Name (For Export)": "gFishSkel",
+    "Bone Name": "bone002_gFishSkelLimbsLimb_018F98",
+    "Description": "Body"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gFishSkel",
+    "SoH Skel Name (For Export)": "gFishSkel",
+    "Bone Name": "bone004_gFishSkelLimbsLimb_018FB0",
+    "Description": "Head"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gFishSkel",
+    "SoH Skel Name (For Export)": "gFishSkel",
+    "Bone Name": "bone005_gFishSkelLimbsLimb_018FBC",
+    "Description": "Caudal Fin"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_ahg_Skel_0000F0",
+    "SoH Skel Name (For Export)": "object_ahg_Skel_0000F0",
+    "Bone Name": "bone000_object_ahg_Limb_000000",
+    "Description": "Waist"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_ahg_Skel_0000F0",
+    "SoH Skel Name (For Export)": "object_ahg_Skel_0000F0",
+    "Bone Name": "bone001_object_ahg_Limb_00000C",
+    "Description": "Left Thigh"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_ahg_Skel_0000F0",
+    "SoH Skel Name (For Export)": "object_ahg_Skel_0000F0",
+    "Bone Name": "bone002_object_ahg_Limb_000018",
+    "Description": "Left Shin"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_ahg_Skel_0000F0",
+    "SoH Skel Name (For Export)": "object_ahg_Skel_0000F0",
+    "Bone Name": "bone003_object_ahg_Limb_000024",
+    "Description": "Left Foot"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_ahg_Skel_0000F0",
+    "SoH Skel Name (For Export)": "object_ahg_Skel_0000F0",
+    "Bone Name": "bone004_object_ahg_Limb_000030",
+    "Description": "Right Thigh"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_ahg_Skel_0000F0",
+    "SoH Skel Name (For Export)": "object_ahg_Skel_0000F0",
+    "Bone Name": "bone005_object_ahg_Limb_00003C",
+    "Description": "Right Shin"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_ahg_Skel_0000F0",
+    "SoH Skel Name (For Export)": "object_ahg_Skel_0000F0",
+    "Bone Name": "bone006_object_ahg_Limb_000048",
+    "Description": "Right Foot"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_ahg_Skel_0000F0",
+    "SoH Skel Name (For Export)": "object_ahg_Skel_0000F0",
+    "Bone Name": "bone007_object_ahg_Limb_000054",
+    "Description": "Torso"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_ahg_Skel_0000F0",
+    "SoH Skel Name (For Export)": "object_ahg_Skel_0000F0",
+    "Bone Name": "bone008_object_ahg_Limb_000060",
+    "Description": "Left Upper Arm"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_ahg_Skel_0000F0",
+    "SoH Skel Name (For Export)": "object_ahg_Skel_0000F0",
+    "Bone Name": "bone009_object_ahg_Limb_00006C",
+    "Description": "Left Forearm"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_ahg_Skel_0000F0",
+    "SoH Skel Name (For Export)": "object_ahg_Skel_0000F0",
+    "Bone Name": "bone010_object_ahg_Limb_000078",
+    "Description": "Left Hand"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_ahg_Skel_0000F0",
+    "SoH Skel Name (For Export)": "object_ahg_Skel_0000F0",
+    "Bone Name": "bone011_object_ahg_Limb_000084",
+    "Description": "Right Upper Arm"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_ahg_Skel_0000F0",
+    "SoH Skel Name (For Export)": "object_ahg_Skel_0000F0",
+    "Bone Name": "bone012_object_ahg_Limb_000090",
+    "Description": "Right Forearm"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_ahg_Skel_0000F0",
+    "SoH Skel Name (For Export)": "object_ahg_Skel_0000F0",
+    "Bone Name": "bone013_object_ahg_Limb_00009C",
+    "Description": "Right Hand"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_ahg_Skel_0000F0",
+    "SoH Skel Name (For Export)": "object_ahg_Skel_0000F0",
+    "Bone Name": "bone014_object_ahg_Limb_0000A8",
+    "Description": "Head"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gArmosSkel",
+    "SoH Skel Name (For Export)": "gArmosSkel",
+    "Bone Name": "bone003_gArmosSkelLimbsLimb_00589C",
+    "Description": "Body"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gArmosSkel",
+    "SoH Skel Name (For Export)": "gArmosSkel",
+    "Bone Name": "bone006_gArmosSkelLimbsLimb_0058C0",
+    "Description": "Shield"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gArmosSkel",
+    "SoH Skel Name (For Export)": "gArmosSkel",
+    "Bone Name": "bone009_gArmosSkelLimbsLimb_0058E4",
+    "Description": "Hand With Sword"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gArmosSkel",
+    "SoH Skel Name (For Export)": "gArmosSkel",
+    "Bone Name": "bone012_gArmosSkelLimbsLimb_005908",
+    "Description": "Base"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gCuccoLadySkel",
+    "SoH Skel Name (For Export)": "gCuccoLadySkel",
+    "Bone Name": "bone000_gCuccoLadyRootLimb",
+    "Description": "Pelvis"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gCuccoLadySkel",
+    "SoH Skel Name (For Export)": "gCuccoLadySkel",
+    "Bone Name": "bone001_gCuccoLadyLimb_00C",
+    "Description": "Left Thigh"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gCuccoLadySkel",
+    "SoH Skel Name (For Export)": "gCuccoLadySkel",
+    "Bone Name": "bone002_gCuccoLadyLimb_018",
+    "Description": "Left Shin"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gCuccoLadySkel",
+    "SoH Skel Name (For Export)": "gCuccoLadySkel",
+    "Bone Name": "bone003_gCuccoLadyLimb_024",
+    "Description": "Left Foot"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gCuccoLadySkel",
+    "SoH Skel Name (For Export)": "gCuccoLadySkel",
+    "Bone Name": "bone004_gCuccoLadyLimb_030",
+    "Description": "Right Thigh"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gCuccoLadySkel",
+    "SoH Skel Name (For Export)": "gCuccoLadySkel",
+    "Bone Name": "bone005_gCuccoLadyLimb_03C",
+    "Description": "Right Shin"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gCuccoLadySkel",
+    "SoH Skel Name (For Export)": "gCuccoLadySkel",
+    "Bone Name": "bone006_gCuccoLadyLimb_048",
+    "Description": "Right Foot"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gCuccoLadySkel",
+    "SoH Skel Name (For Export)": "gCuccoLadySkel",
+    "Bone Name": "bone007_gCuccoLadyTorsoLimb",
+    "Description": "Torso"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gCuccoLadySkel",
+    "SoH Skel Name (For Export)": "gCuccoLadySkel",
+    "Bone Name": "bone008_gCuccoLadyLimb_060",
+    "Description": "Left Upper Arm"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gCuccoLadySkel",
+    "SoH Skel Name (For Export)": "gCuccoLadySkel",
+    "Bone Name": "bone009_gCuccoLadyLimb_06C",
+    "Description": "Left Forearm"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gCuccoLadySkel",
+    "SoH Skel Name (For Export)": "gCuccoLadySkel",
+    "Bone Name": "bone010_gCuccoLadyLimb_078",
+    "Description": "Left Hand"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gCuccoLadySkel",
+    "SoH Skel Name (For Export)": "gCuccoLadySkel",
+    "Bone Name": "bone011_gCuccoLadyLimb_084",
+    "Description": "Right Upper Arm"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gCuccoLadySkel",
+    "SoH Skel Name (For Export)": "gCuccoLadySkel",
+    "Bone Name": "bone012_gCuccoLadyLimb_090",
+    "Description": "Right Forearm"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gCuccoLadySkel",
+    "SoH Skel Name (For Export)": "gCuccoLadySkel",
+    "Bone Name": "bone013_gCuccoLadyLimb_09C",
+    "Description": "Right Hand"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gCuccoLadySkel",
+    "SoH Skel Name (For Export)": "gCuccoLadySkel",
+    "Bone Name": "bone014_gCuccoLadyHeadLimb",
+    "Description": "Head"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gRoofManSkel",
+    "SoH Skel Name (For Export)": "gRoofManSkel",
+    "Bone Name": "bone000_gRoofManRootLimb",
+    "Description": "Pelvis"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gRoofManSkel",
+    "SoH Skel Name (For Export)": "gRoofManSkel",
+    "Bone Name": "bone001_gRoofManLeftThighLimb",
+    "Description": "Left Thigh"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gRoofManSkel",
+    "SoH Skel Name (For Export)": "gRoofManSkel",
+    "Bone Name": "bone002_gRoofManLeftLegLimb",
+    "Description": "Left Shin"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gRoofManSkel",
+    "SoH Skel Name (For Export)": "gRoofManSkel",
+    "Bone Name": "bone003_gRoofManLeftFootLimb",
+    "Description": "Left Foot"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gRoofManSkel",
+    "SoH Skel Name (For Export)": "gRoofManSkel",
+    "Bone Name": "bone004_gRoofManRightThighLimb",
+    "Description": "Right Thigh"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gRoofManSkel",
+    "SoH Skel Name (For Export)": "gRoofManSkel",
+    "Bone Name": "bone005_gRoofManRightLegLimb",
+    "Description": "Right Shin"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gRoofManSkel",
+    "SoH Skel Name (For Export)": "gRoofManSkel",
+    "Bone Name": "bone006_gRoofManRightFootLimb",
+    "Description": "Right Foot"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gRoofManSkel",
+    "SoH Skel Name (For Export)": "gRoofManSkel",
+    "Bone Name": "bone007_gRoofManTorsoLimb",
+    "Description": "Torso"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gRoofManSkel",
+    "SoH Skel Name (For Export)": "gRoofManSkel",
+    "Bone Name": "bone008_gRoofManLeftUpperArmLimb",
+    "Description": "Left Upper Arm"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gRoofManSkel",
+    "SoH Skel Name (For Export)": "gRoofManSkel",
+    "Bone Name": "bone009_gRoofManLeftForearmLimb",
+    "Description": "Left Forearm"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gRoofManSkel",
+    "SoH Skel Name (For Export)": "gRoofManSkel",
+    "Bone Name": "bone010_gRoofManLeftHandLimb",
+    "Description": "Left Hand"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gRoofManSkel",
+    "SoH Skel Name (For Export)": "gRoofManSkel",
+    "Bone Name": "bone011_gRoofManRightUpperArmLimb",
+    "Description": "Right Upper Arm"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gRoofManSkel",
+    "SoH Skel Name (For Export)": "gRoofManSkel",
+    "Bone Name": "bone012_gRoofManRightForearmLimb",
+    "Description": "Right Forearm"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gRoofManSkel",
+    "SoH Skel Name (For Export)": "gRoofManSkel",
+    "Bone Name": "bone013_gRoofManRightHandLimb",
+    "Description": "Right Hand"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gRoofManSkel",
+    "SoH Skel Name (For Export)": "gRoofManSkel",
+    "Bone Name": "bone014_gRoofManHeadLimb",
+    "Description": "Head"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gAnubiceSkel",
+    "SoH Skel Name (For Export)": "gAnubiceSkel",
+    "Bone Name": "bone002_gAnubiceSkelLimbsLimb_0038B8",
+    "Description": "Segment 1"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gAnubiceSkel",
+    "SoH Skel Name (For Export)": "gAnubiceSkel",
+    "Bone Name": "bone004_gAnubiceSkelLimbsLimb_0038D0",
+    "Description": "Segment 2"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gAnubiceSkel",
+    "SoH Skel Name (For Export)": "gAnubiceSkel",
+    "Bone Name": "bone005_gAnubiceSkelLimbsLimb_0038DC",
+    "Description": "Segment 3"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gAnubiceSkel",
+    "SoH Skel Name (For Export)": "gAnubiceSkel",
+    "Bone Name": "bone007_gAnubiceSkelLimbsLimb_0038F4",
+    "Description": "Segment 4"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gAnubiceSkel",
+    "SoH Skel Name (For Export)": "gAnubiceSkel",
+    "Bone Name": "bone008_gAnubiceSkelLimbsLimb_003900",
+    "Description": "Segment 5"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gAnubiceSkel",
+    "SoH Skel Name (For Export)": "gAnubiceSkel",
+    "Bone Name": "bone010_gAnubiceSkelLimbsLimb_003918",
+    "Description": "Pendant"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gAnubiceSkel",
+    "SoH Skel Name (For Export)": "gAnubiceSkel",
+    "Bone Name": "bone012_gAnubiceSkelLimbsLimb_003930",
+    "Description": "Head"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gAnubiceSkel",
+    "SoH Skel Name (For Export)": "gAnubiceSkel",
+    "Bone Name": "bone014_gAnubiceSkelLimbsLimb_003948",
+    "Description": "Mouth"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gDogLadySkel",
+    "SoH Skel Name (For Export)": "gDogLadySkel",
+    "Bone Name": "bone000_gDogLadyRootLimb",
+    "Description": "Pelvis"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gDogLadySkel",
+    "SoH Skel Name (For Export)": "gDogLadySkel",
+    "Bone Name": "bone001_gDogLadyLimb_00C",
+    "Description": "Left Thigh"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gDogLadySkel",
+    "SoH Skel Name (For Export)": "gDogLadySkel",
+    "Bone Name": "bone002_gDogLadyLimb_018",
+    "Description": "Left Shin"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gDogLadySkel",
+    "SoH Skel Name (For Export)": "gDogLadySkel",
+    "Bone Name": "bone003_gDogLadyLimb_024",
+    "Description": "Left Foot"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gDogLadySkel",
+    "SoH Skel Name (For Export)": "gDogLadySkel",
+    "Bone Name": "bone004_gDogLadyLimb_030",
+    "Description": "Right Thigh"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gDogLadySkel",
+    "SoH Skel Name (For Export)": "gDogLadySkel",
+    "Bone Name": "bone005_gDogLadyLimb_03C",
+    "Description": "Right Shin"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gDogLadySkel",
+    "SoH Skel Name (For Export)": "gDogLadySkel",
+    "Bone Name": "bone006_gDogLadyLimb_048",
+    "Description": "Right Foot"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gDogLadySkel",
+    "SoH Skel Name (For Export)": "gDogLadySkel",
+    "Bone Name": "bone007_gDogLadyTorsoLimb",
+    "Description": "Torso"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gDogLadySkel",
+    "SoH Skel Name (For Export)": "gDogLadySkel",
+    "Bone Name": "bone008_gDogLadyLimb_060",
+    "Description": "Left Upper Arm"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gDogLadySkel",
+    "SoH Skel Name (For Export)": "gDogLadySkel",
+    "Bone Name": "bone009_gDogLadyLimb_06C",
+    "Description": "Left Forearm"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gDogLadySkel",
+    "SoH Skel Name (For Export)": "gDogLadySkel",
+    "Bone Name": "bone010_gDogLadyLimb_078",
+    "Description": "Left Hand"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gDogLadySkel",
+    "SoH Skel Name (For Export)": "gDogLadySkel",
+    "Bone Name": "bone011_gDogLadyLimb_084",
+    "Description": "Right Upper Arm"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gDogLadySkel",
+    "SoH Skel Name (For Export)": "gDogLadySkel",
+    "Bone Name": "bone012_gDogLadyLimb_090",
+    "Description": "Right Forearm"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gDogLadySkel",
+    "SoH Skel Name (For Export)": "gDogLadySkel",
+    "Bone Name": "bone013_gDogLadyLimb_09C",
+    "Description": "Right Hand"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gDogLadySkel",
+    "SoH Skel Name (For Export)": "gDogLadySkel",
+    "Bone Name": "bone014_gDogLadyHeadLimb",
+    "Description": "Head"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_Bb_Skel_001A30",
+    "SoH Skel Name (For Export)": "object_Bb_Skel_001A30",
+    "Bone Name": "bone003_object_Bb_Limb_001964",
+    "Description": "Jaw"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_Bb_Skel_001A30",
+    "SoH Skel Name (For Export)": "object_Bb_Skel_001A30",
+    "Bone Name": "bone007_object_Bb_Limb_001994",
+    "Description": "Left Lower Wing"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_Bb_Skel_001A30",
+    "SoH Skel Name (For Export)": "object_Bb_Skel_001A30",
+    "Bone Name": "bone008_object_Bb_Limb_0019A0",
+    "Description": "Left Upper Wing"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_Bb_Skel_001A30",
+    "SoH Skel Name (For Export)": "object_Bb_Skel_001A30",
+    "Bone Name": "bone012_object_Bb_Limb_0019D0",
+    "Description": "Right Lower Wing"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_Bb_Skel_001A30",
+    "SoH Skel Name (For Export)": "object_Bb_Skel_001A30",
+    "Bone Name": "bone013_object_Bb_Limb_0019DC",
+    "Description": "Right Upper Wing"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_Bb_Skel_001A30",
+    "SoH Skel Name (For Export)": "object_Bb_Skel_001A30",
+    "Bone Name": "bone014_object_Bb_Limb_0019E8",
+    "Description": "Head"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_bba_Skel_0000F0",
+    "SoH Skel Name (For Export)": "object_bba_Skel_0000F0",
+    "Bone Name": "bone000_object_bba_Limb_000000",
+    "Description": "Pelvis"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_bba_Skel_0000F0",
+    "SoH Skel Name (For Export)": "object_bba_Skel_0000F0",
+    "Bone Name": "bone001_object_bba_Limb_00000C",
+    "Description": "Left Thigh"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_bba_Skel_0000F0",
+    "SoH Skel Name (For Export)": "object_bba_Skel_0000F0",
+    "Bone Name": "bone002_object_bba_Limb_000018",
+    "Description": "Left Shin"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_bba_Skel_0000F0",
+    "SoH Skel Name (For Export)": "object_bba_Skel_0000F0",
+    "Bone Name": "bone003_object_bba_Limb_000024",
+    "Description": "Left Foot"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_bba_Skel_0000F0",
+    "SoH Skel Name (For Export)": "object_bba_Skel_0000F0",
+    "Bone Name": "bone004_object_bba_Limb_000030",
+    "Description": "Right Thigh"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_bba_Skel_0000F0",
+    "SoH Skel Name (For Export)": "object_bba_Skel_0000F0",
+    "Bone Name": "bone005_object_bba_Limb_00003C",
+    "Description": "Right Shin"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_bba_Skel_0000F0",
+    "SoH Skel Name (For Export)": "object_bba_Skel_0000F0",
+    "Bone Name": "bone006_object_bba_Limb_000048",
+    "Description": "Right Foot"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_bba_Skel_0000F0",
+    "SoH Skel Name (For Export)": "object_bba_Skel_0000F0",
+    "Bone Name": "bone007_object_bba_Limb_000054",
+    "Description": "Torso"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_bba_Skel_0000F0",
+    "SoH Skel Name (For Export)": "object_bba_Skel_0000F0",
+    "Bone Name": "bone008_object_bba_Limb_000060",
+    "Description": "Left Upper Arm"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_bba_Skel_0000F0",
+    "SoH Skel Name (For Export)": "object_bba_Skel_0000F0",
+    "Bone Name": "bone009_object_bba_Limb_00006C",
+    "Description": "Left Forearm"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_bba_Skel_0000F0",
+    "SoH Skel Name (For Export)": "object_bba_Skel_0000F0",
+    "Bone Name": "bone010_object_bba_Limb_000078",
+    "Description": "Left Hand"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_bba_Skel_0000F0",
+    "SoH Skel Name (For Export)": "object_bba_Skel_0000F0",
+    "Bone Name": "bone011_object_bba_Limb_000084",
+    "Description": "Right Upper Arm"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_bba_Skel_0000F0",
+    "SoH Skel Name (For Export)": "object_bba_Skel_0000F0",
+    "Bone Name": "bone012_object_bba_Limb_000090",
+    "Description": "Right Forearm"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_bba_Skel_0000F0",
+    "SoH Skel Name (For Export)": "object_bba_Skel_0000F0",
+    "Bone Name": "bone013_object_bba_Limb_00009C",
+    "Description": "Right Hand"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_bba_Skel_0000F0",
+    "SoH Skel Name (For Export)": "object_bba_Skel_0000F0",
+    "Bone Name": "bone014_object_bba_Limb_0000A8",
+    "Description": "Head"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gChuGirlSkel",
+    "SoH Skel Name (For Export)": "gChuGirlSkel",
+    "Bone Name": "bone000_gChuGirlWaistLimb",
+    "Description": "Pelvis"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gChuGirlSkel",
+    "SoH Skel Name (For Export)": "gChuGirlSkel",
+    "Bone Name": "bone001_gChuGirlTorsoLimb",
+    "Description": "Torso"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gChuGirlSkel",
+    "SoH Skel Name (For Export)": "gChuGirlSkel",
+    "Bone Name": "bone002_gChuGirlNeckLimb",
+    "Description": "Neck"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gChuGirlSkel",
+    "SoH Skel Name (For Export)": "gChuGirlSkel",
+    "Bone Name": "bone003_gChuGirlHeadLimb",
+    "Description": "Head"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gChuGirlSkel",
+    "SoH Skel Name (For Export)": "gChuGirlSkel",
+    "Bone Name": "bone004_gChuGirlLeftUpperArmLimb",
+    "Description": "Left Upper Arm"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gChuGirlSkel",
+    "SoH Skel Name (For Export)": "gChuGirlSkel",
+    "Bone Name": "bone005_gChuGirlLeftForearmLimb",
+    "Description": "Left Forearm"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gChuGirlSkel",
+    "SoH Skel Name (For Export)": "gChuGirlSkel",
+    "Bone Name": "bone006_gChuGirlLeftHandLimb",
+    "Description": "Left Hand"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gChuGirlSkel",
+    "SoH Skel Name (For Export)": "gChuGirlSkel",
+    "Bone Name": "bone007_gChuGirlRightUpperArmLimb",
+    "Description": "Right Upper Arm"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gChuGirlSkel",
+    "SoH Skel Name (For Export)": "gChuGirlSkel",
+    "Bone Name": "bone008_gChuGirlRightForearmLimb",
+    "Description": "Right Forearm"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gChuGirlSkel",
+    "SoH Skel Name (For Export)": "gChuGirlSkel",
+    "Bone Name": "bone009_gChuGirlRightHandLimb",
+    "Description": "Right Hand"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_bigokuta_Skel_006BC0",
+    "SoH Skel Name (For Export)": "object_bigokuta_Skel_006BC0",
+    "Bone Name": "bone000_object_bigokuta_Limb_006A90",
+    "Description": "Thorax"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_bigokuta_Skel_006BC0",
+    "SoH Skel Name (For Export)": "object_bigokuta_Skel_006BC0",
+    "Bone Name": "bone001_object_bigokuta_Limb_006A9C",
+    "Description": "Upper Right Leg"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_bigokuta_Skel_006BC0",
+    "SoH Skel Name (For Export)": "object_bigokuta_Skel_006BC0",
+    "Bone Name": "bone002_object_bigokuta_Limb_006AA8",
+    "Description": "Upper Right Foot"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_bigokuta_Skel_006BC0",
+    "SoH Skel Name (For Export)": "object_bigokuta_Skel_006BC0",
+    "Bone Name": "bone003_object_bigokuta_Limb_006AB4",
+    "Description": "Upper Left Leg"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_bigokuta_Skel_006BC0",
+    "SoH Skel Name (For Export)": "object_bigokuta_Skel_006BC0",
+    "Bone Name": "bone004_object_bigokuta_Limb_006AC0",
+    "Description": "Upper Left Foot"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_bigokuta_Skel_006BC0",
+    "SoH Skel Name (For Export)": "object_bigokuta_Skel_006BC0",
+    "Bone Name": "bone005_object_bigokuta_Limb_006ACC",
+    "Description": "Lower Left Leg"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_bigokuta_Skel_006BC0",
+    "SoH Skel Name (For Export)": "object_bigokuta_Skel_006BC0",
+    "Bone Name": "bone006_object_bigokuta_Limb_006AD8",
+    "Description": "Lower Left Foot"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_bigokuta_Skel_006BC0",
+    "SoH Skel Name (For Export)": "object_bigokuta_Skel_006BC0",
+    "Bone Name": "bone007_object_bigokuta_Limb_006AE4",
+    "Description": "Lower Right Leg"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_bigokuta_Skel_006BC0",
+    "SoH Skel Name (For Export)": "object_bigokuta_Skel_006BC0",
+    "Bone Name": "bone008_object_bigokuta_Limb_006AF0",
+    "Description": "Lower Right Foot"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_bigokuta_Skel_006BC0",
+    "SoH Skel Name (For Export)": "object_bigokuta_Skel_006BC0",
+    "Bone Name": "bone009_object_bigokuta_Limb_006AFC",
+    "Description": "Head"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_bigokuta_Skel_006BC0",
+    "SoH Skel Name (For Export)": "object_bigokuta_Skel_006BC0",
+    "Bone Name": "bone010_object_bigokuta_Limb_006B08",
+    "Description": "Left Upper Moustache"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_bigokuta_Skel_006BC0",
+    "SoH Skel Name (For Export)": "object_bigokuta_Skel_006BC0",
+    "Bone Name": "bone011_object_bigokuta_Limb_006B14",
+    "Description": "Left Lower Moustache"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_bigokuta_Skel_006BC0",
+    "SoH Skel Name (For Export)": "object_bigokuta_Skel_006BC0",
+    "Bone Name": "bone012_object_bigokuta_Limb_006B20",
+    "Description": "Right Upper Moustache"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_bigokuta_Skel_006BC0",
+    "SoH Skel Name (For Export)": "object_bigokuta_Skel_006BC0",
+    "Bone Name": "bone013_object_bigokuta_Limb_006B2C",
+    "Description": "Right Lower Moustache"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_bigokuta_Skel_006BC0",
+    "SoH Skel Name (For Export)": "object_bigokuta_Skel_006BC0",
+    "Bone Name": "bone014_object_bigokuta_Limb_006B38",
+    "Description": "Unknown (Part Of Weak Spot)"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_bigokuta_Skel_006BC0",
+    "SoH Skel Name (For Export)": "object_bigokuta_Skel_006BC0",
+    "Bone Name": "bone015_object_bigokuta_Limb_006B44",
+    "Description": "Unknown (Part Of Weak Spot)"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_bigokuta_Skel_006BC0",
+    "SoH Skel Name (For Export)": "object_bigokuta_Skel_006BC0",
+    "Bone Name": "bone016_object_bigokuta_Limb_006B50",
+    "Description": "Middle Mouth"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_bigokuta_Skel_006BC0",
+    "SoH Skel Name (For Export)": "object_bigokuta_Skel_006BC0",
+    "Bone Name": "bone017_object_bigokuta_Limb_006B5C",
+    "Description": "Right Mouth"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_bigokuta_Skel_006BC0",
+    "SoH Skel Name (For Export)": "object_bigokuta_Skel_006BC0",
+    "Bone Name": "bone018_object_bigokuta_Limb_006B68",
+    "Description": "Left Mouth"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gBirdSkel",
+    "SoH Skel Name (For Export)": "gBirdSkel",
+    "Bone Name": "bone004_gBirdLeftWingLimb",
+    "Description": "Left Wing"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gBirdSkel",
+    "SoH Skel Name (For Export)": "gBirdSkel",
+    "Bone Name": "bone007_gBirdRightWingLimb",
+    "Description": "Right Wing"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gBirdSkel",
+    "SoH Skel Name (For Export)": "gBirdSkel",
+    "Bone Name": "bone008_gBirdBodyLimb",
+    "Description": "Body"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_bji_Skel_0000F0",
+    "SoH Skel Name (For Export)": "object_bji_Skel_0000F0",
+    "Bone Name": "bone000_object_bji_Limb_000000",
+    "Description": "Pelvis"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_bji_Skel_0000F0",
+    "SoH Skel Name (For Export)": "object_bji_Skel_0000F0",
+    "Bone Name": "bone001_object_bji_Limb_00000C",
+    "Description": "Left Thigh"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_bji_Skel_0000F0",
+    "SoH Skel Name (For Export)": "object_bji_Skel_0000F0",
+    "Bone Name": "bone002_object_bji_Limb_000018",
+    "Description": "Left Shin"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_bji_Skel_0000F0",
+    "SoH Skel Name (For Export)": "object_bji_Skel_0000F0",
+    "Bone Name": "bone003_object_bji_Limb_000024",
+    "Description": "Left Foot"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_bji_Skel_0000F0",
+    "SoH Skel Name (For Export)": "object_bji_Skel_0000F0",
+    "Bone Name": "bone004_object_bji_Limb_000030",
+    "Description": "Right Thigh"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_bji_Skel_0000F0",
+    "SoH Skel Name (For Export)": "object_bji_Skel_0000F0",
+    "Bone Name": "bone005_object_bji_Limb_00003C",
+    "Description": "Right Shin"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_bji_Skel_0000F0",
+    "SoH Skel Name (For Export)": "object_bji_Skel_0000F0",
+    "Bone Name": "bone006_object_bji_Limb_000048",
+    "Description": "Right Foot"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_bji_Skel_0000F0",
+    "SoH Skel Name (For Export)": "object_bji_Skel_0000F0",
+    "Bone Name": "bone007_object_bji_Limb_000054",
+    "Description": "Torso"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_bji_Skel_0000F0",
+    "SoH Skel Name (For Export)": "object_bji_Skel_0000F0",
+    "Bone Name": "bone008_object_bji_Limb_000060",
+    "Description": "Left Upper Arm"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_bji_Skel_0000F0",
+    "SoH Skel Name (For Export)": "object_bji_Skel_0000F0",
+    "Bone Name": "bone009_object_bji_Limb_00006C",
+    "Description": "Left Forearm"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_bji_Skel_0000F0",
+    "SoH Skel Name (For Export)": "object_bji_Skel_0000F0",
+    "Bone Name": "bone010_object_bji_Limb_000078",
+    "Description": "Left Hand"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_bji_Skel_0000F0",
+    "SoH Skel Name (For Export)": "object_bji_Skel_0000F0",
+    "Bone Name": "bone011_object_bji_Limb_000084",
+    "Description": "Right Upper Arm"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_bji_Skel_0000F0",
+    "SoH Skel Name (For Export)": "object_bji_Skel_0000F0",
+    "Bone Name": "bone012_object_bji_Limb_000090",
+    "Description": "Right Forearm"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_bji_Skel_0000F0",
+    "SoH Skel Name (For Export)": "object_bji_Skel_0000F0",
+    "Bone Name": "bone013_object_bji_Limb_00009C",
+    "Description": "Right Hand"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_bji_Skel_0000F0",
+    "SoH Skel Name (For Export)": "object_bji_Skel_0000F0",
+    "Bone Name": "bone014_object_bji_Limb_0000A8",
+    "Description": "Head"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gBiriSkel",
+    "SoH Skel Name (For Export)": "gBiriSkel",
+    "Bone Name": "bone001_gBiriInnerHoodLimb",
+    "Description": "Inner Hood"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gBiriSkel",
+    "SoH Skel Name (For Export)": "gBiriSkel",
+    "Bone Name": "bone002_gBiriOuterHoodLimb",
+    "Description": "Outer Hood"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gBiriSkel",
+    "SoH Skel Name (For Export)": "gBiriSkel",
+    "Bone Name": "bone003_gBiriTentaclesLimb",
+    "Description": "Tentacles"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_bob_Skel_0000F0",
+    "SoH Skel Name (For Export)": "object_bob_Skel_0000F0",
+    "Bone Name": "bone000_object_bob_Limb_000000",
+    "Description": "Pelvis"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_bob_Skel_0000F0",
+    "SoH Skel Name (For Export)": "object_bob_Skel_0000F0",
+    "Bone Name": "bone001_object_bob_Limb_00000C",
+    "Description": "Left Thigh"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_bob_Skel_0000F0",
+    "SoH Skel Name (For Export)": "object_bob_Skel_0000F0",
+    "Bone Name": "bone002_object_bob_Limb_000018",
+    "Description": "Left Shin"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_bob_Skel_0000F0",
+    "SoH Skel Name (For Export)": "object_bob_Skel_0000F0",
+    "Bone Name": "bone003_object_bob_Limb_000024",
+    "Description": "Left Foot"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_bob_Skel_0000F0",
+    "SoH Skel Name (For Export)": "object_bob_Skel_0000F0",
+    "Bone Name": "bone004_object_bob_Limb_000030",
+    "Description": "Right Thigh"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_bob_Skel_0000F0",
+    "SoH Skel Name (For Export)": "object_bob_Skel_0000F0",
+    "Bone Name": "bone005_object_bob_Limb_00003C",
+    "Description": "Right Shin"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_bob_Skel_0000F0",
+    "SoH Skel Name (For Export)": "object_bob_Skel_0000F0",
+    "Bone Name": "bone006_object_bob_Limb_000048",
+    "Description": "Right Foot"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_bob_Skel_0000F0",
+    "SoH Skel Name (For Export)": "object_bob_Skel_0000F0",
+    "Bone Name": "bone007_object_bob_Limb_000054",
+    "Description": "Torso"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_bob_Skel_0000F0",
+    "SoH Skel Name (For Export)": "object_bob_Skel_0000F0",
+    "Bone Name": "bone008_object_bob_Limb_000060",
+    "Description": "Left Upper Arm"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_bob_Skel_0000F0",
+    "SoH Skel Name (For Export)": "object_bob_Skel_0000F0",
+    "Bone Name": "bone009_object_bob_Limb_00006C",
+    "Description": "Left Forearm"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_bob_Skel_0000F0",
+    "SoH Skel Name (For Export)": "object_bob_Skel_0000F0",
+    "Bone Name": "bone010_object_bob_Limb_000078",
+    "Description": "Left Hand"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_bob_Skel_0000F0",
+    "SoH Skel Name (For Export)": "object_bob_Skel_0000F0",
+    "Bone Name": "bone011_object_bob_Limb_000084",
+    "Description": "Right Upper Arm"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_bob_Skel_0000F0",
+    "SoH Skel Name (For Export)": "object_bob_Skel_0000F0",
+    "Bone Name": "bone012_object_bob_Limb_000090",
+    "Description": "Right Forearm"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_bob_Skel_0000F0",
+    "SoH Skel Name (For Export)": "object_bob_Skel_0000F0",
+    "Bone Name": "bone013_object_bob_Limb_00009C",
+    "Description": "Right Hand"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_bob_Skel_0000F0",
+    "SoH Skel Name (For Export)": "object_bob_Skel_0000F0",
+    "Bone Name": "bone014_object_bob_Limb_0000A8",
+    "Description": "Head"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_boj_Skel_0000F0",
+    "SoH Skel Name (For Export)": "object_boj_Skel_0000F0",
+    "Bone Name": "bone000_object_boj_Limb_000000",
+    "Description": "Pelvis"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_boj_Skel_0000F0",
+    "SoH Skel Name (For Export)": "object_boj_Skel_0000F0",
+    "Bone Name": "bone001_object_boj_Limb_00000C",
+    "Description": "Left Thigh"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_boj_Skel_0000F0",
+    "SoH Skel Name (For Export)": "object_boj_Skel_0000F0",
+    "Bone Name": "bone002_object_boj_Limb_000018",
+    "Description": "Left Shin"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_boj_Skel_0000F0",
+    "SoH Skel Name (For Export)": "object_boj_Skel_0000F0",
+    "Bone Name": "bone003_object_boj_Limb_000024",
+    "Description": "Left Foot"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_boj_Skel_0000F0",
+    "SoH Skel Name (For Export)": "object_boj_Skel_0000F0",
+    "Bone Name": "bone004_object_boj_Limb_000030",
+    "Description": "Right Thigh"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_boj_Skel_0000F0",
+    "SoH Skel Name (For Export)": "object_boj_Skel_0000F0",
+    "Bone Name": "bone005_object_boj_Limb_00003C",
+    "Description": "Right Shin"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_boj_Skel_0000F0",
+    "SoH Skel Name (For Export)": "object_boj_Skel_0000F0",
+    "Bone Name": "bone006_object_boj_Limb_000048",
+    "Description": "Right Foot"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_boj_Skel_0000F0",
+    "SoH Skel Name (For Export)": "object_boj_Skel_0000F0",
+    "Bone Name": "bone007_object_boj_Limb_000054",
+    "Description": "Torso"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_boj_Skel_0000F0",
+    "SoH Skel Name (For Export)": "object_boj_Skel_0000F0",
+    "Bone Name": "bone008_object_boj_Limb_000060",
+    "Description": "Left Upper Arm"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_boj_Skel_0000F0",
+    "SoH Skel Name (For Export)": "object_boj_Skel_0000F0",
+    "Bone Name": "bone009_object_boj_Limb_00006C",
+    "Description": "Left Forearm"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_boj_Skel_0000F0",
+    "SoH Skel Name (For Export)": "object_boj_Skel_0000F0",
+    "Bone Name": "bone010_object_boj_Limb_000078",
+    "Description": "Left Hand"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_boj_Skel_0000F0",
+    "SoH Skel Name (For Export)": "object_boj_Skel_0000F0",
+    "Bone Name": "bone011_object_boj_Limb_000084",
+    "Description": "Right Upper Arm"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_boj_Skel_0000F0",
+    "SoH Skel Name (For Export)": "object_boj_Skel_0000F0",
+    "Bone Name": "bone012_object_boj_Limb_000090",
+    "Description": "Right Forearm"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_boj_Skel_0000F0",
+    "SoH Skel Name (For Export)": "object_boj_Skel_0000F0",
+    "Bone Name": "bone013_object_boj_Limb_00009C",
+    "Description": "Right Hand"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_boj_Skel_0000F0",
+    "SoH Skel Name (For Export)": "object_boj_Skel_0000F0",
+    "Bone Name": "bone014_object_boj_Limb_0000A8",
+    "Description": "Head"
+  },
+  {
+    "Decomp Skel Name (For Import)": "",
+    "SoH Skel Name (For Export)": "gTreasureChestCurveSkel",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gTreasureChestSkel",
+    "SoH Skel Name (For Export)": "gTreasureChestSkel",
+    "Bone Name": "Without Description Until Further Knowledge",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_brob_Skel_0015D8",
+    "SoH Skel Name (For Export)": "object_brob_Skel_0015D8",
+    "Bone Name": "bone002_object_brob_Limb_001560",
+    "Description": "Section 1"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_brob_Skel_0015D8",
+    "SoH Skel Name (For Export)": "object_brob_Skel_0015D8",
+    "Bone Name": "bone004_object_brob_Limb_001578",
+    "Description": "Section 2"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_brob_Skel_0015D8",
+    "SoH Skel Name (For Export)": "object_brob_Skel_0015D8",
+    "Bone Name": "bone005_object_brob_Limb_001584",
+    "Description": "Section 3"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_brob_Skel_0015D8",
+    "SoH Skel Name (For Export)": "object_brob_Skel_0015D8",
+    "Bone Name": "bone007_object_brob_Limb_00159C",
+    "Description": "Section 4"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_brob_Skel_0015D8",
+    "SoH Skel Name (For Export)": "object_brob_Skel_0015D8",
+    "Bone Name": "bone008_object_brob_Limb_0015A8",
+    "Description": "Section 5"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gBarinadeBariSkel",
+    "SoH Skel Name (For Export)": "gBarinadeBariSkel",
+    "Bone Name": "bone001_gBarinadeBariSkelLimbsLimb_004E3C",
+    "Description": "Tentacles"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gBarinadeBariSkel",
+    "SoH Skel Name (For Export)": "gBarinadeBariSkel",
+    "Bone Name": "bone002_gBarinadeBariSkelLimbsLimb_004E48",
+    "Description": "Core"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gBarinadeBariSkel",
+    "SoH Skel Name (For Export)": "gBarinadeBariSkel",
+    "Bone Name": "bone003_gBarinadeBariSkelLimbsLimb_004E54",
+    "Description": "Hood"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gBarinadeBodySkel",
+    "SoH Skel Name (For Export)": "gBarinadeBodySkel",
+    "Bone Name": "bone006_gBarinadeBodySkelLimbsLimb_015770",
+    "Description": "Core Spikes"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gBarinadeBodySkel",
+    "SoH Skel Name (For Export)": "gBarinadeBodySkel",
+    "Bone Name": "bone019_gBarinadeBodySkelLimbsLimb_01580C",
+    "Description": "Core"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gBarinadeBodySkel",
+    "SoH Skel Name (For Export)": "gBarinadeBodySkel",
+    "Bone Name": "bone023_gBarinadeBodySkelLimbsLimb_01583C",
+    "Description": "Bottom Spike Thing (Think of a better name please)"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gBarinadeBodySkel",
+    "SoH Skel Name (For Export)": "gBarinadeBodySkel",
+    "Bone Name": "bone024_gBarinadeBodySkelLimbsLimb_015848",
+    "Description": "Bottom Tentacles"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gBarinadeBodySkel",
+    "SoH Skel Name (For Export)": "gBarinadeBodySkel",
+    "Bone Name": "bone025_gBarinadeBodySkelLimbsLimb_015854",
+    "Description": "Waist? idk what a barinade anatomy is"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gBarinadeBodySkel",
+    "SoH Skel Name (For Export)": "gBarinadeBodySkel",
+    "Bone Name": "bone028_gBarinadeBodySkelLimbsLimb_015878",
+    "Description": "Upper leg 1"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gBarinadeBodySkel",
+    "SoH Skel Name (For Export)": "gBarinadeBodySkel",
+    "Bone Name": "bone030_gBarinadeBodySkelLimbsLimb_015890",
+    "Description": "Lower Leg 1"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gBarinadeBodySkel",
+    "SoH Skel Name (For Export)": "gBarinadeBodySkel",
+    "Bone Name": "bone034_gBarinadeBodySkelLimbsLimb_0158C0",
+    "Description": "Upper leg 2"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gBarinadeBodySkel",
+    "SoH Skel Name (For Export)": "gBarinadeBodySkel",
+    "Bone Name": "bone036_gBarinadeBodySkelLimbsLimb_0158D8",
+    "Description": "Lower Leg 2"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gBarinadeBodySkel",
+    "SoH Skel Name (For Export)": "gBarinadeBodySkel",
+    "Bone Name": "bone040_gBarinadeBodySkelLimbsLimb_015908",
+    "Description": "Upper Leg 3"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gBarinadeBodySkel",
+    "SoH Skel Name (For Export)": "gBarinadeBodySkel",
+    "Bone Name": "bone042_gBarinadeBodySkelLimbsLimb_015920",
+    "Description": "Lower Leg 3"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gBarinadeBodySkel",
+    "SoH Skel Name (For Export)": "gBarinadeBodySkel",
+    "Bone Name": "bone046_gBarinadeBodySkelLimbsLimb_015950",
+    "Description": "Upper Leg 4"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gBarinadeBodySkel",
+    "SoH Skel Name (For Export)": "gBarinadeBodySkel",
+    "Bone Name": "bone048_gBarinadeBodySkelLimbsLimb_015968",
+    "Description": "Lower Leg 4"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gBarinadeBodySkel",
+    "SoH Skel Name (For Export)": "gBarinadeBodySkel",
+    "Bone Name": "bone052_gBarinadeBodySkelLimbsLimb_015998",
+    "Description": "Upper Leg 5"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gBarinadeBodySkel",
+    "SoH Skel Name (For Export)": "gBarinadeBodySkel",
+    "Bone Name": "bone052_gBarinadeBodySkelLimbsLimb_015998",
+    "Description": "Lower Leg 5"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gBarinadeBodySkel",
+    "SoH Skel Name (For Export)": "gBarinadeBodySkel",
+    "Bone Name": "bone061_gBarinadeBodySkelLimbsLimb_015A04",
+    "Description": "Hat? Help me Dana :("
+  },
+  {
+    "Decomp Skel Name (For Import)": "gBarinadeCutSupportSkel",
+    "SoH Skel Name (For Export)": "gBarinadeCutSupportSkel",
+    "Bone Name": "bone008_gBarinadeCutSupportSkelLimbsLimb_017F88",
+    "Description": "Segment 2"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gBarinadeCutSupportSkel",
+    "SoH Skel Name (For Export)": "gBarinadeCutSupportSkel",
+    "Bone Name": "bone007_gBarinadeCutSupportSkelLimbsLimb_017F7C",
+    "Description": "Segment 1"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gBarinadeCutSupportSkel",
+    "SoH Skel Name (For Export)": "gBarinadeCutSupportSkel",
+    "Bone Name": "bone009_gBarinadeCutSupportSkelLimbsLimb_017F94",
+    "Description": "Base"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gBarinadeStumpSkel",
+    "SoH Skel Name (For Export)": "gBarinadeStumpSkel",
+    "Bone Name": "bone005_gBarinadeStumpSkelLimbsLimb_01882C",
+    "Description": "Segment 1"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gBarinadeStumpSkel",
+    "SoH Skel Name (For Export)": "gBarinadeStumpSkel",
+    "Bone Name": "bone006_gBarinadeStumpSkelLimbsLimb_018838",
+    "Description": "Segment 2"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gBarinadeStumpSkel",
+    "SoH Skel Name (For Export)": "gBarinadeStumpSkel",
+    "Bone Name": "bone007_gBarinadeStumpSkelLimbsLimb_018844",
+    "Description": "Base"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gBarinadeSupportSkel",
+    "SoH Skel Name (For Export)": "gBarinadeSupportSkel",
+    "Bone Name": "bone007_gBarinadeSupportSkelLimbsLimb_01742C",
+    "Description": "Segment 1"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gBarinadeSupportSkel",
+    "SoH Skel Name (For Export)": "gBarinadeSupportSkel",
+    "Bone Name": "bone008_gBarinadeSupportSkelLimbsLimb_017438",
+    "Description": "Segment 2"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gBarinadeSupportSkel",
+    "SoH Skel Name (For Export)": "gBarinadeSupportSkel",
+    "Bone Name": "bone009_gBarinadeSupportSkelLimbsLimb_017444",
+    "Description": "Segment 3"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gBarinadeSupportSkel",
+    "SoH Skel Name (For Export)": "gBarinadeSupportSkel",
+    "Bone Name": "bone010_gBarinadeSupportSkelLimbsLimb_017450",
+    "Description": "Segment 4"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gBarinadeSupportSkel",
+    "SoH Skel Name (For Export)": "gBarinadeSupportSkel",
+    "Bone Name": "bone011_gBarinadeSupportSkelLimbsLimb_01745C",
+    "Description": "Base"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gBarinadeZapperSkel",
+    "SoH Skel Name (For Export)": "gBarinadeZapperSkel",
+    "Bone Name": "bone002_gBarinadeZapperSkelLimbsLimb_019948",
+    "Description": "Base"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gBarinadeZapperSkel",
+    "SoH Skel Name (For Export)": "gBarinadeZapperSkel",
+    "Bone Name": "bone003_gBarinadeZapperSkelLimbsLimb_019954",
+    "Description": "Segment 1"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gBarinadeZapperSkel",
+    "SoH Skel Name (For Export)": "gBarinadeZapperSkel",
+    "Bone Name": "bone005_gBarinadeZapperSkelLimbsLimb_01996C",
+    "Description": "Segment 2"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gBarinadeZapperSkel",
+    "SoH Skel Name (For Export)": "gBarinadeZapperSkel",
+    "Bone Name": "bone005_gBarinadeZapperSkelLimbsLimb_01996C",
+    "Description": "Segment 3"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gTorchSlugSkel",
+    "SoH Skel Name (For Export)": "object_bw_Skel_0020F0",
+    "Bone Name": "bone000_gTorchSlugBodyLimb",
+    "Description": "Body"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gTorchSlugSkel",
+    "SoH Skel Name (For Export)": "object_bw_Skel_0020F0",
+    "Bone Name": "bone004_gTorchSlugLeftUpperEyestalkLimb",
+    "Description": "Left Upper Eyestalk"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gTorchSlugSkel",
+    "SoH Skel Name (For Export)": "object_bw_Skel_0020F0",
+    "Bone Name": "bone005_gTorchSlugLeftLowerEyestalkLimb",
+    "Description": "Left Lower Eyestalk"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gTorchSlugSkel",
+    "SoH Skel Name (For Export)": "object_bw_Skel_0020F0",
+    "Bone Name": "bone009_gTorchSlugRightUpperEyestalkLimb",
+    "Description": "Right Upper Eyestalk"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gTorchSlugSkel",
+    "SoH Skel Name (For Export)": "object_bw_Skel_0020F0",
+    "Bone Name": "bone010_gTorchSlugRightLowerEyestalkLimb",
+    "Description": "Right Lower Eyestalk"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gCneSkel",
+    "SoH Skel Name (For Export)": "gCneSkel",
+    "Bone Name": "bone000_gCnePelvisLimb",
+    "Description": "Pelvis"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gCneSkel",
+    "SoH Skel Name (For Export)": "gCneSkel",
+    "Bone Name": "bone001_gCneLeftThighLimb",
+    "Description": "Left Thigh"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gCneSkel",
+    "SoH Skel Name (For Export)": "gCneSkel",
+    "Bone Name": "bone002_gCneLeftShinLimb",
+    "Description": "Left Shin"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gCneSkel",
+    "SoH Skel Name (For Export)": "gCneSkel",
+    "Bone Name": "bone003_gCneLeftFootLimb",
+    "Description": "Left Foot"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gCneSkel",
+    "SoH Skel Name (For Export)": "gCneSkel",
+    "Bone Name": "bone004_gCneRightThighLimb",
+    "Description": "Right Thigh"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gCneSkel",
+    "SoH Skel Name (For Export)": "gCneSkel",
+    "Bone Name": "bone005_gCneRightShinLimb",
+    "Description": "Right Shin"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gCneSkel",
+    "SoH Skel Name (For Export)": "gCneSkel",
+    "Bone Name": "bone006_gCneRightFootLimb",
+    "Description": "Right Foot"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gCneSkel",
+    "SoH Skel Name (For Export)": "gCneSkel",
+    "Bone Name": "bone007_gCneTorsoLimb",
+    "Description": "Torso"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gCneSkel",
+    "SoH Skel Name (For Export)": "gCneSkel",
+    "Bone Name": "bone008_gCneLeftUpperArmLimb",
+    "Description": "Left Upper Arm"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gCneSkel",
+    "SoH Skel Name (For Export)": "gCneSkel",
+    "Bone Name": "bone009_gCneLeftForearmLimb",
+    "Description": "Left Forearm"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gCneSkel",
+    "SoH Skel Name (For Export)": "gCneSkel",
+    "Bone Name": "bone010_gCneLeftHandLimb",
+    "Description": "Left Hand"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gCneSkel",
+    "SoH Skel Name (For Export)": "gCneSkel",
+    "Bone Name": "bone011_gCneRightUpperArmLimb",
+    "Description": "Right Upper Arm"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gCneSkel",
+    "SoH Skel Name (For Export)": "gCneSkel",
+    "Bone Name": "bone012_gCneRightForearmLimb",
+    "Description": "Right Forearm"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gCneSkel",
+    "SoH Skel Name (For Export)": "gCneSkel",
+    "Bone Name": "bone013_gCneRightHandLimb",
+    "Description": "Right Hand"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gCneSkel",
+    "SoH Skel Name (For Export)": "gCneSkel",
+    "Bone Name": "bone014_gCneHeadLimb",
+    "Description": "Head"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_cob_Skel_0021F8",
+    "SoH Skel Name (For Export)": "object_cob_Skel_0021F8",
+    "Bone Name": "bone000_object_cob_Limb_002108",
+    "Description": "Pelvis"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_cob_Skel_0021F8",
+    "SoH Skel Name (For Export)": "object_cob_Skel_0021F8",
+    "Bone Name": "bone001_object_cob_Limb_002114",
+    "Description": "Left Thigh"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_cob_Skel_0021F8",
+    "SoH Skel Name (For Export)": "object_cob_Skel_0021F8",
+    "Bone Name": "bone002_object_cob_Limb_002120",
+    "Description": "Left Shin"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_cob_Skel_0021F8",
+    "SoH Skel Name (For Export)": "object_cob_Skel_0021F8",
+    "Bone Name": "bone003_object_cob_Limb_00212C",
+    "Description": "Left Foot"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_cob_Skel_0021F8",
+    "SoH Skel Name (For Export)": "object_cob_Skel_0021F8",
+    "Bone Name": "bone004_object_cob_Limb_002138",
+    "Description": "Right Thigh"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_cob_Skel_0021F8",
+    "SoH Skel Name (For Export)": "object_cob_Skel_0021F8",
+    "Bone Name": "bone005_object_cob_Limb_002144",
+    "Description": "Right Shin"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_cob_Skel_0021F8",
+    "SoH Skel Name (For Export)": "object_cob_Skel_0021F8",
+    "Bone Name": "bone006_object_cob_Limb_002150",
+    "Description": "Right Foot"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_cob_Skel_0021F8",
+    "SoH Skel Name (For Export)": "object_cob_Skel_0021F8",
+    "Bone Name": "bone007_object_cob_Limb_00215C",
+    "Description": "Torso"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_cob_Skel_0021F8",
+    "SoH Skel Name (For Export)": "object_cob_Skel_0021F8",
+    "Bone Name": "bone008_object_cob_Limb_002168",
+    "Description": "Left Upper Arm"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_cob_Skel_0021F8",
+    "SoH Skel Name (For Export)": "object_cob_Skel_0021F8",
+    "Bone Name": "bone009_object_cob_Limb_002174",
+    "Description": "Left Forearm"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_cob_Skel_0021F8",
+    "SoH Skel Name (For Export)": "object_cob_Skel_0021F8",
+    "Bone Name": "bone010_object_cob_Limb_002180",
+    "Description": "Left Hand"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_cob_Skel_0021F8",
+    "SoH Skel Name (For Export)": "object_cob_Skel_0021F8",
+    "Bone Name": "bone011_object_cob_Limb_00218C",
+    "Description": "Right Upper Arm"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_cob_Skel_0021F8",
+    "SoH Skel Name (For Export)": "object_cob_Skel_0021F8",
+    "Bone Name": "bone012_object_cob_Limb_002198",
+    "Description": "Right Forearm"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_cob_Skel_0021F8",
+    "SoH Skel Name (For Export)": "object_cob_Skel_0021F8",
+    "Bone Name": "bone013_object_cob_Limb_0021A4",
+    "Description": "Right Hand"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_cob_Skel_0021F8",
+    "SoH Skel Name (For Export)": "object_cob_Skel_0021F8",
+    "Bone Name": "bone013_object_cob_Limb_0021A4",
+    "Description": "Head"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gCowBodySkel",
+    "SoH Skel Name (For Export)": "gCowBodySkel",
+    "Bone Name": "bone000_gCowRootLimb",
+    "Description": "Body"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gCowBodySkel",
+    "SoH Skel Name (For Export)": "gCowBodySkel",
+    "Bone Name": "bone001_gCowHeadLimb",
+    "Description": "Head"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gCowBodySkel",
+    "SoH Skel Name (For Export)": "gCowBodySkel",
+    "Bone Name": "bone002_gCowJawLimb",
+    "Description": "Jaw"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gCowBodySkel",
+    "SoH Skel Name (For Export)": "gCowBodySkel",
+    "Bone Name": "bone003_gCowNoseLimb",
+    "Description": "Nose"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gCowBodySkel",
+    "SoH Skel Name (For Export)": "gCowBodySkel",
+    "Bone Name": "bone004_gCowNoseRingLimb",
+    "Description": "Nose Ring"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gCowTailSkel",
+    "SoH Skel Name (For Export)": "gCowTailSkel",
+    "Bone Name": "bone000_gCowTailRootLimb",
+    "Description": "Root"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gCowTailSkel",
+    "SoH Skel Name (For Export)": "gCowTailSkel",
+    "Bone Name": "bone001_gCowTailUpperLimb",
+    "Description": "Upper"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gCowTailSkel",
+    "SoH Skel Name (For Export)": "gCowTailSkel",
+    "Bone Name": "bone002_gCowTailMiddleLimb",
+    "Description": "Middle"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gCowTailSkel",
+    "SoH Skel Name (For Export)": "gCowTailSkel",
+    "Bone Name": "bone003_gCowTailLowerLimb",
+    "Description": "Lower"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gCowTailSkel",
+    "SoH Skel Name (For Export)": "gCowTailSkel",
+    "Bone Name": "bone004_gCowTailEndLimb",
+    "Description": "End"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gGuaySkel",
+    "SoH Skel Name (For Export)": "gGuaySkel",
+    "Bone Name": "bone001_gGuaySkelLimbsLimb_00104C",
+    "Description": "Body & Head"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gGuaySkel",
+    "SoH Skel Name (For Export)": "gGuaySkel",
+    "Bone Name": "bone002_gGuaySkelLimbsLimb_001058",
+    "Description": "Right Upper Wing"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gGuaySkel",
+    "SoH Skel Name (For Export)": "gGuaySkel",
+    "Bone Name": "bone003_gGuaySkelLimbsLimb_001064",
+    "Description": "Right Lower Wing"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gGuaySkel",
+    "SoH Skel Name (For Export)": "gGuaySkel",
+    "Bone Name": "bone004_gGuaySkelLimbsLimb_001070",
+    "Description": "Left Upper Wing"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gGuaySkel",
+    "SoH Skel Name (For Export)": "gGuaySkel",
+    "Bone Name": "bone005_gGuaySkelLimbsLimb_00107C",
+    "Description": "Left Lower Wing"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gGuaySkel",
+    "SoH Skel Name (For Export)": "gGuaySkel",
+    "Bone Name": "bone006_gGuaySkelLimbsLimb_001088",
+    "Description": "Front Tail Feather"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gGuaySkel",
+    "SoH Skel Name (For Export)": "gGuaySkel",
+    "Bone Name": "bone007_gGuaySkelLimbsLimb_001094",
+    "Description": "Back Tail Feather"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gGraveyardKidSkel",
+    "SoH Skel Name (For Export)": "gGraveyardKidSkel",
+    "Bone Name": "bone000_gGraveyardKidTorsoLimb",
+    "Description": "Pelvis"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gGraveyardKidSkel",
+    "SoH Skel Name (For Export)": "gGraveyardKidSkel",
+    "Bone Name": "bone001_gGraveyardKidLeftThighLimb",
+    "Description": "Left Thigh"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gGraveyardKidSkel",
+    "SoH Skel Name (For Export)": "gGraveyardKidSkel",
+    "Bone Name": "bone002_gGraveyardKidLeftShinLimb",
+    "Description": "Left Shin"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gGraveyardKidSkel",
+    "SoH Skel Name (For Export)": "gGraveyardKidSkel",
+    "Bone Name": "bone003_gGraveyardKidLeftFootLimb",
+    "Description": "Left Foot"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gGraveyardKidSkel",
+    "SoH Skel Name (For Export)": "gGraveyardKidSkel",
+    "Bone Name": "bone004_gGraveyardKidRightThighLimb",
+    "Description": "Right Thigh"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gGraveyardKidSkel",
+    "SoH Skel Name (For Export)": "gGraveyardKidSkel",
+    "Bone Name": "bone005_gGraveyardKidRightShinLimb",
+    "Description": "Right Shin"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gGraveyardKidSkel",
+    "SoH Skel Name (For Export)": "gGraveyardKidSkel",
+    "Bone Name": "bone006_gGraveyardKidRightFootLimb",
+    "Description": "Right Foot"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gGraveyardKidSkel",
+    "SoH Skel Name (For Export)": "gGraveyardKidSkel",
+    "Bone Name": "bone007_gGraveyardKidChestLimb",
+    "Description": "Torso"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gGraveyardKidSkel",
+    "SoH Skel Name (For Export)": "gGraveyardKidSkel",
+    "Bone Name": "bone008_gGraveyardKidLeftShoulderLimb",
+    "Description": "Left Upper Arm"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gGraveyardKidSkel",
+    "SoH Skel Name (For Export)": "gGraveyardKidSkel",
+    "Bone Name": "bone009_gGraveyardKidLeftArmLimb",
+    "Description": "Left Forearm"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gGraveyardKidSkel",
+    "SoH Skel Name (For Export)": "gGraveyardKidSkel",
+    "Bone Name": "bone010_gGraveyardKidLeftHandLimb",
+    "Description": "Left Hand"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gGraveyardKidSkel",
+    "SoH Skel Name (For Export)": "gGraveyardKidSkel",
+    "Bone Name": "bone011_gGraveyardKidRightShoulderLimb",
+    "Description": "Right Upper Arm"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gGraveyardKidSkel",
+    "SoH Skel Name (For Export)": "gGraveyardKidSkel",
+    "Bone Name": "bone012_gGraveyardKidRightArmLimb",
+    "Description": "Right Forearm"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gGraveyardKidSkel",
+    "SoH Skel Name (For Export)": "gGraveyardKidSkel",
+    "Bone Name": "bone013_gGraveyardKidRightHandLimb",
+    "Description": "Right Hand"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gGraveyardKidSkel",
+    "SoH Skel Name (For Export)": "gGraveyardKidSkel",
+    "Bone Name": "bone014_gGraveyardKidHeadLimb",
+    "Description": "Head"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_daiku_Skel_007958",
+    "SoH Skel Name (For Export)": "object_daiku_Skel_007958",
+    "Bone Name": "bone000_object_daiku_Limb_007858",
+    "Description": "Pelvis"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_daiku_Skel_007958",
+    "SoH Skel Name (For Export)": "object_daiku_Skel_007958",
+    "Bone Name": "bone001_object_daiku_Limb_007864",
+    "Description": "Left Thigh"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_daiku_Skel_007958",
+    "SoH Skel Name (For Export)": "object_daiku_Skel_007958",
+    "Bone Name": "bone002_object_daiku_Limb_007870",
+    "Description": "Left Shin"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_daiku_Skel_007958",
+    "SoH Skel Name (For Export)": "object_daiku_Skel_007958",
+    "Bone Name": "bone003_object_daiku_Limb_00787C",
+    "Description": "Left Foot"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_daiku_Skel_007958",
+    "SoH Skel Name (For Export)": "object_daiku_Skel_007958",
+    "Bone Name": "bone004_object_daiku_Limb_007888",
+    "Description": "Right Thigh"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_daiku_Skel_007958",
+    "SoH Skel Name (For Export)": "object_daiku_Skel_007958",
+    "Bone Name": "bone005_object_daiku_Limb_007894",
+    "Description": "Right Shin"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_daiku_Skel_007958",
+    "SoH Skel Name (For Export)": "object_daiku_Skel_007958",
+    "Bone Name": "bone006_object_daiku_Limb_0078A0",
+    "Description": "Right Foot"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_daiku_Skel_007958",
+    "SoH Skel Name (For Export)": "object_daiku_Skel_007958",
+    "Bone Name": "bone007_object_daiku_Limb_0078AC",
+    "Description": "Torso"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_daiku_Skel_007958",
+    "SoH Skel Name (For Export)": "object_daiku_Skel_007958",
+    "Bone Name": "bone008_object_daiku_Limb_0078B8",
+    "Description": "Left Upper Arm"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_daiku_Skel_007958",
+    "SoH Skel Name (For Export)": "object_daiku_Skel_007958",
+    "Bone Name": "bone009_object_daiku_Limb_0078C4",
+    "Description": "Left Forearm"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_daiku_Skel_007958",
+    "SoH Skel Name (For Export)": "object_daiku_Skel_007958",
+    "Bone Name": "bone010_object_daiku_Limb_0078D0",
+    "Description": "Left Hand"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_daiku_Skel_007958",
+    "SoH Skel Name (For Export)": "object_daiku_Skel_007958",
+    "Bone Name": "bone011_object_daiku_Limb_0078DC",
+    "Description": "Right Upper Arm"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_daiku_Skel_007958",
+    "SoH Skel Name (For Export)": "object_daiku_Skel_007958",
+    "Bone Name": "bone012_object_daiku_Limb_0078E8",
+    "Description": "Right Forearm"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_daiku_Skel_007958",
+    "SoH Skel Name (For Export)": "object_daiku_Skel_007958",
+    "Bone Name": "bone013_object_daiku_Limb_0078F4",
+    "Description": "Right Hand"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_daiku_Skel_007958",
+    "SoH Skel Name (For Export)": "object_daiku_Skel_007958",
+    "Bone Name": "bone014_object_daiku_Limb_007900",
+    "Description": "Head"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_daiku_Skel_007958",
+    "SoH Skel Name (For Export)": "object_daiku_Skel_007958",
+    "Bone Name": "bone015_object_daiku_Limb_00790C",
+    "Description": "Jaw"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gDekuBabaSkel",
+    "SoH Skel Name (For Export)": "gDekuBabaSkel",
+    "Bone Name": "bone003_object_dekubaba_Limb_0029F4",
+    "Description": "Upper Mouth"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gDekuBabaSkel",
+    "SoH Skel Name (For Export)": "gDekuBabaSkel",
+    "Bone Name": "bone006_object_dekubaba_Limb_002A18",
+    "Description": "Lower Mouth"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gDekuNutsSkel",
+    "SoH Skel Name (For Export)": "gDekuNutsSkel",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_dh_Skel_007E88",
+    "SoH Skel Name (For Export)": "object_dh_Skel_007E88",
+    "Bone Name": "bone001_object_dh_Limb_007DA4",
+    "Description": "Torso Bottom Segment"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_dh_Skel_007E88",
+    "SoH Skel Name (For Export)": "object_dh_Skel_007E88",
+    "Bone Name": "bone002_object_dh_Limb_007DB0",
+    "Description": "Torso Middle Segment"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_dh_Skel_007E88",
+    "SoH Skel Name (For Export)": "object_dh_Skel_007E88",
+    "Bone Name": "bone003_object_dh_Limb_007DBC",
+    "Description": "Torso Top Segment"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_dh_Skel_007E88",
+    "SoH Skel Name (For Export)": "object_dh_Skel_007E88",
+    "Bone Name": "bone004_object_dh_Limb_007DC8",
+    "Description": "Right Upper Arm"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_dh_Skel_007E88",
+    "SoH Skel Name (For Export)": "object_dh_Skel_007E88",
+    "Bone Name": "bone005_object_dh_Limb_007DD4",
+    "Description": "Right Forearm"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_dh_Skel_007E88",
+    "SoH Skel Name (For Export)": "object_dh_Skel_007E88",
+    "Bone Name": "bone006_object_dh_Limb_007DE0",
+    "Description": "Right Hand"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_dh_Skel_007E88",
+    "SoH Skel Name (For Export)": "object_dh_Skel_007E88",
+    "Bone Name": "bone007_object_dh_Limb_007DEC",
+    "Description": "Left Upper Arm"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_dh_Skel_007E88",
+    "SoH Skel Name (For Export)": "object_dh_Skel_007E88",
+    "Bone Name": "bone008_object_dh_Limb_007DF8",
+    "Description": "Left Forearm"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_dh_Skel_007E88",
+    "SoH Skel Name (For Export)": "object_dh_Skel_007E88",
+    "Bone Name": "bone009_object_dh_Limb_007E04",
+    "Description": "Left Hand"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_dh_Skel_007E88",
+    "SoH Skel Name (For Export)": "object_dh_Skel_007E88",
+    "Bone Name": "bone010_object_dh_Limb_007E10",
+    "Description": "Lower Neck"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_dh_Skel_007E88",
+    "SoH Skel Name (For Export)": "object_dh_Skel_007E88",
+    "Bone Name": "bone011_object_dh_Limb_007E1C",
+    "Description": "Upper Neck"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_dh_Skel_007E88",
+    "SoH Skel Name (For Export)": "object_dh_Skel_007E88",
+    "Bone Name": "bone012_object_dh_Limb_007E28",
+    "Description": "Head"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_dh_Skel_007E88",
+    "SoH Skel Name (For Export)": "object_dh_Skel_007E88",
+    "Bone Name": "bone013_object_dh_Limb_007E34",
+    "Description": "Jaw"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_dh_Skel_007E88",
+    "SoH Skel Name (For Export)": "object_dh_Skel_007E88",
+    "Bone Name": "bone014_object_dh_Limb_007E40",
+    "Description": "Base"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_dh_Skel_000BD8",
+    "SoH Skel Name (For Export)": "object_dh_Skel_000BD8",
+    "Bone Name": "bone000_object_dh_Limb_000BA8",
+    "Description": "Upper Arm"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_dh_Skel_000BD8",
+    "SoH Skel Name (For Export)": "object_dh_Skel_000BD8",
+    "Bone Name": "bone001_object_dh_Limb_000BB4",
+    "Description": "Forearm"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_dh_Skel_000BD8",
+    "SoH Skel Name (For Export)": "object_dh_Skel_000BD8",
+    "Bone Name": "bone002_object_dh_Limb_000BC0",
+    "Description": "Hand"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gDntStageSkel",
+    "SoH Skel Name (For Export)": "gDntStageSkel",
+    "Bone Name": "bone000_gDntStageSkelLimbsLimb_002A50",
+    "Description": "Body"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gDntStageSkel",
+    "SoH Skel Name (For Export)": "gDntStageSkel",
+    "Bone Name": "bone001_gDntStageSkelLimbsLimb_002A5C",
+    "Description": "Head"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gDntStageSkel",
+    "SoH Skel Name (For Export)": "gDntStageSkel",
+    "Bone Name": "bone002_gDntStageSkelLimbsLimb_002A68",
+    "Description": "Left Leaf"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gDntStageSkel",
+    "SoH Skel Name (For Export)": "gDntStageSkel",
+    "Bone Name": "bone003_gDntStageSkelLimbsLimb_002A74",
+    "Description": "Right Leaf"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gDntStageSkel",
+    "SoH Skel Name (For Export)": "gDntStageSkel",
+    "Bone Name": "bone004_gDntStageSkelLimbsLimb_002A80",
+    "Description": "Middle Leaf"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gDntStageSkel",
+    "SoH Skel Name (For Export)": "gDntStageSkel",
+    "Bone Name": "bone005_gDntStageSkelLimbsLimb_002A8C",
+    "Description": "Back Leaf"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gDntStageSkel",
+    "SoH Skel Name (For Export)": "gDntStageSkel",
+    "Bone Name": "bone006_gDntStageSkelLimbsLimb_002A98",
+    "Description": "Snout"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gDntStageSkel",
+    "SoH Skel Name (For Export)": "gDntStageSkel",
+    "Bone Name": "bone007_gDntStageSkelLimbsLimb_002AA4",
+    "Description": "Eyes"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gDntStageSkel",
+    "SoH Skel Name (For Export)": "gDntStageSkel",
+    "Bone Name": "bone008_gDntStageSkelLimbsLimb_002AB0",
+    "Description": "Left Foot"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gDntStageSkel",
+    "SoH Skel Name (For Export)": "gDntStageSkel",
+    "Bone Name": "bone009_gDntStageSkelLimbsLimb_002ABC",
+    "Description": "Right Foot"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gDntJijiSkel",
+    "SoH Skel Name (For Export)": "gDntJijiSkel",
+    "Bone Name": "bone000_gDntJijiSkelLimbsLimb_003320",
+    "Description": "Body"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gDntJijiSkel",
+    "SoH Skel Name (For Export)": "gDntJijiSkel",
+    "Bone Name": "bone001_gDntJijiSkelLimbsLimb_00332C",
+    "Description": "Head"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gDntJijiSkel",
+    "SoH Skel Name (For Export)": "gDntJijiSkel",
+    "Bone Name": "bone002_gDntJijiSkelLimbsLimb_003338",
+    "Description": "Stem Bottom"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gDntJijiSkel",
+    "SoH Skel Name (For Export)": "gDntJijiSkel",
+    "Bone Name": "bone003_gDntJijiSkelLimbsLimb_003344",
+    "Description": "Left Leaf"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gDntJijiSkel",
+    "SoH Skel Name (For Export)": "gDntJijiSkel",
+    "Bone Name": "bone004_gDntJijiSkelLimbsLimb_003350",
+    "Description": "Right Leaf"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gDntJijiSkel",
+    "SoH Skel Name (For Export)": "gDntJijiSkel",
+    "Bone Name": "bone005_gDntJijiSkelLimbsLimb_00335C",
+    "Description": "Middle Leaf"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gDntJijiSkel",
+    "SoH Skel Name (For Export)": "gDntJijiSkel",
+    "Bone Name": "bone006_gDntJijiSkelLimbsLimb_003368",
+    "Description": "Snout"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gDntJijiSkel",
+    "SoH Skel Name (For Export)": "gDntJijiSkel",
+    "Bone Name": "bone007_gDntJijiSkelLimbsLimb_003374",
+    "Description": "Right Moustache"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gDntJijiSkel",
+    "SoH Skel Name (For Export)": "gDntJijiSkel",
+    "Bone Name": "bone008_gDntJijiSkelLimbsLimb_003380",
+    "Description": "Left Moustache"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gDntJijiSkel",
+    "SoH Skel Name (For Export)": "gDntJijiSkel",
+    "Bone Name": "bone009_gDntJijiSkelLimbsLimb_00338C",
+    "Description": "Eyes"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gDntJijiSkel",
+    "SoH Skel Name (For Export)": "gDntJijiSkel",
+    "Bone Name": "bone010_gDntJijiSkelLimbsLimb_003398",
+    "Description": "Left Foot"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gDntJijiSkel",
+    "SoH Skel Name (For Export)": "gDntJijiSkel",
+    "Bone Name": "bone011_gDntJijiSkelLimbsLimb_0033A4",
+    "Description": "Right Foot"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_dodojr_Skel_0020E0",
+    "SoH Skel Name (For Export)": "object_dodojr_Skel_0020E0",
+    "Bone Name": "bone003_object_dodojr_Limb_002024",
+    "Description": "Head"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_dodojr_Skel_0020E0",
+    "SoH Skel Name (For Export)": "object_dodojr_Skel_0020E0",
+    "Bone Name": "bone006_object_dodojr_Limb_002048",
+    "Description": "Jaw"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_dodojr_Skel_0020E0",
+    "SoH Skel Name (For Export)": "object_dodojr_Skel_0020E0",
+    "Bone Name": "bone011_object_dodojr_Limb_002084",
+    "Description": "Tail"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_dodojr_Skel_0020E0",
+    "SoH Skel Name (For Export)": "object_dodojr_Skel_0020E0",
+    "Bone Name": "bone012_object_dodojr_Limb_002090",
+    "Description": "Lower Body"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_dodojr_Skel_0020E0",
+    "SoH Skel Name (For Export)": "object_dodojr_Skel_0020E0",
+    "Bone Name": "bone013_object_dodojr_Limb_00209C",
+    "Description": "Upper Body"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gDodongoSkel",
+    "SoH Skel Name (For Export)": "gDodongoSkel",
+    "Bone Name": "bone005_gDodongoSkelLimbsLimb_008174",
+    "Description": "Jaw"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gDodongoSkel",
+    "SoH Skel Name (For Export)": "gDodongoSkel",
+    "Bone Name": "bone006_gDodongoSkelLimbsLimb_008180",
+    "Description": "Head"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gDodongoSkel",
+    "SoH Skel Name (For Export)": "gDodongoSkel",
+    "Bone Name": "bone012_gDodongoSkelLimbsLimb_0081C8",
+    "Description": "Tail Tip"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gDodongoSkel",
+    "SoH Skel Name (For Export)": "gDodongoSkel",
+    "Bone Name": "bone013_gDodongoSkelLimbsLimb_0081D4",
+    "Description": "Lower Tail"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gDodongoSkel",
+    "SoH Skel Name (For Export)": "gDodongoSkel",
+    "Bone Name": "bone014_gDodongoSkelLimbsLimb_0081E0",
+    "Description": "Upper Tail"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gDodongoSkel",
+    "SoH Skel Name (For Export)": "gDodongoSkel",
+    "Bone Name": "bone015_gDodongoSkelLimbsLimb_0081EC",
+    "Description": "Body"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gDodongoSkel",
+    "SoH Skel Name (For Export)": "gDodongoSkel",
+    "Bone Name": "bone020_gDodongoSkelLimbsLimb_008228",
+    "Description": "Left Foot"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gDodongoSkel",
+    "SoH Skel Name (For Export)": "gDodongoSkel",
+    "Bone Name": "bone021_gDodongoSkelLimbsLimb_008234",
+    "Description": "Left Shin"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gDodongoSkel",
+    "SoH Skel Name (For Export)": "gDodongoSkel",
+    "Bone Name": "bone022_gDodongoSkelLimbsLimb_008240",
+    "Description": "Left Thigh"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gDodongoSkel",
+    "SoH Skel Name (For Export)": "gDodongoSkel",
+    "Bone Name": "bone027_gDodongoSkelLimbsLimb_00827C",
+    "Description": "Right Foot"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gDodongoSkel",
+    "SoH Skel Name (For Export)": "gDodongoSkel",
+    "Bone Name": "bone028_gDodongoSkelLimbsLimb_008288",
+    "Description": "Right Shin"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gDodongoSkel",
+    "SoH Skel Name (For Export)": "gDodongoSkel",
+    "Bone Name": "bone029_gDodongoSkelLimbsLimb_008294",
+    "Description": "Right Thigh"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gDogSkel",
+    "SoH Skel Name (For Export)": "gDogSkel",
+    "Bone Name": "bone001_gDogBodyBackLimb",
+    "Description": "Body Back"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gDogSkel",
+    "SoH Skel Name (For Export)": "gDogSkel",
+    "Bone Name": "bone002_gDogBodyFrontLimb",
+    "Description": "Body Front"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gDogSkel",
+    "SoH Skel Name (For Export)": "gDogSkel",
+    "Bone Name": "bone004_gDogHeadLimb",
+    "Description": "Head"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gDogSkel",
+    "SoH Skel Name (For Export)": "gDogSkel",
+    "Bone Name": "bone005_gDogRightFaceHairLimb",
+    "Description": "Right Face Hair"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gDogSkel",
+    "SoH Skel Name (For Export)": "gDogSkel",
+    "Bone Name": "bone006_gDogLeftFaceHairLimb",
+    "Description": "Left Face Hair"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gDogSkel",
+    "SoH Skel Name (For Export)": "gDogSkel",
+    "Bone Name": "bone007_gDogFrontRightLegLimb",
+    "Description": "Front Right Leg"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gDogSkel",
+    "SoH Skel Name (For Export)": "gDogSkel",
+    "Bone Name": "bone008_gDogFrontLeftLegLimb",
+    "Description": "Front Left Leg"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gDogSkel",
+    "SoH Skel Name (For Export)": "gDogSkel",
+    "Bone Name": "bone009_gDogBackRightLegLimb",
+    "Description": "Back Right Leg"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gDogSkel",
+    "SoH Skel Name (For Export)": "gDogSkel",
+    "Bone Name": "bone010_gDogBackLeftLegLimb",
+    "Description": "Back Left Lef"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gDogSkel",
+    "SoH Skel Name (For Export)": "gDogSkel",
+    "Bone Name": "bone011_gDogTailLimb",
+    "Description": "Tail"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_door_killer_Skel_001BC8",
+    "SoH Skel Name (For Export)": "object_door_killer_Skel_001BC8",
+    "Bone Name": "bone000_object_door_killer_Skel_001BC8LimbsLimb_001B28",
+    "Description": "Segment 1"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_door_killer_Skel_001BC8",
+    "SoH Skel Name (For Export)": "object_door_killer_Skel_001BC8",
+    "Bone Name": "bone001_object_door_killer_Skel_001BC8LimbsLimb_001B38",
+    "Description": "Segment 2"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_door_killer_Skel_001BC8",
+    "SoH Skel Name (For Export)": "object_door_killer_Skel_001BC8",
+    "Bone Name": "bone002_object_door_killer_Skel_001BC8LimbsLimb_001B48",
+    "Description": "Segment 3"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_door_killer_Skel_001BC8",
+    "SoH Skel Name (For Export)": "object_door_killer_Skel_001BC8",
+    "Bone Name": "bone003_object_door_killer_Skel_001BC8LimbsLimb_001B58",
+    "Description": "Segment 4"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_door_killer_Skel_001BC8",
+    "SoH Skel Name (For Export)": "object_door_killer_Skel_001BC8",
+    "Bone Name": "bone004_object_door_killer_Skel_001BC8LimbsLimb_001B68",
+    "Description": "Segment 5"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_door_killer_Skel_001BC8",
+    "SoH Skel Name (For Export)": "object_door_killer_Skel_001BC8",
+    "Bone Name": "bone005_object_door_killer_Skel_001BC8LimbsLimb_001B78",
+    "Description": "Segment 6"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_door_killer_Skel_001BC8",
+    "SoH Skel Name (For Export)": "object_door_killer_Skel_001BC8",
+    "Bone Name": "bone006_object_door_killer_Skel_001BC8LimbsLimb_001B88",
+    "Description": "Segment 7"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_door_killer_Skel_001BC8",
+    "SoH Skel Name (For Export)": "object_door_killer_Skel_001BC8",
+    "Bone Name": "bone007_object_door_killer_Skel_001BC8LimbsLimb_001B98",
+    "Description": "Segment 8"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gPotionShopLadySkel",
+    "SoH Skel Name (For Export)": "gPotionShopLadySkel",
+    "Bone Name": "bone001_gPotionShopLadyCatLimb",
+    "Description": "Cat"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gPotionShopLadySkel",
+    "SoH Skel Name (For Export)": "gPotionShopLadySkel",
+    "Bone Name": "bone002_gPotionShopLadyTorsoLimb",
+    "Description": "Body"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gPotionShopLadySkel",
+    "SoH Skel Name (For Export)": "gPotionShopLadySkel",
+    "Bone Name": "bone003_gPotionShopLadyArmLimb",
+    "Description": "Arm"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gPotionShopLadySkel",
+    "SoH Skel Name (For Export)": "gPotionShopLadySkel",
+    "Bone Name": "bone004_gPotionShopLadyHeadLimb",
+    "Description": "Head"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_ds2_Skel_004258",
+    "SoH Skel Name (For Export)": "object_ds2_Skel_004258",
+    "Bone Name": "object_ds2_Skel_004258",
+    "Description": "Body"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_ds2_Skel_004258",
+    "SoH Skel Name (For Export)": "object_ds2_Skel_004258",
+    "Bone Name": "bone001_object_ds2_Limb_0041E4",
+    "Description": "Left Upper Arm"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_ds2_Skel_004258",
+    "SoH Skel Name (For Export)": "object_ds2_Skel_004258",
+    "Bone Name": "bone002_object_ds2_Limb_0041F0",
+    "Description": "Left Forearm"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_ds2_Skel_004258",
+    "SoH Skel Name (For Export)": "object_ds2_Skel_004258",
+    "Bone Name": "bone003_object_ds2_Limb_0041FC",
+    "Description": "Left Hand"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_ds2_Skel_004258",
+    "SoH Skel Name (For Export)": "object_ds2_Skel_004258",
+    "Bone Name": "bone004_object_ds2_Limb_004208",
+    "Description": "Right Upper Arm"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_ds2_Skel_004258",
+    "SoH Skel Name (For Export)": "object_ds2_Skel_004258",
+    "Bone Name": "bone005_object_ds2_Limb_004214",
+    "Description": "Right Forearm"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_ds2_Skel_004258",
+    "SoH Skel Name (For Export)": "object_ds2_Skel_004258",
+    "Bone Name": "bone006_object_ds2_Limb_004220",
+    "Description": "Right Hand"
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_ds2_Skel_004258",
+    "SoH Skel Name (For Export)": "object_ds2_Skel_004258",
+    "Bone Name": "bone007_object_ds2_Limb_00422C",
+    "Description": "Head"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gDaruniaSkel",
+    "SoH Skel Name (For Export)": "gDaruniaSkel",
+    "Bone Name": "bone001_gDaruniaSkelLimbsLimb_011BA4",
+    "Description": "Placeholder Tri?"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gDaruniaSkel",
+    "SoH Skel Name (For Export)": "gDaruniaSkel",
+    "Bone Name": "bone002_gDaruniaSkelLimbsLimb_011BB0",
+    "Description": "Left Thigh"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gDaruniaSkel",
+    "SoH Skel Name (For Export)": "gDaruniaSkel",
+    "Bone Name": "bone003_gDaruniaSkelLimbsLimb_011BBC",
+    "Description": "Left Shin"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gDaruniaSkel",
+    "SoH Skel Name (For Export)": "gDaruniaSkel",
+    "Bone Name": "bone004_gDaruniaSkelLimbsLimb_011BC8",
+    "Description": "Left Foot"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gDaruniaSkel",
+    "SoH Skel Name (For Export)": "gDaruniaSkel",
+    "Bone Name": "bone005_gDaruniaSkelLimbsLimb_011BD4",
+    "Description": "Right Thigh"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gDaruniaSkel",
+    "SoH Skel Name (For Export)": "gDaruniaSkel",
+    "Bone Name": "bone006_gDaruniaSkelLimbsLimb_011BE0",
+    "Description": "Right Shin"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gDaruniaSkel",
+    "SoH Skel Name (For Export)": "gDaruniaSkel",
+    "Bone Name": "bone007_gDaruniaSkelLimbsLimb_011BEC",
+    "Description": "Right Foot"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gDaruniaSkel",
+    "SoH Skel Name (For Export)": "gDaruniaSkel",
+    "Bone Name": "bone008_gDaruniaSkelLimbsLimb_011BF8",
+    "Description": "Body"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gDaruniaSkel",
+    "SoH Skel Name (For Export)": "gDaruniaSkel",
+    "Bone Name": "bone009_gDaruniaSkelLimbsLimb_011C04",
+    "Description": "Left Upper Arm"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gDaruniaSkel",
+    "SoH Skel Name (For Export)": "gDaruniaSkel",
+    "Bone Name": "bone010_gDaruniaSkelLimbsLimb_011C10",
+    "Description": "Left Forearm"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gDaruniaSkel",
+    "SoH Skel Name (For Export)": "gDaruniaSkel",
+    "Bone Name": "bone011_gDaruniaSkelLimbsLimb_011C1C",
+    "Description": "Left Hand"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gDaruniaSkel",
+    "SoH Skel Name (For Export)": "gDaruniaSkel",
+    "Bone Name": "bone012_gDaruniaSkelLimbsLimb_011C28",
+    "Description": "Right Upper Arm"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gDaruniaSkel",
+    "SoH Skel Name (For Export)": "gDaruniaSkel",
+    "Bone Name": "bone013_gDaruniaSkelLimbsLimb_011C34",
+    "Description": "Right Forearm"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gDaruniaSkel",
+    "SoH Skel Name (For Export)": "gDaruniaSkel",
+    "Bone Name": "bone014_gDaruniaSkelLimbsLimb_011C40",
+    "Description": "Right Hand"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gDaruniaSkel",
+    "SoH Skel Name (For Export)": "gDaruniaSkel",
+    "Bone Name": "bone015_gDaruniaSkelLimbsLimb_011C4C",
+    "Description": "Another Placeholder Tri?"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gDaruniaSkel",
+    "SoH Skel Name (For Export)": "gDaruniaSkel",
+    "Bone Name": "bone016_gDaruniaSkelLimbsLimb_011C58",
+    "Description": "Head"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gGreatFairySkel",
+    "SoH Skel Name (For Export)": "gGreatFairySkel",
+    "Bone Name": "bone000_gGreatFairyRootLimb",
+    "Description": "Root"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gGreatFairySkel",
+    "SoH Skel Name (For Export)": "gGreatFairySkel",
+    "Bone Name": "bone001_gGreatFairyLeftThighLimb",
+    "Description": "Left Thigh"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gGreatFairySkel",
+    "SoH Skel Name (For Export)": "gGreatFairySkel",
+    "Bone Name": "bone002_gGreatFairyLeftLegLimb",
+    "Description": "Left Leg"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gGreatFairySkel",
+    "SoH Skel Name (For Export)": "gGreatFairySkel",
+    "Bone Name": "bone003_gGreatFairyLeftFootLimb",
+    "Description": "Left Foot"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gGreatFairySkel",
+    "SoH Skel Name (For Export)": "gGreatFairySkel",
+    "Bone Name": "bone004_gGreatFairyRightThighLimb",
+    "Description": "Right Thigh"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gGreatFairySkel",
+    "SoH Skel Name (For Export)": "gGreatFairySkel",
+    "Bone Name": "bone005_gGreatFairyRightLegLimb",
+    "Description": "Right Leg"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gGreatFairySkel",
+    "SoH Skel Name (For Export)": "gGreatFairySkel",
+    "Bone Name": "bone006_gGreatFairyRightFootLimb",
+    "Description": "Right Foot"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gGreatFairySkel",
+    "SoH Skel Name (For Export)": "gGreatFairySkel",
+    "Bone Name": "bone007_gGreatFairyTorsoLimb",
+    "Description": "Torso"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gGreatFairySkel",
+    "SoH Skel Name (For Export)": "gGreatFairySkel",
+    "Bone Name": "bone008_gGreatFairyLeftUpperArmLimb",
+    "Description": "Left Upper Arm"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gGreatFairySkel",
+    "SoH Skel Name (For Export)": "gGreatFairySkel",
+    "Bone Name": "bone009_gGreatFairyLeftForearmLimb",
+    "Description": "Left Forearm"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gGreatFairySkel",
+    "SoH Skel Name (For Export)": "gGreatFairySkel",
+    "Bone Name": "bone010_gGreatFairyLeftHandLimb",
+    "Description": "Left Hand"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gGreatFairySkel",
+    "SoH Skel Name (For Export)": "gGreatFairySkel",
+    "Bone Name": "bone011_gGreatFairyRightUpperArmLimb",
+    "Description": "Right Upper Arm"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gGreatFairySkel",
+    "SoH Skel Name (For Export)": "gGreatFairySkel",
+    "Bone Name": "bone012_gGreatFairyRightForearmLimb",
+    "Description": "Right Forearm"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gGreatFairySkel",
+    "SoH Skel Name (For Export)": "gGreatFairySkel",
+    "Bone Name": "bone013_gGreatFairyRightHandLimb",
+    "Description": "Right Hand"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gGreatFairySkel",
+    "SoH Skel Name (For Export)": "gGreatFairySkel",
+    "Bone Name": "bone014_gGreatFairyHeadLimb",
+    "Description": "Head"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gGreatFairySkel",
+    "SoH Skel Name (For Export)": "gGreatFairySkel",
+    "Bone Name": "bone015_gGreatFairyMiddleHairLowerPartLimb",
+    "Description": "Middle Hair Lower Part"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gGreatFairySkel",
+    "SoH Skel Name (For Export)": "gGreatFairySkel",
+    "Bone Name": "bone016_gGreatFairyMiddleHairMiddlePartLimb",
+    "Description": "Middle Hair MIddle Part"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gGreatFairySkel",
+    "SoH Skel Name (For Export)": "gGreatFairySkel",
+    "Bone Name": "bone017_gGreatFairyMiddleHairUpperPartLimb",
+    "Description": "Middle Hair Upper Part"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gGreatFairySkel",
+    "SoH Skel Name (For Export)": "gGreatFairySkel",
+    "Bone Name": "bone018_gGreatFairyMiddleHairTipLimb",
+    "Description": "MIddle Hair Tip"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gGreatFairySkel",
+    "SoH Skel Name (For Export)": "gGreatFairySkel",
+    "Bone Name": "bone019_gGreatFairyLeftHairLowerPartLimb",
+    "Description": "Left Hair Lower Part"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gGreatFairySkel",
+    "SoH Skel Name (For Export)": "gGreatFairySkel",
+    "Bone Name": "bone020_gGreatFairyLeftHairMiddlePartLimb",
+    "Description": "Left Hair Middle Part"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gGreatFairySkel",
+    "SoH Skel Name (For Export)": "gGreatFairySkel",
+    "Bone Name": "bone021_gGreatFairyLeftHairUpperPartLimb",
+    "Description": "Left Hair Upper Part"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gGreatFairySkel",
+    "SoH Skel Name (For Export)": "gGreatFairySkel",
+    "Bone Name": "bone022_gGreatFairyLeftHairTipLimb",
+    "Description": "Left Hair Tip"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gGreatFairySkel",
+    "SoH Skel Name (For Export)": "gGreatFairySkel",
+    "Bone Name": "bone023_gGreatFairyRightHairLowerPartLimb",
+    "Description": "Right Hair Lower Part"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gGreatFairySkel",
+    "SoH Skel Name (For Export)": "gGreatFairySkel",
+    "Bone Name": "bone024_gGreatFairyRightHairMiddlePartLimb",
+    "Description": "Right Hair Middle Part"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gGreatFairySkel",
+    "SoH Skel Name (For Export)": "gGreatFairySkel",
+    "Bone Name": "bone025_gGreatFairyRightHairUpperPartLimb",
+    "Description": "Right Hair Upper Part"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gGreatFairySkel",
+    "SoH Skel Name (For Export)": "gGreatFairySkel",
+    "Bone Name": "bone026_gGreatFairyRightHairTipLimb",
+    "Description": "Right Hair Tip"
+  },
+  {
+    "Decomp Skel Name (For Import)": "",
+    "SoH Skel Name (For Export)": "gTimeWarpSkel",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gStingerSkel",
+    "SoH Skel Name (For Export)": "gStingerSkel",
+    "Bone Name": "bone002_gStingerBodyLimb",
+    "Description": "Body"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gStingerSkel",
+    "SoH Skel Name (For Export)": "gStingerSkel",
+    "Bone Name": "bone003_gStingerTailRootLimb",
+    "Description": "Tail Root"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gStingerSkel",
+    "SoH Skel Name (For Export)": "gStingerSkel",
+    "Bone Name": "bone004_gStingerTailUpperLimb",
+    "Description": "Tail Upper"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gStingerSkel",
+    "SoH Skel Name (For Export)": "gStingerSkel",
+    "Bone Name": "bone005_gStingerTailLowerLimb",
+    "Description": "Tail Lower"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gStingerSkel",
+    "SoH Skel Name (For Export)": "gStingerSkel",
+    "Bone Name": "bone008_gStingerFinUpperLimb",
+    "Description": "Fin Upper"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gStingerSkel",
+    "SoH Skel Name (For Export)": "gStingerSkel",
+    "Bone Name": "bone009_gStingerFinLowerLimb",
+    "Description": "Fin Lower"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gStingerSkel",
+    "SoH Skel Name (For Export)": "gStingerSkel",
+    "Bone Name": "bone011_gStingerHeadLimb",
+    "Description": "Head"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gStingerSkel",
+    "SoH Skel Name (For Export)": "gStingerSkel",
+    "Bone Name": "bone013_gStingerLeftWingBaseLimb",
+    "Description": "Left Wing Base"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gStingerSkel",
+    "SoH Skel Name (For Export)": "gStingerSkel",
+    "Bone Name": "bone014_gStingerLeftWingEndLimb",
+    "Description": "Left Wing End"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gStingerSkel",
+    "SoH Skel Name (For Export)": "gStingerSkel",
+    "Bone Name": "bone016_gStingerRightWingBaseLimb",
+    "Description": "Right Wing Base"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gStingerSkel",
+    "SoH Skel Name (For Export)": "gStingerSkel",
+    "Bone Name": "bone017_gStingerRightWingEndLimb",
+    "Description": "Right Wing End"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gVolvagiaBodySkel",
+    "SoH Skel Name (For Export)": "gVolvagiaBodySkel",
+    "Bone Name": "bone001_gVolvagiaBodySkelLimbsLimb_01130C",
+    "Description": "Nope, not gonna bother with it"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gVolvagiaBodySkel",
+    "SoH Skel Name (For Export)": "gVolvagiaBodySkel",
+    "Bone Name": "bone002_gVolvagiaBodySkelLimbsLimb_011318",
+    "Description": "Nope, not gonna bother with it"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gVolvagiaBodySkel",
+    "SoH Skel Name (For Export)": "gVolvagiaBodySkel",
+    "Bone Name": "bone003_gVolvagiaBodySkelLimbsLimb_011324",
+    "Description": "Nope, not gonna bother with it"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gVolvagiaBodySkel",
+    "SoH Skel Name (For Export)": "gVolvagiaBodySkel",
+    "Bone Name": "bone004_gVolvagiaBodySkelLimbsLimb_011330",
+    "Description": "Nope, not gonna bother with it"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gVolvagiaBodySkel",
+    "SoH Skel Name (For Export)": "gVolvagiaBodySkel",
+    "Bone Name": "bone005_gVolvagiaBodySkelLimbsLimb_01133C",
+    "Description": "Nope, not gonna bother with it"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gVolvagiaBodySkel",
+    "SoH Skel Name (For Export)": "gVolvagiaBodySkel",
+    "Bone Name": "bone006_gVolvagiaBodySkelLimbsLimb_011348",
+    "Description": "Nope, not gonna bother with it"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gVolvagiaBodySkel",
+    "SoH Skel Name (For Export)": "gVolvagiaBodySkel",
+    "Bone Name": "bone007_gVolvagiaBodySkelLimbsLimb_011354",
+    "Description": "Nope, not gonna bother with it"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gVolvagiaBodySkel",
+    "SoH Skel Name (For Export)": "gVolvagiaBodySkel",
+    "Bone Name": "bone008_gVolvagiaBodySkelLimbsLimb_011360",
+    "Description": "Nope, not gonna bother with it"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gVolvagiaBodySkel",
+    "SoH Skel Name (For Export)": "gVolvagiaBodySkel",
+    "Bone Name": "bone009_gVolvagiaBodySkelLimbsLimb_01136C",
+    "Description": "Nope, not gonna bother with it"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gVolvagiaBodySkel",
+    "SoH Skel Name (For Export)": "gVolvagiaBodySkel",
+    "Bone Name": "bone010_gVolvagiaBodySkelLimbsLimb_011378",
+    "Description": "Nope, not gonna bother with it"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gVolvagiaBodySkel",
+    "SoH Skel Name (For Export)": "gVolvagiaBodySkel",
+    "Bone Name": "bone011_gVolvagiaBodySkelLimbsLimb_011384",
+    "Description": "Nope, not gonna bother with it"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gVolvagiaBodySkel",
+    "SoH Skel Name (For Export)": "gVolvagiaBodySkel",
+    "Bone Name": "bone012_gVolvagiaBodySkelLimbsLimb_011390",
+    "Description": "Nope, not gonna bother with it"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gVolvagiaBodySkel",
+    "SoH Skel Name (For Export)": "gVolvagiaBodySkel",
+    "Bone Name": "bone013_gVolvagiaBodySkelLimbsLimb_01139C",
+    "Description": "Nope, not gonna bother with it"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gVolvagiaBodySkel",
+    "SoH Skel Name (For Export)": "gVolvagiaBodySkel",
+    "Bone Name": "bone014_gVolvagiaBodySkelLimbsLimb_0113A8",
+    "Description": "Nope, not gonna bother with it"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gVolvagiaBodySkel",
+    "SoH Skel Name (For Export)": "gVolvagiaBodySkel",
+    "Bone Name": "bone015_gVolvagiaBodySkelLimbsLimb_0113B4",
+    "Description": "Nope, not gonna bother with it"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gVolvagiaBodySkel",
+    "SoH Skel Name (For Export)": "gVolvagiaBodySkel",
+    "Bone Name": "bone016_gVolvagiaBodySkelLimbsLimb_0113C0",
+    "Description": "Nope, not gonna bother with it"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gVolvagiaBodySkel",
+    "SoH Skel Name (For Export)": "gVolvagiaBodySkel",
+    "Bone Name": "bone017_gVolvagiaBodySkelLimbsLimb_0113CC",
+    "Description": "Nope, not gonna bother with it"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gVolvagiaHeadSkel",
+    "SoH Skel Name (For Export)": "gVolvagiaHeadSkel",
+    "Bone Name": "bone001_gVolvagiaHeadSkelLimbsLimb_01160C",
+    "Description": "Jaw"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gVolvagiaHeadSkel",
+    "SoH Skel Name (For Export)": "gVolvagiaHeadSkel",
+    "Bone Name": "bone002_gVolvagiaHeadSkelLimbsLimb_011618",
+    "Description": "Left Horn"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gVolvagiaHeadSkel",
+    "SoH Skel Name (For Export)": "gVolvagiaHeadSkel",
+    "Bone Name": "bone003_gVolvagiaHeadSkelLimbsLimb_011624",
+    "Description": "Right Horn"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gVolvagiaHeadSkel",
+    "SoH Skel Name (For Export)": "gVolvagiaHeadSkel",
+    "Bone Name": "bone004_gVolvagiaHeadSkelLimbsLimb_011630",
+    "Description": "Nose Rock Thing"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gVolvagiaHeadSkel",
+    "SoH Skel Name (For Export)": "gVolvagiaHeadSkel",
+    "Bone Name": "bone005_gVolvagiaHeadSkelLimbsLimb_01163C",
+    "Description": "Head"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gVolvagiaLeftArmSkel",
+    "SoH Skel Name (For Export)": "gVolvagiaLeftArmSkel",
+    "Bone Name": "bone000_gVolvagiaLeftArmSkelLimbsLimb_011480",
+    "Description": "Left Upper Arm"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gVolvagiaLeftArmSkel",
+    "SoH Skel Name (For Export)": "gVolvagiaLeftArmSkel",
+    "Bone Name": "bone001_gVolvagiaLeftArmSkelLimbsLimb_01148C",
+    "Description": "Left Forearm"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gVolvagiaLeftArmSkel",
+    "SoH Skel Name (For Export)": "gVolvagiaLeftArmSkel",
+    "Bone Name": "bone002_gVolvagiaLeftArmSkelLimbsLimb_011498",
+    "Description": "Left Palm"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gVolvagiaLeftArmSkel",
+    "SoH Skel Name (For Export)": "gVolvagiaLeftArmSkel",
+    "Bone Name": "bone003_gVolvagiaLeftArmSkelLimbsLimb_0114A4",
+    "Description": "Left Finger 1"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gVolvagiaLeftArmSkel",
+    "SoH Skel Name (For Export)": "gVolvagiaLeftArmSkel",
+    "Bone Name": "bone004_gVolvagiaLeftArmSkelLimbsLimb_0114B0",
+    "Description": "Thumb"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gVolvagiaLeftArmSkel",
+    "SoH Skel Name (For Export)": "gVolvagiaLeftArmSkel",
+    "Bone Name": "bone005_gVolvagiaLeftArmSkelLimbsLimb_0114BC",
+    "Description": "Left Finger 2"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gVolvagiaRightArmSkel",
+    "SoH Skel Name (For Export)": "gVolvagiaRightArmSkel",
+    "Bone Name": "bone000_gVolvagiaRightArmSkelLimbsLimb_011540",
+    "Description": "Right Upper Arm"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gVolvagiaRightArmSkel",
+    "SoH Skel Name (For Export)": "gVolvagiaRightArmSkel",
+    "Bone Name": "bone001_gVolvagiaRightArmSkelLimbsLimb_01154C",
+    "Description": "Right Forearm"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gVolvagiaRightArmSkel",
+    "SoH Skel Name (For Export)": "gVolvagiaRightArmSkel",
+    "Bone Name": "bone002_gVolvagiaRightArmSkelLimbsLimb_011558",
+    "Description": "Right Palm"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gVolvagiaRightArmSkel",
+    "SoH Skel Name (For Export)": "gVolvagiaRightArmSkel",
+    "Bone Name": "bone003_gVolvagiaRightArmSkelLimbsLimb_011564",
+    "Description": "Right Finger 1"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gVolvagiaRightArmSkel",
+    "SoH Skel Name (For Export)": "gVolvagiaRightArmSkel",
+    "Bone Name": "bone004_gVolvagiaRightArmSkelLimbsLimb_011570",
+    "Description": "Right Finger 2"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gVolvagiaRightArmSkel",
+    "SoH Skel Name (For Export)": "gVolvagiaRightArmSkel",
+    "Bone Name": "bone005_gVolvagiaRightArmSkelLimbsLimb_01157C",
+    "Description": "Right Thumb"
+  },
+  {
+    "Decomp Skel Name (For Import)": "gHoleVolvagiaSkel",
+    "SoH Skel Name (For Export)": "gHoleVolvagiaSkel",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gPhantomHorseSkel",
+    "SoH Skel Name (For Export)": "gPhantomHorseSkel",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gKeeseSkeleton",
+    "SoH Skel Name (For Export)": "gKeeseSkeleton",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gFishingFishSkel",
+    "SoH Skel Name (For Export)": "gFishingFishSkel",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gFishingLoachSkel",
+    "SoH Skel Name (For Export)": "gFishingLoachSkel",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gFishingOwnerSkel",
+    "SoH Skel Name (For Export)": "gFishingOwnerSkel",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_fr_Skel_00B498",
+    "SoH Skel Name (For Export)": "object_fr_Skel_00B498",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gWindmillManSkel",
+    "SoH Skel Name (For Export)": "gWindmillManSkel",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gFlareDancerCoreSkel",
+    "SoH Skel Name (For Export)": "gFlareDancerCoreSkel",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gFlareDancerSkel",
+    "SoH Skel Name (For Export)": "gFlareDancerSkel",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gGanondorfSkel",
+    "SoH Skel Name (For Export)": "gGanondorfSkel",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gGanonSkel",
+    "SoH Skel Name (For Export)": "gGanonSkel",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gGerudoWhiteSkel",
+    "SoH Skel Name (For Export)": "gGerudoWhiteSkel",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gGerudoRedSkel",
+    "SoH Skel Name (For Export)": "gGerudoRedSkel",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gGerudoPurpleSkel",
+    "SoH Skel Name (For Export)": "gGerudoPurpleSkel",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gPhantomGanonSkel",
+    "SoH Skel Name (For Export)": "gPhantomGanonSkel",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gYoungGanondorfSkel",
+    "SoH Skel Name (For Export)": "gYoungGanondorfSkel",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gObjectGolSkel",
+    "SoH Skel Name (For Export)": "gObjectGolSkel",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gGohmaSkel",
+    "SoH Skel Name (For Export)": "gGohmaSkel",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gNiwGirlSkel",
+    "SoH Skel Name (For Export)": "gNiwGirlSkel",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gFlagpoleSkel",
+    "SoH Skel Name (For Export)": "gFlagpoleSkel",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gHintNutsSkel",
+    "SoH Skel Name (For Export)": "gHintNutsSkel",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gHorseIngoSkel",
+    "SoH Skel Name (For Export)": "gHorseIngoSkel",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gEponaSkel",
+    "SoH Skel Name (For Export)": "gEponaSkel",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gHorseGanonSkel",
+    "SoH Skel Name (For Export)": "gHorseGanonSkel",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gChildEponaSkel",
+    "SoH Skel Name (For Export)": "gChildEponaSkel",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gHorseNormalSkel",
+    "SoH Skel Name (For Export)": "gHorseNormalSkel",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gHorseZeldaSkel",
+    "SoH Skel Name (For Export)": "gHorseZeldaSkel",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_hs_Skel_006260",
+    "SoH Skel Name (For Export)": "object_hs_Skel_006260",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_ik_Skel_000380",
+    "SoH Skel Name (For Export)": "object_ik_Skel_000380",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_ik_Skel_000660",
+    "SoH Skel Name (For Export)": "object_ik_Skel_000660",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_ik_Skel_000900",
+    "SoH Skel Name (For Export)": "object_ik_Skel_000900",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_ik_Skel_000C90",
+    "SoH Skel Name (For Export)": "object_ik_Skel_000C90",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_ik_Skel_000F30",
+    "SoH Skel Name (For Export)": "object_ik_Skel_000F30",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gIronKnuckleSkel",
+    "SoH Skel Name (For Export)": "object_ik_Skel_01E178",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_ik_Skel_01EB40",
+    "SoH Skel Name (For Export)": "object_ik_Skel_01EB40",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_ik_Skel_01EE60",
+    "SoH Skel Name (For Export)": "object_ik_Skel_01EE60",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gIronKnuckleDefeatSkel",
+    "SoH Skel Name (For Export)": "object_ik_Skel_0205C0",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gImpaSkel",
+    "SoH Skel Name (For Export)": "gImpaSkel",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gIngoSkel",
+    "SoH Skel Name (For Export)": "gIngoSkel",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gJabuJabuSkel",
+    "SoH Skel Name (For Export)": "gJabuJabuSkel",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gCarpetMerchantSkel",
+    "SoH Skel Name (For Export)": "gCarpetMerchantSkel",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_ka_Skel_0065B0",
+    "SoH Skel Name (For Export)": "object_ka_Skel_0065B0",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_kingdodongo_Skel_01B310",
+    "SoH Skel Name (For Export)": "object_kingdodongo_Skel_01B310",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gKm1Skel",
+    "SoH Skel Name (For Export)": "gKm1Skel",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gKw1Skel",
+    "SoH Skel Name (For Export)": "gKw1Skel",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gKzSkel",
+    "SoH Skel Name (For Export)": "gKzSkel",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gLinkAdultSkel",
+    "SoH Skel Name (For Export)": "gLinkAdultSkel",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gLinkChildSkel",
+    "SoH Skel Name (For Export)": "gLinkChildSkel",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gMalonChildSkel",
+    "SoH Skel Name (For Export)": "gMalonChildSkel",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gMalonAdultSkel",
+    "SoH Skel Name (For Export)": "gMalonAdultSkel",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gEnMbSpearSkel",
+    "SoH Skel Name (For Export)": "gEnMbSpearSkel",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gEnMbClubSkel",
+    "SoH Skel Name (For Export)": "gEnMbClubSkel",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gMidoSkel",
+    "SoH Skel Name (For Export)": "gMidoSkel",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_mk_Skel_005DF0",
+    "SoH Skel Name (For Export)": "object_mk_Skel_005DF0",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gRunningManSkel",
+    "SoH Skel Name (For Export)": "gRunningManSkel",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gBeanSalesmanSkel",
+    "SoH Skel Name (For Export)": "gBeanSalesmanSkel",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_mu_Skel_004F70",
+    "SoH Skel Name (For Export)": "object_mu_Skel_004F70",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gDancingCoupleSkel",
+    "SoH Skel Name (For Export)": "gDancingCoupleSkel",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gNabooruSkel",
+    "SoH Skel Name (For Export)": "gNabooruSkel",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gCuccoSkel",
+    "SoH Skel Name (For Export)": "gCuccoSkel",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_oA1_Skel_00000260",
+    "SoH Skel Name (For Export)": "object_oA1_Skel_00000260",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_oA2_Skel_00000260",
+    "SoH Skel Name (For Export)": "object_oA2_Skel_00000260",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_oA4_Skel_00000260",
+    "SoH Skel Name (For Export)": "object_oA4_Skel_00000260",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_oA5_Skel_00000260",
+    "SoH Skel Name (For Export)": "object_oA5_Skel_00000260",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_oA6_Skel_00000260",
+    "SoH Skel Name (For Export)": "object_oA6_Skel_00000260",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_oA7_Skel_00000260",
+    "SoH Skel Name (For Export)": "object_oA7_Skel_00000260",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_oA8_Skel_00000260",
+    "SoH Skel Name (For Export)": "object_oA8_Skel_00000260",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_oA10_Skel_00000260",
+    "SoH Skel Name (For Export)": "object_oA10_Skel_00000260",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_oB1_Skel_00000260",
+    "SoH Skel Name (For Export)": "object_oB1_Skel_00000260",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_oB3_Skel_00000260",
+    "SoH Skel Name (For Export)": "object_oB3_Skel_00000260",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_oB4_Skel_00000260",
+    "SoH Skel Name (For Export)": "object_oB4_Skel_00000260",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_oE1_Skel_000260",
+    "SoH Skel Name (For Export)": "object_oE1_Skel_000260",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_oE1s_Skel_000190",
+    "SoH Skel Name (For Export)": "object_oE1s_Skel_000190",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_oE2_Skel_000260",
+    "SoH Skel Name (For Export)": "object_oE2_Skel_000260",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_oE3_Skel_000260",
+    "SoH Skel Name (For Export)": "object_oE3_Skel_000260",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_oE4_Skel_000260",
+    "SoH Skel Name (For Export)": "object_oE4_Skel_000260",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_oE4s_Skel_000190",
+    "SoH Skel Name (For Export)": "object_oE4s_Skel_000190",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gGoronSkel",
+    "SoH Skel Name (For Export)": "gGoronSkel",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_oF1s_Skel_000110",
+    "SoH Skel Name (For Export)": "object_oF1s_Skel_000110",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gOctorokSkel",
+    "SoH Skel Name (For Export)": "gOctorokSkel",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gHappyMaskSalesmanSkel",
+    "SoH Skel Name (For Export)": "object_os_Skel_004658",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gObjectOssanSkel",
+    "SoH Skel Name (For Export)": "gObjectOssanSkel",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gOwlPerchingSkel",
+    "SoH Skel Name (For Export)": "gOwlPerchingSkel",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gOwlFlyingSkel",
+    "SoH Skel Name (For Export)": "gOwlFlyingSkel",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gPeehatSkel",
+    "SoH Skel Name (For Export)": "gPeehatSkel",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gPoeComposerSkel",
+    "SoH Skel Name (For Export)": "gPoeComposerSkel",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gPoeFieldSkel",
+    "SoH Skel Name (For Export)": "gPoeFieldSkel",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gPoeSistersSkel",
+    "SoH Skel Name (For Export)": "gPoeSistersSkel",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gPoeSkel",
+    "SoH Skel Name (For Export)": "gPoeSkel",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gPoeSellerSkel",
+    "SoH Skel Name (For Export)": "gPoeSellerSkel",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gRedeadSkel",
+    "SoH Skel Name (For Export)": "gRedeadSkel",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gGibdoSkel",
+    "SoH Skel Name (For Export)": "gGibdoSkel",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_reeba_Skel_001EE8",
+    "SoH Skel Name (For Export)": "object_reeba_Skel_001EE8",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_rl_Skel_007B38",
+    "SoH Skel Name (For Export)": "object_rl_Skel_007B38",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gBombchuShopkeeperSkel",
+    "SoH Skel Name (For Export)": "object_rs_Skel_004868",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gRutoChildSkel",
+    "SoH Skel Name (For Export)": "gRutoChildSkel",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gAdultRutoSkel",
+    "SoH Skel Name (For Export)": "gAdultRutoSkel",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gSariaSkel",
+    "SoH Skel Name (For Export)": "gSariaSkel",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_sb_Skel_002BF0",
+    "SoH Skel Name (For Export)": "object_sb_Skel_002BF0",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gEnHeishiSkel",
+    "SoH Skel Name (For Export)": "gEnHeishiSkel",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gBusinessScrubSkel",
+    "SoH Skel Name (For Export)": "gBusinessScrubSkel",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gStalfosSkel",
+    "SoH Skel Name (For Export)": "gStalfosSkel",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gStalchildSkel",
+    "SoH Skel Name (For Export)": "gStalchildSkel",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gSkullKidSkel",
+    "SoH Skel Name (For Export)": "gSkullKidSkel",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_ssh_Skel_0052E0",
+    "SoH Skel Name (For Export)": "object_ssh_Skel_0052E0",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gBongoRightHandSkel",
+    "SoH Skel Name (For Export)": "gBongoRightHandSkel",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gBongoLeftHandSkel",
+    "SoH Skel Name (For Export)": "gBongoLeftHandSkel",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gBongoHeadSkel",
+    "SoH Skel Name (For Export)": "gBongoHeadSkel",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_st_Skel_005298",
+    "SoH Skel Name (For Export)": "object_st_Skel_005298",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gTalonSkel",
+    "SoH Skel Name (For Export)": "gTalonSkel",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_tite_Skel_003A20",
+    "SoH Skel Name (For Export)": "object_tite_Skel_003A20",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gDampeSkel",
+    "SoH Skel Name (For Export)": "gDampeSkel",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gDarkLinkSkel",
+    "SoH Skel Name (For Export)": "gDarkLinkSkel",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_toryo_Skel_007150",
+    "SoH Skel Name (For Export)": "object_toryo_Skel_007150",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gKotakeSkel",
+    "SoH Skel Name (For Export)": "object_tr_Skel_00C530",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gKoumeSkel",
+    "SoH Skel Name (For Export)": "object_tr_Skel_011688",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "object_ts_Skel_004FE0",
+    "SoH Skel Name (For Export)": "object_ts_Skel_004FE0",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gTwinrovaKotakeSkel",
+    "SoH Skel Name (For Export)": "object_tw_Skel_0070E0",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gTwinrovaKoumeSkel",
+    "SoH Skel Name (For Export)": "object_tw_Skel_01F888",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gTwinrovaSkel",
+    "SoH Skel Name (For Export)": "object_tw_Skel_032020",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gBariSkel",
+    "SoH Skel Name (For Export)": "gBariSkel",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gBeamosSkel",
+    "SoH Skel Name (For Export)": "gBeamosSkel",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gWallmasterSkel",
+    "SoH Skel Name (For Export)": "gWallmasterSkel",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gWarpCrystalSkel",
+    "SoH Skel Name (For Export)": "gWarpCrystalSkel",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gWolfosWhiteSkel",
+    "SoH Skel Name (For Export)": "gWolfosWhiteSkel",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gWolfosNormalSkel",
+    "SoH Skel Name (For Export)": "gWolfosNormalSkel",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gSheikSkel",
+    "SoH Skel Name (For Export)": "gSheikSkel",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gZfLizalfosSkel",
+    "SoH Skel Name (For Export)": "gZfLizalfosSkel",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gZfDinolfosSkel",
+    "SoH Skel Name (For Export)": "gZfDinolfosSkel",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gChildZelda1Skel",
+    "SoH Skel Name (For Export)": "gChildZelda1Skel",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gZelda2Skel",
+    "SoH Skel Name (For Export)": "gZelda2Skel",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gChildZeldaSkel",
+    "SoH Skel Name (For Export)": "gChildZeldaSkel",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "gZoraSkel",
+    "SoH Skel Name (For Export)": "gZoraSkel",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "",
+    "SoH Skel Name (For Export)": "",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "",
+    "SoH Skel Name (For Export)": "sSkel",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "",
+    "SoH Skel Name (For Export)": "",
+    "Bone Name": "",
+    "Description": ""
+  },
+  {
+    "Decomp Skel Name (For Import)": "Entries marked red are SkelCurves - pending more info.",
+    "SoH Skel Name (For Export)": "",
+    "Bone Name": "",
+    "Description": ""
+  }
+]

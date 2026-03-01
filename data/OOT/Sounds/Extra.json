@@ -1,0 +1,14 @@
+[
+  {
+    "OTR": "sample_0000D140",
+    "Name": "synth-str"
+  },
+  {
+    "OTR": "sample_0000C3B0",
+    "Name": "samples/cuica-lo.wav"
+  },
+  {
+    "OTR": "sample_0000C420",
+    "Name": "cuica-hi.wav"
+  }
+]

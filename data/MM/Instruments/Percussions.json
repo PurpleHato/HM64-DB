@@ -1,0 +1,26 @@
+[
+  {
+    "location": "Termina Field (Soundfont 0)",
+    "details": "Slots 0x00-0x3F: Drum percussion"
+  },
+  {
+    "location": "Clock Town (Soundfont 1)",
+    "details": "TODO: Fill in percussion drum mappings"
+  },
+  {
+    "location": "Swamp Region (Soundfont 2)",
+    "details": "TODO: Fill in percussion drum mappings"
+  },
+  {
+    "location": "Great Bay Region (Soundfont 3)",
+    "details": "TODO: Fill in percussion drum mappings"
+  },
+  {
+    "location": "Mountain Region (Soundfont 4)",
+    "details": "TODO: Fill in percussion drum mappings"
+  },
+  {
+    "location": "Ikana Region (Soundfont 5)",
+    "details": "TODO: Fill in percussion drum mappings"
+  }
+]

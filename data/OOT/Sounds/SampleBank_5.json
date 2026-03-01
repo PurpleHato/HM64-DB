@@ -1,0 +1,38 @@
+[
+  {
+    "Decomp": "Sample0",
+    "OOT OTR": "Goron Drum",
+    "Sample Rate (Hz)": "16000",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample1",
+    "OOT OTR": "Tom Drum",
+    "Sample Rate (Hz)": "32000",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample2",
+    "OOT OTR": "Bass Slap",
+    "Sample Rate (Hz)": "22050",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample3",
+    "OOT OTR": "sample_0000C3B0",
+    "Sample Rate (Hz)": "16000",
+    "Notes": "Goron Ooh"
+  },
+  {
+    "Decomp": "Sample4",
+    "OOT OTR": "sample_0000C420",
+    "Sample Rate (Hz)": "22050",
+    "Notes": "Goron Ooh (High)"
+  },
+  {
+    "Decomp": "Sample5",
+    "OOT OTR": "Resonant Bass Marimba",
+    "Sample Rate (Hz)": "22050",
+    "Notes": ""
+  }
+]

@@ -1,0 +1,2192 @@
+[
+  {
+    "Scene Path": "scenes/dungeons/bdan",
+    "Filename": "bdan_room_2_03000160_RoomShapeNormal_0300016C_DListsEntries_03006DD8_DL_030069F8_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0B000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/bdan",
+    "Filename": "bdan_room_7_03000130_RoomShapeNormal_0300013C_DListsEntries_03002CB8_DL_03001030_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/Bmori1",
+    "Filename": "Bmori1_room_14_03000100_RoomShapeNormal_0300010C_DListsEntries_03003520_DL_03003270_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0A000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/Bmori1",
+    "Filename": "Bmori1_room_14_03000100_RoomShapeNormal_0300010C_DListsEntries_03005760_DL_03005670_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x09000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/Bmori1",
+    "Filename": "Bmori1_room_7_03000180_RoomShapeNormal_0300018C_DListsEntries_0300EFA8_DL_0300EE80_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x09000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/Bmori1",
+    "Filename": "Bmori1_room_8_03000130_RoomShapeNormal_0300013C_DListsEntries_03013A68_DL_03013118_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x09000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/ddan",
+    "Filename": "ddan_room_0_03000240_RoomShapeCullable_0300024C_CullableEntries_0300B520_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0B000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/ddan",
+    "Filename": "ddan_room_0_03000240_RoomShapeCullable_0300024C_CullableEntries_0300C518_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0C000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/ddan",
+    "Filename": "ddan_room_3_030001C0_RoomShapeCullable_030001CC_CullableEntries_03008430_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0A000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/ddan",
+    "Filename": "ddan_room_3_030001C0_RoomShapeCullable_030001CC_CullableEntries_0300D560_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x09000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/FIRE_bs",
+    "Filename": "FIRE_bs_room_0_03000050_RoomShapeNormal_0300005C_DListsEntries_03002E08_DL_03002848_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/FIRE_bs",
+    "Filename": "FIRE_bs_room_1_03000070_RoomShapeNormal_0300007C_DListsEntries_03004940_DL_03003480_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x09000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/FIRE_bs",
+    "Filename": "FIRE_bs_room_1_03000070_RoomShapeNormal_0300007C_DListsEntries_03004940_DL_03003698_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/ganontika",
+    "Filename": "ganontika_room_12_030001B0_RoomShapeCullable_030001BC_CullableEntries_03009178_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/ganontika",
+    "Filename": "ganontika_room_14_030001D0_RoomShapeCullable_030001DC_CullableEntries_03004E38_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0A000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/ganontika",
+    "Filename": "ganontika_room_14_030001D0_RoomShapeCullable_030001DC_CullableEntries_03008888_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x09000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/ganon_demo",
+    "Filename": "ganon_demo_room_0_03000210_RoomShapeNormal_0300021C_DListsEntries_03003D58_DL_03001778_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0B000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/ganon_final",
+    "Filename": "ganon_final_room_0_030000F0_RoomShapeNormal_030000FC_DListsEntries_0300CA40_DL_03009A08_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x09000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/ganon_final",
+    "Filename": "ganon_final_room_0_030000F0_RoomShapeNormal_030000FC_DListsEntries_0300CA40_DL_0300C578_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/ganon_final",
+    "Filename": "ganon_final_room_0_030000F0_RoomShapeNormal_030000FC_DListsEntries_0300CE98_DL_0300CD90_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0A000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/gerudoway",
+    "Filename": "gerudoway_room_3_03000130_RoomShapeCullable_0300013C_CullableEntries_03005378_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x09000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/HAKAdan",
+    "Filename": "HAKAdan_room_21_03000270_RoomShapeCullable_0300027C_CullableEntries_0300ACC0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/HAKAdanCH",
+    "Filename": "HAKAdanCH_room_0_030003C0_RoomShapeCullable_030003CC_CullableEntries_03014610_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/HAKAdanCH",
+    "Filename": "HAKAdanCH_room_1_03000240_RoomShapeCullable_0300024C_CullableEntries_0300B040_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/HAKAdan_bs",
+    "Filename": "HAKAdan_bs_room_1_03000060_RoomShapeNormal_0300006C_DListsEntries_03002D20_DL_03001848_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/HIDAN",
+    "Filename": "HIDAN_room_10_030003C0_RoomShapeCullable_030003CC_CullableEntries_03000680_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/HIDAN",
+    "Filename": "HIDAN_room_16_03000170_RoomShapeCullable_0300017C_CullableEntries_03000350_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/HIDAN",
+    "Filename": "HIDAN_room_1_03000190_RoomShapeCullable_0300019C_CullableEntries_030002D0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/HIDAN",
+    "Filename": "HIDAN_room_21_030000B0_RoomShapeCullable_030000BC_CullableEntries_03000230_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/HIDAN",
+    "Filename": "HIDAN_room_21_030000B0_RoomShapeCullable_030000BC_CullableEntries_030003E8_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x09000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/HIDAN",
+    "Filename": "HIDAN_room_24_03000090_RoomShapeCullable_0300009C_CullableEntries_03003A10_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/HIDAN",
+    "Filename": "HIDAN_room_26_03000050_RoomShapeCullable_0300005C_CullableEntries_03003590_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/HIDAN",
+    "Filename": "HIDAN_room_26_03000050_RoomShapeCullable_0300005C_CullableEntries_030037A0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x09000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/HIDAN",
+    "Filename": "HIDAN_room_2_03000170_RoomShapeCullable_0300017C_CullableEntries_030094C0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/HIDAN",
+    "Filename": "HIDAN_room_6_03000090_RoomShapeCullable_0300009C_CullableEntries_03001A00_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/HIDAN",
+    "Filename": "HIDAN_room_8_030000D0_RoomShapeCullable_030000DC_CullableEntries_03002660_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/ice_doukutu",
+    "Filename": "ice_doukutu_room_10_03000070_RoomShapeNormal_0300007C_DListsEntries_03003BC8_DL_03003AF0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0A000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/ice_doukutu",
+    "Filename": "ice_doukutu_room_1_03000140_RoomShapeNormal_0300014C_DListsEntries_030040D8_DL_03002D80_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x09000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/ice_doukutu",
+    "Filename": "ice_doukutu_room_1_03000140_RoomShapeNormal_0300014C_DListsEntries_0300AB10_DL_03009B48_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0A000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/ice_doukutu",
+    "Filename": "ice_doukutu_room_3_030001B0_RoomShapeNormal_030001BC_DListsEntries_030031D8_DL_030030F0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x09000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/ice_doukutu",
+    "Filename": "ice_doukutu_room_5_030001A0_RoomShapeNormal_030001AC_DListsEntries_03007460_DL_03006F10_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0A000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/ice_doukutu",
+    "Filename": "ice_doukutu_room_7_030000B0_RoomShapeNormal_030000BC_DListsEntries_030040A8_DL_03003FD0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0A000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/ice_doukutu",
+    "Filename": "ice_doukutu_room_9_030001B0_RoomShapeNormal_030001BC_DListsEntries_03004468_DL_030008E0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x09000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/men",
+    "Filename": "men_room_4_03000180_RoomShapeCullable_0300018C_CullableEntries_03005068_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x09000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/men",
+    "Filename": "men_room_6_030001E0_RoomShapeCullable_030001EC_CullableEntries_03003B90_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x09000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/men",
+    "Filename": "men_room_9_03000160_RoomShapeCullable_0300016C_CullableEntries_03002F80_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0A000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_0_030001D0_RoomShapeCullable_030001DC_CullableEntries_03000B98_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x09000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_0_030001D0_RoomShapeCullable_030001DC_CullableEntries_030010A8_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x09000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_0_030001D0_RoomShapeCullable_030001DC_CullableEntries_030014A0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_0_030001D0_RoomShapeCullable_030001DC_CullableEntries_03001750_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x09000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_0_030001D0_RoomShapeCullable_030001DC_CullableEntries_03001A10_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0A000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_0_030001D0_RoomShapeCullable_030001DC_CullableEntries_03001D70_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0A000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_0_030001D0_RoomShapeCullable_030001DC_CullableEntries_03002F60_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0A000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_0_030001D0_RoomShapeCullable_030001DC_CullableEntries_03003320_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_0_030001D0_RoomShapeCullable_030001DC_CullableEntries_03003880_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x09000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_0_030001D0_RoomShapeCullable_030001DC_CullableEntries_030041C0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_0_030001D0_RoomShapeCullable_030001DC_CullableEntries_03004778_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0A000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_0_030001D0_RoomShapeCullable_030001DC_CullableEntries_03004D90_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_0_030001D0_RoomShapeCullable_030001DC_CullableEntries_030051B8_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_0_030001D0_RoomShapeCullable_030001DC_CullableEntries_03005428_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_0_030001D0_RoomShapeCullable_030001DC_CullableEntries_03005870_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_0_030001D0_RoomShapeCullable_030001DC_CullableEntries_03005B48_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_0_030001D0_RoomShapeCullable_030001DC_CullableEntries_03005F78_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_0_030001D0_RoomShapeCullable_030001DC_CullableEntries_030062E0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_0_030001D0_RoomShapeCullable_030001DC_CullableEntries_03006508_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_0_030001D0_RoomShapeCullable_030001DC_CullableEntries_030067C8_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_0_030001D0_RoomShapeCullable_030001DC_CullableEntries_03006C60_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_0_030001D0_RoomShapeCullable_030001DC_CullableEntries_03007050_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_0_030001D0_RoomShapeCullable_030001DC_CullableEntries_03007370_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_0_030001D0_RoomShapeCullable_030001DC_CullableEntries_03007620_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_0_030001D0_RoomShapeCullable_030001DC_CullableEntries_03007AC0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_0_030001D0_RoomShapeCullable_030001DC_CullableEntries_03007D78_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_0_030001D0_RoomShapeCullable_030001DC_CullableEntries_03008B98_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_0_030001D0_RoomShapeCullable_030001DC_CullableEntries_03009560_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_0_030001D0_RoomShapeCullable_030001DC_CullableEntries_03009D60_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_0_030001D0_RoomShapeCullable_030001DC_CullableEntries_0300A550_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_0_030001D0_RoomShapeCullable_030001DC_CullableEntries_0300ABB8_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_0_030001D0_RoomShapeCullable_030001DC_CullableEntries_0300B018_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_0_030001D0_RoomShapeCullable_030001DC_CullableEntries_0300B328_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_0_030001D0_RoomShapeCullable_030001DC_CullableEntries_0300B730_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_0_030001D0_RoomShapeCullable_030001DC_CullableEntries_0300BCC8_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_0_030001D0_RoomShapeCullable_030001DC_CullableEntries_0300C180_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_0_030001D0_RoomShapeCullable_030001DC_CullableEntries_0300C5D8_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_0_030001D0_RoomShapeCullable_030001DC_CullableEntries_0300C840_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_0_030001D0_RoomShapeCullable_030001DC_CullableEntries_0300CB60_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_0_030001D0_RoomShapeCullable_030001DC_CullableEntries_03014EC0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0C000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_0_030001D0_RoomShapeCullable_030001DC_CullableEntries_03015078_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0C000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_10_03000190_RoomShapeCullable_0300019C_CullableEntries_03001B80_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x09000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_10_03000190_RoomShapeCullable_0300019C_CullableEntries_03001E60_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x09000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_10_03000190_RoomShapeCullable_0300019C_CullableEntries_030021D0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x09000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_10_03000190_RoomShapeCullable_0300019C_CullableEntries_03002708_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x09000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_10_03000190_RoomShapeCullable_0300019C_CullableEntries_03002FE0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x09000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_10_03000190_RoomShapeCullable_0300019C_CullableEntries_03003298_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x09000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_10_03000190_RoomShapeCullable_0300019C_CullableEntries_030036D8_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x09000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_12_030001C0_RoomShapeCullable_030001CC_CullableEntries_03000720_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0A000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_12_030001C0_RoomShapeCullable_030001CC_CullableEntries_03000AC8_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0A000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_12_030001C0_RoomShapeCullable_030001CC_CullableEntries_03000DF0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0A000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_12_030001C0_RoomShapeCullable_030001CC_CullableEntries_030024F0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0A000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_12_030001C0_RoomShapeCullable_030001CC_CullableEntries_03002D30_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0A000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_12_030001C0_RoomShapeCullable_030001CC_CullableEntries_03002F68_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0A000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_12_030001C0_RoomShapeCullable_030001CC_CullableEntries_030061C0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0D000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_12_030001C0_RoomShapeCullable_030001CC_CullableEntries_03006518_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0C000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_14_03000150_RoomShapeCullable_0300015C_CullableEntries_03000450_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0A000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_14_03000150_RoomShapeCullable_0300015C_CullableEntries_030009E0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0A000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_14_03000150_RoomShapeCullable_0300015C_CullableEntries_03000C68_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0A000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_14_03000150_RoomShapeCullable_0300015C_CullableEntries_03000FB0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0A000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_14_03000150_RoomShapeCullable_0300015C_CullableEntries_03003520_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0A000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_17_030001A0_RoomShapeCullable_030001AC_CullableEntries_03001910_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_17_030001A0_RoomShapeCullable_030001AC_CullableEntries_030020B8_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_17_030001A0_RoomShapeCullable_030001AC_CullableEntries_030025F8_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_17_030001A0_RoomShapeCullable_030001AC_CullableEntries_03002910_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_17_030001A0_RoomShapeCullable_030001AC_CullableEntries_03002C70_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_17_030001A0_RoomShapeCullable_030001AC_CullableEntries_03003458_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_17_030001A0_RoomShapeCullable_030001AC_CullableEntries_030038C0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x09000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_17_030001A0_RoomShapeCullable_030001AC_CullableEntries_03003B00_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x09000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_17_030001A0_RoomShapeCullable_030001AC_CullableEntries_030041C8_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x09000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_17_030001A0_RoomShapeCullable_030001AC_CullableEntries_03004B30_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x09000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_17_030001A0_RoomShapeCullable_030001AC_CullableEntries_03005118_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x09000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_17_030001A0_RoomShapeCullable_030001AC_CullableEntries_030054E0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x09000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_17_030001A0_RoomShapeCullable_030001AC_CullableEntries_030056E8_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x09000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_17_030001A0_RoomShapeCullable_030001AC_CullableEntries_03005928_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x09000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_18_030000F0_RoomShapeCullable_030000FC_CullableEntries_03000240_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_18_030000F0_RoomShapeCullable_030000FC_CullableEntries_030006B0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_18_030000F0_RoomShapeCullable_030000FC_CullableEntries_030008F8_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_18_030000F0_RoomShapeCullable_030000FC_CullableEntries_03000B38_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_18_030000F0_RoomShapeCullable_030000FC_CullableEntries_03000E00_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_18_030000F0_RoomShapeCullable_030000FC_CullableEntries_030011A0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_18_030000F0_RoomShapeCullable_030000FC_CullableEntries_03001740_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_1_03000120_RoomShapeCullable_0300012C_CullableEntries_03001F20_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_1_03000120_RoomShapeCullable_0300012C_CullableEntries_030028D8_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_1_03000120_RoomShapeCullable_0300012C_CullableEntries_03002C40_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_1_03000120_RoomShapeCullable_0300012C_CullableEntries_03003030_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_1_03000120_RoomShapeCullable_0300012C_CullableEntries_03003888_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_1_03000120_RoomShapeCullable_0300012C_CullableEntries_03003D70_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_1_03000120_RoomShapeCullable_0300012C_CullableEntries_030045D0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_1_03000120_RoomShapeCullable_0300012C_CullableEntries_03004B18_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_1_03000120_RoomShapeCullable_0300012C_CullableEntries_03005050_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0A000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_1_03000120_RoomShapeCullable_0300012C_CullableEntries_030053E8_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0A000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_1_03000120_RoomShapeCullable_0300012C_CullableEntries_03005818_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0A000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_20_030001B0_RoomShapeCullable_030001BC_CullableEntries_03000BA0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x09000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_20_030001B0_RoomShapeCullable_030001BC_CullableEntries_030018B8_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x09000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_20_030001B0_RoomShapeCullable_030001BC_CullableEntries_03001D48_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x09000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_20_030001B0_RoomShapeCullable_030001BC_CullableEntries_030022D8_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x09000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_20_030001B0_RoomShapeCullable_030001BC_CullableEntries_030026D0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x09000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_20_030001B0_RoomShapeCullable_030001BC_CullableEntries_03002980_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x09000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_20_030001B0_RoomShapeCullable_030001BC_CullableEntries_03002CB8_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x09000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_20_030001B0_RoomShapeCullable_030001BC_CullableEntries_03002ED8_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x09000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_21_03000190_RoomShapeCullable_0300019C_CullableEntries_03002D40_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0A000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_21_03000190_RoomShapeCullable_0300019C_CullableEntries_03003A70_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0A000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_21_03000190_RoomShapeCullable_0300019C_CullableEntries_03003CD8_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0B000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_21_03000190_RoomShapeCullable_0300019C_CullableEntries_03004018_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0A000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_21_03000190_RoomShapeCullable_0300019C_CullableEntries_03004228_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0B000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_21_03000190_RoomShapeCullable_0300019C_CullableEntries_03006A40_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0D000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_22_03000050_RoomShapeCullable_0300005C_CullableEntries_030020C0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0A000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_22_03000050_RoomShapeCullable_0300005C_CullableEntries_03002B18_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0A000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_22_03000050_RoomShapeCullable_0300005C_CullableEntries_03002E40_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0A000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_22_03000050_RoomShapeCullable_0300005C_CullableEntries_030033A0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0A000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_22_03000050_RoomShapeCullable_0300005C_CullableEntries_03003778_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0A000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_22_03000050_RoomShapeCullable_0300005C_CullableEntries_03003E08_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0A000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_22_03000050_RoomShapeCullable_0300005C_CullableEntries_030040C8_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0A000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_22_03000050_RoomShapeCullable_0300005C_CullableEntries_03004370_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0A000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_2_03000220_RoomShapeCullable_0300022C_CullableEntries_030004E0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0A000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_2_03000220_RoomShapeCullable_0300022C_CullableEntries_03002000_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0A000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_2_03000220_RoomShapeCullable_0300022C_CullableEntries_030028A0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0A000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_2_03000220_RoomShapeCullable_0300022C_CullableEntries_03005380_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0C000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_3_03000200_RoomShapeCullable_0300020C_CullableEntries_030003C0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_3_03000200_RoomShapeCullable_0300020C_CullableEntries_030007F0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_3_03000200_RoomShapeCullable_0300020C_CullableEntries_03000AC0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_3_03000200_RoomShapeCullable_0300020C_CullableEntries_030012B0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0A000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_3_03000200_RoomShapeCullable_0300020C_CullableEntries_03001658_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0A000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_3_03000200_RoomShapeCullable_0300020C_CullableEntries_03001E98_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0A000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_3_03000200_RoomShapeCullable_0300020C_CullableEntries_03002190_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0A000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_4_03000150_RoomShapeCullable_0300015C_CullableEntries_03000780_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x09000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_4_03000150_RoomShapeCullable_0300015C_CullableEntries_03000AD8_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x09000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_4_03000150_RoomShapeCullable_0300015C_CullableEntries_03001370_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x09000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_5_03000190_RoomShapeCullable_0300019C_CullableEntries_030004C0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0B000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_5_03000190_RoomShapeCullable_0300019C_CullableEntries_030008E0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0B000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_5_03000190_RoomShapeCullable_0300019C_CullableEntries_03009CB0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0D000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_6_03000170_RoomShapeCullable_0300017C_CullableEntries_03003450_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0A000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_6_03000170_RoomShapeCullable_0300017C_CullableEntries_03003698_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0A000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_6_03000170_RoomShapeCullable_0300017C_CullableEntries_03003A58_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0A000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_6_03000170_RoomShapeCullable_0300017C_CullableEntries_03003D08_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0A000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_6_03000170_RoomShapeCullable_0300017C_CullableEntries_030047E8_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0A000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_6_03000170_RoomShapeCullable_0300017C_CullableEntries_03004F28_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0A000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_7_030000A0_RoomShapeCullable_030000AC_CullableEntries_03002440_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0A000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_8_030001A0_RoomShapeCullable_030001AC_CullableEntries_03000740_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0A000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_8_030001A0_RoomShapeCullable_030001AC_CullableEntries_03000A78_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0B000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_8_030001A0_RoomShapeCullable_030001AC_CullableEntries_03000DB8_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0B000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_8_030001A0_RoomShapeCullable_030001AC_CullableEntries_03001398_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0B000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_8_030001A0_RoomShapeCullable_030001AC_CullableEntries_030020E0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0B000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_8_030001A0_RoomShapeCullable_030001AC_CullableEntries_030025F0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0B000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_8_030001A0_RoomShapeCullable_030001AC_CullableEntries_03002C68_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0B000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_8_030001A0_RoomShapeCullable_030001AC_CullableEntries_03003008_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0B000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_8_030001A0_RoomShapeCullable_030001AC_CullableEntries_030036C8_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0B000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_8_030001A0_RoomShapeCullable_030001AC_CullableEntries_03003968_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0B000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_8_030001A0_RoomShapeCullable_030001AC_CullableEntries_03003B70_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0B000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_8_030001A0_RoomShapeCullable_030001AC_CullableEntries_03003F58_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0B000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_8_030001A0_RoomShapeCullable_030001AC_CullableEntries_030059B0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0A000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_8_030001A0_RoomShapeCullable_030001AC_CullableEntries_03005C00_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0A000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_8_030001A0_RoomShapeCullable_030001AC_CullableEntries_0300CED0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0D000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_8_030001A0_RoomShapeCullable_030001AC_CullableEntries_0300D0A0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0C000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_8_030001A0_RoomShapeCullable_030001AC_CullableEntries_0300D408_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0D000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_9_03000170_RoomShapeCullable_0300017C_CullableEntries_03002E20_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0A000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_9_03000170_RoomShapeCullable_0300017C_CullableEntries_030030C0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0A000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_9_03000170_RoomShapeCullable_0300017C_CullableEntries_03003408_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0A000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin",
+    "Filename": "MIZUsin_room_9_03000170_RoomShapeCullable_0300017C_CullableEntries_030077A0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0C000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin_bs",
+    "Filename": "MIZUsin_bs_room_1_03000060_RoomShapeNormal_0300006C_DListsEntries_03005688_DL_03000890_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin_bs",
+    "Filename": "MIZUsin_bs_room_1_03000060_RoomShapeNormal_0300006C_DListsEntries_03005688_DL_03000C30_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin_bs",
+    "Filename": "MIZUsin_bs_room_1_03000060_RoomShapeNormal_0300006C_DListsEntries_03005688_DL_030013F0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin_bs",
+    "Filename": "MIZUsin_bs_room_1_03000060_RoomShapeNormal_0300006C_DListsEntries_03005688_DL_03001878_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin_bs",
+    "Filename": "MIZUsin_bs_room_1_03000060_RoomShapeNormal_0300006C_DListsEntries_03005688_DL_03001F30_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin_bs",
+    "Filename": "MIZUsin_bs_room_1_03000060_RoomShapeNormal_0300006C_DListsEntries_03005688_DL_03002210_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin_bs",
+    "Filename": "MIZUsin_bs_room_1_03000060_RoomShapeNormal_0300006C_DListsEntries_03005688_DL_030024C0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin_bs",
+    "Filename": "MIZUsin_bs_room_1_03000060_RoomShapeNormal_0300006C_DListsEntries_03005688_DL_03002720_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/MIZUsin_bs",
+    "Filename": "MIZUsin_bs_room_1_03000060_RoomShapeNormal_0300006C_DListsEntries_03005688_DL_03004778_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/ydan",
+    "Filename": "ydan_room_3_030001B0_RoomShapeCullable_030001BC_CullableEntries_03010B48_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x09000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/ydan",
+    "Filename": "ydan_room_3_030001B0_RoomShapeCullable_030001BC_CullableEntries_03011C68_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x09000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/ydan",
+    "Filename": "ydan_room_9_030000F0_RoomShapeCullable_030000FC_CullableEntries_030070E0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x09000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/dungeons/ydan_boss",
+    "Filename": "ydan_boss_room_1_030000E0_RoomShapeNormal_030000EC_DListsEntries_03005FD8_DL_03005D90_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/indoors/bowling",
+    "Filename": "bowling_room_0_030000B0_RoomShapeNormal_030000BC_DListsEntries_03004D90_DL_03003170_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x09000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/indoors/bowling",
+    "Filename": "bowling_room_0_030000B0_RoomShapeNormal_030000BC_DListsEntries_03004D90_DL_03004540_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0A000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/indoors/bowling",
+    "Filename": "bowling_room_0_030000B0_RoomShapeNormal_030000BC_DListsEntries_030061A8_DL_030056A0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0B000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/indoors/bowling",
+    "Filename": "bowling_room_0_030000B0_RoomShapeNormal_030000BC_DListsEntries_030061A8_DL_03005AB8_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/indoors/daiyousei_izumi",
+    "Filename": "daiyousei_izumi_room_0_030000C0_RoomShapeNormal_030000CC_DListsEntries_030038F8_DL_030034A0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x09000000\"/>",
+    "Notes": "Caution to which material uses what value"
+  },
+  {
+    "Scene Path": "scenes/indoors/daiyousei_izumi",
+    "Filename": "daiyousei_izumi_room_0_030000C0_RoomShapeNormal_030000CC_DListsEntries_030038F8_DL_030034A0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": "Caution to which material uses what value"
+  },
+  {
+    "Scene Path": "scenes/indoors/hairal_niwa",
+    "Filename": "hairal_niwa_room_0_03000100_RoomShapeCullable_0300010C_CullableEntries_030095E0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/indoors/hairal_niwa",
+    "Filename": "hairal_niwa_room_0_03000100_RoomShapeCullable_0300010C_CullableEntries_03009958_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/indoors/hairal_niwa",
+    "Filename": "hairal_niwa_room_0_03000100_RoomShapeCullable_0300010C_CullableEntries_0300A2E8_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x09000000\"/>",
+    "Notes": "Caution to which material uses what value"
+  },
+  {
+    "Scene Path": "scenes/indoors/hairal_niwa",
+    "Filename": "hairal_niwa_room_0_03000100_RoomShapeCullable_0300010C_CullableEntries_0300A2E8_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": "Caution to which material uses what value"
+  },
+  {
+    "Scene Path": "scenes/indoors/hairal_niwa2",
+    "Filename": "hairal_niwa2_room_0_03000030_RoomShapeNormal_0300003C_DListsEntries_03014BC8_DL_03013950_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/indoors/hairal_niwa2",
+    "Filename": "hairal_niwa2_room_0_03000030_RoomShapeNormal_0300003C_DListsEntries_03014BC8_DL_03013CC8_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x09000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/indoors/hairal_niwa2",
+    "Filename": "hairal_niwa2_room_0_03000030_RoomShapeNormal_0300003C_DListsEntries_03014BC8_DL_03014658_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0B000000\"/>",
+    "Notes": "Caution to which material uses what value"
+  },
+  {
+    "Scene Path": "scenes/indoors/hairal_niwa2",
+    "Filename": "hairal_niwa2_room_0_03000030_RoomShapeNormal_0300003C_DListsEntries_03014BC8_DL_03014658_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0A000000\"/>",
+    "Notes": "Caution to which material uses what value"
+  },
+  {
+    "Scene Path": "scenes/indoors/hairal_niwa_n",
+    "Filename": "hairal_niwa_n_room_0_03000070_RoomShapeNormal_0300007C_DListsEntries_03003608_DL_03003190_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/indoors/hairal_niwa_n",
+    "Filename": "hairal_niwa_n_room_0_03000070_RoomShapeNormal_0300007C_DListsEntries_03003608_DL_030034F8_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/indoors/hakasitarelay",
+    "Filename": "hakasitarelay_room_0_030000F0_RoomShapeNormal_030000FC_DListsEntries_030062A8_DL_030061D0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/indoors/hylia_labo",
+    "Filename": "hylia_labo_room_0_030000C0_RoomShapeCullable_030000CC_CullableEntries_03004610_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/indoors/hylia_labo",
+    "Filename": "hylia_labo_room_0_030000C0_RoomShapeCullable_030000CC_CullableEntries_030048B0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/indoors/hylia_labo",
+    "Filename": "hylia_labo_room_0_030000C0_RoomShapeCullable_030000CC_CullableEntries_03004A80_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/indoors/hylia_labo",
+    "Filename": "hylia_labo_room_0_030000C0_RoomShapeCullable_030000CC_CullableEntries_03005A38_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0A000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/indoors/hylia_labo",
+    "Filename": "hylia_labo_room_0_030000C0_RoomShapeCullable_030000CC_CullableEntries_03007460_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x09000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/indoors/kenjyanoma",
+    "Filename": "kenjyanoma_room_0_030000F0_RoomShapeNormal_030000FC_DListsEntries_03001608_DL_03001020_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0A000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/indoors/kenjyanoma",
+    "Filename": "kenjyanoma_room_0_030000F0_RoomShapeNormal_030000FC_DListsEntries_03010CD8_DL_030103E0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x09000000\"/>",
+    "Notes": "Caution to which material uses what value"
+  },
+  {
+    "Scene Path": "scenes/indoors/kenjyanoma",
+    "Filename": "kenjyanoma_room_0_030000F0_RoomShapeNormal_030000FC_DListsEntries_03010CD8_DL_030103E0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": "Caution to which material uses what value"
+  },
+  {
+    "Scene Path": "scenes/indoors/mahouya",
+    "Filename": "mahouya_room_0_03000080_RoomShapeNormal_0300008C_DListsEntries_03006548_DL_03003100_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/indoors/mahouya",
+    "Filename": "mahouya_room_0_03000080_RoomShapeNormal_0300008C_DListsEntries_03006A78_DL_03006940_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x09000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/indoors/nakaniwa",
+    "Filename": "nakaniwa_room_0_03000100_RoomShapeNormal_0300010C_DListsEntries_03014E98_DL_030142E0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/indoors/syatekijyou",
+    "Filename": "syatekijyou_room_0_030000A0_RoomShapeNormal_030000AC_DListsEntries_03006548_DL_03005498_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/indoors/syatekijyou",
+    "Filename": "syatekijyou_room_0_030000A0_RoomShapeNormal_030000AC_DListsEntries_03006548_DL_03005660_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/indoors/tokinoma",
+    "Filename": "tokinoma_room_0_03000100_RoomShapeNormal_0300010C_DListsEntries_03008128_DL_03004848_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0A000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/indoors/tokinoma",
+    "Filename": "tokinoma_room_0_03000100_RoomShapeNormal_0300010C_DListsEntries_03008128_DL_03004B58_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0B000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/indoors/tokinoma",
+    "Filename": "tokinoma_room_0_03000100_RoomShapeNormal_0300010C_DListsEntries_03008128_DL_03005D68_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0A000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/indoors/tokinoma",
+    "Filename": "tokinoma_room_0_03000100_RoomShapeNormal_0300010C_DListsEntries_03008128_DL_03006748_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0B000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/indoors/tokinoma",
+    "Filename": "tokinoma_room_0_03000100_RoomShapeNormal_0300010C_DListsEntries_03008128_DL_03006AF8_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0A000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/indoors/tokinoma",
+    "Filename": "tokinoma_room_0_03000100_RoomShapeNormal_0300010C_DListsEntries_03008128_DL_03006D50_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0B000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/indoors/tokinoma",
+    "Filename": "tokinoma_room_0_03000100_RoomShapeNormal_0300010C_DListsEntries_03008128_DL_03006F80_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0A000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/indoors/tokinoma",
+    "Filename": "tokinoma_room_0_03000100_RoomShapeNormal_0300010C_DListsEntries_03008128_DL_03007160_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0B000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/indoors/tokinoma",
+    "Filename": "tokinoma_room_0_03000100_RoomShapeNormal_0300010C_DListsEntries_03008128_DL_03007310_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0C000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/indoors/tokinoma",
+    "Filename": "tokinoma_room_0_03000100_RoomShapeNormal_0300010C_DListsEntries_03008128_DL_030075B0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0A000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/indoors/tokinoma",
+    "Filename": "tokinoma_room_0_03000100_RoomShapeNormal_0300010C_DListsEntries_03008128_DL_03007A70_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x09000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/indoors/tokinoma",
+    "Filename": "tokinoma_room_0_03000100_RoomShapeNormal_0300010C_DListsEntries_03008128_DL_03007FD0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/indoors/tokinoma",
+    "Filename": "tokinoma_room_1_03000130_RoomShapeNormal_0300013C_DListsEntries_030053E0_DL_03005168_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0D000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/indoors/yousei_izumi_tate",
+    "Filename": "yousei_izumi_tate_room_0_03000060_RoomShapeCullable_0300006C_CullableEntries_03003FB0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x09000000\"/>",
+    "Notes": "Caution to which material uses what value"
+  },
+  {
+    "Scene Path": "scenes/indoors/yousei_izumi_tate",
+    "Filename": "yousei_izumi_tate_room_0_03000060_RoomShapeCullable_0300006C_CullableEntries_03003FB0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": "Caution to which material uses what value"
+  },
+  {
+    "Scene Path": "scenes/indoors/yousei_izumi_yoko",
+    "Filename": "yousei_izumi_yoko_room_0_030000B0_RoomShapeNormal_030000BC_DListsEntries_03003FF8_DL_03003AD0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x09000000\"/>",
+    "Notes": "Caution to which material uses what value"
+  },
+  {
+    "Scene Path": "scenes/indoors/yousei_izumi_yoko",
+    "Filename": "yousei_izumi_yoko_room_0_030000B0_RoomShapeNormal_030000BC_DListsEntries_03003FF8_DL_03003AD0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": "Caution to which material uses what value"
+  },
+  {
+    "Scene Path": "scenes/misc/hakaana",
+    "Filename": "hakaana_room_0_03000090_RoomShapeNormal_0300009C_DListsEntries_030068B8_DL_030067E0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/misc/hakaana2",
+    "Filename": "hakaana2_room_0_030000B0_RoomShapeNormal_030000BC_DListsEntries_030067F8_DL_03006310_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/misc/hakaana2",
+    "Filename": "hakaana2_room_0_030000B0_RoomShapeNormal_030000BC_DListsEntries_030067F8_DL_03006718_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x09000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/misc/hakaana_ouke",
+    "Filename": "hakaana_ouke_room_0_03000110_RoomShapeNormal_0300011C_DListsEntries_03007FD8_DL_030078B0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/misc/hakaana_ouke",
+    "Filename": "hakaana_ouke_room_0_03000110_RoomShapeNormal_0300011C_DListsEntries_03007FD8_DL_03007ED8_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x09000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/misc/hakaana_ouke",
+    "Filename": "hakaana_ouke_room_1_030000A0_RoomShapeNormal_030000AC_DListsEntries_03001FA0_DL_03001478_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0A000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/misc/hakaana_ouke",
+    "Filename": "hakaana_ouke_room_1_030000A0_RoomShapeNormal_030000AC_DListsEntries_03003FF0_DL_03003E50_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0B000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/misc/hakaana_ouke",
+    "Filename": "hakaana_ouke_room_2_030000A0_RoomShapeNormal_030000AC_DListsEntries_03002738_DL_03001448_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0A000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/misc/kakusiana",
+    "Filename": "kakusiana_room_0_030000F0_RoomShapeCullable_030000FC_CullableEntries_030064A0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/misc/kakusiana",
+    "Filename": "kakusiana_room_0_030000F0_RoomShapeCullable_030000FC_CullableEntries_03006838_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x09000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/misc/kakusiana",
+    "Filename": "kakusiana_room_10_03000090_RoomShapeCullable_0300009C_CullableEntries_03000D18_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0D000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/misc/kakusiana",
+    "Filename": "kakusiana_room_10_03000090_RoomShapeCullable_0300009C_CullableEntries_03001330_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0D000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/misc/kakusiana",
+    "Filename": "kakusiana_room_10_03000090_RoomShapeCullable_0300009C_CullableEntries_03004DE0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/misc/kakusiana",
+    "Filename": "kakusiana_room_10_03000090_RoomShapeCullable_0300009C_CullableEntries_03004FB8_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x09000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/misc/kakusiana",
+    "Filename": "kakusiana_room_11_03000070_RoomShapeCullable_0300007C_CullableEntries_03008250_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/misc/kakusiana",
+    "Filename": "kakusiana_room_12_03000090_RoomShapeCullable_0300009C_CullableEntries_030079F0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/misc/kakusiana",
+    "Filename": "kakusiana_room_13_03000070_RoomShapeCullable_0300007C_CullableEntries_03004350_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/misc/kakusiana",
+    "Filename": "kakusiana_room_1_03000080_RoomShapeCullable_0300008C_CullableEntries_030016F8_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0A000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/misc/kakusiana",
+    "Filename": "kakusiana_room_1_03000080_RoomShapeCullable_0300008C_CullableEntries_03004420_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/misc/kakusiana",
+    "Filename": "kakusiana_room_1_03000080_RoomShapeCullable_0300008C_CullableEntries_03004870_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0C000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/misc/kakusiana",
+    "Filename": "kakusiana_room_2_03000080_RoomShapeCullable_0300008C_CullableEntries_03000A20_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0B000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/misc/kakusiana",
+    "Filename": "kakusiana_room_2_03000080_RoomShapeCullable_0300008C_CullableEntries_03000F70_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0A000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/misc/kakusiana",
+    "Filename": "kakusiana_room_2_03000080_RoomShapeCullable_0300008C_CullableEntries_03002650_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/misc/kakusiana",
+    "Filename": "kakusiana_room_3_030000F0_RoomShapeCullable_030000FC_CullableEntries_03003A20_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/misc/kakusiana",
+    "Filename": "kakusiana_room_3_030000F0_RoomShapeCullable_030000FC_CullableEntries_03003BC8_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x09000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/misc/kakusiana",
+    "Filename": "kakusiana_room_3_030000F0_RoomShapeCullable_030000FC_CullableEntries_03004008_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0C000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/misc/kakusiana",
+    "Filename": "kakusiana_room_4_03000100_RoomShapeCullable_0300010C_CullableEntries_03004B40_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/misc/kakusiana",
+    "Filename": "kakusiana_room_5_030000E0_RoomShapeCullable_030000EC_CullableEntries_03003A90_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/misc/kakusiana",
+    "Filename": "kakusiana_room_5_030000E0_RoomShapeCullable_030000EC_CullableEntries_03003C68_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x09000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/misc/kakusiana",
+    "Filename": "kakusiana_room_6_03000090_RoomShapeCullable_0300009C_CullableEntries_030055E0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/misc/kakusiana",
+    "Filename": "kakusiana_room_7_03000080_RoomShapeCullable_0300008C_CullableEntries_03003D60_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/misc/kakusiana",
+    "Filename": "kakusiana_room_8_03000130_RoomShapeCullable_0300013C_CullableEntries_030033C0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/misc/kakusiana",
+    "Filename": "kakusiana_room_9_03000080_RoomShapeCullable_0300008C_CullableEntries_03005640_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/misc/turibori",
+    "Filename": "turibori_room_0_03000060_RoomShapeNormal_0300006C_DListsEntries_03006740_DL_030065B8_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/overworld/ganon_tou",
+    "Filename": "ganon_tou_room_0_03000140_RoomShapeNormal_0300014C_DListsEntries_030084A8_DL_030012F8_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0B000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/overworld/ganon_tou",
+    "Filename": "ganon_tou_room_0_03000140_RoomShapeNormal_0300014C_DListsEntries_030124B8_DL_03011A98_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/overworld/ganon_tou",
+    "Filename": "ganon_tou_room_0_03000140_RoomShapeNormal_0300014C_DListsEntries_030124B8_DL_03011FD0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x09000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/overworld/spot00",
+    "Filename": "spot00_room_0_03000520_RoomShapeCullable_0300052C_CullableEntries_03012C38_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0A000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/overworld/spot00",
+    "Filename": "spot00_room_0_03000520_RoomShapeCullable_0300052C_CullableEntries_03014E28_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/overworld/spot00",
+    "Filename": "spot00_room_0_03000520_RoomShapeCullable_0300052C_CullableEntries_03015100_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x09000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/overworld/spot03",
+    "Filename": "gSpot03DL_0074E8_03007210_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": "Caution to which material uses what value"
+  },
+  {
+    "Scene Path": "scenes/overworld/spot03",
+    "Filename": "gSpot03DL_0074E8_03007210_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x09000000\"/>",
+    "Notes": "Caution to which material uses what value"
+  },
+  {
+    "Scene Path": "scenes/overworld/spot03",
+    "Filename": "gSpot03DL_0074E8_03007210_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0A000000\"/>",
+    "Notes": "Caution to which material uses what value"
+  },
+  {
+    "Scene Path": "scenes/overworld/spot03",
+    "Filename": "spot03_room_0_03000490_RoomShapeCullable_0300049C_CullableEntries_0300CEB0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/overworld/spot04",
+    "Filename": "spot04_room_0_03000580_RoomShapeCullable_0300058C_CullableEntries_030055C0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0B000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/overworld/spot04",
+    "Filename": "spot04_room_0_03000580_RoomShapeCullable_0300058C_CullableEntries_03017BD0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x09000000\"/>",
+    "Notes": "Caution to which material uses what value"
+  },
+  {
+    "Scene Path": "scenes/overworld/spot04",
+    "Filename": "spot04_room_0_03000580_RoomShapeCullable_0300058C_CullableEntries_03017BD0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": "Caution to which material uses what value"
+  },
+  {
+    "Scene Path": "scenes/overworld/spot04",
+    "Filename": "spot04_room_1_03000120_RoomShapeCullable_0300012C_CullableEntries_030018D0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0A000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/overworld/spot04",
+    "Filename": "spot04_room_1_03000120_RoomShapeCullable_0300012C_CullableEntries_03004218_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0C000000\"/>",
+    "Notes": "Caution to which material uses what value"
+  },
+  {
+    "Scene Path": "scenes/overworld/spot04",
+    "Filename": "spot04_room_1_03000120_RoomShapeCullable_0300012C_CullableEntries_03004218_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0B000000\"/>",
+    "Notes": "Caution to which material uses what value"
+  },
+  {
+    "Scene Path": "scenes/overworld/spot05",
+    "Filename": "gSpot05DL_009EE0_03009DF0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/overworld/spot06",
+    "Filename": "gSpot06DL_00A400_03003270_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/overworld/spot06",
+    "Filename": "gSpot06DL_00A400_03008858_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x09000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/overworld/spot06",
+    "Filename": "gSpot06DL_00A400_03008ED0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/overworld/spot07",
+    "Filename": "spot07_room_0_03000150_RoomShapeCullable_0300015C_CullableEntries_030004D0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0C000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/overworld/spot07",
+    "Filename": "spot07_room_0_03000150_RoomShapeCullable_0300015C_CullableEntries_03002100_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0C000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/overworld/spot07",
+    "Filename": "spot07_room_0_03000150_RoomShapeCullable_0300015C_CullableEntries_030026F0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0C000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/overworld/spot07",
+    "Filename": "spot07_room_0_03000150_RoomShapeCullable_0300015C_CullableEntries_03002A28_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0C000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/overworld/spot07",
+    "Filename": "spot07_room_0_03000150_RoomShapeCullable_0300015C_CullableEntries_03002E48_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0C000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/overworld/spot07",
+    "Filename": "spot07_room_0_03000150_RoomShapeCullable_0300015C_CullableEntries_030034B0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0C000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/overworld/spot07",
+    "Filename": "spot07_room_0_03000150_RoomShapeCullable_0300015C_CullableEntries_03003EA8_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0C000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/overworld/spot07",
+    "Filename": "spot07_room_1_03000210_RoomShapeCullable_0300021C_CullableEntries_030012C0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0C000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/overworld/spot07",
+    "Filename": "spot07_room_1_03000210_RoomShapeCullable_0300021C_CullableEntries_030035B0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0C000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/overworld/spot07",
+    "Filename": "spot07_room_1_03000210_RoomShapeCullable_0300021C_CullableEntries_030038A0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0C000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/overworld/spot07",
+    "Filename": "spot07_room_1_03000210_RoomShapeCullable_0300021C_CullableEntries_03003BE0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0C000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/overworld/spot07",
+    "Filename": "spot07_room_1_03000210_RoomShapeCullable_0300021C_CullableEntries_03004200_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0C000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/overworld/spot07",
+    "Filename": "spot07_room_1_03000210_RoomShapeCullable_0300021C_CullableEntries_03004508_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0C000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/overworld/spot07",
+    "Filename": "spot07_room_1_03000210_RoomShapeCullable_0300021C_CullableEntries_03004B98_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0C000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/overworld/spot07",
+    "Filename": "spot07_room_1_03000210_RoomShapeCullable_0300021C_CullableEntries_03004E70_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0C000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/overworld/spot07",
+    "Filename": "spot07_room_1_03000210_RoomShapeCullable_0300021C_CullableEntries_03005160_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0C000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/overworld/spot07",
+    "Filename": "spot07_room_1_03000210_RoomShapeCullable_0300021C_CullableEntries_030053D0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0C000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/overworld/spot07",
+    "Filename": "spot07_room_1_03000210_RoomShapeCullable_0300021C_CullableEntries_03005D08_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0C000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/overworld/spot07",
+    "Filename": "spot07_room_1_03000210_RoomShapeCullable_0300021C_CullableEntries_030068E0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0C000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/overworld/spot08",
+    "Filename": "spot08_room_0_03000200_RoomShapeCullable_0300020C_CullableEntries_03006120_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/overworld/spot08",
+    "Filename": "spot08_room_0_03000200_RoomShapeCullable_0300020C_CullableEntries_030066F8_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/overworld/spot08",
+    "Filename": "spot08_room_0_03000200_RoomShapeCullable_0300020C_CullableEntries_03007D30_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x09000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/overworld/spot08",
+    "Filename": "spot08_room_0_03000200_RoomShapeCullable_0300020C_CullableEntries_03007FE8_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0A000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/overworld/spot09",
+    "Filename": "spot09_room_0_030002F0_RoomShapeCullable_030002FC_CullableEntries_03001330_DL_03001290_DL_030010B0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0B000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/overworld/spot09",
+    "Filename": "spot09_room_0_030002F0_RoomShapeCullable_030002FC_CullableEntries_03007530_DL_03007490_DL_03007390_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0A000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/overworld/spot09",
+    "Filename": "spot09_room_0_030002F0_RoomShapeCullable_030002FC_CullableEntries_03007FF8_DL_03007F58_DL_03007B30_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x09000000\"/>",
+    "Notes": "Caution to which material uses what value"
+  },
+  {
+    "Scene Path": "scenes/overworld/spot09",
+    "Filename": "spot09_room_0_030002F0_RoomShapeCullable_030002FC_CullableEntries_03007FF8_DL_03007F58_DL_03007B30_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": "Caution to which material uses what value"
+  },
+  {
+    "Scene Path": "scenes/overworld/spot09",
+    "Filename": "spot09_room_0_030002F0_RoomShapeCullable_030002FC_CullableEntries_03008108_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0D000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/overworld/spot09",
+    "Filename": "spot09_room_0_030002F0_RoomShapeCullable_030002FC_CullableEntries_03008318_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x0C000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/overworld/spot09",
+    "Filename": "spot09_room_0_030002F0_RoomShapeCullable_030002FC_CullableEntries_03008698_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/overworld/spot10",
+    "Filename": "spot10_room_1_030000F0_RoomShapeNormal_030000FC_DListsEntries_03007C18_DL_030079A0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/overworld/spot10",
+    "Filename": "spot10_room_3_03000130_RoomShapeNormal_0300013C_DListsEntries_03005298_DL_030051C0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x09000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/overworld/spot10",
+    "Filename": "spot10_room_9_03000090_RoomShapeNormal_0300009C_DListsEntries_030033C0_DL_03003100_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/overworld/spot11",
+    "Filename": "spot11_room_0_030002F0_RoomShapeCullable_030002FC_CullableEntries_03002FA0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/overworld/spot13",
+    "Filename": "spot13_room_1_030002C0_RoomShapeNormal_030002CC_DListsEntries_03007D68_DL_03004DD0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/overworld/spot13",
+    "Filename": "spot13_room_1_030002C0_RoomShapeNormal_030002CC_DListsEntries_03007D68_DL_030069D0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/overworld/spot13",
+    "Filename": "spot13_room_1_030002C0_RoomShapeNormal_030002CC_DListsEntries_03011E28_DL_03011BA0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x09000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/overworld/spot15",
+    "Filename": "spot15_room_0_03000410_RoomShapeCullable_0300041C_CullableEntries_0300CE90_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/overworld/spot15",
+    "Filename": "spot15_room_0_03000410_RoomShapeCullable_0300041C_CullableEntries_0300D098_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x09000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/overworld/spot16",
+    "Filename": "spot16_room_0_030003D0_RoomShapeCullable_030003DC_CullableEntries_0300ABC8_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/overworld/spot17",
+    "Filename": "spot17_room_1_03000300_RoomShapeCullable_0300030C_CullableEntries_03000E50_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/overworld/spot18",
+    "Filename": "spot18_room_3_03000360_RoomShapeCullable_0300036C_CullableEntries_030014C0_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/test_levels/besitu",
+    "Filename": "besitu_room_0_03000030_RoomShapeNormal_0300003C_DListsEntries_03001C80_DL_03001200_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/test_levels/besitu",
+    "Filename": "besitu_room_0_03000030_RoomShapeNormal_0300003C_DListsEntries_03001C80_DL_03001B40_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x09000000\"/>",
+    "Notes": ""
+  },
+  {
+    "Scene Path": "scenes/test_levels/test01",
+    "Filename": "test01_room_0_03000030_RoomShapeNormal_0300003C_DListsEntries_030090D8_DL_03008F90_DL",
+    "DisplayList Segment Call": "<CallDisplayList Path=\">0x08000000\"/>",
+    "Notes": ""
+  }
+]

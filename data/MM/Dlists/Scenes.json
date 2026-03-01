@@ -1,0 +1,4391 @@
+[
+  {
+    "Decomp Directory": "scenes/Z2_HAKUGIN_BS",
+    "Decomp File Name (For Import)": "Z2_HAKUGIN_BS_room_00DL_0061E0",
+    "SoH Directory": "scenes/Z2_HAKUGIN_BS",
+    "SoH Name (For Export)": "Z2_HAKUGIN_BS_room_00DL_0061E0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_HAKUGIN_BS",
+    "Decomp File Name (For Import)": "Z2_HAKUGIN_BS_room_00DL_006238",
+    "SoH Directory": "scenes/Z2_HAKUGIN_BS",
+    "SoH Name (For Export)": "Z2_HAKUGIN_BS_room_00DL_006238",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_SECOM",
+    "Decomp File Name (For Import)": "Z2_SECOM_room_00DL_0026A0",
+    "SoH Directory": "scenes/Z2_SECOM",
+    "SoH Name (For Export)": "Z2_SECOM_room_00DL_0026A0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_SECOM",
+    "Decomp File Name (For Import)": "Z2_SECOM_room_01DL_00BCE8",
+    "SoH Directory": "scenes/Z2_SECOM",
+    "SoH Name (For Export)": "Z2_SECOM_room_01DL_00BCE8",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_SECOM",
+    "Decomp File Name (For Import)": "Z2_SECOM_room_01DL_00F360",
+    "SoH Directory": "scenes/Z2_SECOM",
+    "SoH Name (For Export)": "Z2_SECOM_room_01DL_00F360",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_IKNINSIDE",
+    "Decomp File Name (For Import)": "Z2_IKNINSIDE_room_00DL_002988",
+    "SoH Directory": "scenes/Z2_IKNINSIDE",
+    "SoH Name (For Export)": "Z2_IKNINSIDE_room_00DL_002988",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_IKNINSIDE",
+    "Decomp File Name (For Import)": "Z2_IKNINSIDE_room_00DL_0029C8",
+    "SoH Directory": "scenes/Z2_IKNINSIDE",
+    "SoH Name (For Export)": "Z2_IKNINSIDE_room_00DL_0029C8",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_IKNINSIDE",
+    "Decomp File Name (For Import)": "Z2_IKNINSIDE_room_01DL_0061F0",
+    "SoH Directory": "scenes/Z2_IKNINSIDE",
+    "SoH Name (For Export)": "Z2_IKNINSIDE_room_01DL_0061F0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_IKNINSIDE",
+    "Decomp File Name (For Import)": "Z2_IKNINSIDE_room_01DL_007828",
+    "SoH Directory": "scenes/Z2_IKNINSIDE",
+    "SoH Name (For Export)": "Z2_IKNINSIDE_room_01DL_007828",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_OMOYA",
+    "Decomp File Name (For Import)": "Z2_OMOYA_room_00DL_007B88",
+    "SoH Directory": "scenes/Z2_OMOYA",
+    "SoH Name (For Export)": "Z2_OMOYA_room_00DL_007B88",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_OMOYA",
+    "Decomp File Name (For Import)": "Z2_OMOYA_room_00DL_0095B8",
+    "SoH Directory": "scenes/Z2_OMOYA",
+    "SoH Name (For Export)": "Z2_OMOYA_room_00DL_0095B8",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_OMOYA",
+    "Decomp File Name (For Import)": "Z2_OMOYA_room_01DL_00CE88",
+    "SoH Directory": "scenes/Z2_OMOYA",
+    "SoH Name (For Export)": "Z2_OMOYA_room_01DL_00CE88",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_OMOYA",
+    "Decomp File Name (For Import)": "Z2_OMOYA_room_01DL_00F690",
+    "SoH Directory": "scenes/Z2_OMOYA",
+    "SoH Name (For Export)": "Z2_OMOYA_room_01DL_00F690",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_OMOYA",
+    "Decomp File Name (For Import)": "Z2_OMOYA_room_02DL_007278",
+    "SoH Directory": "scenes/Z2_OMOYA",
+    "SoH Name (For Export)": "Z2_OMOYA_room_02DL_007278",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_OMOYA",
+    "Decomp File Name (For Import)": "Z2_OMOYA_room_02DL_009778",
+    "SoH Directory": "scenes/Z2_OMOYA",
+    "SoH Name (For Export)": "Z2_OMOYA_room_02DL_009778",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_INSIDETOWER",
+    "Decomp File Name (For Import)": "Z2_INSIDETOWER_room_00DL_006B10",
+    "SoH Directory": "scenes/Z2_INSIDETOWER",
+    "SoH Name (For Export)": "Z2_INSIDETOWER_room_00DL_006B10",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_INSIDETOWER",
+    "Decomp File Name (For Import)": "Z2_INSIDETOWER_room_00DL_00C9E0",
+    "SoH Directory": "scenes/Z2_INSIDETOWER",
+    "SoH Name (For Export)": "Z2_INSIDETOWER_room_00DL_00C9E0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_INSIDETOWER",
+    "Decomp File Name (For Import)": "Z2_INSIDETOWER_room_01DL_000198",
+    "SoH Directory": "scenes/Z2_INSIDETOWER",
+    "SoH Name (For Export)": "Z2_INSIDETOWER_room_01DL_000198",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/KAKUSIANA",
+    "Decomp File Name (For Import)": "KAKUSIANA_room_00DL_001E70",
+    "SoH Directory": "scenes/KAKUSIANA",
+    "SoH Name (For Export)": "KAKUSIANA_room_00DL_001E70",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/KAKUSIANA",
+    "Decomp File Name (For Import)": "KAKUSIANA_room_00DL_003A68",
+    "SoH Directory": "scenes/KAKUSIANA",
+    "SoH Name (For Export)": "KAKUSIANA_room_00DL_003A68",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/KAKUSIANA",
+    "Decomp File Name (For Import)": "KAKUSIANA_room_01DL_001610",
+    "SoH Directory": "scenes/KAKUSIANA",
+    "SoH Name (For Export)": "KAKUSIANA_room_01DL_001610",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/KAKUSIANA",
+    "Decomp File Name (For Import)": "KAKUSIANA_room_01DL_004910",
+    "SoH Directory": "scenes/KAKUSIANA",
+    "SoH Name (For Export)": "KAKUSIANA_room_01DL_004910",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/KAKUSIANA",
+    "Decomp File Name (For Import)": "KAKUSIANA_room_02DL_001730",
+    "SoH Directory": "scenes/KAKUSIANA",
+    "SoH Name (For Export)": "KAKUSIANA_room_02DL_001730",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/KAKUSIANA",
+    "Decomp File Name (For Import)": "KAKUSIANA_room_02DL_002188",
+    "SoH Directory": "scenes/KAKUSIANA",
+    "SoH Name (For Export)": "KAKUSIANA_room_02DL_002188",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/KAKUSIANA",
+    "Decomp File Name (For Import)": "KAKUSIANA_room_03DL_001038",
+    "SoH Directory": "scenes/KAKUSIANA",
+    "SoH Name (For Export)": "KAKUSIANA_room_03DL_001038",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/KAKUSIANA",
+    "Decomp File Name (For Import)": "KAKUSIANA_room_03DL_002288",
+    "SoH Directory": "scenes/KAKUSIANA",
+    "SoH Name (For Export)": "KAKUSIANA_room_03DL_002288",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/KAKUSIANA",
+    "Decomp File Name (For Import)": "KAKUSIANA_room_04DL_001598",
+    "SoH Directory": "scenes/KAKUSIANA",
+    "SoH Name (For Export)": "KAKUSIANA_room_04DL_001598",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/KAKUSIANA",
+    "Decomp File Name (For Import)": "KAKUSIANA_room_04DL_001980",
+    "SoH Directory": "scenes/KAKUSIANA",
+    "SoH Name (For Export)": "KAKUSIANA_room_04DL_001980",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/KAKUSIANA",
+    "Decomp File Name (For Import)": "KAKUSIANA_room_05DL_000C60",
+    "SoH Directory": "scenes/KAKUSIANA",
+    "SoH Name (For Export)": "KAKUSIANA_room_05DL_000C60",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/KAKUSIANA",
+    "Decomp File Name (For Import)": "KAKUSIANA_room_05DL_0016E0",
+    "SoH Directory": "scenes/KAKUSIANA",
+    "SoH Name (For Export)": "KAKUSIANA_room_05DL_0016E0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/KAKUSIANA",
+    "Decomp File Name (For Import)": "KAKUSIANA_room_06DL_0015F0",
+    "SoH Directory": "scenes/KAKUSIANA",
+    "SoH Name (For Export)": "KAKUSIANA_room_06DL_0015F0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/KAKUSIANA",
+    "Decomp File Name (For Import)": "KAKUSIANA_room_06DL_002320",
+    "SoH Directory": "scenes/KAKUSIANA",
+    "SoH Name (For Export)": "KAKUSIANA_room_06DL_002320",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/KAKUSIANA",
+    "Decomp File Name (For Import)": "KAKUSIANA_room_07DL_001018",
+    "SoH Directory": "scenes/KAKUSIANA",
+    "SoH Name (For Export)": "KAKUSIANA_room_07DL_001018",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/KAKUSIANA",
+    "Decomp File Name (For Import)": "KAKUSIANA_room_07DL_002A68",
+    "SoH Directory": "scenes/KAKUSIANA",
+    "SoH Name (For Export)": "KAKUSIANA_room_07DL_002A68",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/KAKUSIANA",
+    "Decomp File Name (For Import)": "KAKUSIANA_room_08DL_001660",
+    "SoH Directory": "scenes/KAKUSIANA",
+    "SoH Name (For Export)": "KAKUSIANA_room_08DL_001660",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/KAKUSIANA",
+    "Decomp File Name (For Import)": "KAKUSIANA_room_08DL_002D48",
+    "SoH Directory": "scenes/KAKUSIANA",
+    "SoH Name (For Export)": "KAKUSIANA_room_08DL_002D48",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/KAKUSIANA",
+    "Decomp File Name (For Import)": "KAKUSIANA_room_09DL_0015A0",
+    "SoH Directory": "scenes/KAKUSIANA",
+    "SoH Name (For Export)": "KAKUSIANA_room_09DL_0015A0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/KAKUSIANA",
+    "Decomp File Name (For Import)": "KAKUSIANA_room_09DL_0021F8",
+    "SoH Directory": "scenes/KAKUSIANA",
+    "SoH Name (For Export)": "KAKUSIANA_room_09DL_0021F8",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/KAKUSIANA",
+    "Decomp File Name (For Import)": "KAKUSIANA_room_10DL_001130",
+    "SoH Directory": "scenes/KAKUSIANA",
+    "SoH Name (For Export)": "KAKUSIANA_room_10DL_001130",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/KAKUSIANA",
+    "Decomp File Name (For Import)": "KAKUSIANA_room_10DL_001388",
+    "SoH Directory": "scenes/KAKUSIANA",
+    "SoH Name (For Export)": "KAKUSIANA_room_10DL_001388",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/KAKUSIANA",
+    "Decomp File Name (For Import)": "KAKUSIANA_room_11DL_0013B0",
+    "SoH Directory": "scenes/KAKUSIANA",
+    "SoH Name (For Export)": "KAKUSIANA_room_11DL_0013B0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/KAKUSIANA",
+    "Decomp File Name (For Import)": "KAKUSIANA_room_11DL_0025D0",
+    "SoH Directory": "scenes/KAKUSIANA",
+    "SoH Name (For Export)": "KAKUSIANA_room_11DL_0025D0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/KAKUSIANA",
+    "Decomp File Name (For Import)": "KAKUSIANA_room_12DL_0034A0",
+    "SoH Directory": "scenes/KAKUSIANA",
+    "SoH Name (For Export)": "KAKUSIANA_room_12DL_0034A0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/KAKUSIANA",
+    "Decomp File Name (For Import)": "KAKUSIANA_room_12DL_0064C8",
+    "SoH Directory": "scenes/KAKUSIANA",
+    "SoH Name (For Export)": "KAKUSIANA_room_12DL_0064C8",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/KAKUSIANA",
+    "Decomp File Name (For Import)": "KAKUSIANA_room_13DL_001CD0",
+    "SoH Directory": "scenes/KAKUSIANA",
+    "SoH Name (For Export)": "KAKUSIANA_room_13DL_001CD0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/KAKUSIANA",
+    "Decomp File Name (For Import)": "KAKUSIANA_room_13DL_003740",
+    "SoH Directory": "scenes/KAKUSIANA",
+    "SoH Name (For Export)": "KAKUSIANA_room_13DL_003740",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/KAKUSIANA",
+    "Decomp File Name (For Import)": "KAKUSIANA_room_14DL_001630",
+    "SoH Directory": "scenes/KAKUSIANA",
+    "SoH Name (For Export)": "KAKUSIANA_room_14DL_001630",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/KAKUSIANA",
+    "Decomp File Name (For Import)": "KAKUSIANA_room_14DL_0022B0",
+    "SoH Directory": "scenes/KAKUSIANA",
+    "SoH Name (For Export)": "KAKUSIANA_room_14DL_0022B0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_OPENINGDAN",
+    "Decomp File Name (For Import)": "Z2_OPENINGDAN_room_00DL_006B10",
+    "SoH Directory": "scenes/Z2_OPENINGDAN",
+    "SoH Name (For Export)": "Z2_OPENINGDAN_room_00DL_006B10",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_OPENINGDAN",
+    "Decomp File Name (For Import)": "Z2_OPENINGDAN_room_00DL_00B0C0",
+    "SoH Directory": "scenes/Z2_OPENINGDAN",
+    "SoH Name (For Export)": "Z2_OPENINGDAN_room_00DL_00B0C0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_OPENINGDAN",
+    "Decomp File Name (For Import)": "Z2_OPENINGDAN_room_01DL_005640",
+    "SoH Directory": "scenes/Z2_OPENINGDAN",
+    "SoH Name (For Export)": "Z2_OPENINGDAN_room_01DL_005640",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_OPENINGDAN",
+    "Decomp File Name (For Import)": "Z2_OPENINGDAN_room_01DL_0066A0",
+    "SoH Directory": "scenes/Z2_OPENINGDAN",
+    "SoH Name (For Export)": "Z2_OPENINGDAN_room_01DL_0066A0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_21MITURINMAE",
+    "Decomp File Name (For Import)": "Z2_21MITURINMAE_room_00DL_00FB30",
+    "SoH Directory": "scenes/Z2_21MITURINMAE",
+    "SoH Name (For Export)": "Z2_21MITURINMAE_room_00DL_00FB30",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_21MITURINMAE",
+    "Decomp File Name (For Import)": "Z2_21MITURINMAE_room_00DL_000AC0",
+    "SoH Directory": "scenes/Z2_21MITURINMAE",
+    "SoH Name (For Export)": "Z2_21MITURINMAE_room_00DL_000AC0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_21MITURINMAE",
+    "Decomp File Name (For Import)": "Z2_21MITURINMAE_room_00DL_00FA68",
+    "SoH Directory": "scenes/Z2_21MITURINMAE",
+    "SoH Name (For Export)": "Z2_21MITURINMAE_room_00DL_00FA68",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_21MITURINMAE",
+    "Decomp File Name (For Import)": "Z2_21MITURINMAE_room_00DL_00FBF8",
+    "SoH Directory": "scenes/Z2_21MITURINMAE",
+    "SoH Name (For Export)": "Z2_21MITURINMAE_room_00DL_00FBF8",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_SEA_BS",
+    "Decomp File Name (For Import)": "Z2_SEA_BS_room_00DL_005518",
+    "SoH Directory": "scenes/Z2_SEA_BS",
+    "SoH Name (For Export)": "Z2_SEA_BS_room_00DL_005518",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_SEA_BS",
+    "Decomp File Name (For Import)": "Z2_SEA_BS_room_00DL_0058C0",
+    "SoH Directory": "scenes/Z2_SEA_BS",
+    "SoH Name (For Export)": "Z2_SEA_BS_room_00DL_0058C0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_KAIZOKU",
+    "Decomp File Name (For Import)": "Z2_KAIZOKU_room_00DL_013F30",
+    "SoH Directory": "scenes/Z2_KAIZOKU",
+    "SoH Name (For Export)": "Z2_KAIZOKU_room_00DL_013F30",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_KAIZOKU",
+    "Decomp File Name (For Import)": "Z2_KAIZOKU_room_00DL_013E78",
+    "SoH Directory": "scenes/Z2_KAIZOKU",
+    "SoH Name (For Export)": "Z2_KAIZOKU_room_00DL_013E78",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_SONCHONOIE",
+    "Decomp File Name (For Import)": "Z2_SONCHONOIE_room_00DL_000160",
+    "SoH Directory": "scenes/Z2_SONCHONOIE",
+    "SoH Name (For Export)": "Z2_SONCHONOIE_room_00DL_000160",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_SONCHONOIE",
+    "Decomp File Name (For Import)": "Z2_SONCHONOIE_room_00DL_008520",
+    "SoH Directory": "scenes/Z2_SONCHONOIE",
+    "SoH Name (For Export)": "Z2_SONCHONOIE_room_00DL_008520",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_SONCHONOIE",
+    "Decomp File Name (For Import)": "Z2_SONCHONOIE_room_00DL_009560",
+    "SoH Directory": "scenes/Z2_SONCHONOIE",
+    "SoH Name (For Export)": "Z2_SONCHONOIE_room_00DL_009560",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_SONCHONOIE",
+    "Decomp File Name (For Import)": "Z2_SONCHONOIE_room_00DL_0095B8",
+    "SoH Directory": "scenes/Z2_SONCHONOIE",
+    "SoH Name (For Export)": "Z2_SONCHONOIE_room_00DL_0095B8",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_SONCHONOIE",
+    "Decomp File Name (For Import)": "Z2_SONCHONOIE_room_01DL_000180",
+    "SoH Directory": "scenes/Z2_SONCHONOIE",
+    "SoH Name (For Export)": "Z2_SONCHONOIE_room_01DL_000180",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_SONCHONOIE",
+    "Decomp File Name (For Import)": "Z2_SONCHONOIE_room_01DL_005510",
+    "SoH Directory": "scenes/Z2_SONCHONOIE",
+    "SoH Name (For Export)": "Z2_SONCHONOIE_room_01DL_005510",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_SONCHONOIE",
+    "Decomp File Name (For Import)": "Z2_SONCHONOIE_room_01DL_005DD0",
+    "SoH Directory": "scenes/Z2_SONCHONOIE",
+    "SoH Name (For Export)": "Z2_SONCHONOIE_room_01DL_005DD0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_SONCHONOIE",
+    "Decomp File Name (For Import)": "Z2_SONCHONOIE_room_01DL_005F68",
+    "SoH Directory": "scenes/Z2_SONCHONOIE",
+    "SoH Name (For Export)": "Z2_SONCHONOIE_room_01DL_005F68",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_SONCHONOIE",
+    "Decomp File Name (For Import)": "Z2_SONCHONOIE_room_02DL_000160",
+    "SoH Directory": "scenes/Z2_SONCHONOIE",
+    "SoH Name (For Export)": "Z2_SONCHONOIE_room_02DL_000160",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_SONCHONOIE",
+    "Decomp File Name (For Import)": "Z2_SONCHONOIE_room_02DL_0084F8",
+    "SoH Directory": "scenes/Z2_SONCHONOIE",
+    "SoH Name (For Export)": "Z2_SONCHONOIE_room_02DL_0084F8",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_SONCHONOIE",
+    "Decomp File Name (For Import)": "Z2_SONCHONOIE_room_02DL_009540",
+    "SoH Directory": "scenes/Z2_SONCHONOIE",
+    "SoH Name (For Export)": "Z2_SONCHONOIE_room_02DL_009540",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_SONCHONOIE",
+    "Decomp File Name (For Import)": "Z2_SONCHONOIE_room_02DL_009940",
+    "SoH Directory": "scenes/Z2_SONCHONOIE",
+    "SoH Name (For Export)": "Z2_SONCHONOIE_room_02DL_009940",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_SONCHONOIE",
+    "Decomp File Name (For Import)": "Z2_SONCHONOIE_room_03DL_000110",
+    "SoH Directory": "scenes/Z2_SONCHONOIE",
+    "SoH Name (For Export)": "Z2_SONCHONOIE_room_03DL_000110",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_SONCHONOIE",
+    "Decomp File Name (For Import)": "Z2_SONCHONOIE_room_03DL_007FC0",
+    "SoH Directory": "scenes/Z2_SONCHONOIE",
+    "SoH Name (For Export)": "Z2_SONCHONOIE_room_03DL_007FC0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_SONCHONOIE",
+    "Decomp File Name (For Import)": "Z2_SONCHONOIE_room_03DL_0093C0",
+    "SoH Directory": "scenes/Z2_SONCHONOIE",
+    "SoH Name (For Export)": "Z2_SONCHONOIE_room_03DL_0093C0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_SONCHONOIE",
+    "Decomp File Name (For Import)": "Z2_SONCHONOIE_room_03DL_009550",
+    "SoH Directory": "scenes/Z2_SONCHONOIE",
+    "SoH Name (For Export)": "Z2_SONCHONOIE_room_03DL_009550",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_LAST_LINK",
+    "Decomp File Name (For Import)": "Z2_LAST_LINK_room_00DL_001990",
+    "SoH Directory": "scenes/Z2_LAST_LINK",
+    "SoH Name (For Export)": "Z2_LAST_LINK_room_00DL_001990",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_LAST_LINK",
+    "Decomp File Name (For Import)": "Z2_LAST_LINK_room_01DL_0015D0",
+    "SoH Directory": "scenes/Z2_LAST_LINK",
+    "SoH Name (For Export)": "Z2_LAST_LINK_room_01DL_0015D0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_LAST_LINK",
+    "Decomp File Name (For Import)": "Z2_LAST_LINK_room_02DL_0016C0",
+    "SoH Directory": "scenes/Z2_LAST_LINK",
+    "SoH Name (For Export)": "Z2_LAST_LINK_room_02DL_0016C0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_LAST_LINK",
+    "Decomp File Name (For Import)": "Z2_LAST_LINK_room_03DL_001B20",
+    "SoH Directory": "scenes/Z2_LAST_LINK",
+    "SoH Name (For Export)": "Z2_LAST_LINK_room_03DL_001B20",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_LAST_LINK",
+    "Decomp File Name (For Import)": "Z2_LAST_LINK_room_04DL_001168",
+    "SoH Directory": "scenes/Z2_LAST_LINK",
+    "SoH Name (For Export)": "Z2_LAST_LINK_room_04DL_001168",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_LAST_LINK",
+    "Decomp File Name (For Import)": "Z2_LAST_LINK_room_05DL_0016A0",
+    "SoH Directory": "scenes/Z2_LAST_LINK",
+    "SoH Name (For Export)": "Z2_LAST_LINK_room_05DL_0016A0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_LAST_LINK",
+    "Decomp File Name (For Import)": "Z2_LAST_LINK_room_06DL_000B18",
+    "SoH Directory": "scenes/Z2_LAST_LINK",
+    "SoH Name (For Export)": "Z2_LAST_LINK_room_06DL_000B18",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_LAST_LINK",
+    "Decomp File Name (For Import)": "Z2_LAST_LINK_room_07DL_000B18",
+    "SoH Directory": "scenes/Z2_LAST_LINK",
+    "SoH Name (For Export)": "Z2_LAST_LINK_room_07DL_000B18",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_BOMYA",
+    "Decomp File Name (For Import)": "Z2_BOMYA_room_00DL_007508",
+    "SoH Directory": "scenes/Z2_BOMYA",
+    "SoH Name (For Export)": "Z2_BOMYA_room_00DL_007508",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_BOMYA",
+    "Decomp File Name (For Import)": "Z2_BOMYA_room_00DL_007EA8",
+    "SoH Directory": "scenes/Z2_BOMYA",
+    "SoH Name (For Export)": "Z2_BOMYA_room_00DL_007EA8",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_20SICHITAI2",
+    "Decomp File Name (For Import)": "Z2_20SICHITAI2_room_00DL_0003E0",
+    "SoH Directory": "scenes/Z2_20SICHITAI2",
+    "SoH Name (For Export)": "Z2_20SICHITAI2_room_00DL_0003E0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_20SICHITAI2",
+    "Decomp File Name (For Import)": "Z2_20SICHITAI2_room_00DL_0111C8",
+    "SoH Directory": "scenes/Z2_20SICHITAI2",
+    "SoH Name (For Export)": "Z2_20SICHITAI2_room_00DL_0111C8",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_20SICHITAI2",
+    "Decomp File Name (For Import)": "Z2_20SICHITAI2_room_00DL_019490",
+    "SoH Directory": "scenes/Z2_20SICHITAI2",
+    "SoH Name (For Export)": "Z2_20SICHITAI2_room_00DL_019490",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_20SICHITAI2",
+    "Decomp File Name (For Import)": "Z2_20SICHITAI2_room_00DL_01A608",
+    "SoH Directory": "scenes/Z2_20SICHITAI2",
+    "SoH Name (For Export)": "Z2_20SICHITAI2_room_00DL_01A608",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_20SICHITAI2",
+    "Decomp File Name (For Import)": "Z2_20SICHITAI2_room_01DL_0004C0",
+    "SoH Directory": "scenes/Z2_20SICHITAI2",
+    "SoH Name (For Export)": "Z2_20SICHITAI2_room_01DL_0004C0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_20SICHITAI2",
+    "Decomp File Name (For Import)": "Z2_20SICHITAI2_room_01DL_00C220",
+    "SoH Directory": "scenes/Z2_20SICHITAI2",
+    "SoH Name (For Export)": "Z2_20SICHITAI2_room_01DL_00C220",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_20SICHITAI2",
+    "Decomp File Name (For Import)": "Z2_20SICHITAI2_room_01DL_011D90",
+    "SoH Directory": "scenes/Z2_20SICHITAI2",
+    "SoH Name (For Export)": "Z2_20SICHITAI2_room_01DL_011D90",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_20SICHITAI2",
+    "Decomp File Name (For Import)": "Z2_20SICHITAI2_room_01DL_0125A0",
+    "SoH Directory": "scenes/Z2_20SICHITAI2",
+    "SoH Name (For Export)": "Z2_20SICHITAI2_room_01DL_0125A0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_20SICHITAI2",
+    "Decomp File Name (For Import)": "Z2_20SICHITAI2_room_02DL_000300",
+    "SoH Directory": "scenes/Z2_20SICHITAI2",
+    "SoH Name (For Export)": "Z2_20SICHITAI2_room_02DL_000300",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_20SICHITAI2",
+    "Decomp File Name (For Import)": "Z2_20SICHITAI2_room_02DL_008AC8",
+    "SoH Directory": "scenes/Z2_20SICHITAI2",
+    "SoH Name (For Export)": "Z2_20SICHITAI2_room_02DL_008AC8",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_20SICHITAI2",
+    "Decomp File Name (For Import)": "Z2_20SICHITAI2_room_02DL_00BFB0",
+    "SoH Directory": "scenes/Z2_20SICHITAI2",
+    "SoH Name (For Export)": "Z2_20SICHITAI2_room_02DL_00BFB0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_20SICHITAI2",
+    "Decomp File Name (For Import)": "Z2_20SICHITAI2_room_02DL_00C658",
+    "SoH Directory": "scenes/Z2_20SICHITAI2",
+    "SoH Name (For Export)": "Z2_20SICHITAI2_room_02DL_00C658",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_KINDAN2",
+    "Decomp File Name (For Import)": "Z2_KINDAN2_room_00DL_004288",
+    "SoH Directory": "scenes/Z2_KINDAN2",
+    "SoH Name (For Export)": "Z2_KINDAN2_room_00DL_004288",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_KINDAN2",
+    "Decomp File Name (For Import)": "Z2_KINDAN2_room_00DL_006A28",
+    "SoH Directory": "scenes/Z2_KINDAN2",
+    "SoH Name (For Export)": "Z2_KINDAN2_room_00DL_006A28",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_KINDAN2",
+    "Decomp File Name (For Import)": "Z2_KINDAN2_room_01DL_00ADB8",
+    "SoH Directory": "scenes/Z2_KINDAN2",
+    "SoH Name (For Export)": "Z2_KINDAN2_room_01DL_00ADB8",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_KINDAN2",
+    "Decomp File Name (For Import)": "Z2_KINDAN2_room_01DL_00C2D8",
+    "SoH Directory": "scenes/Z2_KINDAN2",
+    "SoH Name (For Export)": "Z2_KINDAN2_room_01DL_00C2D8",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_KINDAN2",
+    "Decomp File Name (For Import)": "Z2_KINDAN2_room_02DL_007FC8",
+    "SoH Directory": "scenes/Z2_KINDAN2",
+    "SoH Name (For Export)": "Z2_KINDAN2_room_02DL_007FC8",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_KINDAN2",
+    "Decomp File Name (For Import)": "Z2_KINDAN2_room_02DL_00A328",
+    "SoH Directory": "scenes/Z2_KINDAN2",
+    "SoH Name (For Export)": "Z2_KINDAN2_room_02DL_00A328",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_KINDAN2",
+    "Decomp File Name (For Import)": "Z2_KINDAN2_room_03DL_007610",
+    "SoH Directory": "scenes/Z2_KINDAN2",
+    "SoH Name (For Export)": "Z2_KINDAN2_room_03DL_007610",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_KINDAN2",
+    "Decomp File Name (For Import)": "Z2_KINDAN2_room_03DL_0093F0",
+    "SoH Directory": "scenes/Z2_KINDAN2",
+    "SoH Name (For Export)": "Z2_KINDAN2_room_03DL_0093F0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_KINDAN2",
+    "Decomp File Name (For Import)": "Z2_KINDAN2_room_04DL_003E30",
+    "SoH Directory": "scenes/Z2_KINDAN2",
+    "SoH Name (For Export)": "Z2_KINDAN2_room_04DL_003E30",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_KINDAN2",
+    "Decomp File Name (For Import)": "Z2_KINDAN2_room_04DL_004AA8",
+    "SoH Directory": "scenes/Z2_KINDAN2",
+    "SoH Name (For Export)": "Z2_KINDAN2_room_04DL_004AA8",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_KINDAN2",
+    "Decomp File Name (For Import)": "Z2_KINDAN2_room_05DL_006B20",
+    "SoH Directory": "scenes/Z2_KINDAN2",
+    "SoH Name (For Export)": "Z2_KINDAN2_room_05DL_006B20",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_KINDAN2",
+    "Decomp File Name (For Import)": "Z2_KINDAN2_room_05DL_007DD0",
+    "SoH Directory": "scenes/Z2_KINDAN2",
+    "SoH Name (For Export)": "Z2_KINDAN2_room_05DL_007DD0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_HAKUGIN",
+    "Decomp File Name (For Import)": "Z2_HAKUGIN_room_00DL_003B88",
+    "SoH Directory": "scenes/Z2_HAKUGIN",
+    "SoH Name (For Export)": "Z2_HAKUGIN_room_00DL_003B88",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_HAKUGIN",
+    "Decomp File Name (For Import)": "Z2_HAKUGIN_room_00DL_008420",
+    "SoH Directory": "scenes/Z2_HAKUGIN",
+    "SoH Name (For Export)": "Z2_HAKUGIN_room_00DL_008420",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_HAKUGIN",
+    "Decomp File Name (For Import)": "Z2_HAKUGIN_room_01DL_002CC8",
+    "SoH Directory": "scenes/Z2_HAKUGIN",
+    "SoH Name (For Export)": "Z2_HAKUGIN_room_01DL_002CC8",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_HAKUGIN",
+    "Decomp File Name (For Import)": "Z2_HAKUGIN_room_02DL_0051E0",
+    "SoH Directory": "scenes/Z2_HAKUGIN",
+    "SoH Name (For Export)": "Z2_HAKUGIN_room_02DL_0051E0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_HAKUGIN",
+    "Decomp File Name (For Import)": "Z2_HAKUGIN_room_02DL_00C480",
+    "SoH Directory": "scenes/Z2_HAKUGIN",
+    "SoH Name (For Export)": "Z2_HAKUGIN_room_02DL_00C480",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_HAKUGIN",
+    "Decomp File Name (For Import)": "Z2_HAKUGIN_room_03DL_002808",
+    "SoH Directory": "scenes/Z2_HAKUGIN",
+    "SoH Name (For Export)": "Z2_HAKUGIN_room_03DL_002808",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_HAKUGIN",
+    "Decomp File Name (For Import)": "Z2_HAKUGIN_room_04DL_0116C0",
+    "SoH Directory": "scenes/Z2_HAKUGIN",
+    "SoH Name (For Export)": "Z2_HAKUGIN_room_04DL_0116C0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_HAKUGIN",
+    "Decomp File Name (For Import)": "Z2_HAKUGIN_room_04DL_021760",
+    "SoH Directory": "scenes/Z2_HAKUGIN",
+    "SoH Name (For Export)": "Z2_HAKUGIN_room_04DL_021760",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_HAKUGIN",
+    "Decomp File Name (For Import)": "Z2_HAKUGIN_room_05DL_004410",
+    "SoH Directory": "scenes/Z2_HAKUGIN",
+    "SoH Name (For Export)": "Z2_HAKUGIN_room_05DL_004410",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_HAKUGIN",
+    "Decomp File Name (For Import)": "Z2_HAKUGIN_room_06DL_001230",
+    "SoH Directory": "scenes/Z2_HAKUGIN",
+    "SoH Name (For Export)": "Z2_HAKUGIN_room_06DL_001230",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_HAKUGIN",
+    "Decomp File Name (For Import)": "Z2_HAKUGIN_room_07DL_0029F0",
+    "SoH Directory": "scenes/Z2_HAKUGIN",
+    "SoH Name (For Export)": "Z2_HAKUGIN_room_07DL_0029F0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_HAKUGIN",
+    "Decomp File Name (For Import)": "Z2_HAKUGIN_room_07DL_006AA0",
+    "SoH Directory": "scenes/Z2_HAKUGIN",
+    "SoH Name (For Export)": "Z2_HAKUGIN_room_07DL_006AA0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_HAKUGIN",
+    "Decomp File Name (For Import)": "Z2_HAKUGIN_room_08DL_002F78",
+    "SoH Directory": "scenes/Z2_HAKUGIN",
+    "SoH Name (For Export)": "Z2_HAKUGIN_room_08DL_002F78",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_HAKUGIN",
+    "Decomp File Name (For Import)": "Z2_HAKUGIN_room_08DL_004FC0",
+    "SoH Directory": "scenes/Z2_HAKUGIN",
+    "SoH Name (For Export)": "Z2_HAKUGIN_room_08DL_004FC0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_HAKUGIN",
+    "Decomp File Name (For Import)": "Z2_HAKUGIN_room_09DL_003388",
+    "SoH Directory": "scenes/Z2_HAKUGIN",
+    "SoH Name (For Export)": "Z2_HAKUGIN_room_09DL_003388",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_HAKUGIN",
+    "Decomp File Name (For Import)": "Z2_HAKUGIN_room_09DL_008428",
+    "SoH Directory": "scenes/Z2_HAKUGIN",
+    "SoH Name (For Export)": "Z2_HAKUGIN_room_09DL_008428",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_HAKUGIN",
+    "Decomp File Name (For Import)": "Z2_HAKUGIN_room_10DL_001C40",
+    "SoH Directory": "scenes/Z2_HAKUGIN",
+    "SoH Name (For Export)": "Z2_HAKUGIN_room_10DL_001C40",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_HAKUGIN",
+    "Decomp File Name (For Import)": "Z2_HAKUGIN_room_10DL_003470",
+    "SoH Directory": "scenes/Z2_HAKUGIN",
+    "SoH Name (For Export)": "Z2_HAKUGIN_room_10DL_003470",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_HAKUGIN",
+    "Decomp File Name (For Import)": "Z2_HAKUGIN_room_11DL_001700",
+    "SoH Directory": "scenes/Z2_HAKUGIN",
+    "SoH Name (For Export)": "Z2_HAKUGIN_room_11DL_001700",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_HAKUGIN",
+    "Decomp File Name (For Import)": "Z2_HAKUGIN_room_12DL_001C98",
+    "SoH Directory": "scenes/Z2_HAKUGIN",
+    "SoH Name (For Export)": "Z2_HAKUGIN_room_12DL_001C98",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_HAKUGIN",
+    "Decomp File Name (For Import)": "Z2_HAKUGIN_room_12DL_004CF8",
+    "SoH Directory": "scenes/Z2_HAKUGIN",
+    "SoH Name (For Export)": "Z2_HAKUGIN_room_12DL_004CF8",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_HAKUGIN",
+    "Decomp File Name (For Import)": "Z2_HAKUGIN_room_13DL_000A50",
+    "SoH Directory": "scenes/Z2_HAKUGIN",
+    "SoH Name (For Export)": "Z2_HAKUGIN_room_13DL_000A50",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_HAKUGIN",
+    "Decomp File Name (For Import)": "Z2_HAKUGIN_room_13DL_0042F0",
+    "SoH Directory": "scenes/Z2_HAKUGIN",
+    "SoH Name (For Export)": "Z2_HAKUGIN_room_13DL_0042F0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_BOWLING",
+    "Decomp File Name (For Import)": "Z2_BOWLING_room_00DL_004CF0",
+    "SoH Directory": "scenes/Z2_BOWLING",
+    "SoH Name (For Export)": "Z2_BOWLING_room_00DL_004CF0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_KYOJINNOMA",
+    "Decomp File Name (For Import)": "Z2_KYOJINNOMA_room_00DL_000EF8",
+    "SoH Directory": "scenes/Z2_KYOJINNOMA",
+    "SoH Name (For Export)": "Z2_KYOJINNOMA_room_00DL_000EF8",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_KYOJINNOMA",
+    "Decomp File Name (For Import)": "Z2_KYOJINNOMA_room_00DL_001A10",
+    "SoH Directory": "scenes/Z2_KYOJINNOMA",
+    "SoH Name (For Export)": "Z2_KYOJINNOMA_room_00DL_001A10",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_26SARUNOMORI",
+    "Decomp File Name (For Import)": "Z2_26SARUNOMORI_room_00DL_002AF8",
+    "SoH Directory": "scenes/Z2_26SARUNOMORI",
+    "SoH Name (For Export)": "Z2_26SARUNOMORI_room_00DL_002AF8",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_26SARUNOMORI",
+    "Decomp File Name (For Import)": "Z2_26SARUNOMORI_room_00DL_0035C0",
+    "SoH Directory": "scenes/Z2_26SARUNOMORI",
+    "SoH Name (For Export)": "Z2_26SARUNOMORI_room_00DL_0035C0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_26SARUNOMORI",
+    "Decomp File Name (For Import)": "Z2_26SARUNOMORI_room_01DL_002AE8",
+    "SoH Directory": "scenes/Z2_26SARUNOMORI",
+    "SoH Name (For Export)": "Z2_26SARUNOMORI_room_01DL_002AE8",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_26SARUNOMORI",
+    "Decomp File Name (For Import)": "Z2_26SARUNOMORI_room_01DL_0035B0",
+    "SoH Directory": "scenes/Z2_26SARUNOMORI",
+    "SoH Name (For Export)": "Z2_26SARUNOMORI_room_01DL_0035B0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_26SARUNOMORI",
+    "Decomp File Name (For Import)": "Z2_26SARUNOMORI_room_02DL_002F80",
+    "SoH Directory": "scenes/Z2_26SARUNOMORI",
+    "SoH Name (For Export)": "Z2_26SARUNOMORI_room_02DL_002F80",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_26SARUNOMORI",
+    "Decomp File Name (For Import)": "Z2_26SARUNOMORI_room_02DL_003A28",
+    "SoH Directory": "scenes/Z2_26SARUNOMORI",
+    "SoH Name (For Export)": "Z2_26SARUNOMORI_room_02DL_003A28",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_26SARUNOMORI",
+    "Decomp File Name (For Import)": "Z2_26SARUNOMORI_room_03DL_001C80",
+    "SoH Directory": "scenes/Z2_26SARUNOMORI",
+    "SoH Name (For Export)": "Z2_26SARUNOMORI_room_03DL_001C80",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_26SARUNOMORI",
+    "Decomp File Name (For Import)": "Z2_26SARUNOMORI_room_03DL_002740",
+    "SoH Directory": "scenes/Z2_26SARUNOMORI",
+    "SoH Name (For Export)": "Z2_26SARUNOMORI_room_03DL_002740",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_26SARUNOMORI",
+    "Decomp File Name (For Import)": "Z2_26SARUNOMORI_room_04DL_002940",
+    "SoH Directory": "scenes/Z2_26SARUNOMORI",
+    "SoH Name (For Export)": "Z2_26SARUNOMORI_room_04DL_002940",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_26SARUNOMORI",
+    "Decomp File Name (For Import)": "Z2_26SARUNOMORI_room_04DL_003418",
+    "SoH Directory": "scenes/Z2_26SARUNOMORI",
+    "SoH Name (For Export)": "Z2_26SARUNOMORI_room_04DL_003418",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_26SARUNOMORI",
+    "Decomp File Name (For Import)": "Z2_26SARUNOMORI_room_05DL_001C80",
+    "SoH Directory": "scenes/Z2_26SARUNOMORI",
+    "SoH Name (For Export)": "Z2_26SARUNOMORI_room_05DL_001C80",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_26SARUNOMORI",
+    "Decomp File Name (For Import)": "Z2_26SARUNOMORI_room_05DL_002740",
+    "SoH Directory": "scenes/Z2_26SARUNOMORI",
+    "SoH Name (For Export)": "Z2_26SARUNOMORI_room_05DL_002740",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_26SARUNOMORI",
+    "Decomp File Name (For Import)": "Z2_26SARUNOMORI_room_06DL_003520",
+    "SoH Directory": "scenes/Z2_26SARUNOMORI",
+    "SoH Name (For Export)": "Z2_26SARUNOMORI_room_06DL_003520",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_26SARUNOMORI",
+    "Decomp File Name (For Import)": "Z2_26SARUNOMORI_room_06DL_003FF8",
+    "SoH Directory": "scenes/Z2_26SARUNOMORI",
+    "SoH Name (For Export)": "Z2_26SARUNOMORI_room_06DL_003FF8",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_26SARUNOMORI",
+    "Decomp File Name (For Import)": "Z2_26SARUNOMORI_room_07DL_001C80",
+    "SoH Directory": "scenes/Z2_26SARUNOMORI",
+    "SoH Name (For Export)": "Z2_26SARUNOMORI_room_07DL_001C80",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_26SARUNOMORI",
+    "Decomp File Name (For Import)": "Z2_26SARUNOMORI_room_07DL_002740",
+    "SoH Directory": "scenes/Z2_26SARUNOMORI",
+    "SoH Name (For Export)": "Z2_26SARUNOMORI_room_07DL_002740",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_26SARUNOMORI",
+    "Decomp File Name (For Import)": "Z2_26SARUNOMORI_room_08DL_002A18",
+    "SoH Directory": "scenes/Z2_26SARUNOMORI",
+    "SoH Name (For Export)": "Z2_26SARUNOMORI_room_08DL_002A18",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_26SARUNOMORI",
+    "Decomp File Name (For Import)": "Z2_26SARUNOMORI_room_08DL_0034F8",
+    "SoH Directory": "scenes/Z2_26SARUNOMORI",
+    "SoH Name (For Export)": "Z2_26SARUNOMORI_room_08DL_0034F8",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_MAP_SHOP",
+    "Decomp File Name (For Import)": "Z2_MAP_SHOP_room_00DL_005738",
+    "SoH Directory": "scenes/Z2_MAP_SHOP",
+    "SoH Name (For Export)": "Z2_MAP_SHOP_room_00DL_005738",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_MAP_SHOP",
+    "Decomp File Name (For Import)": "Z2_MAP_SHOP_room_00DL_005810",
+    "SoH Directory": "scenes/Z2_MAP_SHOP",
+    "SoH Name (For Export)": "Z2_MAP_SHOP_room_00DL_005810",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_TOWN",
+    "Decomp File Name (For Import)": "Z2_TOWN_room_00DL_000960",
+    "SoH Directory": "scenes/Z2_TOWN",
+    "SoH Name (For Export)": "Z2_TOWN_room_00DL_000960",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_TOWN",
+    "Decomp File Name (For Import)": "Z2_TOWN_room_00DL_012D98",
+    "SoH Directory": "scenes/Z2_TOWN",
+    "SoH Name (For Export)": "Z2_TOWN_room_00DL_012D98",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_TOWN",
+    "Decomp File Name (For Import)": "Z2_TOWN_room_00DL_017668",
+    "SoH Directory": "scenes/Z2_TOWN",
+    "SoH Name (For Export)": "Z2_TOWN_room_00DL_017668",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_GORONRACE",
+    "Decomp File Name (For Import)": "Z2_GORONRACE_room_00DL_00D8A0",
+    "SoH Directory": "scenes/Z2_GORONRACE",
+    "SoH Name (For Export)": "Z2_GORONRACE_room_00DL_00D8A0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_GORONRACE",
+    "Decomp File Name (For Import)": "Z2_GORONRACE_room_00DL_00DB50",
+    "SoH Directory": "scenes/Z2_GORONRACE",
+    "SoH Name (For Export)": "Z2_GORONRACE_room_00DL_00DB50",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_24KEMONOMITI",
+    "Decomp File Name (For Import)": "Z2_24KEMONOMITI_room_00DL_0059C0",
+    "SoH Directory": "scenes/Z2_24KEMONOMITI",
+    "SoH Name (For Export)": "Z2_24KEMONOMITI_room_00DL_0059C0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_24KEMONOMITI",
+    "Decomp File Name (For Import)": "Z2_24KEMONOMITI_room_00DL_000480",
+    "SoH Directory": "scenes/Z2_24KEMONOMITI",
+    "SoH Name (For Export)": "Z2_24KEMONOMITI_room_00DL_000480",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_24KEMONOMITI",
+    "Decomp File Name (For Import)": "Z2_24KEMONOMITI_room_00DL_005940",
+    "SoH Directory": "scenes/Z2_24KEMONOMITI",
+    "SoH Name (For Export)": "Z2_24KEMONOMITI_room_00DL_005940",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_24KEMONOMITI",
+    "Decomp File Name (For Import)": "Z2_24KEMONOMITI_room_00DL_006190",
+    "SoH Directory": "scenes/Z2_24KEMONOMITI",
+    "SoH Name (For Export)": "Z2_24KEMONOMITI_room_00DL_006190",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_F40",
+    "Decomp File Name (For Import)": "Z2_F40_room_00DL_0090F0",
+    "SoH Directory": "scenes/Z2_F40",
+    "SoH Name (For Export)": "Z2_F40_room_00DL_0090F0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_F40",
+    "Decomp File Name (For Import)": "Z2_F40_room_00DL_00BE50",
+    "SoH Directory": "scenes/Z2_F40",
+    "SoH Name (For Export)": "Z2_F40_room_00DL_00BE50",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_SYATEKI_MORI",
+    "Decomp File Name (For Import)": "Z2_SYATEKI_MORI_room_00DL_005560",
+    "SoH Directory": "scenes/Z2_SYATEKI_MORI",
+    "SoH Name (For Export)": "Z2_SYATEKI_MORI_room_00DL_005560",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_SYATEKI_MORI",
+    "Decomp File Name (For Import)": "Z2_SYATEKI_MORI_room_00DL_005FE8",
+    "SoH Directory": "scenes/Z2_SYATEKI_MORI",
+    "SoH Name (For Export)": "Z2_SYATEKI_MORI_room_00DL_005FE8",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_POSTHOUSE",
+    "Decomp File Name (For Import)": "Z2_POSTHOUSE_room_00DL_007C90",
+    "SoH Directory": "scenes/Z2_POSTHOUSE",
+    "SoH Name (For Export)": "Z2_POSTHOUSE_room_00DL_007C90",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_POSTHOUSE",
+    "Decomp File Name (For Import)": "Z2_POSTHOUSE_room_00DL_0088B8",
+    "SoH Directory": "scenes/Z2_POSTHOUSE",
+    "SoH Name (For Export)": "Z2_POSTHOUSE_room_00DL_0088B8",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_MITURIN",
+    "Decomp File Name (For Import)": "Z2_MITURIN_room_00DL_007490",
+    "SoH Directory": "scenes/Z2_MITURIN",
+    "SoH Name (For Export)": "Z2_MITURIN_room_00DL_007490",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_MITURIN",
+    "Decomp File Name (For Import)": "Z2_MITURIN_room_00DL_009430",
+    "SoH Directory": "scenes/Z2_MITURIN",
+    "SoH Name (For Export)": "Z2_MITURIN_room_00DL_009430",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_MITURIN",
+    "Decomp File Name (For Import)": "Z2_MITURIN_room_01DL_006BF0",
+    "SoH Directory": "scenes/Z2_MITURIN",
+    "SoH Name (For Export)": "Z2_MITURIN_room_01DL_006BF0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_MITURIN",
+    "Decomp File Name (For Import)": "Z2_MITURIN_room_01DL_008860",
+    "SoH Directory": "scenes/Z2_MITURIN",
+    "SoH Name (For Export)": "Z2_MITURIN_room_01DL_008860",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_MITURIN",
+    "Decomp File Name (For Import)": "Z2_MITURIN_room_02DL_004B58",
+    "SoH Directory": "scenes/Z2_MITURIN",
+    "SoH Name (For Export)": "Z2_MITURIN_room_02DL_004B58",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_MITURIN",
+    "Decomp File Name (For Import)": "Z2_MITURIN_room_02DL_006CC8",
+    "SoH Directory": "scenes/Z2_MITURIN",
+    "SoH Name (For Export)": "Z2_MITURIN_room_02DL_006CC8",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_MITURIN",
+    "Decomp File Name (For Import)": "Z2_MITURIN_room_03DL_006BF8",
+    "SoH Directory": "scenes/Z2_MITURIN",
+    "SoH Name (For Export)": "Z2_MITURIN_room_03DL_006BF8",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_MITURIN",
+    "Decomp File Name (For Import)": "Z2_MITURIN_room_03DL_009DA8",
+    "SoH Directory": "scenes/Z2_MITURIN",
+    "SoH Name (For Export)": "Z2_MITURIN_room_03DL_009DA8",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_MITURIN",
+    "Decomp File Name (For Import)": "Z2_MITURIN_room_04DL_0019E0",
+    "SoH Directory": "scenes/Z2_MITURIN",
+    "SoH Name (For Export)": "Z2_MITURIN_room_04DL_0019E0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_MITURIN",
+    "Decomp File Name (For Import)": "Z2_MITURIN_room_04DL_002438",
+    "SoH Directory": "scenes/Z2_MITURIN",
+    "SoH Name (For Export)": "Z2_MITURIN_room_04DL_002438",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_MITURIN",
+    "Decomp File Name (For Import)": "Z2_MITURIN_room_05DL_004230",
+    "SoH Directory": "scenes/Z2_MITURIN",
+    "SoH Name (For Export)": "Z2_MITURIN_room_05DL_004230",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_MITURIN",
+    "Decomp File Name (For Import)": "Z2_MITURIN_room_05DL_006028",
+    "SoH Directory": "scenes/Z2_MITURIN",
+    "SoH Name (For Export)": "Z2_MITURIN_room_05DL_006028",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_MITURIN",
+    "Decomp File Name (For Import)": "Z2_MITURIN_room_06DL_002158",
+    "SoH Directory": "scenes/Z2_MITURIN",
+    "SoH Name (For Export)": "Z2_MITURIN_room_06DL_002158",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_MITURIN",
+    "Decomp File Name (For Import)": "Z2_MITURIN_room_06DL_002FF8",
+    "SoH Directory": "scenes/Z2_MITURIN",
+    "SoH Name (For Export)": "Z2_MITURIN_room_06DL_002FF8",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_MITURIN",
+    "Decomp File Name (For Import)": "Z2_MITURIN_room_07DL_002828",
+    "SoH Directory": "scenes/Z2_MITURIN",
+    "SoH Name (For Export)": "Z2_MITURIN_room_07DL_002828",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_MITURIN",
+    "Decomp File Name (For Import)": "Z2_MITURIN_room_07DL_003750",
+    "SoH Directory": "scenes/Z2_MITURIN",
+    "SoH Name (For Export)": "Z2_MITURIN_room_07DL_003750",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_MITURIN",
+    "Decomp File Name (For Import)": "Z2_MITURIN_room_08DL_002CB0",
+    "SoH Directory": "scenes/Z2_MITURIN",
+    "SoH Name (For Export)": "Z2_MITURIN_room_08DL_002CB0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_MITURIN",
+    "Decomp File Name (For Import)": "Z2_MITURIN_room_08DL_006718",
+    "SoH Directory": "scenes/Z2_MITURIN",
+    "SoH Name (For Export)": "Z2_MITURIN_room_08DL_006718",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_MITURIN",
+    "Decomp File Name (For Import)": "Z2_MITURIN_room_09DL_009F70",
+    "SoH Directory": "scenes/Z2_MITURIN",
+    "SoH Name (For Export)": "Z2_MITURIN_room_09DL_009F70",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_MITURIN",
+    "Decomp File Name (For Import)": "Z2_MITURIN_room_09DL_00ADD0",
+    "SoH Directory": "scenes/Z2_MITURIN",
+    "SoH Name (For Export)": "Z2_MITURIN_room_09DL_00ADD0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_MITURIN",
+    "Decomp File Name (For Import)": "Z2_MITURIN_room_10DL_004A18",
+    "SoH Directory": "scenes/Z2_MITURIN",
+    "SoH Name (For Export)": "Z2_MITURIN_room_10DL_004A18",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_MITURIN",
+    "Decomp File Name (For Import)": "Z2_MITURIN_room_10DL_004EA0",
+    "SoH Directory": "scenes/Z2_MITURIN",
+    "SoH Name (For Export)": "Z2_MITURIN_room_10DL_004EA0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_MITURIN",
+    "Decomp File Name (For Import)": "Z2_MITURIN_room_11DL_003510",
+    "SoH Directory": "scenes/Z2_MITURIN",
+    "SoH Name (For Export)": "Z2_MITURIN_room_11DL_003510",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_MITURIN",
+    "Decomp File Name (For Import)": "Z2_MITURIN_room_11DL_006D88",
+    "SoH Directory": "scenes/Z2_MITURIN",
+    "SoH Name (For Export)": "Z2_MITURIN_room_11DL_006D88",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_MITURIN",
+    "Decomp File Name (For Import)": "Z2_MITURIN_room_12DL_001450",
+    "SoH Directory": "scenes/Z2_MITURIN",
+    "SoH Name (For Export)": "Z2_MITURIN_room_12DL_001450",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_KINSTA1",
+    "Decomp File Name (For Import)": "Z2_KINSTA1_room_00DL_001FC8",
+    "SoH Directory": "scenes/Z2_KINSTA1",
+    "SoH Name (For Export)": "Z2_KINSTA1_room_00DL_001FC8",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_KINSTA1",
+    "Decomp File Name (For Import)": "Z2_KINSTA1_room_00DL_002210",
+    "SoH Directory": "scenes/Z2_KINSTA1",
+    "SoH Name (For Export)": "Z2_KINSTA1_room_00DL_002210",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_KINSTA1",
+    "Decomp File Name (For Import)": "Z2_KINSTA1_room_01DL_008610",
+    "SoH Directory": "scenes/Z2_KINSTA1",
+    "SoH Name (For Export)": "Z2_KINSTA1_room_01DL_008610",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_KINSTA1",
+    "Decomp File Name (For Import)": "Z2_KINSTA1_room_01DL_0098E8",
+    "SoH Directory": "scenes/Z2_KINSTA1",
+    "SoH Name (For Export)": "Z2_KINSTA1_room_01DL_0098E8",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_KINSTA1",
+    "Decomp File Name (For Import)": "Z2_KINSTA1_room_02DL_0035B0",
+    "SoH Directory": "scenes/Z2_KINSTA1",
+    "SoH Name (For Export)": "Z2_KINSTA1_room_02DL_0035B0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_KINSTA1",
+    "Decomp File Name (For Import)": "Z2_KINSTA1_room_02DL_005610",
+    "SoH Directory": "scenes/Z2_KINSTA1",
+    "SoH Name (For Export)": "Z2_KINSTA1_room_02DL_005610",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_KINSTA1",
+    "Decomp File Name (For Import)": "Z2_KINSTA1_room_03DL_003B28",
+    "SoH Directory": "scenes/Z2_KINSTA1",
+    "SoH Name (For Export)": "Z2_KINSTA1_room_03DL_003B28",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_KINSTA1",
+    "Decomp File Name (For Import)": "Z2_KINSTA1_room_03DL_0046B8",
+    "SoH Directory": "scenes/Z2_KINSTA1",
+    "SoH Name (For Export)": "Z2_KINSTA1_room_03DL_0046B8",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_KINSTA1",
+    "Decomp File Name (For Import)": "Z2_KINSTA1_room_04DL_0083D0",
+    "SoH Directory": "scenes/Z2_KINSTA1",
+    "SoH Name (For Export)": "Z2_KINSTA1_room_04DL_0083D0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_KINSTA1",
+    "Decomp File Name (For Import)": "Z2_KINSTA1_room_04DL_009040",
+    "SoH Directory": "scenes/Z2_KINSTA1",
+    "SoH Name (For Export)": "Z2_KINSTA1_room_04DL_009040",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_KINSTA1",
+    "Decomp File Name (For Import)": "Z2_KINSTA1_room_05DL_001A08",
+    "SoH Directory": "scenes/Z2_KINSTA1",
+    "SoH Name (For Export)": "Z2_KINSTA1_room_05DL_001A08",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_BACKTOWN",
+    "Decomp File Name (For Import)": "Z2_BACKTOWN_room_00DL_0005E0",
+    "SoH Directory": "scenes/Z2_BACKTOWN",
+    "SoH Name (For Export)": "Z2_BACKTOWN_room_00DL_0005E0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_BACKTOWN",
+    "Decomp File Name (For Import)": "Z2_BACKTOWN_room_00DL_008148",
+    "SoH Directory": "scenes/Z2_BACKTOWN",
+    "SoH Name (For Export)": "Z2_BACKTOWN_room_00DL_008148",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_BACKTOWN",
+    "Decomp File Name (For Import)": "Z2_BACKTOWN_room_00DL_00A138",
+    "SoH Directory": "scenes/Z2_BACKTOWN",
+    "SoH Name (For Export)": "Z2_BACKTOWN_room_00DL_00A138",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_F01_B",
+    "Decomp File Name (For Import)": "Z2_F01_B_room_00DL_006C20",
+    "SoH Directory": "scenes/Z2_F01_B",
+    "SoH Name (For Export)": "Z2_F01_B_room_00DL_006C20",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_F01_B",
+    "Decomp File Name (For Import)": "Z2_F01_B_room_00DL_007250",
+    "SoH Directory": "scenes/Z2_F01_B",
+    "SoH Name (For Export)": "Z2_F01_B_room_00DL_007250",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_13HUBUKINOMITI",
+    "Decomp File Name (For Import)": "Z2_13HUBUKINOMITI_room_00DL_004510",
+    "SoH Directory": "scenes/Z2_13HUBUKINOMITI",
+    "SoH Name (For Export)": "Z2_13HUBUKINOMITI_room_00DL_004510",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_13HUBUKINOMITI",
+    "Decomp File Name (For Import)": "Z2_13HUBUKINOMITI_room_00DL_0044C0",
+    "SoH Directory": "scenes/Z2_13HUBUKINOMITI",
+    "SoH Name (For Export)": "Z2_13HUBUKINOMITI_room_00DL_0044C0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_KONPEKI_ENT",
+    "Decomp File Name (For Import)": "Z2_KONPEKI_ENT_room_00DL_006210",
+    "SoH Directory": "scenes/Z2_KONPEKI_ENT",
+    "SoH Name (For Export)": "Z2_KONPEKI_ENT_room_00DL_006210",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_KONPEKI_ENT",
+    "Decomp File Name (For Import)": "Z2_KONPEKI_ENT_room_00DL_006390",
+    "SoH Directory": "scenes/Z2_KONPEKI_ENT",
+    "SoH Name (For Export)": "Z2_KONPEKI_ENT_room_00DL_006390",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_YOUSEI_IZUMI",
+    "Decomp File Name (For Import)": "Z2_YOUSEI_IZUMI_room_00DL_003DF0",
+    "SoH Directory": "scenes/Z2_YOUSEI_IZUMI",
+    "SoH Name (For Export)": "Z2_YOUSEI_IZUMI_room_00DL_003DF0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_YOUSEI_IZUMI",
+    "Decomp File Name (For Import)": "Z2_YOUSEI_IZUMI_room_00DL_0050B0",
+    "SoH Directory": "scenes/Z2_YOUSEI_IZUMI",
+    "SoH Name (For Export)": "Z2_YOUSEI_IZUMI_room_00DL_0050B0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_YOUSEI_IZUMI",
+    "Decomp File Name (For Import)": "Z2_YOUSEI_IZUMI_room_01DL_003D68",
+    "SoH Directory": "scenes/Z2_YOUSEI_IZUMI",
+    "SoH Name (For Export)": "Z2_YOUSEI_IZUMI_room_01DL_003D68",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_YOUSEI_IZUMI",
+    "Decomp File Name (For Import)": "Z2_YOUSEI_IZUMI_room_01DL_005030",
+    "SoH Directory": "scenes/Z2_YOUSEI_IZUMI",
+    "SoH Name (For Export)": "Z2_YOUSEI_IZUMI_room_01DL_005030",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_YOUSEI_IZUMI",
+    "Decomp File Name (For Import)": "Z2_YOUSEI_IZUMI_room_02DL_003D90",
+    "SoH Directory": "scenes/Z2_YOUSEI_IZUMI",
+    "SoH Name (For Export)": "Z2_YOUSEI_IZUMI_room_02DL_003D90",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_YOUSEI_IZUMI",
+    "Decomp File Name (For Import)": "Z2_YOUSEI_IZUMI_room_02DL_005050",
+    "SoH Directory": "scenes/Z2_YOUSEI_IZUMI",
+    "SoH Name (For Export)": "Z2_YOUSEI_IZUMI_room_02DL_005050",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_YOUSEI_IZUMI",
+    "Decomp File Name (For Import)": "Z2_YOUSEI_IZUMI_room_03DL_003D68",
+    "SoH Directory": "scenes/Z2_YOUSEI_IZUMI",
+    "SoH Name (For Export)": "Z2_YOUSEI_IZUMI_room_03DL_003D68",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_YOUSEI_IZUMI",
+    "Decomp File Name (For Import)": "Z2_YOUSEI_IZUMI_room_03DL_005030",
+    "SoH Directory": "scenes/Z2_YOUSEI_IZUMI",
+    "SoH Name (For Export)": "Z2_YOUSEI_IZUMI_room_03DL_005030",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_YOUSEI_IZUMI",
+    "Decomp File Name (For Import)": "Z2_YOUSEI_IZUMI_room_04DL_003DA0",
+    "SoH Directory": "scenes/Z2_YOUSEI_IZUMI",
+    "SoH Name (For Export)": "Z2_YOUSEI_IZUMI_room_04DL_003DA0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_YOUSEI_IZUMI",
+    "Decomp File Name (For Import)": "Z2_YOUSEI_IZUMI_room_04DL_005060",
+    "SoH Directory": "scenes/Z2_YOUSEI_IZUMI",
+    "SoH Name (For Export)": "Z2_YOUSEI_IZUMI_room_04DL_005060",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_CLOCKTOWER",
+    "Decomp File Name (For Import)": "Z2_CLOCKTOWER_room_00DL_011708",
+    "SoH Directory": "scenes/Z2_CLOCKTOWER",
+    "SoH Name (For Export)": "Z2_CLOCKTOWER_room_00DL_011708",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_CLOCKTOWER",
+    "Decomp File Name (For Import)": "Z2_CLOCKTOWER_room_00DL_013880",
+    "SoH Directory": "scenes/Z2_CLOCKTOWER",
+    "SoH Name (For Export)": "Z2_CLOCKTOWER_room_00DL_013880",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_INISIE_N",
+    "Decomp File Name (For Import)": "Z2_INISIE_N_room_00DL_009D48",
+    "SoH Directory": "scenes/Z2_INISIE_N",
+    "SoH Name (For Export)": "Z2_INISIE_N_room_00DL_009D48",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_INISIE_N",
+    "Decomp File Name (For Import)": "Z2_INISIE_N_room_00DL_00EA18",
+    "SoH Directory": "scenes/Z2_INISIE_N",
+    "SoH Name (For Export)": "Z2_INISIE_N_room_00DL_00EA18",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_INISIE_N",
+    "Decomp File Name (For Import)": "Z2_INISIE_N_room_01DL_006E18",
+    "SoH Directory": "scenes/Z2_INISIE_N",
+    "SoH Name (For Export)": "Z2_INISIE_N_room_01DL_006E18",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_INISIE_N",
+    "Decomp File Name (For Import)": "Z2_INISIE_N_room_01DL_00A4E8",
+    "SoH Directory": "scenes/Z2_INISIE_N",
+    "SoH Name (For Export)": "Z2_INISIE_N_room_01DL_00A4E8",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_INISIE_N",
+    "Decomp File Name (For Import)": "Z2_INISIE_N_room_02DL_006C70",
+    "SoH Directory": "scenes/Z2_INISIE_N",
+    "SoH Name (For Export)": "Z2_INISIE_N_room_02DL_006C70",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_INISIE_N",
+    "Decomp File Name (For Import)": "Z2_INISIE_N_room_02DL_0076D8",
+    "SoH Directory": "scenes/Z2_INISIE_N",
+    "SoH Name (For Export)": "Z2_INISIE_N_room_02DL_0076D8",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_INISIE_N",
+    "Decomp File Name (For Import)": "Z2_INISIE_N_room_03DL_007978",
+    "SoH Directory": "scenes/Z2_INISIE_N",
+    "SoH Name (For Export)": "Z2_INISIE_N_room_03DL_007978",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_INISIE_N",
+    "Decomp File Name (For Import)": "Z2_INISIE_N_room_03DL_00A410",
+    "SoH Directory": "scenes/Z2_INISIE_N",
+    "SoH Name (For Export)": "Z2_INISIE_N_room_03DL_00A410",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_INISIE_N",
+    "Decomp File Name (For Import)": "Z2_INISIE_N_room_04DL_0050C0",
+    "SoH Directory": "scenes/Z2_INISIE_N",
+    "SoH Name (For Export)": "Z2_INISIE_N_room_04DL_0050C0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_INISIE_N",
+    "Decomp File Name (For Import)": "Z2_INISIE_N_room_04DL_007518",
+    "SoH Directory": "scenes/Z2_INISIE_N",
+    "SoH Name (For Export)": "Z2_INISIE_N_room_04DL_007518",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_INISIE_N",
+    "Decomp File Name (For Import)": "Z2_INISIE_N_room_05DL_000198",
+    "SoH Directory": "scenes/Z2_INISIE_N",
+    "SoH Name (For Export)": "Z2_INISIE_N_room_05DL_000198",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_INISIE_N",
+    "Decomp File Name (For Import)": "Z2_INISIE_N_room_06DL_000198",
+    "SoH Directory": "scenes/Z2_INISIE_N",
+    "SoH Name (For Export)": "Z2_INISIE_N_room_06DL_000198",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_INISIE_N",
+    "Decomp File Name (For Import)": "Z2_INISIE_N_room_07DL_002F38",
+    "SoH Directory": "scenes/Z2_INISIE_N",
+    "SoH Name (For Export)": "Z2_INISIE_N_room_07DL_002F38",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_INISIE_N",
+    "Decomp File Name (For Import)": "Z2_INISIE_N_room_07DL_003300",
+    "SoH Directory": "scenes/Z2_INISIE_N",
+    "SoH Name (For Export)": "Z2_INISIE_N_room_07DL_003300",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_INISIE_N",
+    "Decomp File Name (For Import)": "Z2_INISIE_N_room_08DL_003AD8",
+    "SoH Directory": "scenes/Z2_INISIE_N",
+    "SoH Name (For Export)": "Z2_INISIE_N_room_08DL_003AD8",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_INISIE_N",
+    "Decomp File Name (For Import)": "Z2_INISIE_N_room_08DL_004C38",
+    "SoH Directory": "scenes/Z2_INISIE_N",
+    "SoH Name (For Export)": "Z2_INISIE_N_room_08DL_004C38",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_INISIE_N",
+    "Decomp File Name (For Import)": "Z2_INISIE_N_room_09DL_004DD0",
+    "SoH Directory": "scenes/Z2_INISIE_N",
+    "SoH Name (For Export)": "Z2_INISIE_N_room_09DL_004DD0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_INISIE_N",
+    "Decomp File Name (For Import)": "Z2_INISIE_N_room_09DL_008270",
+    "SoH Directory": "scenes/Z2_INISIE_N",
+    "SoH Name (For Export)": "Z2_INISIE_N_room_09DL_008270",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_INISIE_N",
+    "Decomp File Name (For Import)": "Z2_INISIE_N_room_10DL_0029F8",
+    "SoH Directory": "scenes/Z2_INISIE_N",
+    "SoH Name (For Export)": "Z2_INISIE_N_room_10DL_0029F8",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_INISIE_N",
+    "Decomp File Name (For Import)": "Z2_INISIE_N_room_10DL_004A20",
+    "SoH Directory": "scenes/Z2_INISIE_N",
+    "SoH Name (For Export)": "Z2_INISIE_N_room_10DL_004A20",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_INISIE_N",
+    "Decomp File Name (For Import)": "Z2_INISIE_N_room_11DL_0001B8",
+    "SoH Directory": "scenes/Z2_INISIE_N",
+    "SoH Name (For Export)": "Z2_INISIE_N_room_11DL_0001B8",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_SEA",
+    "Decomp File Name (For Import)": "Z2_SEA_room_00DL_00CB08",
+    "SoH Directory": "scenes/Z2_SEA",
+    "SoH Name (For Export)": "Z2_SEA_room_00DL_00CB08",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_SEA",
+    "Decomp File Name (For Import)": "Z2_SEA_room_00DL_00EA40",
+    "SoH Directory": "scenes/Z2_SEA",
+    "SoH Name (For Export)": "Z2_SEA_room_00DL_00EA40",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_SEA",
+    "Decomp File Name (For Import)": "Z2_SEA_room_01DL_007D18",
+    "SoH Directory": "scenes/Z2_SEA",
+    "SoH Name (For Export)": "Z2_SEA_room_01DL_007D18",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_SEA",
+    "Decomp File Name (For Import)": "Z2_SEA_room_01DL_008390",
+    "SoH Directory": "scenes/Z2_SEA",
+    "SoH Name (For Export)": "Z2_SEA_room_01DL_008390",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_SEA",
+    "Decomp File Name (For Import)": "Z2_SEA_room_02DL_001C90",
+    "SoH Directory": "scenes/Z2_SEA",
+    "SoH Name (For Export)": "Z2_SEA_room_02DL_001C90",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_SEA",
+    "Decomp File Name (For Import)": "Z2_SEA_room_03DL_002218",
+    "SoH Directory": "scenes/Z2_SEA",
+    "SoH Name (For Export)": "Z2_SEA_room_03DL_002218",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_SEA",
+    "Decomp File Name (For Import)": "Z2_SEA_room_03DL_002430",
+    "SoH Directory": "scenes/Z2_SEA",
+    "SoH Name (For Export)": "Z2_SEA_room_03DL_002430",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_SEA",
+    "Decomp File Name (For Import)": "Z2_SEA_room_04DL_006CC8",
+    "SoH Directory": "scenes/Z2_SEA",
+    "SoH Name (For Export)": "Z2_SEA_room_04DL_006CC8",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_SEA",
+    "Decomp File Name (For Import)": "Z2_SEA_room_04DL_008B68",
+    "SoH Directory": "scenes/Z2_SEA",
+    "SoH Name (For Export)": "Z2_SEA_room_04DL_008B68",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_SEA",
+    "Decomp File Name (For Import)": "Z2_SEA_room_05DL_003EB0",
+    "SoH Directory": "scenes/Z2_SEA",
+    "SoH Name (For Export)": "Z2_SEA_room_05DL_003EB0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_SEA",
+    "Decomp File Name (For Import)": "Z2_SEA_room_05DL_0052E0",
+    "SoH Directory": "scenes/Z2_SEA",
+    "SoH Name (For Export)": "Z2_SEA_room_05DL_0052E0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_SEA",
+    "Decomp File Name (For Import)": "Z2_SEA_room_06DL_008EE0",
+    "SoH Directory": "scenes/Z2_SEA",
+    "SoH Name (For Export)": "Z2_SEA_room_06DL_008EE0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_SEA",
+    "Decomp File Name (For Import)": "Z2_SEA_room_06DL_00BD70",
+    "SoH Directory": "scenes/Z2_SEA",
+    "SoH Name (For Export)": "Z2_SEA_room_06DL_00BD70",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_SEA",
+    "Decomp File Name (For Import)": "Z2_SEA_room_07DL_003C78",
+    "SoH Directory": "scenes/Z2_SEA",
+    "SoH Name (For Export)": "Z2_SEA_room_07DL_003C78",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_SEA",
+    "Decomp File Name (For Import)": "Z2_SEA_room_07DL_0050B0",
+    "SoH Directory": "scenes/Z2_SEA",
+    "SoH Name (For Export)": "Z2_SEA_room_07DL_0050B0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_SEA",
+    "Decomp File Name (For Import)": "Z2_SEA_room_08DL_008110",
+    "SoH Directory": "scenes/Z2_SEA",
+    "SoH Name (For Export)": "Z2_SEA_room_08DL_008110",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_SEA",
+    "Decomp File Name (For Import)": "Z2_SEA_room_08DL_00A3E8",
+    "SoH Directory": "scenes/Z2_SEA",
+    "SoH Name (For Export)": "Z2_SEA_room_08DL_00A3E8",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_SEA",
+    "Decomp File Name (For Import)": "Z2_SEA_room_09DL_004878",
+    "SoH Directory": "scenes/Z2_SEA",
+    "SoH Name (For Export)": "Z2_SEA_room_09DL_004878",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_SEA",
+    "Decomp File Name (For Import)": "Z2_SEA_room_09DL_004AD8",
+    "SoH Directory": "scenes/Z2_SEA",
+    "SoH Name (For Export)": "Z2_SEA_room_09DL_004AD8",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_SEA",
+    "Decomp File Name (For Import)": "Z2_SEA_room_10DL_006A78",
+    "SoH Directory": "scenes/Z2_SEA",
+    "SoH Name (For Export)": "Z2_SEA_room_10DL_006A78",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_SEA",
+    "Decomp File Name (For Import)": "Z2_SEA_room_10DL_008B00",
+    "SoH Directory": "scenes/Z2_SEA",
+    "SoH Name (For Export)": "Z2_SEA_room_10DL_008B00",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_SEA",
+    "Decomp File Name (For Import)": "Z2_SEA_room_11DL_007888",
+    "SoH Directory": "scenes/Z2_SEA",
+    "SoH Name (For Export)": "Z2_SEA_room_11DL_007888",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_SEA",
+    "Decomp File Name (For Import)": "Z2_SEA_room_11DL_00AAD0",
+    "SoH Directory": "scenes/Z2_SEA",
+    "SoH Name (For Export)": "Z2_SEA_room_11DL_00AAD0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_SEA",
+    "Decomp File Name (For Import)": "Z2_SEA_room_12DL_006948",
+    "SoH Directory": "scenes/Z2_SEA",
+    "SoH Name (For Export)": "Z2_SEA_room_12DL_006948",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_SEA",
+    "Decomp File Name (For Import)": "Z2_SEA_room_12DL_008548",
+    "SoH Directory": "scenes/Z2_SEA",
+    "SoH Name (For Export)": "Z2_SEA_room_12DL_008548",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_SEA",
+    "Decomp File Name (For Import)": "Z2_SEA_room_13DL_002D28",
+    "SoH Directory": "scenes/Z2_SEA",
+    "SoH Name (For Export)": "Z2_SEA_room_13DL_002D28",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_SEA",
+    "Decomp File Name (For Import)": "Z2_SEA_room_13DL_003778",
+    "SoH Directory": "scenes/Z2_SEA",
+    "SoH Name (For Export)": "Z2_SEA_room_13DL_003778",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_SEA",
+    "Decomp File Name (For Import)": "Z2_SEA_room_14DL_001320",
+    "SoH Directory": "scenes/Z2_SEA",
+    "SoH Name (For Export)": "Z2_SEA_room_14DL_001320",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_SEA",
+    "Decomp File Name (For Import)": "Z2_SEA_room_15DL_001958",
+    "SoH Directory": "scenes/Z2_SEA",
+    "SoH Name (For Export)": "Z2_SEA_room_15DL_001958",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_SYATEKI_MIZU",
+    "Decomp File Name (For Import)": "Z2_SYATEKI_MIZU_room_00DL_005130",
+    "SoH Directory": "scenes/Z2_SYATEKI_MIZU",
+    "SoH Name (For Export)": "Z2_SYATEKI_MIZU_room_00DL_005130",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_SYATEKI_MIZU",
+    "Decomp File Name (For Import)": "Z2_SYATEKI_MIZU_room_00DL_006128",
+    "SoH Directory": "scenes/Z2_SYATEKI_MIZU",
+    "SoH Name (For Export)": "Z2_SYATEKI_MIZU_room_00DL_006128",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_HAKASHITA",
+    "Decomp File Name (For Import)": "Z2_HAKASHITA_room_00DL_005B78",
+    "SoH Directory": "scenes/Z2_HAKASHITA",
+    "SoH Name (For Export)": "Z2_HAKASHITA_room_00DL_005B78",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_HAKASHITA",
+    "Decomp File Name (For Import)": "Z2_HAKASHITA_room_00DL_007020",
+    "SoH Directory": "scenes/Z2_HAKASHITA",
+    "SoH Name (For Export)": "Z2_HAKASHITA_room_00DL_007020",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_HAKASHITA",
+    "Decomp File Name (For Import)": "Z2_HAKASHITA_room_01DL_005BF0",
+    "SoH Directory": "scenes/Z2_HAKASHITA",
+    "SoH Name (For Export)": "Z2_HAKASHITA_room_01DL_005BF0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_HAKASHITA",
+    "Decomp File Name (For Import)": "Z2_HAKASHITA_room_02DL_0051A0",
+    "SoH Directory": "scenes/Z2_HAKASHITA",
+    "SoH Name (For Export)": "Z2_HAKASHITA_room_02DL_0051A0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_HAKASHITA",
+    "Decomp File Name (For Import)": "Z2_HAKASHITA_room_02DL_006FD0",
+    "SoH Directory": "scenes/Z2_HAKASHITA",
+    "SoH Name (For Export)": "Z2_HAKASHITA_room_02DL_006FD0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_HAKASHITA",
+    "Decomp File Name (For Import)": "Z2_HAKASHITA_room_03DL_002E50",
+    "SoH Directory": "scenes/Z2_HAKASHITA",
+    "SoH Name (For Export)": "Z2_HAKASHITA_room_03DL_002E50",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_HAKASHITA",
+    "Decomp File Name (For Import)": "Z2_HAKASHITA_room_04DL_002FB8",
+    "SoH Directory": "scenes/Z2_HAKASHITA",
+    "SoH Name (For Export)": "Z2_HAKASHITA_room_04DL_002FB8",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_HAKASHITA",
+    "Decomp File Name (For Import)": "Z2_HAKASHITA_room_04DL_004980",
+    "SoH Directory": "scenes/Z2_HAKASHITA",
+    "SoH Name (For Export)": "Z2_HAKASHITA_room_04DL_004980",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_REDEAD",
+    "Decomp File Name (For Import)": "Z2_REDEAD_room_00DL_0052C0",
+    "SoH Directory": "scenes/Z2_REDEAD",
+    "SoH Name (For Export)": "Z2_REDEAD_room_00DL_0052C0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_REDEAD",
+    "Decomp File Name (For Import)": "Z2_REDEAD_room_01DL_0087C0",
+    "SoH Directory": "scenes/Z2_REDEAD",
+    "SoH Name (For Export)": "Z2_REDEAD_room_01DL_0087C0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_REDEAD",
+    "Decomp File Name (For Import)": "Z2_REDEAD_room_01DL_008B78",
+    "SoH Directory": "scenes/Z2_REDEAD",
+    "SoH Name (For Export)": "Z2_REDEAD_room_01DL_008B78",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_REDEAD",
+    "Decomp File Name (For Import)": "Z2_REDEAD_room_02DL_007D90",
+    "SoH Directory": "scenes/Z2_REDEAD",
+    "SoH Name (For Export)": "Z2_REDEAD_room_02DL_007D90",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_REDEAD",
+    "Decomp File Name (For Import)": "Z2_REDEAD_room_02DL_008070",
+    "SoH Directory": "scenes/Z2_REDEAD",
+    "SoH Name (For Export)": "Z2_REDEAD_room_02DL_008070",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_REDEAD",
+    "Decomp File Name (For Import)": "Z2_REDEAD_room_03DL_007920",
+    "SoH Directory": "scenes/Z2_REDEAD",
+    "SoH Name (For Export)": "Z2_REDEAD_room_03DL_007920",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_REDEAD",
+    "Decomp File Name (For Import)": "Z2_REDEAD_room_03DL_0078F0",
+    "SoH Directory": "scenes/Z2_REDEAD",
+    "SoH Name (For Export)": "Z2_REDEAD_room_03DL_0078F0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_REDEAD",
+    "Decomp File Name (For Import)": "Z2_REDEAD_room_04DL_006A38",
+    "SoH Directory": "scenes/Z2_REDEAD",
+    "SoH Name (For Export)": "Z2_REDEAD_room_04DL_006A38",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_REDEAD",
+    "Decomp File Name (For Import)": "Z2_REDEAD_room_04DL_007430",
+    "SoH Directory": "scenes/Z2_REDEAD",
+    "SoH Name (For Export)": "Z2_REDEAD_room_04DL_007430",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_REDEAD",
+    "Decomp File Name (For Import)": "Z2_REDEAD_room_05DL_009390",
+    "SoH Directory": "scenes/Z2_REDEAD",
+    "SoH Name (For Export)": "Z2_REDEAD_room_05DL_009390",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_REDEAD",
+    "Decomp File Name (For Import)": "Z2_REDEAD_room_05DL_009358",
+    "SoH Directory": "scenes/Z2_REDEAD",
+    "SoH Name (For Export)": "Z2_REDEAD_room_05DL_009358",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_REDEAD",
+    "Decomp File Name (For Import)": "Z2_REDEAD_room_06DL_006E78",
+    "SoH Directory": "scenes/Z2_REDEAD",
+    "SoH Name (For Export)": "Z2_REDEAD_room_06DL_006E78",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_REDEAD",
+    "Decomp File Name (For Import)": "Z2_REDEAD_room_07DL_0060B0",
+    "SoH Directory": "scenes/Z2_REDEAD",
+    "SoH Name (For Export)": "Z2_REDEAD_room_07DL_0060B0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_REDEAD",
+    "Decomp File Name (For Import)": "Z2_REDEAD_room_07DL_006078",
+    "SoH Directory": "scenes/Z2_REDEAD",
+    "SoH Name (For Export)": "Z2_REDEAD_room_07DL_006078",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_REDEAD",
+    "Decomp File Name (For Import)": "Z2_REDEAD_room_08DL_002638",
+    "SoH Directory": "scenes/Z2_REDEAD",
+    "SoH Name (For Export)": "Z2_REDEAD_room_08DL_002638",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_REDEAD",
+    "Decomp File Name (For Import)": "Z2_REDEAD_room_09DL_002800",
+    "SoH Directory": "scenes/Z2_REDEAD",
+    "SoH Name (For Export)": "Z2_REDEAD_room_09DL_002800",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_REDEAD",
+    "Decomp File Name (For Import)": "Z2_REDEAD_room_10DL_0029D0",
+    "SoH Directory": "scenes/Z2_REDEAD",
+    "SoH Name (For Export)": "Z2_REDEAD_room_10DL_0029D0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_REDEAD",
+    "Decomp File Name (For Import)": "Z2_REDEAD_room_11DL_0044E8",
+    "SoH Directory": "scenes/Z2_REDEAD",
+    "SoH Name (For Export)": "Z2_REDEAD_room_11DL_0044E8",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_REDEAD",
+    "Decomp File Name (For Import)": "Z2_REDEAD_room_11DL_007F50",
+    "SoH Directory": "scenes/Z2_REDEAD",
+    "SoH Name (For Export)": "Z2_REDEAD_room_11DL_007F50",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_REDEAD",
+    "Decomp File Name (For Import)": "Z2_REDEAD_room_12DL_000F60",
+    "SoH Directory": "scenes/Z2_REDEAD",
+    "SoH Name (For Export)": "Z2_REDEAD_room_12DL_000F60",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_REDEAD",
+    "Decomp File Name (For Import)": "Z2_REDEAD_room_13DL_001548",
+    "SoH Directory": "scenes/Z2_REDEAD",
+    "SoH Name (For Export)": "Z2_REDEAD_room_13DL_001548",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_REDEAD",
+    "Decomp File Name (For Import)": "Z2_REDEAD_room_13DL_001878",
+    "SoH Directory": "scenes/Z2_REDEAD",
+    "SoH Name (For Export)": "Z2_REDEAD_room_13DL_001878",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_00KEIKOKU",
+    "Decomp File Name (For Import)": "Z2_00KEIKOKU_room_00DL_026C10",
+    "SoH Directory": "scenes/Z2_00KEIKOKU",
+    "SoH Name (For Export)": "Z2_00KEIKOKU_room_00DL_026C10",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_00KEIKOKU",
+    "Decomp File Name (For Import)": "Z2_00KEIKOKU_room_00DL_026A58",
+    "SoH Directory": "scenes/Z2_00KEIKOKU",
+    "SoH Name (For Export)": "Z2_00KEIKOKU_room_00DL_026A58",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_00KEIKOKU",
+    "Decomp File Name (For Import)": "Z2_00KEIKOKU_room_00DL_0287F8",
+    "SoH Directory": "scenes/Z2_00KEIKOKU",
+    "SoH Name (For Export)": "Z2_00KEIKOKU_room_00DL_0287F8",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_LAST_ZORA",
+    "Decomp File Name (For Import)": "Z2_LAST_ZORA_room_00DL_00DF40",
+    "SoH Directory": "scenes/Z2_LAST_ZORA",
+    "SoH Name (For Export)": "Z2_LAST_ZORA_room_00DL_00DF40",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_LAST_ZORA",
+    "Decomp File Name (For Import)": "Z2_LAST_ZORA_room_00DL_00E750",
+    "SoH Directory": "scenes/Z2_LAST_ZORA",
+    "SoH Name (For Export)": "Z2_LAST_ZORA_room_00DL_00E750",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_PIRATE",
+    "Decomp File Name (For Import)": "Z2_PIRATE_room_00DL_001DA8",
+    "SoH Directory": "scenes/Z2_PIRATE",
+    "SoH Name (For Export)": "Z2_PIRATE_room_00DL_001DA8",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_PIRATE",
+    "Decomp File Name (For Import)": "Z2_PIRATE_room_01DL_0039D0",
+    "SoH Directory": "scenes/Z2_PIRATE",
+    "SoH Name (For Export)": "Z2_PIRATE_room_01DL_0039D0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_PIRATE",
+    "Decomp File Name (For Import)": "Z2_PIRATE_room_02DL_004850",
+    "SoH Directory": "scenes/Z2_PIRATE",
+    "SoH Name (For Export)": "Z2_PIRATE_room_02DL_004850",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_PIRATE",
+    "Decomp File Name (For Import)": "Z2_PIRATE_room_03DL_011D80",
+    "SoH Directory": "scenes/Z2_PIRATE",
+    "SoH Name (For Export)": "Z2_PIRATE_room_03DL_011D80",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_PIRATE",
+    "Decomp File Name (For Import)": "Z2_PIRATE_room_03DL_017948",
+    "SoH Directory": "scenes/Z2_PIRATE",
+    "SoH Name (For Export)": "Z2_PIRATE_room_03DL_017948",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_PIRATE",
+    "Decomp File Name (For Import)": "Z2_PIRATE_room_04DL_001F40",
+    "SoH Directory": "scenes/Z2_PIRATE",
+    "SoH Name (For Export)": "Z2_PIRATE_room_04DL_001F40",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_PIRATE",
+    "Decomp File Name (For Import)": "Z2_PIRATE_room_05DL_00ECE8",
+    "SoH Directory": "scenes/Z2_PIRATE",
+    "SoH Name (For Export)": "Z2_PIRATE_room_05DL_00ECE8",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_PIRATE",
+    "Decomp File Name (For Import)": "Z2_PIRATE_room_06DL_002420",
+    "SoH Directory": "scenes/Z2_PIRATE",
+    "SoH Name (For Export)": "Z2_PIRATE_room_06DL_002420",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_PIRATE",
+    "Decomp File Name (For Import)": "Z2_PIRATE_room_06DL_003CE8",
+    "SoH Directory": "scenes/Z2_PIRATE",
+    "SoH Name (For Export)": "Z2_PIRATE_room_06DL_003CE8",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_PIRATE",
+    "Decomp File Name (For Import)": "Z2_PIRATE_room_07DL_00E478",
+    "SoH Directory": "scenes/Z2_PIRATE",
+    "SoH Name (For Export)": "Z2_PIRATE_room_07DL_00E478",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_PIRATE",
+    "Decomp File Name (For Import)": "Z2_PIRATE_room_08DL_002308",
+    "SoH Directory": "scenes/Z2_PIRATE",
+    "SoH Name (For Export)": "Z2_PIRATE_room_08DL_002308",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_PIRATE",
+    "Decomp File Name (For Import)": "Z2_PIRATE_room_08DL_0037C8",
+    "SoH Directory": "scenes/Z2_PIRATE",
+    "SoH Name (For Export)": "Z2_PIRATE_room_08DL_0037C8",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_PIRATE",
+    "Decomp File Name (For Import)": "Z2_PIRATE_room_09DL_006770",
+    "SoH Directory": "scenes/Z2_PIRATE",
+    "SoH Name (For Export)": "Z2_PIRATE_room_09DL_006770",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_PIRATE",
+    "Decomp File Name (For Import)": "Z2_PIRATE_room_09DL_009D08",
+    "SoH Directory": "scenes/Z2_PIRATE",
+    "SoH Name (For Export)": "Z2_PIRATE_room_09DL_009D08",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_PIRATE",
+    "Decomp File Name (For Import)": "Z2_PIRATE_room_10DL_007938",
+    "SoH Directory": "scenes/Z2_PIRATE",
+    "SoH Name (For Export)": "Z2_PIRATE_room_10DL_007938",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_PIRATE",
+    "Decomp File Name (For Import)": "Z2_PIRATE_room_10DL_00AC40",
+    "SoH Directory": "scenes/Z2_PIRATE",
+    "SoH Name (For Export)": "Z2_PIRATE_room_10DL_00AC40",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_PIRATE",
+    "Decomp File Name (For Import)": "Z2_PIRATE_room_11DL_006F30",
+    "SoH Directory": "scenes/Z2_PIRATE",
+    "SoH Name (For Export)": "Z2_PIRATE_room_11DL_006F30",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_PIRATE",
+    "Decomp File Name (For Import)": "Z2_PIRATE_room_11DL_009C60",
+    "SoH Directory": "scenes/Z2_PIRATE",
+    "SoH Name (For Export)": "Z2_PIRATE_room_11DL_009C60",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_PIRATE",
+    "Decomp File Name (For Import)": "Z2_PIRATE_room_12DL_00A5E0",
+    "SoH Directory": "scenes/Z2_PIRATE",
+    "SoH Name (For Export)": "Z2_PIRATE_room_12DL_00A5E0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_PIRATE",
+    "Decomp File Name (For Import)": "Z2_PIRATE_room_12DL_00D610",
+    "SoH Directory": "scenes/Z2_PIRATE",
+    "SoH Name (For Export)": "Z2_PIRATE_room_12DL_00D610",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_PIRATE",
+    "Decomp File Name (For Import)": "Z2_PIRATE_room_13DL_002918",
+    "SoH Directory": "scenes/Z2_PIRATE",
+    "SoH Name (For Export)": "Z2_PIRATE_room_13DL_002918",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_PIRATE",
+    "Decomp File Name (For Import)": "Z2_PIRATE_room_13DL_0041D8",
+    "SoH Directory": "scenes/Z2_PIRATE",
+    "SoH Name (For Export)": "Z2_PIRATE_room_13DL_0041D8",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_PIRATE",
+    "Decomp File Name (For Import)": "Z2_PIRATE_room_14DL_000B28",
+    "SoH Directory": "scenes/Z2_PIRATE",
+    "SoH Name (For Export)": "Z2_PIRATE_room_14DL_000B28",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_BOTI",
+    "Decomp File Name (For Import)": "Z2_BOTI_room_00DL_007B40",
+    "SoH Directory": "scenes/Z2_BOTI",
+    "SoH Name (For Export)": "Z2_BOTI_room_00DL_007B40",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_BOTI",
+    "Decomp File Name (For Import)": "Z2_BOTI_room_00DL_00B198",
+    "SoH Directory": "scenes/Z2_BOTI",
+    "SoH Name (For Export)": "Z2_BOTI_room_00DL_00B198",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_BOTI",
+    "Decomp File Name (For Import)": "Z2_BOTI_room_01DL_006968",
+    "SoH Directory": "scenes/Z2_BOTI",
+    "SoH Name (For Export)": "Z2_BOTI_room_01DL_006968",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_BOTI",
+    "Decomp File Name (For Import)": "Z2_BOTI_room_01DL_0088D8",
+    "SoH Directory": "scenes/Z2_BOTI",
+    "SoH Name (For Export)": "Z2_BOTI_room_01DL_0088D8",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_BANDROOM",
+    "Decomp File Name (For Import)": "Z2_BANDROOM_room_00DL_0068B8",
+    "SoH Directory": "scenes/Z2_BANDROOM",
+    "SoH Name (For Export)": "Z2_BANDROOM_room_00DL_0068B8",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_BANDROOM",
+    "Decomp File Name (For Import)": "Z2_BANDROOM_room_00DL_00CEF0",
+    "SoH Directory": "scenes/Z2_BANDROOM",
+    "SoH Name (For Export)": "Z2_BANDROOM_room_00DL_00CEF0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_BANDROOM",
+    "Decomp File Name (For Import)": "Z2_BANDROOM_room_01DL_004498",
+    "SoH Directory": "scenes/Z2_BANDROOM",
+    "SoH Name (For Export)": "Z2_BANDROOM_room_01DL_004498",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_BANDROOM",
+    "Decomp File Name (For Import)": "Z2_BANDROOM_room_01DL_0076D0",
+    "SoH Directory": "scenes/Z2_BANDROOM",
+    "SoH Name (For Export)": "Z2_BANDROOM_room_01DL_0076D0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_BANDROOM",
+    "Decomp File Name (For Import)": "Z2_BANDROOM_room_02DL_007200",
+    "SoH Directory": "scenes/Z2_BANDROOM",
+    "SoH Name (For Export)": "Z2_BANDROOM_room_02DL_007200",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_BANDROOM",
+    "Decomp File Name (For Import)": "Z2_BANDROOM_room_02DL_00D100",
+    "SoH Directory": "scenes/Z2_BANDROOM",
+    "SoH Name (For Export)": "Z2_BANDROOM_room_02DL_00D100",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_BANDROOM",
+    "Decomp File Name (For Import)": "Z2_BANDROOM_room_03DL_004730",
+    "SoH Directory": "scenes/Z2_BANDROOM",
+    "SoH Name (For Export)": "Z2_BANDROOM_room_03DL_004730",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_BANDROOM",
+    "Decomp File Name (For Import)": "Z2_BANDROOM_room_03DL_008748",
+    "SoH Directory": "scenes/Z2_BANDROOM",
+    "SoH Name (For Export)": "Z2_BANDROOM_room_03DL_008748",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_BANDROOM",
+    "Decomp File Name (For Import)": "Z2_BANDROOM_room_04DL_004500",
+    "SoH Directory": "scenes/Z2_BANDROOM",
+    "SoH Name (For Export)": "Z2_BANDROOM_room_04DL_004500",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_BANDROOM",
+    "Decomp File Name (For Import)": "Z2_BANDROOM_room_04DL_008630",
+    "SoH Directory": "scenes/Z2_BANDROOM",
+    "SoH Name (For Export)": "Z2_BANDROOM_room_04DL_008630",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_DANPEI",
+    "Decomp File Name (For Import)": "Z2_DANPEI_room_00DL_0078D0",
+    "SoH Directory": "scenes/Z2_DANPEI",
+    "SoH Name (For Export)": "Z2_DANPEI_room_00DL_0078D0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_DANPEI",
+    "Decomp File Name (For Import)": "Z2_DANPEI_room_00DL_00A3A0",
+    "SoH Directory": "scenes/Z2_DANPEI",
+    "SoH Name (For Export)": "Z2_DANPEI_room_00DL_00A3A0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_DANPEI",
+    "Decomp File Name (For Import)": "Z2_DANPEI_room_01DL_005E50",
+    "SoH Directory": "scenes/Z2_DANPEI",
+    "SoH Name (For Export)": "Z2_DANPEI_room_01DL_005E50",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_DANPEI",
+    "Decomp File Name (For Import)": "Z2_DANPEI_room_01DL_007A60",
+    "SoH Directory": "scenes/Z2_DANPEI",
+    "SoH Name (For Export)": "Z2_DANPEI_room_01DL_007A60",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_DANPEI",
+    "Decomp File Name (For Import)": "Z2_DANPEI_room_02DL_00A070",
+    "SoH Directory": "scenes/Z2_DANPEI",
+    "SoH Name (For Export)": "Z2_DANPEI_room_02DL_00A070",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_DANPEI",
+    "Decomp File Name (For Import)": "Z2_DANPEI_room_03DL_006E70",
+    "SoH Directory": "scenes/Z2_DANPEI",
+    "SoH Name (For Export)": "Z2_DANPEI_room_03DL_006E70",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_DANPEI",
+    "Decomp File Name (For Import)": "Z2_DANPEI_room_03DL_0096F0",
+    "SoH Directory": "scenes/Z2_DANPEI",
+    "SoH Name (For Export)": "Z2_DANPEI_room_03DL_0096F0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_DANPEI",
+    "Decomp File Name (For Import)": "Z2_DANPEI_room_04DL_004080",
+    "SoH Directory": "scenes/Z2_DANPEI",
+    "SoH Name (For Export)": "Z2_DANPEI_room_04DL_004080",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_DANPEI",
+    "Decomp File Name (For Import)": "Z2_DANPEI_room_05DL_007640",
+    "SoH Directory": "scenes/Z2_DANPEI",
+    "SoH Name (For Export)": "Z2_DANPEI_room_05DL_007640",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_DANPEI",
+    "Decomp File Name (For Import)": "Z2_DANPEI_room_06DL_008E18",
+    "SoH Directory": "scenes/Z2_DANPEI",
+    "SoH Name (For Export)": "Z2_DANPEI_room_06DL_008E18",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_DANPEI",
+    "Decomp File Name (For Import)": "Z2_DANPEI_room_07DL_00B2B0",
+    "SoH Directory": "scenes/Z2_DANPEI",
+    "SoH Name (For Export)": "Z2_DANPEI_room_07DL_00B2B0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_DANPEI",
+    "Decomp File Name (For Import)": "Z2_DANPEI_room_08DL_003DE8",
+    "SoH Directory": "scenes/Z2_DANPEI",
+    "SoH Name (For Export)": "Z2_DANPEI_room_08DL_003DE8",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_INISIE_R",
+    "Decomp File Name (For Import)": "Z2_INISIE_R_room_00DL_009F70",
+    "SoH Directory": "scenes/Z2_INISIE_R",
+    "SoH Name (For Export)": "Z2_INISIE_R_room_00DL_009F70",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_INISIE_R",
+    "Decomp File Name (For Import)": "Z2_INISIE_R_room_00DL_00D448",
+    "SoH Directory": "scenes/Z2_INISIE_R",
+    "SoH Name (For Export)": "Z2_INISIE_R_room_00DL_00D448",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_INISIE_R",
+    "Decomp File Name (For Import)": "Z2_INISIE_R_room_01DL_006D98",
+    "SoH Directory": "scenes/Z2_INISIE_R",
+    "SoH Name (For Export)": "Z2_INISIE_R_room_01DL_006D98",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_INISIE_R",
+    "Decomp File Name (For Import)": "Z2_INISIE_R_room_01DL_009638",
+    "SoH Directory": "scenes/Z2_INISIE_R",
+    "SoH Name (For Export)": "Z2_INISIE_R_room_01DL_009638",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_INISIE_R",
+    "Decomp File Name (For Import)": "Z2_INISIE_R_room_02DL_006D80",
+    "SoH Directory": "scenes/Z2_INISIE_R",
+    "SoH Name (For Export)": "Z2_INISIE_R_room_02DL_006D80",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_INISIE_R",
+    "Decomp File Name (For Import)": "Z2_INISIE_R_room_02DL_0083F8",
+    "SoH Directory": "scenes/Z2_INISIE_R",
+    "SoH Name (For Export)": "Z2_INISIE_R_room_02DL_0083F8",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_INISIE_R",
+    "Decomp File Name (For Import)": "Z2_INISIE_R_room_03DL_007B78",
+    "SoH Directory": "scenes/Z2_INISIE_R",
+    "SoH Name (For Export)": "Z2_INISIE_R_room_03DL_007B78",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_INISIE_R",
+    "Decomp File Name (For Import)": "Z2_INISIE_R_room_03DL_00AA48",
+    "SoH Directory": "scenes/Z2_INISIE_R",
+    "SoH Name (For Export)": "Z2_INISIE_R_room_03DL_00AA48",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_INISIE_R",
+    "Decomp File Name (For Import)": "Z2_INISIE_R_room_04DL_004E38",
+    "SoH Directory": "scenes/Z2_INISIE_R",
+    "SoH Name (For Export)": "Z2_INISIE_R_room_04DL_004E38",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_INISIE_R",
+    "Decomp File Name (For Import)": "Z2_INISIE_R_room_04DL_006688",
+    "SoH Directory": "scenes/Z2_INISIE_R",
+    "SoH Name (For Export)": "Z2_INISIE_R_room_04DL_006688",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_INISIE_R",
+    "Decomp File Name (For Import)": "Z2_INISIE_R_room_05DL_000250",
+    "SoH Directory": "scenes/Z2_INISIE_R",
+    "SoH Name (For Export)": "Z2_INISIE_R_room_05DL_000250",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_INISIE_R",
+    "Decomp File Name (For Import)": "Z2_INISIE_R_room_06DL_000230",
+    "SoH Directory": "scenes/Z2_INISIE_R",
+    "SoH Name (For Export)": "Z2_INISIE_R_room_06DL_000230",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_INISIE_R",
+    "Decomp File Name (For Import)": "Z2_INISIE_R_room_07DL_0001B8",
+    "SoH Directory": "scenes/Z2_INISIE_R",
+    "SoH Name (For Export)": "Z2_INISIE_R_room_07DL_0001B8",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_INISIE_R",
+    "Decomp File Name (For Import)": "Z2_INISIE_R_room_08DL_003AB8",
+    "SoH Directory": "scenes/Z2_INISIE_R",
+    "SoH Name (For Export)": "Z2_INISIE_R_room_08DL_003AB8",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_INISIE_R",
+    "Decomp File Name (For Import)": "Z2_INISIE_R_room_08DL_004418",
+    "SoH Directory": "scenes/Z2_INISIE_R",
+    "SoH Name (For Export)": "Z2_INISIE_R_room_08DL_004418",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_INISIE_R",
+    "Decomp File Name (For Import)": "Z2_INISIE_R_room_09DL_0001B8",
+    "SoH Directory": "scenes/Z2_INISIE_R",
+    "SoH Name (For Export)": "Z2_INISIE_R_room_09DL_0001B8",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_INISIE_R",
+    "Decomp File Name (For Import)": "Z2_INISIE_R_room_10DL_002DA8",
+    "SoH Directory": "scenes/Z2_INISIE_R",
+    "SoH Name (For Export)": "Z2_INISIE_R_room_10DL_002DA8",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_INISIE_R",
+    "Decomp File Name (For Import)": "Z2_INISIE_R_room_10DL_0047C0",
+    "SoH Directory": "scenes/Z2_INISIE_R",
+    "SoH Name (For Export)": "Z2_INISIE_R_room_10DL_0047C0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_INISIE_R",
+    "Decomp File Name (For Import)": "Z2_INISIE_R_room_11DL_002EA0",
+    "SoH Directory": "scenes/Z2_INISIE_R",
+    "SoH Name (For Export)": "Z2_INISIE_R_room_11DL_002EA0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_INISIE_R",
+    "Decomp File Name (For Import)": "Z2_INISIE_R_room_11DL_0042E8",
+    "SoH Directory": "scenes/Z2_INISIE_R",
+    "SoH Name (For Export)": "Z2_INISIE_R_room_11DL_0042E8",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_22DEKUCITY",
+    "Decomp File Name (For Import)": "Z2_22DEKUCITY_room_00DL_000540",
+    "SoH Directory": "scenes/Z2_22DEKUCITY",
+    "SoH Name (For Export)": "Z2_22DEKUCITY_room_00DL_000540",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_22DEKUCITY",
+    "Decomp File Name (For Import)": "Z2_22DEKUCITY_room_00DL_00F3D8",
+    "SoH Directory": "scenes/Z2_22DEKUCITY",
+    "SoH Name (For Export)": "Z2_22DEKUCITY_room_00DL_00F3D8",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_22DEKUCITY",
+    "Decomp File Name (For Import)": "Z2_22DEKUCITY_room_00DL_0119F0",
+    "SoH Directory": "scenes/Z2_22DEKUCITY",
+    "SoH Name (For Export)": "Z2_22DEKUCITY_room_00DL_0119F0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_22DEKUCITY",
+    "Decomp File Name (For Import)": "Z2_22DEKUCITY_room_00DL_011A28",
+    "SoH Directory": "scenes/Z2_22DEKUCITY",
+    "SoH Name (For Export)": "Z2_22DEKUCITY_room_00DL_011A28",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_22DEKUCITY",
+    "Decomp File Name (For Import)": "Z2_22DEKUCITY_room_01DL_0003E0",
+    "SoH Directory": "scenes/Z2_22DEKUCITY",
+    "SoH Name (For Export)": "Z2_22DEKUCITY_room_01DL_0003E0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_22DEKUCITY",
+    "Decomp File Name (For Import)": "Z2_22DEKUCITY_room_01DL_00CE28",
+    "SoH Directory": "scenes/Z2_22DEKUCITY",
+    "SoH Name (For Export)": "Z2_22DEKUCITY_room_01DL_00CE28",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_22DEKUCITY",
+    "Decomp File Name (For Import)": "Z2_22DEKUCITY_room_01DL_00E910",
+    "SoH Directory": "scenes/Z2_22DEKUCITY",
+    "SoH Name (For Export)": "Z2_22DEKUCITY_room_01DL_00E910",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_22DEKUCITY",
+    "Decomp File Name (For Import)": "Z2_22DEKUCITY_room_01DL_00E930",
+    "SoH Directory": "scenes/Z2_22DEKUCITY",
+    "SoH Name (For Export)": "Z2_22DEKUCITY_room_01DL_00E930",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_22DEKUCITY",
+    "Decomp File Name (For Import)": "Z2_22DEKUCITY_room_02DL_000460",
+    "SoH Directory": "scenes/Z2_22DEKUCITY",
+    "SoH Name (For Export)": "Z2_22DEKUCITY_room_02DL_000460",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_22DEKUCITY",
+    "Decomp File Name (For Import)": "Z2_22DEKUCITY_room_02DL_00F488",
+    "SoH Directory": "scenes/Z2_22DEKUCITY",
+    "SoH Name (For Export)": "Z2_22DEKUCITY_room_02DL_00F488",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_22DEKUCITY",
+    "Decomp File Name (For Import)": "Z2_22DEKUCITY_room_02DL_012490",
+    "SoH Directory": "scenes/Z2_22DEKUCITY",
+    "SoH Name (For Export)": "Z2_22DEKUCITY_room_02DL_012490",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_22DEKUCITY",
+    "Decomp File Name (For Import)": "Z2_22DEKUCITY_room_02DL_0124C0",
+    "SoH Directory": "scenes/Z2_22DEKUCITY",
+    "SoH Name (For Export)": "Z2_22DEKUCITY_room_02DL_0124C0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_DOUJOU",
+    "Decomp File Name (For Import)": "Z2_DOUJOU_room_00DL_0062B0",
+    "SoH Directory": "scenes/Z2_DOUJOU",
+    "SoH Name (For Export)": "Z2_DOUJOU_room_00DL_0062B0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_DOUJOU",
+    "Decomp File Name (For Import)": "Z2_DOUJOU_room_00DL_0064C0",
+    "SoH Directory": "scenes/Z2_DOUJOU",
+    "SoH Name (For Export)": "Z2_DOUJOU_room_00DL_0064C0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_ICHIBA",
+    "Decomp File Name (For Import)": "Z2_ICHIBA_room_00DL_000530",
+    "SoH Directory": "scenes/Z2_ICHIBA",
+    "SoH Name (For Export)": "Z2_ICHIBA_room_00DL_000530",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_ICHIBA",
+    "Decomp File Name (For Import)": "Z2_ICHIBA_room_00DL_008CF0",
+    "SoH Directory": "scenes/Z2_ICHIBA",
+    "SoH Name (For Export)": "Z2_ICHIBA_room_00DL_008CF0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_ICHIBA",
+    "Decomp File Name (For Import)": "Z2_ICHIBA_room_00DL_00AAB8",
+    "SoH Directory": "scenes/Z2_ICHIBA",
+    "SoH Name (For Export)": "Z2_ICHIBA_room_00DL_00AAB8",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_OKUJOU",
+    "Decomp File Name (For Import)": "Z2_OKUJOU_room_00DL_002F50",
+    "SoH Directory": "scenes/Z2_OKUJOU",
+    "SoH Name (For Export)": "Z2_OKUJOU_room_00DL_002F50",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_F01C",
+    "Decomp File Name (For Import)": "Z2_F01C_room_00DL_0055C8",
+    "SoH Directory": "scenes/Z2_F01C",
+    "SoH Name (For Export)": "Z2_F01C_room_00DL_0055C8",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_F01C",
+    "Decomp File Name (For Import)": "Z2_F01C_room_00DL_0059D0",
+    "SoH Directory": "scenes/Z2_F01C",
+    "SoH Name (For Export)": "Z2_F01C_room_00DL_0059D0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_35TAKI",
+    "Decomp File Name (For Import)": "Z2_35TAKI_room_00DL_017400",
+    "SoH Directory": "scenes/Z2_35TAKI",
+    "SoH Name (For Export)": "Z2_35TAKI_room_00DL_017400",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_35TAKI",
+    "Decomp File Name (For Import)": "Z2_35TAKI_room_00DL_000C00",
+    "SoH Directory": "scenes/Z2_35TAKI",
+    "SoH Name (For Export)": "Z2_35TAKI_room_00DL_000C00",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_35TAKI",
+    "Decomp File Name (For Import)": "Z2_35TAKI_room_00DL_017350",
+    "SoH Directory": "scenes/Z2_35TAKI",
+    "SoH Name (For Export)": "Z2_35TAKI_room_00DL_017350",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_35TAKI",
+    "Decomp File Name (For Import)": "Z2_35TAKI_room_00DL_018CB8",
+    "SoH Directory": "scenes/Z2_35TAKI",
+    "SoH Name (For Export)": "Z2_35TAKI_room_00DL_018CB8",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_SOUGEN",
+    "Decomp File Name (For Import)": "Z2_SOUGEN_room_00DL_0051F0",
+    "SoH Directory": "scenes/Z2_SOUGEN",
+    "SoH Name (For Export)": "Z2_SOUGEN_room_00DL_0051F0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_SOUGEN",
+    "Decomp File Name (For Import)": "Z2_SOUGEN_room_00DL_007A88",
+    "SoH Directory": "scenes/Z2_SOUGEN",
+    "SoH Name (For Export)": "Z2_SOUGEN_room_00DL_007A88",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_INISIE_BS",
+    "Decomp File Name (For Import)": "Z2_INISIE_BS_room_00DL_000198",
+    "SoH Directory": "scenes/Z2_INISIE_BS",
+    "SoH Name (For Export)": "Z2_INISIE_BS_room_00DL_000198",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_IKANAMAE",
+    "Decomp File Name (For Import)": "Z2_IKANAMAE_room_00DL_004510",
+    "SoH Directory": "scenes/Z2_IKANAMAE",
+    "SoH Name (For Export)": "Z2_IKANAMAE_room_00DL_004510",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_IKANAMAE",
+    "Decomp File Name (For Import)": "Z2_IKANAMAE_room_00DL_000650",
+    "SoH Directory": "scenes/Z2_IKANAMAE",
+    "SoH Name (For Export)": "Z2_IKANAMAE_room_00DL_000650",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_IKANAMAE",
+    "Decomp File Name (For Import)": "Z2_IKANAMAE_room_00DL_004498",
+    "SoH Directory": "scenes/Z2_IKANAMAE",
+    "SoH Name (For Export)": "Z2_IKANAMAE_room_00DL_004498",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_IKANAMAE",
+    "Decomp File Name (For Import)": "Z2_IKANAMAE_room_00DL_004BC0",
+    "SoH Directory": "scenes/Z2_IKANAMAE",
+    "SoH Name (For Export)": "Z2_IKANAMAE_room_00DL_004BC0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_TORIDE",
+    "Decomp File Name (For Import)": "Z2_TORIDE_room_00DL_00C9E0",
+    "SoH Directory": "scenes/Z2_TORIDE",
+    "SoH Name (For Export)": "Z2_TORIDE_room_00DL_00C9E0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_TORIDE",
+    "Decomp File Name (For Import)": "Z2_TORIDE_room_00DL_0007B0",
+    "SoH Directory": "scenes/Z2_TORIDE",
+    "SoH Name (For Export)": "Z2_TORIDE_room_00DL_0007B0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_TORIDE",
+    "Decomp File Name (For Import)": "Z2_TORIDE_room_00DL_00C900",
+    "SoH Directory": "scenes/Z2_TORIDE",
+    "SoH Name (For Export)": "Z2_TORIDE_room_00DL_00C900",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_TORIDE",
+    "Decomp File Name (For Import)": "Z2_TORIDE_room_00DL_00D1D0",
+    "SoH Directory": "scenes/Z2_TORIDE",
+    "SoH Name (For Export)": "Z2_TORIDE_room_00DL_00D1D0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_RANDOM",
+    "Decomp File Name (For Import)": "Z2_RANDOM_room_00DL_0024E8",
+    "SoH Directory": "scenes/Z2_RANDOM",
+    "SoH Name (For Export)": "Z2_RANDOM_room_00DL_0024E8",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_RANDOM",
+    "Decomp File Name (For Import)": "Z2_RANDOM_room_00DL_002B10",
+    "SoH Directory": "scenes/Z2_RANDOM",
+    "SoH Name (For Export)": "Z2_RANDOM_room_00DL_002B10",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_RANDOM",
+    "Decomp File Name (For Import)": "Z2_RANDOM_room_01DL_008C90",
+    "SoH Directory": "scenes/Z2_RANDOM",
+    "SoH Name (For Export)": "Z2_RANDOM_room_01DL_008C90",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_RANDOM",
+    "Decomp File Name (For Import)": "Z2_RANDOM_room_01DL_009728",
+    "SoH Directory": "scenes/Z2_RANDOM",
+    "SoH Name (For Export)": "Z2_RANDOM_room_01DL_009728",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_RANDOM",
+    "Decomp File Name (For Import)": "Z2_RANDOM_room_02DL_004B50",
+    "SoH Directory": "scenes/Z2_RANDOM",
+    "SoH Name (For Export)": "Z2_RANDOM_room_02DL_004B50",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_RANDOM",
+    "Decomp File Name (For Import)": "Z2_RANDOM_room_02DL_0071B0",
+    "SoH Directory": "scenes/Z2_RANDOM",
+    "SoH Name (For Export)": "Z2_RANDOM_room_02DL_0071B0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_RANDOM",
+    "Decomp File Name (For Import)": "Z2_RANDOM_room_03DL_004B88",
+    "SoH Directory": "scenes/Z2_RANDOM",
+    "SoH Name (For Export)": "Z2_RANDOM_room_03DL_004B88",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_RANDOM",
+    "Decomp File Name (For Import)": "Z2_RANDOM_room_03DL_0072D0",
+    "SoH Directory": "scenes/Z2_RANDOM",
+    "SoH Name (For Export)": "Z2_RANDOM_room_03DL_0072D0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_RANDOM",
+    "Decomp File Name (For Import)": "Z2_RANDOM_room_04DL_002548",
+    "SoH Directory": "scenes/Z2_RANDOM",
+    "SoH Name (For Export)": "Z2_RANDOM_room_04DL_002548",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_RANDOM",
+    "Decomp File Name (For Import)": "Z2_RANDOM_room_04DL_0035A8",
+    "SoH Directory": "scenes/Z2_RANDOM",
+    "SoH Name (For Export)": "Z2_RANDOM_room_04DL_0035A8",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_RANDOM",
+    "Decomp File Name (For Import)": "Z2_RANDOM_room_05DL_002988",
+    "SoH Directory": "scenes/Z2_RANDOM",
+    "SoH Name (For Export)": "Z2_RANDOM_room_05DL_002988",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_RANDOM",
+    "Decomp File Name (For Import)": "Z2_RANDOM_room_05DL_003BE0",
+    "SoH Directory": "scenes/Z2_RANDOM",
+    "SoH Name (For Export)": "Z2_RANDOM_room_05DL_003BE0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_17SETUGEN",
+    "Decomp File Name (For Import)": "Z2_17SETUGEN_room_00DL_007208",
+    "SoH Directory": "scenes/Z2_17SETUGEN",
+    "SoH Name (For Export)": "Z2_17SETUGEN_room_00DL_007208",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_17SETUGEN",
+    "Decomp File Name (For Import)": "Z2_17SETUGEN_room_00DL_0076B8",
+    "SoH Directory": "scenes/Z2_17SETUGEN",
+    "SoH Name (For Export)": "Z2_17SETUGEN_room_00DL_0076B8",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_16GORON_HOUSE",
+    "Decomp File Name (For Import)": "Z2_16GORON_HOUSE_room_00DL_0086B0",
+    "SoH Directory": "scenes/Z2_16GORON_HOUSE",
+    "SoH Name (For Export)": "Z2_16GORON_HOUSE_room_00DL_0086B0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_16GORON_HOUSE",
+    "Decomp File Name (For Import)": "Z2_16GORON_HOUSE_room_00DL_00BDA8",
+    "SoH Directory": "scenes/Z2_16GORON_HOUSE",
+    "SoH Name (For Export)": "Z2_16GORON_HOUSE_room_00DL_00BDA8",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_16GORON_HOUSE",
+    "Decomp File Name (For Import)": "Z2_16GORON_HOUSE_room_01DL_0056A0",
+    "SoH Directory": "scenes/Z2_16GORON_HOUSE",
+    "SoH Name (For Export)": "Z2_16GORON_HOUSE_room_01DL_0056A0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_16GORON_HOUSE",
+    "Decomp File Name (For Import)": "Z2_16GORON_HOUSE_room_01DL_007138",
+    "SoH Directory": "scenes/Z2_16GORON_HOUSE",
+    "SoH Name (For Export)": "Z2_16GORON_HOUSE_room_01DL_007138",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_MUSICHOUSE",
+    "Decomp File Name (For Import)": "Z2_MUSICHOUSE_room_00DL_00C770",
+    "SoH Directory": "scenes/Z2_MUSICHOUSE",
+    "SoH Name (For Export)": "Z2_MUSICHOUSE_room_00DL_00C770",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_MUSICHOUSE",
+    "Decomp File Name (For Import)": "Z2_MUSICHOUSE_room_00DL_00CA48",
+    "SoH Directory": "scenes/Z2_MUSICHOUSE",
+    "SoH Name (For Export)": "Z2_MUSICHOUSE_room_00DL_00CA48",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_LAST_GORON",
+    "Decomp File Name (For Import)": "Z2_LAST_GORON_room_00DL_00D3C8",
+    "SoH Directory": "scenes/Z2_LAST_GORON",
+    "SoH Name (For Export)": "Z2_LAST_GORON_room_00DL_00D3C8",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_LAST_GORON",
+    "Decomp File Name (For Import)": "Z2_LAST_GORON_room_00DL_015E78",
+    "SoH Directory": "scenes/Z2_LAST_GORON",
+    "SoH Name (For Export)": "Z2_LAST_GORON_room_00DL_015E78",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_LAST_GORON",
+    "Decomp File Name (For Import)": "Z2_LAST_GORON_room_01DL_001438",
+    "SoH Directory": "scenes/Z2_LAST_GORON",
+    "SoH Name (For Export)": "Z2_LAST_GORON_room_01DL_001438",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_LAST_DEKU",
+    "Decomp File Name (For Import)": "Z2_LAST_DEKU_room_00DL_005A00",
+    "SoH Directory": "scenes/Z2_LAST_DEKU",
+    "SoH Name (For Export)": "Z2_LAST_DEKU_room_00DL_005A00",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_LAST_DEKU",
+    "Decomp File Name (For Import)": "Z2_LAST_DEKU_room_01DL_0016F0",
+    "SoH Directory": "scenes/Z2_LAST_DEKU",
+    "SoH Name (For Export)": "Z2_LAST_DEKU_room_01DL_0016F0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_20SICHITAI",
+    "Decomp File Name (For Import)": "Z2_20SICHITAI_room_00DL_0006B0",
+    "SoH Directory": "scenes/Z2_20SICHITAI",
+    "SoH Name (For Export)": "Z2_20SICHITAI_room_00DL_0006B0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_20SICHITAI",
+    "Decomp File Name (For Import)": "Z2_20SICHITAI_room_00DL_011A70",
+    "SoH Directory": "scenes/Z2_20SICHITAI",
+    "SoH Name (For Export)": "Z2_20SICHITAI_room_00DL_011A70",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_20SICHITAI",
+    "Decomp File Name (For Import)": "Z2_20SICHITAI_room_00DL_01B120",
+    "SoH Directory": "scenes/Z2_20SICHITAI",
+    "SoH Name (For Export)": "Z2_20SICHITAI_room_00DL_01B120",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_20SICHITAI",
+    "Decomp File Name (For Import)": "Z2_20SICHITAI_room_00DL_01CAE8",
+    "SoH Directory": "scenes/Z2_20SICHITAI",
+    "SoH Name (For Export)": "Z2_20SICHITAI_room_00DL_01CAE8",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_20SICHITAI",
+    "Decomp File Name (For Import)": "Z2_20SICHITAI_room_01DL_000570",
+    "SoH Directory": "scenes/Z2_20SICHITAI",
+    "SoH Name (For Export)": "Z2_20SICHITAI_room_01DL_000570",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_20SICHITAI",
+    "Decomp File Name (For Import)": "Z2_20SICHITAI_room_01DL_00B9F0",
+    "SoH Directory": "scenes/Z2_20SICHITAI",
+    "SoH Name (For Export)": "Z2_20SICHITAI_room_01DL_00B9F0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_20SICHITAI",
+    "Decomp File Name (For Import)": "Z2_20SICHITAI_room_01DL_011860",
+    "SoH Directory": "scenes/Z2_20SICHITAI",
+    "SoH Name (For Export)": "Z2_20SICHITAI_room_01DL_011860",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_20SICHITAI",
+    "Decomp File Name (For Import)": "Z2_20SICHITAI_room_01DL_013458",
+    "SoH Directory": "scenes/Z2_20SICHITAI",
+    "SoH Name (For Export)": "Z2_20SICHITAI_room_01DL_013458",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_20SICHITAI",
+    "Decomp File Name (For Import)": "Z2_20SICHITAI_room_02DL_000370",
+    "SoH Directory": "scenes/Z2_20SICHITAI",
+    "SoH Name (For Export)": "Z2_20SICHITAI_room_02DL_000370",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_20SICHITAI",
+    "Decomp File Name (For Import)": "Z2_20SICHITAI_room_02DL_008BA0",
+    "SoH Directory": "scenes/Z2_20SICHITAI",
+    "SoH Name (For Export)": "Z2_20SICHITAI_room_02DL_008BA0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_20SICHITAI",
+    "Decomp File Name (For Import)": "Z2_20SICHITAI_room_02DL_00D480",
+    "SoH Directory": "scenes/Z2_20SICHITAI",
+    "SoH Name (For Export)": "Z2_20SICHITAI_room_02DL_00D480",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_20SICHITAI",
+    "Decomp File Name (For Import)": "Z2_20SICHITAI_room_02DL_00DCA0",
+    "SoH Directory": "scenes/Z2_20SICHITAI",
+    "SoH Name (For Export)": "Z2_20SICHITAI_room_02DL_00DCA0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_KAJIYA",
+    "Decomp File Name (For Import)": "Z2_KAJIYA_room_00DL_00D478",
+    "SoH Directory": "scenes/Z2_KAJIYA",
+    "SoH Name (For Export)": "Z2_KAJIYA_room_00DL_00D478",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_KAJIYA",
+    "Decomp File Name (For Import)": "Z2_KAJIYA_room_00DL_00D8D0",
+    "SoH Directory": "scenes/Z2_KAJIYA",
+    "SoH Name (For Export)": "Z2_KAJIYA_room_00DL_00D8D0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_GORON_HAKA",
+    "Decomp File Name (For Import)": "Z2_GORON_HAKA_room_00DL_007A80",
+    "SoH Directory": "scenes/Z2_GORON_HAKA",
+    "SoH Name (For Export)": "Z2_GORON_HAKA_room_00DL_007A80",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_GORON_HAKA",
+    "Decomp File Name (For Import)": "Z2_GORON_HAKA_room_00DL_007D98",
+    "SoH Directory": "scenes/Z2_GORON_HAKA",
+    "SoH Name (For Export)": "Z2_GORON_HAKA_room_00DL_007D98",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_LABO",
+    "Decomp File Name (For Import)": "Z2_LABO_room_00DL_005CA8",
+    "SoH Directory": "scenes/Z2_LABO",
+    "SoH Name (For Export)": "Z2_LABO_room_00DL_005CA8",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_LABO",
+    "Decomp File Name (For Import)": "Z2_LABO_room_00DL_008638",
+    "SoH Directory": "scenes/Z2_LABO",
+    "SoH Name (For Export)": "Z2_LABO_room_00DL_008638",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_DEKUTES",
+    "Decomp File Name (For Import)": "Z2_DEKUTES_room_00DL_003FB0",
+    "SoH Directory": "scenes/Z2_DEKUTES",
+    "SoH Name (For Export)": "Z2_DEKUTES_room_00DL_003FB0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_DEKUTES",
+    "Decomp File Name (For Import)": "Z2_DEKUTES_room_00DL_004350",
+    "SoH Directory": "scenes/Z2_DEKUTES",
+    "SoH Name (For Export)": "Z2_DEKUTES_room_00DL_004350",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_CASTLE",
+    "Decomp File Name (For Import)": "Z2_CASTLE_room_00DL_000430",
+    "SoH Directory": "scenes/Z2_CASTLE",
+    "SoH Name (For Export)": "Z2_CASTLE_room_00DL_000430",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_CASTLE",
+    "Decomp File Name (For Import)": "Z2_CASTLE_room_00DL_00CD30",
+    "SoH Directory": "scenes/Z2_CASTLE",
+    "SoH Name (For Export)": "Z2_CASTLE_room_00DL_00CD30",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_CASTLE",
+    "Decomp File Name (For Import)": "Z2_CASTLE_room_00DL_017A20",
+    "SoH Directory": "scenes/Z2_CASTLE",
+    "SoH Name (For Export)": "Z2_CASTLE_room_00DL_017A20",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_CASTLE",
+    "Decomp File Name (For Import)": "Z2_CASTLE_room_00DL_017E18",
+    "SoH Directory": "scenes/Z2_CASTLE",
+    "SoH Name (For Export)": "Z2_CASTLE_room_00DL_017E18",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_CASTLE",
+    "Decomp File Name (For Import)": "Z2_CASTLE_room_01DL_000190",
+    "SoH Directory": "scenes/Z2_CASTLE",
+    "SoH Name (For Export)": "Z2_CASTLE_room_01DL_000190",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_CASTLE",
+    "Decomp File Name (For Import)": "Z2_CASTLE_room_01DL_004E00",
+    "SoH Directory": "scenes/Z2_CASTLE",
+    "SoH Name (For Export)": "Z2_CASTLE_room_01DL_004E00",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_CASTLE",
+    "Decomp File Name (For Import)": "Z2_CASTLE_room_01DL_006240",
+    "SoH Directory": "scenes/Z2_CASTLE",
+    "SoH Name (For Export)": "Z2_CASTLE_room_01DL_006240",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_CASTLE",
+    "Decomp File Name (For Import)": "Z2_CASTLE_room_01DL_006250",
+    "SoH Directory": "scenes/Z2_CASTLE",
+    "SoH Name (For Export)": "Z2_CASTLE_room_01DL_006250",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_CASTLE",
+    "Decomp File Name (For Import)": "Z2_CASTLE_room_02DL_000180",
+    "SoH Directory": "scenes/Z2_CASTLE",
+    "SoH Name (For Export)": "Z2_CASTLE_room_02DL_000180",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_CASTLE",
+    "Decomp File Name (For Import)": "Z2_CASTLE_room_02DL_0024C8",
+    "SoH Directory": "scenes/Z2_CASTLE",
+    "SoH Name (For Export)": "Z2_CASTLE_room_02DL_0024C8",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_CASTLE",
+    "Decomp File Name (For Import)": "Z2_CASTLE_room_02DL_005100",
+    "SoH Directory": "scenes/Z2_CASTLE",
+    "SoH Name (For Export)": "Z2_CASTLE_room_02DL_005100",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_CASTLE",
+    "Decomp File Name (For Import)": "Z2_CASTLE_room_02DL_005320",
+    "SoH Directory": "scenes/Z2_CASTLE",
+    "SoH Name (For Export)": "Z2_CASTLE_room_02DL_005320",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_CASTLE",
+    "Decomp File Name (For Import)": "Z2_CASTLE_room_03DL_000150",
+    "SoH Directory": "scenes/Z2_CASTLE",
+    "SoH Name (For Export)": "Z2_CASTLE_room_03DL_000150",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_CASTLE",
+    "Decomp File Name (For Import)": "Z2_CASTLE_room_03DL_003518",
+    "SoH Directory": "scenes/Z2_CASTLE",
+    "SoH Name (For Export)": "Z2_CASTLE_room_03DL_003518",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_CASTLE",
+    "Decomp File Name (For Import)": "Z2_CASTLE_room_03DL_005550",
+    "SoH Directory": "scenes/Z2_CASTLE",
+    "SoH Name (For Export)": "Z2_CASTLE_room_03DL_005550",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_CASTLE",
+    "Decomp File Name (For Import)": "Z2_CASTLE_room_03DL_005560",
+    "SoH Directory": "scenes/Z2_CASTLE",
+    "SoH Name (For Export)": "Z2_CASTLE_room_03DL_005560",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_CASTLE",
+    "Decomp File Name (For Import)": "Z2_CASTLE_room_04DL_0001E0",
+    "SoH Directory": "scenes/Z2_CASTLE",
+    "SoH Name (For Export)": "Z2_CASTLE_room_04DL_0001E0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_CASTLE",
+    "Decomp File Name (For Import)": "Z2_CASTLE_room_04DL_003A80",
+    "SoH Directory": "scenes/Z2_CASTLE",
+    "SoH Name (For Export)": "Z2_CASTLE_room_04DL_003A80",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_CASTLE",
+    "Decomp File Name (For Import)": "Z2_CASTLE_room_04DL_0086C0",
+    "SoH Directory": "scenes/Z2_CASTLE",
+    "SoH Name (For Export)": "Z2_CASTLE_room_04DL_0086C0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_CASTLE",
+    "Decomp File Name (For Import)": "Z2_CASTLE_room_04DL_0086D0",
+    "SoH Directory": "scenes/Z2_CASTLE",
+    "SoH Name (For Export)": "Z2_CASTLE_room_04DL_0086D0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_CASTLE",
+    "Decomp File Name (For Import)": "Z2_CASTLE_room_05DL_000100",
+    "SoH Directory": "scenes/Z2_CASTLE",
+    "SoH Name (For Export)": "Z2_CASTLE_room_05DL_000100",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_CASTLE",
+    "Decomp File Name (For Import)": "Z2_CASTLE_room_05DL_002C28",
+    "SoH Directory": "scenes/Z2_CASTLE",
+    "SoH Name (For Export)": "Z2_CASTLE_room_05DL_002C28",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_CASTLE",
+    "Decomp File Name (For Import)": "Z2_CASTLE_room_05DL_004050",
+    "SoH Directory": "scenes/Z2_CASTLE",
+    "SoH Name (For Export)": "Z2_CASTLE_room_05DL_004050",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_CASTLE",
+    "Decomp File Name (For Import)": "Z2_CASTLE_room_05DL_004060",
+    "SoH Directory": "scenes/Z2_CASTLE",
+    "SoH Name (For Export)": "Z2_CASTLE_room_05DL_004060",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_CASTLE",
+    "Decomp File Name (For Import)": "Z2_CASTLE_room_06DL_0000D0",
+    "SoH Directory": "scenes/Z2_CASTLE",
+    "SoH Name (For Export)": "Z2_CASTLE_room_06DL_0000D0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_CASTLE",
+    "Decomp File Name (For Import)": "Z2_CASTLE_room_06DL_001D88",
+    "SoH Directory": "scenes/Z2_CASTLE",
+    "SoH Name (For Export)": "Z2_CASTLE_room_06DL_001D88",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_CASTLE",
+    "Decomp File Name (For Import)": "Z2_CASTLE_room_06DL_0025A0",
+    "SoH Directory": "scenes/Z2_CASTLE",
+    "SoH Name (For Export)": "Z2_CASTLE_room_06DL_0025A0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_CASTLE",
+    "Decomp File Name (For Import)": "Z2_CASTLE_room_06DL_0025B0",
+    "SoH Directory": "scenes/Z2_CASTLE",
+    "SoH Name (For Export)": "Z2_CASTLE_room_06DL_0025B0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_CASTLE",
+    "Decomp File Name (For Import)": "Z2_CASTLE_room_07DL_000100",
+    "SoH Directory": "scenes/Z2_CASTLE",
+    "SoH Name (For Export)": "Z2_CASTLE_room_07DL_000100",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_CASTLE",
+    "Decomp File Name (For Import)": "Z2_CASTLE_room_07DL_001E28",
+    "SoH Directory": "scenes/Z2_CASTLE",
+    "SoH Name (For Export)": "Z2_CASTLE_room_07DL_001E28",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_CASTLE",
+    "Decomp File Name (For Import)": "Z2_CASTLE_room_07DL_002650",
+    "SoH Directory": "scenes/Z2_CASTLE",
+    "SoH Name (For Export)": "Z2_CASTLE_room_07DL_002650",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_CASTLE",
+    "Decomp File Name (For Import)": "Z2_CASTLE_room_07DL_002660",
+    "SoH Directory": "scenes/Z2_CASTLE",
+    "SoH Name (For Export)": "Z2_CASTLE_room_07DL_002660",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_CASTLE",
+    "Decomp File Name (For Import)": "Z2_CASTLE_room_08DL_000080",
+    "SoH Directory": "scenes/Z2_CASTLE",
+    "SoH Name (For Export)": "Z2_CASTLE_room_08DL_000080",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_CASTLE",
+    "Decomp File Name (For Import)": "Z2_CASTLE_room_08DL_000AE8",
+    "SoH Directory": "scenes/Z2_CASTLE",
+    "SoH Name (For Export)": "Z2_CASTLE_room_08DL_000AE8",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_CASTLE",
+    "Decomp File Name (For Import)": "Z2_CASTLE_room_09DL_000080",
+    "SoH Directory": "scenes/Z2_CASTLE",
+    "SoH Name (For Export)": "Z2_CASTLE_room_09DL_000080",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_CASTLE",
+    "Decomp File Name (For Import)": "Z2_CASTLE_room_09DL_000AF0",
+    "SoH Directory": "scenes/Z2_CASTLE",
+    "SoH Name (For Export)": "Z2_CASTLE_room_09DL_000AF0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_30GYOSON",
+    "Decomp File Name (For Import)": "Z2_30GYOSON_room_00DL_01C1B0",
+    "SoH Directory": "scenes/Z2_30GYOSON",
+    "SoH Name (For Export)": "Z2_30GYOSON_room_00DL_01C1B0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_30GYOSON",
+    "Decomp File Name (For Import)": "Z2_30GYOSON_room_00DL_01C058",
+    "SoH Directory": "scenes/Z2_30GYOSON",
+    "SoH Name (For Export)": "Z2_30GYOSON_room_00DL_01C058",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_30GYOSON",
+    "Decomp File Name (For Import)": "Z2_30GYOSON_room_00DL_01D2B0",
+    "SoH Directory": "scenes/Z2_30GYOSON",
+    "SoH Name (For Export)": "Z2_30GYOSON_room_00DL_01D2B0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_LAST_BS",
+    "Decomp File Name (For Import)": "Z2_LAST_BS_room_00DL_008A50",
+    "SoH Directory": "scenes/Z2_LAST_BS",
+    "SoH Name (For Export)": "Z2_LAST_BS_room_00DL_008A50",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_LAST_BS",
+    "Decomp File Name (For Import)": "Z2_LAST_BS_room_00DL_008980",
+    "SoH Directory": "scenes/Z2_LAST_BS",
+    "SoH Name (For Export)": "Z2_LAST_BS_room_00DL_008980",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_WITCH_SHOP",
+    "Decomp File Name (For Import)": "Z2_WITCH_SHOP_room_00DL_009838",
+    "SoH Directory": "scenes/Z2_WITCH_SHOP",
+    "SoH Name (For Export)": "Z2_WITCH_SHOP_room_00DL_009838",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_WITCH_SHOP",
+    "Decomp File Name (For Import)": "Z2_WITCH_SHOP_room_00DL_009A40",
+    "SoH Directory": "scenes/Z2_WITCH_SHOP",
+    "SoH Name (For Export)": "Z2_WITCH_SHOP_room_00DL_009A40",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_11GORONNOSATO",
+    "Decomp File Name (For Import)": "Z2_11GORONNOSATO_room_00DL_000670",
+    "SoH Directory": "scenes/Z2_11GORONNOSATO",
+    "SoH Name (For Export)": "Z2_11GORONNOSATO_room_00DL_000670",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_11GORONNOSATO",
+    "Decomp File Name (For Import)": "Z2_11GORONNOSATO_room_00DL_00C740",
+    "SoH Directory": "scenes/Z2_11GORONNOSATO",
+    "SoH Name (For Export)": "Z2_11GORONNOSATO_room_00DL_00C740",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_11GORONNOSATO",
+    "Decomp File Name (For Import)": "Z2_11GORONNOSATO_room_00DL_013080",
+    "SoH Directory": "scenes/Z2_11GORONNOSATO",
+    "SoH Name (For Export)": "Z2_11GORONNOSATO_room_00DL_013080",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_11GORONNOSATO",
+    "Decomp File Name (For Import)": "Z2_11GORONNOSATO_room_00DL_013420",
+    "SoH Directory": "scenes/Z2_11GORONNOSATO",
+    "SoH Name (For Export)": "Z2_11GORONNOSATO_room_00DL_013420",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_11GORONNOSATO",
+    "Decomp File Name (For Import)": "Z2_11GORONNOSATO_room_01DL_0000F0",
+    "SoH Directory": "scenes/Z2_11GORONNOSATO",
+    "SoH Name (For Export)": "Z2_11GORONNOSATO_room_01DL_0000F0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_11GORONNOSATO",
+    "Decomp File Name (For Import)": "Z2_11GORONNOSATO_room_01DL_001E38",
+    "SoH Directory": "scenes/Z2_11GORONNOSATO",
+    "SoH Name (For Export)": "Z2_11GORONNOSATO_room_01DL_001E38",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_ROMANYMAE",
+    "Decomp File Name (For Import)": "Z2_ROMANYMAE_room_00DL_003010",
+    "SoH Directory": "scenes/Z2_ROMANYMAE",
+    "SoH Name (For Export)": "Z2_ROMANYMAE_room_00DL_003010",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_ROMANYMAE",
+    "Decomp File Name (For Import)": "Z2_ROMANYMAE_room_00DL_003338",
+    "SoH Directory": "scenes/Z2_ROMANYMAE",
+    "SoH Name (For Export)": "Z2_ROMANYMAE_room_00DL_003338",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_SINKAI",
+    "Decomp File Name (For Import)": "Z2_SINKAI_room_00DL_007550",
+    "SoH Directory": "scenes/Z2_SINKAI",
+    "SoH Name (For Export)": "Z2_SINKAI_room_00DL_007550",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_SINKAI",
+    "Decomp File Name (For Import)": "Z2_SINKAI_room_00DL_007C20",
+    "SoH Directory": "scenes/Z2_SINKAI",
+    "SoH Name (For Export)": "Z2_SINKAI_room_00DL_007C20",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_33ZORACITY",
+    "Decomp File Name (For Import)": "Z2_33ZORACITY_room_00DL_009050",
+    "SoH Directory": "scenes/Z2_33ZORACITY",
+    "SoH Name (For Export)": "Z2_33ZORACITY_room_00DL_009050",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_33ZORACITY",
+    "Decomp File Name (For Import)": "Z2_33ZORACITY_room_00DL_009FE8",
+    "SoH Directory": "scenes/Z2_33ZORACITY",
+    "SoH Name (For Export)": "Z2_33ZORACITY_room_00DL_009FE8",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/SPOT00",
+    "Decomp File Name (For Import)": "SPOT00_room_00DL_000900",
+    "SoH Directory": "scenes/SPOT00",
+    "SoH Name (For Export)": "SPOT00_room_00DL_000900",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_12HAKUGINMAE",
+    "Decomp File Name (For Import)": "Z2_12HAKUGINMAE_room_00DL_006CE0",
+    "SoH Directory": "scenes/Z2_12HAKUGINMAE",
+    "SoH Name (For Export)": "Z2_12HAKUGINMAE_room_00DL_006CE0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_12HAKUGINMAE",
+    "Decomp File Name (For Import)": "Z2_12HAKUGINMAE_room_00DL_007098",
+    "SoH Directory": "scenes/Z2_12HAKUGINMAE",
+    "SoH Name (For Export)": "Z2_12HAKUGINMAE_room_00DL_007098",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_17SETUGEN2",
+    "Decomp File Name (For Import)": "Z2_17SETUGEN2_room_00DL_006D08",
+    "SoH Directory": "scenes/Z2_17SETUGEN2",
+    "SoH Name (For Export)": "Z2_17SETUGEN2_room_00DL_006D08",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_17SETUGEN2",
+    "Decomp File Name (For Import)": "Z2_17SETUGEN2_room_00DL_0071B0",
+    "SoH Directory": "scenes/Z2_17SETUGEN2",
+    "SoH Name (For Export)": "Z2_17SETUGEN2_room_00DL_0071B0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_FISHERMAN",
+    "Decomp File Name (For Import)": "Z2_FISHERMAN_room_00DL_007140",
+    "SoH Directory": "scenes/Z2_FISHERMAN",
+    "SoH Name (For Export)": "Z2_FISHERMAN_room_00DL_007140",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_FISHERMAN",
+    "Decomp File Name (For Import)": "Z2_FISHERMAN_room_00DL_0084F0",
+    "SoH Directory": "scenes/Z2_FISHERMAN",
+    "SoH Name (For Export)": "Z2_FISHERMAN_room_00DL_0084F0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_11GORONNOSATO2",
+    "Decomp File Name (For Import)": "Z2_11GORONNOSATO2_room_00DL_0003D0",
+    "SoH Directory": "scenes/Z2_11GORONNOSATO2",
+    "SoH Name (For Export)": "Z2_11GORONNOSATO2_room_00DL_0003D0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_11GORONNOSATO2",
+    "Decomp File Name (For Import)": "Z2_11GORONNOSATO2_room_00DL_00C9B8",
+    "SoH Directory": "scenes/Z2_11GORONNOSATO2",
+    "SoH Name (For Export)": "Z2_11GORONNOSATO2_room_00DL_00C9B8",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_11GORONNOSATO2",
+    "Decomp File Name (For Import)": "Z2_11GORONNOSATO2_room_00DL_015310",
+    "SoH Directory": "scenes/Z2_11GORONNOSATO2",
+    "SoH Name (For Export)": "Z2_11GORONNOSATO2_room_00DL_015310",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_11GORONNOSATO2",
+    "Decomp File Name (For Import)": "Z2_11GORONNOSATO2_room_00DL_0156B0",
+    "SoH Directory": "scenes/Z2_11GORONNOSATO2",
+    "SoH Name (For Export)": "Z2_11GORONNOSATO2_room_00DL_0156B0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_11GORONNOSATO2",
+    "Decomp File Name (For Import)": "Z2_11GORONNOSATO2_room_01DL_000130",
+    "SoH Directory": "scenes/Z2_11GORONNOSATO2",
+    "SoH Name (For Export)": "Z2_11GORONNOSATO2_room_01DL_000130",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_11GORONNOSATO2",
+    "Decomp File Name (For Import)": "Z2_11GORONNOSATO2_room_01DL_001E78",
+    "SoH Directory": "scenes/Z2_11GORONNOSATO2",
+    "SoH Name (For Export)": "Z2_11GORONNOSATO2_room_01DL_001E78",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_10YUKIYAMANOMURA",
+    "Decomp File Name (For Import)": "Z2_10YUKIYAMANOMURA_room_00DL_00B120",
+    "SoH Directory": "scenes/Z2_10YUKIYAMANOMURA",
+    "SoH Name (For Export)": "Z2_10YUKIYAMANOMURA_room_00DL_00B120",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_10YUKIYAMANOMURA",
+    "Decomp File Name (For Import)": "Z2_10YUKIYAMANOMURA_room_00DL_000610",
+    "SoH Directory": "scenes/Z2_10YUKIYAMANOMURA",
+    "SoH Name (For Export)": "Z2_10YUKIYAMANOMURA_room_00DL_000610",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_10YUKIYAMANOMURA",
+    "Decomp File Name (For Import)": "Z2_10YUKIYAMANOMURA_room_00DL_00B028",
+    "SoH Directory": "scenes/Z2_10YUKIYAMANOMURA",
+    "SoH Name (For Export)": "Z2_10YUKIYAMANOMURA_room_00DL_00B028",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_10YUKIYAMANOMURA",
+    "Decomp File Name (For Import)": "Z2_10YUKIYAMANOMURA_room_00DL_00B678",
+    "SoH Directory": "scenes/Z2_10YUKIYAMANOMURA",
+    "SoH Name (For Export)": "Z2_10YUKIYAMANOMURA_room_00DL_00B678",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_AYASHIISHOP",
+    "Decomp File Name (For Import)": "Z2_AYASHIISHOP_room_00DL_00CF78",
+    "SoH Directory": "scenes/Z2_AYASHIISHOP",
+    "SoH Name (For Export)": "Z2_AYASHIISHOP_room_00DL_00CF78",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_AYASHIISHOP",
+    "Decomp File Name (For Import)": "Z2_AYASHIISHOP_room_00DL_011820",
+    "SoH Directory": "scenes/Z2_AYASHIISHOP",
+    "SoH Name (For Export)": "Z2_AYASHIISHOP_room_00DL_011820",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_AYASHIISHOP",
+    "Decomp File Name (For Import)": "Z2_AYASHIISHOP_room_01DL_004F80",
+    "SoH Directory": "scenes/Z2_AYASHIISHOP",
+    "SoH Name (For Export)": "Z2_AYASHIISHOP_room_01DL_004F80",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_AYASHIISHOP",
+    "Decomp File Name (For Import)": "Z2_AYASHIISHOP_room_01DL_0054F8",
+    "SoH Directory": "scenes/Z2_AYASHIISHOP",
+    "SoH Name (For Export)": "Z2_AYASHIISHOP_room_01DL_0054F8",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_TAKARAKUJI",
+    "Decomp File Name (For Import)": "Z2_TAKARAKUJI_room_00DL_002E00",
+    "SoH Directory": "scenes/Z2_TAKARAKUJI",
+    "SoH Name (For Export)": "Z2_TAKARAKUJI_room_00DL_002E00",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_TAKARAKUJI",
+    "Decomp File Name (For Import)": "Z2_TAKARAKUJI_room_00DL_002E38",
+    "SoH Directory": "scenes/Z2_TAKARAKUJI",
+    "SoH Name (For Export)": "Z2_TAKARAKUJI_room_00DL_002E38",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_LOST_WOODS",
+    "Decomp File Name (For Import)": "Z2_LOST_WOODS_room_00DL_0049D0",
+    "SoH Directory": "scenes/Z2_LOST_WOODS",
+    "SoH Name (For Export)": "Z2_LOST_WOODS_room_00DL_0049D0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_LOST_WOODS",
+    "Decomp File Name (For Import)": "Z2_LOST_WOODS_room_00DL_0080D8",
+    "SoH Directory": "scenes/Z2_LOST_WOODS",
+    "SoH Name (For Export)": "Z2_LOST_WOODS_room_00DL_0080D8",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_LOST_WOODS",
+    "Decomp File Name (For Import)": "Z2_LOST_WOODS_room_01DL_005658",
+    "SoH Directory": "scenes/Z2_LOST_WOODS",
+    "SoH Name (For Export)": "Z2_LOST_WOODS_room_01DL_005658",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_LOST_WOODS",
+    "Decomp File Name (For Import)": "Z2_LOST_WOODS_room_01DL_009D08",
+    "SoH Directory": "scenes/Z2_LOST_WOODS",
+    "SoH Name (For Export)": "Z2_LOST_WOODS_room_01DL_009D08",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_LOST_WOODS",
+    "Decomp File Name (For Import)": "Z2_LOST_WOODS_room_02DL_000B48",
+    "SoH Directory": "scenes/Z2_LOST_WOODS",
+    "SoH Name (For Export)": "Z2_LOST_WOODS_room_02DL_000B48",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_LOST_WOODS",
+    "Decomp File Name (For Import)": "Z2_LOST_WOODS_room_02DL_001498",
+    "SoH Directory": "scenes/Z2_LOST_WOODS",
+    "SoH Name (For Export)": "Z2_LOST_WOODS_room_02DL_001498",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_ALLEY",
+    "Decomp File Name (For Import)": "Z2_ALLEY_room_00DL_007390",
+    "SoH Directory": "scenes/Z2_ALLEY",
+    "SoH Name (For Export)": "Z2_ALLEY_room_00DL_007390",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_ALLEY",
+    "Decomp File Name (For Import)": "Z2_ALLEY_room_00DL_008CC0",
+    "SoH Directory": "scenes/Z2_ALLEY",
+    "SoH Name (For Export)": "Z2_ALLEY_room_00DL_008CC0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_YADOYA",
+    "Decomp File Name (For Import)": "Z2_YADOYA_room_00DL_000490",
+    "SoH Directory": "scenes/Z2_YADOYA",
+    "SoH Name (For Export)": "Z2_YADOYA_room_00DL_000490",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_YADOYA",
+    "Decomp File Name (For Import)": "Z2_YADOYA_room_00DL_014778",
+    "SoH Directory": "scenes/Z2_YADOYA",
+    "SoH Name (For Export)": "Z2_YADOYA_room_00DL_014778",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_YADOYA",
+    "Decomp File Name (For Import)": "Z2_YADOYA_room_00DL_016EA0",
+    "SoH Directory": "scenes/Z2_YADOYA",
+    "SoH Name (For Export)": "Z2_YADOYA_room_00DL_016EA0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_YADOYA",
+    "Decomp File Name (For Import)": "Z2_YADOYA_room_00DL_017478",
+    "SoH Directory": "scenes/Z2_YADOYA",
+    "SoH Name (For Export)": "Z2_YADOYA_room_00DL_017478",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_YADOYA",
+    "Decomp File Name (For Import)": "Z2_YADOYA_room_01DL_000260",
+    "SoH Directory": "scenes/Z2_YADOYA",
+    "SoH Name (For Export)": "Z2_YADOYA_room_01DL_000260",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_YADOYA",
+    "Decomp File Name (For Import)": "Z2_YADOYA_room_01DL_007060",
+    "SoH Directory": "scenes/Z2_YADOYA",
+    "SoH Name (For Export)": "Z2_YADOYA_room_01DL_007060",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_YADOYA",
+    "Decomp File Name (For Import)": "Z2_YADOYA_room_01DL_0082F0",
+    "SoH Directory": "scenes/Z2_YADOYA",
+    "SoH Name (For Export)": "Z2_YADOYA_room_01DL_0082F0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_YADOYA",
+    "Decomp File Name (For Import)": "Z2_YADOYA_room_01DL_008318",
+    "SoH Directory": "scenes/Z2_YADOYA",
+    "SoH Name (For Export)": "Z2_YADOYA_room_01DL_008318",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_YADOYA",
+    "Decomp File Name (For Import)": "Z2_YADOYA_room_02DL_000270",
+    "SoH Directory": "scenes/Z2_YADOYA",
+    "SoH Name (For Export)": "Z2_YADOYA_room_02DL_000270",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_YADOYA",
+    "Decomp File Name (For Import)": "Z2_YADOYA_room_02DL_005D78",
+    "SoH Directory": "scenes/Z2_YADOYA",
+    "SoH Name (For Export)": "Z2_YADOYA_room_02DL_005D78",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_YADOYA",
+    "Decomp File Name (For Import)": "Z2_YADOYA_room_02DL_005EB0",
+    "SoH Directory": "scenes/Z2_YADOYA",
+    "SoH Name (For Export)": "Z2_YADOYA_room_02DL_005EB0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_YADOYA",
+    "Decomp File Name (For Import)": "Z2_YADOYA_room_02DL_005ED0",
+    "SoH Directory": "scenes/Z2_YADOYA",
+    "SoH Name (For Export)": "Z2_YADOYA_room_02DL_005ED0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_YADOYA",
+    "Decomp File Name (For Import)": "Z2_YADOYA_room_03DL_000230",
+    "SoH Directory": "scenes/Z2_YADOYA",
+    "SoH Name (For Export)": "Z2_YADOYA_room_03DL_000230",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_YADOYA",
+    "Decomp File Name (For Import)": "Z2_YADOYA_room_03DL_005008",
+    "SoH Directory": "scenes/Z2_YADOYA",
+    "SoH Name (For Export)": "Z2_YADOYA_room_03DL_005008",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_YADOYA",
+    "Decomp File Name (For Import)": "Z2_YADOYA_room_03DL_005090",
+    "SoH Directory": "scenes/Z2_YADOYA",
+    "SoH Name (For Export)": "Z2_YADOYA_room_03DL_005090",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_YADOYA",
+    "Decomp File Name (For Import)": "Z2_YADOYA_room_03DL_0050A8",
+    "SoH Directory": "scenes/Z2_YADOYA",
+    "SoH Name (For Export)": "Z2_YADOYA_room_03DL_0050A8",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_YADOYA",
+    "Decomp File Name (For Import)": "Z2_YADOYA_room_04DL_0002F0",
+    "SoH Directory": "scenes/Z2_YADOYA",
+    "SoH Name (For Export)": "Z2_YADOYA_room_04DL_0002F0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_YADOYA",
+    "Decomp File Name (For Import)": "Z2_YADOYA_room_04DL_006FD0",
+    "SoH Directory": "scenes/Z2_YADOYA",
+    "SoH Name (For Export)": "Z2_YADOYA_room_04DL_006FD0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_YADOYA",
+    "Decomp File Name (For Import)": "Z2_YADOYA_room_04DL_007500",
+    "SoH Directory": "scenes/Z2_YADOYA",
+    "SoH Name (For Export)": "Z2_YADOYA_room_04DL_007500",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_YADOYA",
+    "Decomp File Name (For Import)": "Z2_YADOYA_room_04DL_007518",
+    "SoH Directory": "scenes/Z2_YADOYA",
+    "SoH Name (For Export)": "Z2_YADOYA_room_04DL_007518",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_TENMON_DAI",
+    "Decomp File Name (For Import)": "Z2_TENMON_DAI_room_00DL_00BCF8",
+    "SoH Directory": "scenes/Z2_TENMON_DAI",
+    "SoH Name (For Export)": "Z2_TENMON_DAI_room_00DL_00BCF8",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_TENMON_DAI",
+    "Decomp File Name (For Import)": "Z2_TENMON_DAI_room_00DL_011AF8",
+    "SoH Directory": "scenes/Z2_TENMON_DAI",
+    "SoH Name (For Export)": "Z2_TENMON_DAI_room_00DL_011AF8",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_TENMON_DAI",
+    "Decomp File Name (For Import)": "Z2_TENMON_DAI_room_01DL_00C848",
+    "SoH Directory": "scenes/Z2_TENMON_DAI",
+    "SoH Name (For Export)": "Z2_TENMON_DAI_room_01DL_00C848",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_TENMON_DAI",
+    "Decomp File Name (For Import)": "Z2_TENMON_DAI_room_01DL_017580",
+    "SoH Directory": "scenes/Z2_TENMON_DAI",
+    "SoH Name (For Export)": "Z2_TENMON_DAI_room_01DL_017580",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_8ITEMSHOP",
+    "Decomp File Name (For Import)": "Z2_8ITEMSHOP_room_00DL_00C040",
+    "SoH Directory": "scenes/Z2_8ITEMSHOP",
+    "SoH Name (For Export)": "Z2_8ITEMSHOP_room_00DL_00C040",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_8ITEMSHOP",
+    "Decomp File Name (For Import)": "Z2_8ITEMSHOP_room_00DL_00C9F0",
+    "SoH Directory": "scenes/Z2_8ITEMSHOP",
+    "SoH Name (For Export)": "Z2_8ITEMSHOP_room_00DL_00C9F0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_TAKARAYA",
+    "Decomp File Name (For Import)": "Z2_TAKARAYA_room_00DL_0077B0",
+    "SoH Directory": "scenes/Z2_TAKARAYA",
+    "SoH Name (For Export)": "Z2_TAKARAYA_room_00DL_0077B0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_TAKARAYA",
+    "Decomp File Name (For Import)": "Z2_TAKARAYA_room_00DL_007E68",
+    "SoH Directory": "scenes/Z2_TAKARAYA",
+    "SoH Name (For Export)": "Z2_TAKARAYA_room_00DL_007E68",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_MILK_BAR",
+    "Decomp File Name (For Import)": "Z2_MILK_BAR_room_00DL_0093C0",
+    "SoH Directory": "scenes/Z2_MILK_BAR",
+    "SoH Name (For Export)": "Z2_MILK_BAR_room_00DL_0093C0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_MILK_BAR",
+    "Decomp File Name (For Import)": "Z2_MILK_BAR_room_00DL_00AF48",
+    "SoH Directory": "scenes/Z2_MILK_BAR",
+    "SoH Name (For Export)": "Z2_MILK_BAR_room_00DL_00AF48",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_F01",
+    "Decomp File Name (For Import)": "Z2_F01_room_00DL_00BB78",
+    "SoH Directory": "scenes/Z2_F01",
+    "SoH Name (For Export)": "Z2_F01_room_00DL_00BB78",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_F01",
+    "Decomp File Name (For Import)": "Z2_F01_room_00DL_00D248",
+    "SoH Directory": "scenes/Z2_F01",
+    "SoH Name (For Export)": "Z2_F01_room_00DL_00D248",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_14YUKIDAMANOMITI",
+    "Decomp File Name (For Import)": "Z2_14YUKIDAMANOMITI_room_00DL_003C98",
+    "SoH Directory": "scenes/Z2_14YUKIDAMANOMITI",
+    "SoH Name (For Export)": "Z2_14YUKIDAMANOMITI_room_00DL_003C98",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_14YUKIDAMANOMITI",
+    "Decomp File Name (For Import)": "Z2_14YUKIDAMANOMITI_room_00DL_004598",
+    "SoH Directory": "scenes/Z2_14YUKIDAMANOMITI",
+    "SoH Name (For Export)": "Z2_14YUKIDAMANOMITI_room_00DL_004598",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_MITURIN_BS",
+    "Decomp File Name (For Import)": "Z2_MITURIN_BS_room_00DL_001C68",
+    "SoH Directory": "scenes/Z2_MITURIN_BS",
+    "SoH Name (For Export)": "Z2_MITURIN_BS_room_00DL_001C68",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_IKANA",
+    "Decomp File Name (For Import)": "Z2_IKANA_room_00DL_001040",
+    "SoH Directory": "scenes/Z2_IKANA",
+    "SoH Name (For Export)": "Z2_IKANA_room_00DL_001040",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_IKANA",
+    "Decomp File Name (For Import)": "Z2_IKANA_room_00DL_011DF0",
+    "SoH Directory": "scenes/Z2_IKANA",
+    "SoH Name (For Export)": "Z2_IKANA_room_00DL_011DF0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_IKANA",
+    "Decomp File Name (For Import)": "Z2_IKANA_room_00DL_023880",
+    "SoH Directory": "scenes/Z2_IKANA",
+    "SoH Name (For Export)": "Z2_IKANA_room_00DL_023880",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_IKANA",
+    "Decomp File Name (For Import)": "Z2_IKANA_room_00DL_025F28",
+    "SoH Directory": "scenes/Z2_IKANA",
+    "SoH Name (For Export)": "Z2_IKANA_room_00DL_025F28",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_IKANA",
+    "Decomp File Name (For Import)": "Z2_IKANA_room_01DL_000340",
+    "SoH Directory": "scenes/Z2_IKANA",
+    "SoH Name (For Export)": "Z2_IKANA_room_01DL_000340",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_IKANA",
+    "Decomp File Name (For Import)": "Z2_IKANA_room_01DL_000478",
+    "SoH Directory": "scenes/Z2_IKANA",
+    "SoH Name (For Export)": "Z2_IKANA_room_01DL_000478",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_IKANA",
+    "Decomp File Name (For Import)": "Z2_IKANA_room_02DL_000370",
+    "SoH Directory": "scenes/Z2_IKANA",
+    "SoH Name (For Export)": "Z2_IKANA_room_02DL_000370",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_IKANA",
+    "Decomp File Name (For Import)": "Z2_IKANA_room_02DL_001348",
+    "SoH Directory": "scenes/Z2_IKANA",
+    "SoH Name (For Export)": "Z2_IKANA_room_02DL_001348",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_IKANA",
+    "Decomp File Name (For Import)": "Z2_IKANA_room_02DL_001F70",
+    "SoH Directory": "scenes/Z2_IKANA",
+    "SoH Name (For Export)": "Z2_IKANA_room_02DL_001F70",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_IKANA",
+    "Decomp File Name (For Import)": "Z2_IKANA_room_02DL_002B00",
+    "SoH Directory": "scenes/Z2_IKANA",
+    "SoH Name (For Export)": "Z2_IKANA_room_02DL_002B00",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_IKANA",
+    "Decomp File Name (For Import)": "Z2_IKANA_room_03DL_0002A0",
+    "SoH Directory": "scenes/Z2_IKANA",
+    "SoH Name (For Export)": "Z2_IKANA_room_03DL_0002A0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_IKANA",
+    "Decomp File Name (For Import)": "Z2_IKANA_room_03DL_001510",
+    "SoH Directory": "scenes/Z2_IKANA",
+    "SoH Name (For Export)": "Z2_IKANA_room_03DL_001510",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_IKANA",
+    "Decomp File Name (For Import)": "Z2_IKANA_room_03DL_002D40",
+    "SoH Directory": "scenes/Z2_IKANA",
+    "SoH Name (For Export)": "Z2_IKANA_room_03DL_002D40",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_IKANA",
+    "Decomp File Name (For Import)": "Z2_IKANA_room_03DL_002D50",
+    "SoH Directory": "scenes/Z2_IKANA",
+    "SoH Name (For Export)": "Z2_IKANA_room_03DL_002D50",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_IKANA",
+    "Decomp File Name (For Import)": "Z2_IKANA_room_04DL_000550",
+    "SoH Directory": "scenes/Z2_IKANA",
+    "SoH Name (For Export)": "Z2_IKANA_room_04DL_000550",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_IKANA",
+    "Decomp File Name (For Import)": "Z2_IKANA_room_04DL_002A70",
+    "SoH Directory": "scenes/Z2_IKANA",
+    "SoH Name (For Export)": "Z2_IKANA_room_04DL_002A70",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_IKANA",
+    "Decomp File Name (For Import)": "Z2_IKANA_room_04DL_007CD0",
+    "SoH Directory": "scenes/Z2_IKANA",
+    "SoH Name (For Export)": "Z2_IKANA_room_04DL_007CD0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_IKANA",
+    "Decomp File Name (For Import)": "Z2_IKANA_room_04DL_008840",
+    "SoH Directory": "scenes/Z2_IKANA",
+    "SoH Name (For Export)": "Z2_IKANA_room_04DL_008840",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_TOUGITES",
+    "Decomp File Name (For Import)": "Z2_TOUGITES_room_00DL_004030",
+    "SoH Directory": "scenes/Z2_TOUGITES",
+    "SoH Name (For Export)": "Z2_TOUGITES_room_00DL_004030",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_TOUGITES",
+    "Decomp File Name (For Import)": "Z2_TOUGITES_room_00DL_0045A8",
+    "SoH Directory": "scenes/Z2_TOUGITES",
+    "SoH Name (For Export)": "Z2_TOUGITES_room_00DL_0045A8",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_DEKU_KING",
+    "Decomp File Name (For Import)": "Z2_DEKU_KING_room_00DL_0093A0",
+    "SoH Directory": "scenes/Z2_DEKU_KING",
+    "SoH Name (For Export)": "Z2_DEKU_KING_room_00DL_0093A0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_DEKU_KING",
+    "Decomp File Name (For Import)": "Z2_DEKU_KING_room_00DL_0094B0",
+    "SoH Directory": "scenes/Z2_DEKU_KING",
+    "SoH Name (For Export)": "Z2_DEKU_KING_room_00DL_0094B0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_10YUKIYAMANOMURA2",
+    "Decomp File Name (For Import)": "Z2_10YUKIYAMANOMURA2_room_00DL_00F0B0",
+    "SoH Directory": "scenes/Z2_10YUKIYAMANOMURA2",
+    "SoH Name (For Export)": "Z2_10YUKIYAMANOMURA2_room_00DL_00F0B0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_10YUKIYAMANOMURA2",
+    "Decomp File Name (For Import)": "Z2_10YUKIYAMANOMURA2_room_00DL_01B310",
+    "SoH Directory": "scenes/Z2_10YUKIYAMANOMURA2",
+    "SoH Name (For Export)": "Z2_10YUKIYAMANOMURA2_room_00DL_01B310",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_10YUKIYAMANOMURA2",
+    "Decomp File Name (For Import)": "Z2_10YUKIYAMANOMURA2_room_00DL_01BC20",
+    "SoH Directory": "scenes/Z2_10YUKIYAMANOMURA2",
+    "SoH Name (For Export)": "Z2_10YUKIYAMANOMURA2_room_00DL_01BC20",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_10YUKIYAMANOMURA2",
+    "Decomp File Name (For Import)": "Z2_10YUKIYAMANOMURA2_room_01DL_0002C0",
+    "SoH Directory": "scenes/Z2_10YUKIYAMANOMURA2",
+    "SoH Name (For Export)": "Z2_10YUKIYAMANOMURA2_room_01DL_0002C0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_10YUKIYAMANOMURA2",
+    "Decomp File Name (For Import)": "Z2_10YUKIYAMANOMURA2_room_01DL_001A18",
+    "SoH Directory": "scenes/Z2_10YUKIYAMANOMURA2",
+    "SoH Name (For Export)": "Z2_10YUKIYAMANOMURA2_room_01DL_001A18",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_KOEPONARACE",
+    "Decomp File Name (For Import)": "Z2_KOEPONARACE_room_00DL_007A20",
+    "SoH Directory": "scenes/Z2_KOEPONARACE",
+    "SoH Name (For Export)": "Z2_KOEPONARACE_room_00DL_007A20",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_KOEPONARACE",
+    "Decomp File Name (For Import)": "Z2_KOEPONARACE_room_00DL_000600",
+    "SoH Directory": "scenes/Z2_KOEPONARACE",
+    "SoH Name (For Export)": "Z2_KOEPONARACE_room_00DL_000600",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_KOEPONARACE",
+    "Decomp File Name (For Import)": "Z2_KOEPONARACE_room_00DL_0079B8",
+    "SoH Directory": "scenes/Z2_KOEPONARACE",
+    "SoH Name (For Export)": "Z2_KOEPONARACE_room_00DL_0079B8",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_KOEPONARACE",
+    "Decomp File Name (For Import)": "Z2_KOEPONARACE_room_00DL_008408",
+    "SoH Directory": "scenes/Z2_KOEPONARACE",
+    "SoH Name (For Export)": "Z2_KOEPONARACE_room_00DL_008408",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_GORONSHOP",
+    "Decomp File Name (For Import)": "Z2_GORONSHOP_room_00DL_008FF8",
+    "SoH Directory": "scenes/Z2_GORONSHOP",
+    "SoH Name (For Export)": "Z2_GORONSHOP_room_00DL_008FF8",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_GORONSHOP",
+    "Decomp File Name (For Import)": "Z2_GORONSHOP_room_00DL_009578",
+    "SoH Directory": "scenes/Z2_GORONSHOP",
+    "SoH Name (For Export)": "Z2_GORONSHOP_room_00DL_009578",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_DANPEI2TEST",
+    "Decomp File Name (For Import)": "Z2_DANPEI2TEST_room_00DL_00F360",
+    "SoH Directory": "scenes/Z2_DANPEI2TEST",
+    "SoH Name (For Export)": "Z2_DANPEI2TEST_room_00DL_00F360",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_DANPEI2TEST",
+    "Decomp File Name (For Import)": "Z2_DANPEI2TEST_room_00DL_016C50",
+    "SoH Directory": "scenes/Z2_DANPEI2TEST",
+    "SoH Name (For Export)": "Z2_DANPEI2TEST_room_00DL_016C50",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_DANPEI2TEST",
+    "Decomp File Name (For Import)": "Z2_DANPEI2TEST_room_01DL_004F48",
+    "SoH Directory": "scenes/Z2_DANPEI2TEST",
+    "SoH Name (For Export)": "Z2_DANPEI2TEST_room_01DL_004F48",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_31MISAKI",
+    "Decomp File Name (For Import)": "Z2_31MISAKI_room_00DL_0158A0",
+    "SoH Directory": "scenes/Z2_31MISAKI",
+    "SoH Name (For Export)": "Z2_31MISAKI_room_00DL_0158A0",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_31MISAKI",
+    "Decomp File Name (For Import)": "Z2_31MISAKI_room_00DL_001090",
+    "SoH Directory": "scenes/Z2_31MISAKI",
+    "SoH Name (For Export)": "Z2_31MISAKI_room_00DL_001090",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_31MISAKI",
+    "Decomp File Name (For Import)": "Z2_31MISAKI_room_00DL_0157D8",
+    "SoH Directory": "scenes/Z2_31MISAKI",
+    "SoH Name (For Export)": "Z2_31MISAKI_room_00DL_0157D8",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_31MISAKI",
+    "Decomp File Name (For Import)": "Z2_31MISAKI_room_00DL_017400",
+    "SoH Directory": "scenes/Z2_31MISAKI",
+    "SoH Name (For Export)": "Z2_31MISAKI_room_00DL_017400",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_F41",
+    "Decomp File Name (For Import)": "Z2_F41_room_00DL_008C20",
+    "SoH Directory": "scenes/Z2_F41",
+    "SoH Name (For Export)": "Z2_F41_room_00DL_008C20",
+    "Description": ""
+  },
+  {
+    "Decomp Directory": "scenes/Z2_F41",
+    "Decomp File Name (For Import)": "Z2_F41_room_00DL_00B940",
+    "SoH Directory": "scenes/Z2_F41",
+    "SoH Name (For Export)": "Z2_F41_room_00DL_00B940",
+    "Description": ""
+  }
+]
