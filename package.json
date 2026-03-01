@@ -2,7 +2,7 @@
   "name": "zelda-database",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://purplehato.github.io/ZOOT-Database",
+  "homepage": "https://purplehato.github.io/HM64-DB",
   "type": "module",
   "scripts": {
     "dev": "vite",
