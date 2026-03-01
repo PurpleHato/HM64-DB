@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ZOOT-Database/static/css/main.0474932e.css",
+    "main.js": "/ZOOT-Database/static/js/main.793c969e.js",
+    "index.html": "/ZOOT-Database/index.html",
+    "main.0474932e.css.map": "/ZOOT-Database/static/css/main.0474932e.css.map",
+    "main.793c969e.js.map": "/ZOOT-Database/static/js/main.793c969e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0474932e.css",
+    "static/js/main.793c969e.js"
+  ]
+}

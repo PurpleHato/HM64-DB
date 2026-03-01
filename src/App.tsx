@@ -8,9 +8,12 @@ import GamePage from './pages/GamePage';
 import DatabaseView from './pages/DatabaseView';
 
 const App: React.FC = () => {
+  // Get base path from environment or use default
+  const basename = import.meta.env.BASE_URL || '/';
+
   return (
     <QueryClientProvider client={queryClient}>
-      <BrowserRouter>
+      <BrowserRouter basename={basename}>
         <Routes>
           <Route path="/" element={<LandingPage />} />
           <Route path="/:gameId" element={<GamePage />}>

@@ -4,6 +4,9 @@ import { Card } from '../components/ui/Card';
 import { games } from '../config/games';
 
 export const LandingPage: React.FC = () => {
+  // Get base path for assets
+  const basePath = import.meta.env.BASE_URL || '/';
+
   return (
     <div className="min-h-screen bg-background">
       {/* Hero Section */}
@@ -49,7 +52,7 @@ export const LandingPage: React.FC = () => {
                 <div className="p-8">
                   {game.titleImage ? (
                     <img
-                      src={`/${game.titleImage}`}
+                      src={`${basePath}${game.titleImage}`}
                       alt={game.title}
                       className="h-20 w-auto object-contain mb-4 mx-auto drop-shadow-lg"
                     />

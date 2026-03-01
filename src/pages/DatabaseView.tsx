@@ -53,6 +53,9 @@ export const DatabaseView: React.FC = () => {
 
   const [searchTerm, setSearchTerm] = React.useState<string>('');
 
+  // Get base path for data fetching
+  const basePath = import.meta.env.BASE_URL || '/';
+
   const game = gameId ? getGameById(gameId) : undefined;
   const database = databaseId && gameId ? getDatabaseById(gameId, databaseId) : undefined;
 
@@ -81,18 +84,18 @@ export const DatabaseView: React.FC = () => {
     const dbName = databaseId;
 
     if (subcategoryConfig?.dataFile) {
-      return `/data/${gameFolder}/${dbName}/${subcategoryConfig.dataFile}`;
+      return `${basePath}data/${gameFolder}/${dbName}/${subcategoryConfig.dataFile}`;
     } else if (!database?.hasSubcategories) {
       if (dbName === 'animations') {
-        return `/data/${gameFolder}/Animations/Animations.json`;
+        return `${basePath}data/${gameFolder}/Animations/Animations.json`;
       } else if (dbName === 'sounds') {
-        return `/data/${gameFolder}/Sounds/Sounds.csv`;
+        return `${basePath}data/${gameFolder}/Sounds/Sounds.csv`;
       } else if (dbName === 'instruments') {
-        return `/data/${gameFolder}/Instruments/Instruments.json`;
+        return `${basePath}data/${gameFolder}/Instruments/Instruments.json`;
       }
     }
     return null;
-  }, [gameId, databaseId, subcategoryConfig, database, isTutorial]);
+  }, [gameId, databaseId, subcategoryConfig, database, isTutorial, basePath]);
 
   // Fetch data - ALWAYS call this hook (before any conditional returns)
   const { data = [], isLoading, error } = useQuery({
