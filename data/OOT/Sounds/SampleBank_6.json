@@ -1,0 +1,44 @@
+[
+  {
+    "Decomp": "Sample0",
+    "OOT OTR": "sample_0000D140",
+    "Sample Rate (Hz)": "32000",
+    "Notes": "Warm Synth Pad"
+  },
+  {
+    "Decomp": "Sample1",
+    "OOT OTR": "sample_0000D1D0",
+    "Sample Rate (Hz)": "32000",
+    "Notes": "in Audio.xml this is Eqyptian Flute"
+  },
+  {
+    "Decomp": "Sample2",
+    "OOT OTR": "Tom Drum",
+    "Sample Rate (Hz)": "32000",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample3",
+    "OOT OTR": "Bass Slap",
+    "Sample Rate (Hz)": "22050",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample4",
+    "OOT OTR": "Gong",
+    "Sample Rate (Hz)": "32000",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample5",
+    "OOT OTR": "Windchimes",
+    "Sample Rate (Hz)": "24000",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample6",
+    "OOT OTR": "Vocal Synth",
+    "Sample Rate (Hz)": "24000",
+    "Notes": ""
+  }
+]

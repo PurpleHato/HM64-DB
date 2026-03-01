@@ -1,0 +1,3450 @@
+[
+  {
+    "Decomp": "",
+    "OOT OTR": "",
+    "OOT O2R": "",
+    "Sample Rate (Hz)": "",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample000",
+    "OOT OTR": "Bird Chirp 1",
+    "OOT O2R": "Bird Chirp 1_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample001",
+    "OOT OTR": "Insect Chirrup",
+    "OOT O2R": "Insect Chirrup_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample002",
+    "OOT OTR": "Bird Chirp 2",
+    "OOT O2R": "Bird Chirp 2_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample003",
+    "OOT OTR": "Crickets",
+    "OOT O2R": "Crickets_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample004",
+    "OOT OTR": "Loud Bird Chirp",
+    "OOT O2R": "Loud Bird Chirp_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample005",
+    "OOT OTR": "Crow Caws",
+    "OOT O2R": "Crow Caws_META",
+    "Sample Rate (Hz)": "22050",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample006",
+    "OOT OTR": "Bird Call",
+    "OOT O2R": "Bird Call_META",
+    "Sample Rate (Hz)": "32000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample007",
+    "OOT OTR": "Bird Screech",
+    "OOT O2R": "Bird Screech_META",
+    "Sample Rate (Hz)": "32000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample008",
+    "OOT OTR": "Bird Song (Unused)",
+    "OOT O2R": "Bird Song (Unused)_META",
+    "Sample Rate (Hz)": "32000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample009",
+    "OOT OTR": "Owl Hoot",
+    "OOT O2R": "Owl Hoot_META",
+    "Sample Rate (Hz)": "32000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample010",
+    "OOT OTR": "Hawk Screech",
+    "OOT O2R": "Hawk Screech_META",
+    "Sample Rate (Hz)": "32000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample011",
+    "OOT OTR": "Small Bird Chirps",
+    "OOT O2R": "Small Bird Chirps_META",
+    "Sample Rate (Hz)": "32000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample012",
+    "OOT OTR": "Rushing Water",
+    "OOT O2R": "Rushing Water_META",
+    "Sample Rate (Hz)": "32000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample013",
+    "OOT OTR": "Howling Wind",
+    "OOT O2R": "Howling Wind_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample014",
+    "OOT OTR": "Rainfall",
+    "OOT O2R": "Rainfall_META",
+    "Sample Rate (Hz)": "24000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample015",
+    "OOT OTR": "Low Thunder",
+    "OOT O2R": "Low Thunder_META",
+    "Sample Rate (Hz)": "22050",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample016",
+    "OOT OTR": "Lightning",
+    "OOT O2R": "Lightning_META",
+    "Sample Rate (Hz)": "22050",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample017",
+    "OOT OTR": "Howling Wind (Short)",
+    "OOT O2R": "Howling Wind (Short)_META",
+    "Sample Rate (Hz)": "22050",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample018",
+    "OOT OTR": "Cucco Crows",
+    "OOT O2R": "Cucco Crows_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample019",
+    "OOT OTR": "Cawing Bird",
+    "OOT O2R": "Cawing Bird_META",
+    "Sample Rate (Hz)": "32000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample020",
+    "OOT OTR": "Step - Ground",
+    "OOT O2R": "Step - Ground_META",
+    "Sample Rate (Hz)": "22050",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample021",
+    "OOT OTR": "Step - Sand",
+    "OOT O2R": "Step - Sand_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample022",
+    "OOT OTR": "Step - Rock",
+    "OOT O2R": "Step - Rock_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample023",
+    "OOT OTR": "Step - Jabu Jabu",
+    "OOT O2R": "Step - Jabu Jabu_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample024",
+    "OOT OTR": "Step - Water",
+    "OOT O2R": "Step - Water_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample025",
+    "OOT OTR": "Step - Carpet",
+    "OOT O2R": "Step - Carpet_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample026",
+    "OOT OTR": "Step - Thick Carpet",
+    "OOT O2R": "Step - Thick Carpet_META",
+    "Sample Rate (Hz)": "8000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample027",
+    "OOT OTR": "Step - Tall Grass",
+    "OOT O2R": "Step - Tall Grass_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample028",
+    "OOT OTR": "Synth Pad Sting",
+    "OOT O2R": "Synth Pad Sting_META",
+    "Sample Rate (Hz)": "22050",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample029",
+    "OOT OTR": "Small Splash",
+    "OOT O2R": "Small Splash_META",
+    "Sample Rate (Hz)": "22050",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample030",
+    "OOT OTR": "Crunchy Drop",
+    "OOT O2R": "Crunchy Drop_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample031",
+    "OOT OTR": "Step - Wood",
+    "OOT O2R": "Step - Wood_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample032",
+    "OOT OTR": "",
+    "OOT O2R": "",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample033",
+    "OOT OTR": "",
+    "OOT O2R": "",
+    "Sample Rate (Hz)": "23220",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample034",
+    "OOT OTR": "",
+    "OOT O2R": "",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample035",
+    "OOT OTR": "",
+    "OOT O2R": "",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample036",
+    "OOT OTR": "",
+    "OOT O2R": "",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample037",
+    "OOT OTR": "",
+    "OOT O2R": "",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample038",
+    "OOT OTR": "Large Water Splash",
+    "OOT O2R": "Large Water Splash_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample039",
+    "OOT OTR": "Swimming",
+    "OOT O2R": "Swimming_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample040",
+    "OOT OTR": "Stone Doof",
+    "OOT O2R": "Stone Doof_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample041",
+    "OOT OTR": "Step - Wooden Bridge",
+    "OOT O2R": "Step - Wooden Bridge_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample042",
+    "OOT OTR": "Step - Fire",
+    "OOT O2R": "Step - Fire_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample043",
+    "OOT OTR": "Iron Boots 2",
+    "OOT O2R": "Iron Boots 2_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample044",
+    "OOT OTR": "Step - Ice",
+    "OOT O2R": "Step - Ice_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample045",
+    "OOT OTR": "Crackling Fire (Keese)",
+    "OOT O2R": "Crackling Fire (Keese)_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample046",
+    "OOT OTR": "Metal Clink",
+    "OOT O2R": "Metal Clink_META",
+    "Sample Rate (Hz)": "22050",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample047",
+    "OOT OTR": "Whish",
+    "OOT O2R": "Whish_META",
+    "Sample Rate (Hz)": "22050",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample048",
+    "OOT OTR": "Sheathe Sword",
+    "OOT O2R": "Sheathe Sword_META",
+    "Sample Rate (Hz)": "22050",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample049",
+    "OOT OTR": "Draw Sword",
+    "OOT O2R": "Draw Sword_META",
+    "Sample Rate (Hz)": "22050",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample050",
+    "OOT OTR": "Air Swish",
+    "OOT O2R": "Air Swish_META",
+    "Sample Rate (Hz)": "22050",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample051",
+    "OOT OTR": "Air Whistle",
+    "OOT O2R": "Air Whistle_META",
+    "Sample Rate (Hz)": "22050",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample052",
+    "OOT OTR": "Bow Pulled Taut",
+    "OOT O2R": "Bow Pulled Taut_META",
+    "Sample Rate (Hz)": "22050",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample053",
+    "OOT OTR": "Sword Striking Metal Shield",
+    "OOT O2R": "Sword Striking Metal Shield_META",
+    "Sample Rate (Hz)": "22050",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample054",
+    "OOT OTR": "Moving Metal Chain",
+    "OOT O2R": "Moving Metal Chain_META",
+    "Sample Rate (Hz)": "22050",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample055",
+    "OOT OTR": "Hissing Fuse",
+    "OOT O2R": "Hissing Fuse_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample056",
+    "OOT OTR": "Heavy Thump",
+    "OOT O2R": "Heavy Thump_META",
+    "Sample Rate (Hz)": "22050",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample057",
+    "OOT OTR": "Egg Hatching",
+    "OOT O2R": "Egg Hatching_META",
+    "Sample Rate (Hz)": "22050",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample058",
+    "OOT OTR": "Arrow Thunk in Wood",
+    "OOT O2R": "Arrow Thunk in Wood_META",
+    "Sample Rate (Hz)": "22050",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample059",
+    "OOT OTR": "Air Whoosh",
+    "OOT O2R": "Air Whoosh_META",
+    "Sample Rate (Hz)": "22050",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample060",
+    "OOT OTR": "Broken Wood",
+    "OOT O2R": "Broken Wood_META",
+    "Sample Rate (Hz)": "22050",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample061",
+    "OOT OTR": "Whip Snap",
+    "OOT O2R": "Whip Snap_META",
+    "Sample Rate (Hz)": "22050",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample062",
+    "OOT OTR": "Buzzing Synth",
+    "OOT O2R": "Buzzing Synth_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample063",
+    "OOT OTR": "Soft Thump",
+    "OOT O2R": "Soft Thump_META",
+    "Sample Rate (Hz)": "22050",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample064",
+    "OOT OTR": "Sword Strike",
+    "OOT O2R": "Sword Strike_META",
+    "Sample Rate (Hz)": "22050",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample065",
+    "OOT OTR": "Eye of Truth",
+    "OOT O2R": "Eye of Truth_META",
+    "Sample Rate (Hz)": "22050",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample066",
+    "OOT OTR": "Popping Cork",
+    "OOT O2R": "Popping Cork_META",
+    "Sample Rate (Hz)": "22050",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample067",
+    "OOT OTR": "Bowstring Twang",
+    "OOT O2R": "Bowstring Twang_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample068",
+    "OOT OTR": "Bombchu Motor",
+    "OOT O2R": "Bombchu Motor_META",
+    "Sample Rate (Hz)": "22050",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample069",
+    "OOT OTR": "Rupee",
+    "OOT O2R": "Rupee_META",
+    "Sample Rate (Hz)": "45530",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample070",
+    "OOT OTR": "Opening Wooden Door",
+    "OOT O2R": "Opening Wooden Door_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample071",
+    "OOT OTR": "Closing Wooden Door",
+    "OOT O2R": "Closing Wooden Door_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample072",
+    "OOT OTR": "Explosion 1",
+    "OOT O2R": "Explosion 1_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample073",
+    "OOT OTR": "Gallop",
+    "OOT O2R": "Gallop_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample074",
+    "OOT OTR": "Horse Neigh",
+    "OOT O2R": "Horse Neigh_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample075",
+    "OOT OTR": "Flowing Creek",
+    "OOT O2R": "Flowing Creek_META",
+    "Sample Rate (Hz)": "22050",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample076",
+    "OOT OTR": "Rushing Waterfall",
+    "OOT O2R": "Rushing Waterfall_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample077",
+    "OOT OTR": "Mechanically Shifting Stone",
+    "OOT O2R": "Mechanically Shifting Stone_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample078",
+    "OOT OTR": "Rolling Boulder",
+    "OOT O2R": "Rolling Boulder_META",
+    "Sample Rate (Hz)": "22050",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample079",
+    "OOT OTR": "Bubbling Lava",
+    "OOT O2R": "Bubbling Lava_META",
+    "Sample Rate (Hz)": "22050",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample080",
+    "OOT OTR": "Retracting Metal Chain",
+    "OOT O2R": "Retracting Metal Chain_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample081",
+    "OOT OTR": "Relaxed Cucco Clucks",
+    "OOT O2R": "Relaxed Cucco Clucks_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample082",
+    "OOT OTR": "Stone Strike",
+    "OOT O2R": "Stone Strike_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample083",
+    "OOT OTR": "Horse Snort",
+    "OOT O2R": "Horse Snort_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample084",
+    "OOT OTR": "Water Splish",
+    "OOT O2R": "Water Splish_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample085",
+    "OOT OTR": "Wooden Strike",
+    "OOT O2R": "Wooden Strike_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample086",
+    "OOT OTR": "Flying Fairy",
+    "OOT O2R": "Flying Fairy_META",
+    "Sample Rate (Hz)": "24000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample087",
+    "OOT OTR": "Settled Stone Block",
+    "OOT O2R": "Settled Stone Block_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample088",
+    "OOT OTR": "Creaking Door",
+    "OOT O2R": "Creaking Door_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample089",
+    "OOT OTR": "Creaking Wood",
+    "OOT O2R": "Creaking Wood_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample090",
+    "OOT OTR": "Ignition",
+    "OOT O2R": "Ignition_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample091",
+    "OOT OTR": "Warp Circle Ambience",
+    "OOT O2R": "Warp Circle Ambience_META",
+    "Sample Rate (Hz)": "32000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample092",
+    "OOT OTR": "Fairy Magic",
+    "OOT O2R": "Fairy Magic_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample093",
+    "OOT OTR": "Water Drips",
+    "OOT O2R": "Water Drips_META",
+    "Sample Rate (Hz)": "22050",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample094",
+    "OOT OTR": "Underwater Bubbles",
+    "OOT O2R": "Underwater Bubbles_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample095",
+    "OOT OTR": "Fire Crackling",
+    "OOT O2R": "Fire Crackling_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample096",
+    "OOT OTR": "Heavy Platform Rotating",
+    "OOT O2R": "Heavy Platform Rotating_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample097",
+    "OOT OTR": "Light Rock Slam",
+    "OOT O2R": "Light Rock Slam_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample098",
+    "OOT OTR": "Flapping Cloak",
+    "OOT O2R": "Flapping Cloak_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample099",
+    "OOT OTR": "People Chattering",
+    "OOT O2R": "People Chattering_META",
+    "Sample Rate (Hz)": "22050",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample100",
+    "OOT OTR": "Cloth Ripping",
+    "OOT O2R": "Cloth Ripping_META",
+    "Sample Rate (Hz)": "22050",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample101",
+    "OOT OTR": "Mechanical Ramp-Up",
+    "OOT O2R": "Mechanical Ramp-Up_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample102",
+    "OOT OTR": "Crystal Synth (Low)",
+    "OOT O2R": "Crystal Synth (Low)_META",
+    "Sample Rate (Hz)": "22050",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample103",
+    "OOT OTR": "Shimmering Treasure",
+    "OOT O2R": "Shimmering Treasure_META",
+    "Sample Rate (Hz)": "22050",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample104",
+    "OOT OTR": "Gunshot",
+    "OOT O2R": "Gunshot_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample105",
+    "OOT OTR": "Wolf Howl",
+    "OOT O2R": "Wolf Howl_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample106",
+    "OOT OTR": "Frog Ribbit",
+    "OOT O2R": "Frog Ribbit_META",
+    "Sample Rate (Hz)": "8000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample107",
+    "OOT OTR": "Dog Yip",
+    "OOT O2R": "Dog Yip_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample108",
+    "OOT OTR": "Metal Door",
+    "OOT O2R": "Metal Door_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample109",
+    "OOT OTR": "Cow Moo",
+    "OOT O2R": "Cow Moo_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample110",
+    "OOT OTR": "Dialogue Continue (Harp)",
+    "OOT O2R": "Dialogue Continue (Harp)_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "C5",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample111",
+    "OOT OTR": "Dong (Failed Learning)",
+    "OOT O2R": "Dong (Failed Learning)_META",
+    "Sample Rate (Hz)": "22050",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample112",
+    "OOT OTR": "Whistle",
+    "OOT O2R": "Whistle_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample113",
+    "OOT OTR": "Clanging Bells",
+    "OOT O2R": "Clanging Bells_META",
+    "Sample Rate (Hz)": "22050",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample114",
+    "OOT OTR": "Person Whistling",
+    "OOT O2R": "Person Whistling_META",
+    "Sample Rate (Hz)": "22050",
+    "Music Note": "G4",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample115",
+    "OOT OTR": "Ocarina_Looped",
+    "OOT O2R": "Ocarina_Looped_META",
+    "Sample Rate (Hz)": "32000",
+    "Music Note": "G#4",
+    "Notes": "Is also \"Ocarina_Looped\""
+  },
+  {
+    "Decomp": "Sample116",
+    "OOT OTR": "Accordion",
+    "OOT O2R": "Accordion_META",
+    "Sample Rate (Hz)": "32000",
+    "Music Note": "C5",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample117",
+    "OOT OTR": "Harp 1",
+    "OOT O2R": "Harp 1_META",
+    "Sample Rate (Hz)": "24000",
+    "Music Note": "F5",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample118",
+    "OOT OTR": "Malon",
+    "OOT O2R": "Malon_META",
+    "Sample Rate (Hz)": "22050",
+    "Music Note": "D Half Sharp 5",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample119",
+    "OOT OTR": "Flute",
+    "OOT O2R": "Flute_META",
+    "Sample Rate (Hz)": "32000",
+    "Music Note": "G6",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample120",
+    "OOT OTR": "Tambo Drum",
+    "OOT O2R": "Tambo Drum_META",
+    "Sample Rate (Hz)": "32000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample121",
+    "OOT OTR": "Small Cymbal",
+    "OOT O2R": "Small Cymbal_META",
+    "Sample Rate (Hz)": "32000",
+    "Music Note": "",
+    "Notes": "To me this sounds like a tambourine"
+  },
+  {
+    "Decomp": "Sample122",
+    "OOT OTR": "Z Target",
+    "OOT O2R": "Z Target_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample123",
+    "OOT OTR": "Enemy Target Lock-On",
+    "OOT O2R": "Enemy Target Lock-On_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample124",
+    "OOT OTR": "Adult Link - Spur Horse 1",
+    "OOT O2R": "Adult Link - Spur Horse 1_META",
+    "Sample Rate (Hz)": "20000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample125",
+    "OOT OTR": "Adult Link - Spur Horse 2",
+    "OOT O2R": "Adult Link - Spur Horse 2_META",
+    "Sample Rate (Hz)": "20000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample126",
+    "OOT OTR": "Adult Link - Attack 1",
+    "OOT O2R": "Adult Link - Attack 1_META",
+    "Sample Rate (Hz)": "20000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample127",
+    "OOT OTR": "Adult Link - Attack 2",
+    "OOT O2R": "Adult Link - Attack 2_META",
+    "Sample Rate (Hz)": "20000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample128",
+    "OOT OTR": "Adult Link - Attack 3",
+    "OOT O2R": "Adult Link - Attack 3_META",
+    "Sample Rate (Hz)": "20000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample129",
+    "OOT OTR": "Adult Link - Attack 4",
+    "OOT O2R": "Adult Link - Attack 4_META",
+    "Sample Rate (Hz)": "20000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample130",
+    "OOT OTR": "Adult Link - Hup",
+    "OOT O2R": "Adult Link - Hup_META",
+    "Sample Rate (Hz)": "20000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample131",
+    "OOT OTR": "Adult Link - Gasp 1",
+    "OOT O2R": "Adult Link - Gasp 1_META",
+    "Sample Rate (Hz)": "20000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample132",
+    "OOT OTR": "Adult Link - Strong Attack 1",
+    "OOT O2R": "Adult Link - Strong Attack 1_META",
+    "Sample Rate (Hz)": "20000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample133",
+    "OOT OTR": "Adult Link - Strong Attack 2",
+    "OOT O2R": "Adult Link - Strong Attack 2_META",
+    "Sample Rate (Hz)": "20000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample134",
+    "OOT OTR": "Adult Link - Dangling Grunt",
+    "OOT O2R": "Adult Link - Dangling Grunt_META",
+    "Sample Rate (Hz)": "20000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample135",
+    "OOT OTR": "Adult Link - Dangling Gasp 1",
+    "OOT O2R": "Adult Link - Dangling Gasp 1_META",
+    "Sample Rate (Hz)": "20000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample136",
+    "OOT OTR": "Adult Link - Climb Edge",
+    "OOT O2R": "Adult Link - Climb Edge_META",
+    "Sample Rate (Hz)": "20000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample137",
+    "OOT OTR": "Adult Link - Dangling Gasp 2",
+    "OOT O2R": "Adult Link - Dangling Gasp 2_META",
+    "Sample Rate (Hz)": "20000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample138",
+    "OOT OTR": "Adult Link - Hurt 1",
+    "OOT O2R": "Adult Link - Hurt 1_META",
+    "Sample Rate (Hz)": "20000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample139",
+    "OOT OTR": "Adult Link - Hurt 2",
+    "OOT O2R": "Adult Link - Hurt 2_META",
+    "Sample Rate (Hz)": "20000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample140",
+    "OOT OTR": "Adult Link - Hurt 3",
+    "OOT O2R": "Adult Link - Hurt 3_META",
+    "Sample Rate (Hz)": "20000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample141",
+    "OOT OTR": "Adult Link - Hurt 4",
+    "OOT O2R": "Adult Link - Hurt 4_META",
+    "Sample Rate (Hz)": "20000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample142",
+    "OOT OTR": "Adult Link - Knocked Back",
+    "OOT O2R": "Adult Link - Knocked Back_META",
+    "Sample Rate (Hz)": "20000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample143",
+    "OOT OTR": "Adult Link - Hurt 5",
+    "OOT O2R": "Adult Link - Hurt 5_META",
+    "Sample Rate (Hz)": "20000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample144",
+    "OOT OTR": "Adult Link - Falling 1",
+    "OOT O2R": "Adult Link - Falling 1_META",
+    "Sample Rate (Hz)": "20000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample145",
+    "OOT OTR": "Adult Link - Falling 2",
+    "OOT O2R": "Adult Link - Falling 2_META",
+    "Sample Rate (Hz)": "20000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample146",
+    "OOT OTR": "Adult Link - Gasp 2",
+    "OOT O2R": "Adult Link - Gasp 2_META",
+    "Sample Rate (Hz)": "20000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample147",
+    "OOT OTR": "Adult Link - Gasp 3",
+    "OOT O2R": "Adult Link - Gasp 3_META",
+    "Sample Rate (Hz)": "20000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample148",
+    "OOT OTR": "Adult Link - Pant 1",
+    "OOT O2R": "Adult Link - Pant 1_META",
+    "Sample Rate (Hz)": "20000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample149",
+    "OOT OTR": "Adult Link - Pant 2",
+    "OOT O2R": "Adult Link - Pant 2_META",
+    "Sample Rate (Hz)": "20000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample150",
+    "OOT OTR": "Adult Link - Glug",
+    "OOT O2R": "Adult Link - Glug_META",
+    "Sample Rate (Hz)": "20000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample151",
+    "OOT OTR": "Adult Link - Refreshed",
+    "OOT O2R": "Adult Link - Refreshed_META",
+    "Sample Rate (Hz)": "20000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample152",
+    "OOT OTR": "Adult Link - Lift (Unused)",
+    "OOT O2R": "Adult Link - Lift (Unused)_META",
+    "Sample Rate (Hz)": "20000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample153",
+    "OOT OTR": "Adult Link - Cast Attacking Magic",
+    "OOT O2R": "Adult Link - Cast Attacking Magic_META",
+    "Sample Rate (Hz)": "20000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample154",
+    "OOT OTR": "Adult Link - Painful Landing",
+    "OOT O2R": "Adult Link - Painful Landing_META",
+    "Sample Rate (Hz)": "20000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample155",
+    "OOT OTR": "Adult Link - Dramatic Gasp",
+    "OOT O2R": "Adult Link - Dramatic Gasp_META",
+    "Sample Rate (Hz)": "20000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample156",
+    "OOT OTR": "Adult Link - Hurt (Unused)",
+    "OOT O2R": "Adult Link - Hurt (Unused)_META",
+    "Sample Rate (Hz)": "20000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample157",
+    "OOT OTR": "Adult Link - Choking",
+    "OOT O2R": "Adult Link - Choking_META",
+    "Sample Rate (Hz)": "20000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample158",
+    "OOT OTR": "Adult Link - Gasping (Unused)",
+    "OOT O2R": "Adult Link - Gasping (Unused)_META",
+    "Sample Rate (Hz)": "20000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample159",
+    "OOT OTR": "Adult Link - Small Gasp (Unused)",
+    "OOT O2R": "Adult Link - Small Gasp (Unused)_META",
+    "Sample Rate (Hz)": "20000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample160",
+    "OOT OTR": "Adult Link - Unsettled Moan",
+    "OOT O2R": "Adult Link - Unsettled Moan_META",
+    "Sample Rate (Hz)": "20000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample161",
+    "OOT OTR": "Adult Link - Sneezes",
+    "OOT O2R": "Adult Link - Sneezes_META",
+    "Sample Rate (Hz)": "20000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample162",
+    "OOT OTR": "Adult Link - Sigh 1",
+    "OOT O2R": "Adult Link - Sigh 1_META",
+    "Sample Rate (Hz)": "20000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample163",
+    "OOT OTR": "Adult Link - Sigh 2",
+    "OOT O2R": "Adult Link - Sigh 2_META",
+    "Sample Rate (Hz)": "20000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample164",
+    "OOT OTR": "Adult Link - Sigh 3",
+    "OOT O2R": "Adult Link - Sigh 3_META",
+    "Sample Rate (Hz)": "20000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample165",
+    "OOT OTR": "Adult Link - Stretch Start",
+    "OOT O2R": "Adult Link - Stretch Start_META",
+    "Sample Rate (Hz)": "20000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample166",
+    "OOT OTR": "Adult Link - Stretching",
+    "OOT O2R": "Adult Link - Stretching_META",
+    "Sample Rate (Hz)": "20000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample167",
+    "OOT OTR": "Adult Link - Finished Stretching",
+    "OOT O2R": "Adult Link - Finished Stretching_META",
+    "Sample Rate (Hz)": "20000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample168",
+    "OOT OTR": "Child Link - Attack 1",
+    "OOT O2R": "Child Link - Attack 1_META",
+    "Sample Rate (Hz)": "20000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample169",
+    "OOT OTR": "Child Link - Attack 2",
+    "OOT O2R": "Child Link - Attack 2_META",
+    "Sample Rate (Hz)": "20000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample170",
+    "OOT OTR": "Child Link - Attack 3",
+    "OOT O2R": "Child Link - Attack 3_META",
+    "Sample Rate (Hz)": "20000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample171",
+    "OOT OTR": "Child Link - Attack 4",
+    "OOT O2R": "Child Link - Attack 4_META",
+    "Sample Rate (Hz)": "20000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample172",
+    "OOT OTR": "Child Link - Hup 1",
+    "OOT O2R": "Child Link - Hup 1_META",
+    "Sample Rate (Hz)": "20000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample173",
+    "OOT OTR": "Child Link - Hup 2",
+    "OOT O2R": "Child Link - Hup 2_META",
+    "Sample Rate (Hz)": "20000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample174",
+    "OOT OTR": "Child Link - Strong Attack 1",
+    "OOT O2R": "Child Link - Strong Attack 1_META",
+    "Sample Rate (Hz)": "20000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample175",
+    "OOT OTR": "Child Link - Strong Attack 2",
+    "OOT O2R": "Child Link - Strong Attack 2_META",
+    "Sample Rate (Hz)": "20000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample176",
+    "OOT OTR": "Child Link - Dangling Gasp 1",
+    "OOT O2R": "Child Link - Dangling Gasp 1_META",
+    "Sample Rate (Hz)": "20000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample177",
+    "OOT OTR": "Child Link - Dangling Gasp 2",
+    "OOT O2R": "Child Link - Dangling Gasp 2_META",
+    "Sample Rate (Hz)": "20000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample178",
+    "OOT OTR": "Child Link - Sigh 1",
+    "OOT O2R": "Child Link - Sigh 1_META",
+    "Sample Rate (Hz)": "20000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample179",
+    "OOT OTR": "Child Link - Sigh 2",
+    "OOT O2R": "Child Link - Sigh 2_META",
+    "Sample Rate (Hz)": "20000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample180",
+    "OOT OTR": "Child Link - Hurt 1",
+    "OOT O2R": "Child Link - Hurt 1_META",
+    "Sample Rate (Hz)": "20000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample181",
+    "OOT OTR": "Child Link - Hurt 2",
+    "OOT O2R": "Child Link - Hurt 2_META",
+    "Sample Rate (Hz)": "20000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample182",
+    "OOT OTR": "Child Link - Hurt 3",
+    "OOT O2R": "Child Link - Hurt 3_META",
+    "Sample Rate (Hz)": "20000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample183",
+    "OOT OTR": "Child Link - Hurt 4",
+    "OOT O2R": "Child Link - Hurt 4_META",
+    "Sample Rate (Hz)": "20000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample184",
+    "OOT OTR": "Child Link - Knocked Back",
+    "OOT O2R": "Child Link - Knocked Back_META",
+    "Sample Rate (Hz)": "20000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample185",
+    "OOT OTR": "Child Link - Hurt 5",
+    "OOT O2R": "Child Link - Hurt 5_META",
+    "Sample Rate (Hz)": "20000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample186",
+    "OOT OTR": "Child Link - Falling 1",
+    "OOT O2R": "Child Link - Falling 1_META",
+    "Sample Rate (Hz)": "20000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample187",
+    "OOT OTR": "Child Link - Falling 2",
+    "OOT O2R": "Child Link - Falling 2_META",
+    "Sample Rate (Hz)": "20000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample188",
+    "OOT OTR": "Child Link - Gasp 1",
+    "OOT O2R": "Child Link - Gasp 1_META",
+    "Sample Rate (Hz)": "20000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample189",
+    "OOT OTR": "Child Link - Gasp 2",
+    "OOT O2R": "Child Link - Gasp 2_META",
+    "Sample Rate (Hz)": "20000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample190",
+    "OOT OTR": "Child Link - Wheeze",
+    "OOT O2R": "Child Link - Wheeze_META",
+    "Sample Rate (Hz)": "20000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample191",
+    "OOT OTR": "Child Link - Exhausted Panting",
+    "OOT O2R": "Child Link - Exhausted Panting_META",
+    "Sample Rate (Hz)": "20000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample192",
+    "OOT OTR": "Child Link - Glug",
+    "OOT O2R": "Child Link - Glug_META",
+    "Sample Rate (Hz)": "20000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample193",
+    "OOT OTR": "Child Link - Refreshed",
+    "OOT O2R": "Child Link - Refreshed_META",
+    "Sample Rate (Hz)": "20000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample194",
+    "OOT OTR": "Child Link - Charge Up (Unused)",
+    "OOT O2R": "Child Link - Charge Up (Unused)_META",
+    "Sample Rate (Hz)": "20000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample195",
+    "OOT OTR": "Child Link - Cast Attack Spell",
+    "OOT O2R": "Child Link - Cast Attack Spell_META",
+    "Sample Rate (Hz)": "20000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample196",
+    "OOT OTR": "Child Link - Painful Landing",
+    "OOT O2R": "Child Link - Painful Landing_META",
+    "Sample Rate (Hz)": "20000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample197",
+    "OOT OTR": "Child Link - Dramatic Gasp",
+    "OOT O2R": "Child Link - Dramatic Gasp_META",
+    "Sample Rate (Hz)": "20000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample198",
+    "OOT OTR": "Child Link - Dying Gasp",
+    "OOT O2R": "Child Link - Dying Gasp_META",
+    "Sample Rate (Hz)": "20000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample199",
+    "OOT OTR": "Child Link - Strangled (Unused)",
+    "OOT O2R": "Child Link - Strangled (Unused)_META",
+    "Sample Rate (Hz)": "20000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample200",
+    "OOT OTR": "Child Link - Gasp 3",
+    "OOT O2R": "Child Link - Gasp 3_META",
+    "Sample Rate (Hz)": "20000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample201",
+    "OOT OTR": "Child Link - Shivers",
+    "OOT O2R": "Child Link - Shivers_META",
+    "Sample Rate (Hz)": "20000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample202",
+    "OOT OTR": "Child Link - Sneeze",
+    "OOT O2R": "Child Link - Sneeze_META",
+    "Sample Rate (Hz)": "20000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample203",
+    "OOT OTR": "Child Link - Grunt",
+    "OOT O2R": "Child Link - Grunt_META",
+    "Sample Rate (Hz)": "20000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample204",
+    "OOT OTR": "Child Link - Moans From Heat",
+    "OOT O2R": "Child Link - Moans From Heat_META",
+    "Sample Rate (Hz)": "20000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample205",
+    "OOT OTR": "Child Link - Awakening Grunt",
+    "OOT O2R": "Child Link - Awakening Grunt_META",
+    "Sample Rate (Hz)": "20000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample206",
+    "OOT OTR": "Child Link - Wiping Off Sweat",
+    "OOT O2R": "Child Link - Wiping Off Sweat_META",
+    "Sample Rate (Hz)": "20000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample207",
+    "OOT OTR": "Child Link - Yawn Starts",
+    "OOT O2R": "Child Link - Yawn Starts_META",
+    "Sample Rate (Hz)": "20000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample208",
+    "OOT OTR": "Child Link - Yawn and Stretch",
+    "OOT O2R": "Child Link - Yawn and Stretch_META",
+    "Sample Rate (Hz)": "20000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample209",
+    "OOT OTR": "Child Link - Stretch Refreshingly",
+    "OOT O2R": "Child Link - Stretch Refreshingly_META",
+    "Sample Rate (Hz)": "20000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample210",
+    "OOT OTR": "Navi - Watch Out!",
+    "OOT O2R": "Navi - Watch Out!_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample211",
+    "OOT OTR": "Navi - Look!",
+    "OOT O2R": "Navi - Look!_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample212",
+    "OOT OTR": "Navi - Hey!",
+    "OOT O2R": "Navi - Hey!_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample213",
+    "OOT OTR": "Navi - Listen!",
+    "OOT O2R": "Navi - Listen!_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample214",
+    "OOT OTR": "Navi - Hello!",
+    "OOT O2R": "Navi - Hello!_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample215",
+    "OOT OTR": "Talon Snoring",
+    "OOT O2R": "Talon Snoring_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample216",
+    "OOT OTR": "Talon Startled",
+    "OOT O2R": "Talon Startled_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample217",
+    "OOT OTR": "Talon Distressed",
+    "OOT O2R": "Talon Distressed_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample218",
+    "OOT OTR": "Talon Fearful",
+    "OOT O2R": "Talon Fearful_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample219",
+    "OOT OTR": "Great Fairy Laughter",
+    "OOT O2R": "Great Fairy Laughter_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample220",
+    "OOT OTR": "Great Fairy Titters",
+    "OOT O2R": "Great Fairy Titters_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample221",
+    "OOT OTR": "Ingo Yowls",
+    "OOT O2R": "Ingo Yowls_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample222",
+    "OOT OTR": "Ingo Exclaims",
+    "OOT O2R": "Ingo Exclaims_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample223",
+    "OOT OTR": "Ingo - Hyeaaaaugh",
+    "OOT O2R": "Ingo - Hyeaaaaugh_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample224",
+    "OOT OTR": "Ingo - Hyah!",
+    "OOT O2R": "Ingo - Hyah!_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample225",
+    "OOT OTR": "Girl Gasps",
+    "OOT O2R": "Girl Gasps_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample226",
+    "OOT OTR": "Girl Screams 1",
+    "OOT O2R": "Girl Screams 1_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample227",
+    "OOT OTR": "Girl Inquiring 1",
+    "OOT O2R": "Girl Inquiring 1_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample228",
+    "OOT OTR": "Girl Hurt",
+    "OOT O2R": "Girl Hurt_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample229",
+    "OOT OTR": "Girl Startled 1",
+    "OOT O2R": "Girl Startled 1_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample230",
+    "OOT OTR": "Girl Screams 2",
+    "OOT O2R": "Girl Screams 2_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample231",
+    "OOT OTR": "Girl Delighted",
+    "OOT O2R": "Girl Delighted_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample232",
+    "OOT OTR": "Girl Surprised 1",
+    "OOT O2R": "Girl Surprised 1_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample233",
+    "OOT OTR": "Girl Surprised 2",
+    "OOT O2R": "Girl Surprised 2_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample234",
+    "OOT OTR": "Girl Discombobulated (Unused)",
+    "OOT O2R": "Girl Discombobulated (Unused)_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample235",
+    "OOT OTR": "Woman Yells",
+    "OOT O2R": "Woman Yells_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample236",
+    "OOT OTR": "Woman Yells, Startled",
+    "OOT O2R": "Woman Yells, Startled_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample237",
+    "OOT OTR": "Woman Grunts",
+    "OOT O2R": "Woman Grunts_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample238",
+    "OOT OTR": "Woman Hup",
+    "OOT O2R": "Woman Hup_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample239",
+    "OOT OTR": "Girl Sighs",
+    "OOT O2R": "Girl Sighs_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample240",
+    "OOT OTR": "Girl Startled 2",
+    "OOT O2R": "Girl Startled 2_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample241",
+    "OOT OTR": "Girl Inquiring 2",
+    "OOT O2R": "Girl Inquiring 2_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample242",
+    "OOT OTR": "Girl Disappointed",
+    "OOT O2R": "Girl Disappointed_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample243",
+    "OOT OTR": "Girl Laughing",
+    "OOT O2R": "Girl Laughing_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample244",
+    "OOT OTR": "Girl Startled 3",
+    "OOT O2R": "Girl Startled 3_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample245",
+    "OOT OTR": "Girl Grunts in Effort",
+    "OOT O2R": "Girl Grunts in Effort_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample246",
+    "OOT OTR": "Girl Screams 3",
+    "OOT O2R": "Girl Screams 3_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample247",
+    "OOT OTR": "Girl Screams 4",
+    "OOT O2R": "Girl Screams 4_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample248",
+    "OOT OTR": "Girl Sighs Contentedly",
+    "OOT O2R": "Girl Sighs Contentedly_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample249",
+    "OOT OTR": "Girl Surprised 3",
+    "OOT O2R": "Girl Surprised 3_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample250",
+    "OOT OTR": "Girl Scared",
+    "OOT O2R": "Girl Scared_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample251",
+    "OOT OTR": "Skulltula Screaming",
+    "OOT O2R": "Skulltula Screaming_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample252",
+    "OOT OTR": "Skulltula Grunts Angrily",
+    "OOT O2R": "Skulltula Grunts Angrily_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample253",
+    "OOT OTR": "King Zora Scoots",
+    "OOT O2R": "King Zora Scoots_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": "mweep"
+  },
+  {
+    "Decomp": "Sample254",
+    "OOT OTR": "Flamethrower",
+    "OOT O2R": "Flamethrower_META",
+    "Sample Rate (Hz)": "22050",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample255",
+    "OOT OTR": "Dodongo Roar",
+    "OOT O2R": "Dodongo Roar_META",
+    "Sample Rate (Hz)": "22050",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample256",
+    "OOT OTR": "Heavy Rumbling",
+    "OOT O2R": "Heavy Rumbling_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample257",
+    "OOT OTR": "Clattering Spear",
+    "OOT O2R": "Clattering Spear_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample258",
+    "OOT OTR": "Ganon's Electrical Charge",
+    "OOT O2R": "Ganon's Electrical Charge_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample259",
+    "OOT OTR": "Dramatic Swoosh",
+    "OOT O2R": "Dramatic Swoosh_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample260",
+    "OOT OTR": "Broken Pottery",
+    "OOT O2R": "Broken Pottery_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample261",
+    "OOT OTR": "Shattered Glass",
+    "OOT O2R": "Shattered Glass_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample262",
+    "OOT OTR": "Heavy Gunshot",
+    "OOT O2R": "Heavy Gunshot_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample263",
+    "OOT OTR": "Dodongo Inhale",
+    "OOT O2R": "Dodongo Inhale_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample264",
+    "OOT OTR": "Gulp",
+    "OOT O2R": "Gulp_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample265",
+    "OOT OTR": "Rustling Thicket",
+    "OOT O2R": "Rustling Thicket_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample266",
+    "OOT OTR": "Cracking Egg",
+    "OOT O2R": "Cracking Egg_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample267",
+    "OOT OTR": "Resounding Smash",
+    "OOT O2R": "Resounding Smash_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample268",
+    "OOT OTR": "Cloaking Poe",
+    "OOT O2R": "Cloaking Poe_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample269",
+    "OOT OTR": "Chittering Keese",
+    "OOT O2R": "Chittering Keese_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample270",
+    "OOT OTR": "Rustling Large Wings",
+    "OOT O2R": "Rustling Large Wings_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample271",
+    "OOT OTR": "Guay Hurt",
+    "OOT O2R": "Guay Hurt_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample272",
+    "OOT OTR": "Scritch",
+    "OOT O2R": "Scritch_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample273",
+    "OOT OTR": "Gruff Voice",
+    "OOT O2R": "Gruff Voice_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample274",
+    "OOT OTR": "Lizalfos Triumphant Cry",
+    "OOT O2R": "Lizalfos Triumphant Cry_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample275",
+    "OOT OTR": "Lizalfos Foot Patter",
+    "OOT O2R": "Lizalfos Foot Patter_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample276",
+    "OOT OTR": "Lizalfos Laughter",
+    "OOT O2R": "Lizalfos Laughter_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample277",
+    "OOT OTR": "Deku Scrub Collapses",
+    "OOT O2R": "Deku Scrub Collapses_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample278",
+    "OOT OTR": "Broken Small Pottery",
+    "OOT O2R": "Broken Small Pottery_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample279",
+    "OOT OTR": "Monstrous Growl",
+    "OOT O2R": "Monstrous Growl_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample280",
+    "OOT OTR": "Moaning Phantom Ganon",
+    "OOT O2R": "Moaning Phantom Ganon_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample281",
+    "OOT OTR": "Phantom Ganon Laughing",
+    "OOT O2R": "Phantom Ganon Laughing_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample282",
+    "OOT OTR": "Gerudo Scimitar Slash",
+    "OOT O2R": "Gerudo Scimitar Slash_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample283",
+    "OOT OTR": "Deku Baba Chomp",
+    "OOT O2R": "Deku Baba Chomp_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample284",
+    "OOT OTR": "Deku Baba Lunge",
+    "OOT O2R": "Deku Baba Lunge_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample285",
+    "OOT OTR": "Buzzing",
+    "OOT O2R": "Buzzing_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample286",
+    "OOT OTR": "Electric Burst",
+    "OOT O2R": "Electric Burst_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample287",
+    "OOT OTR": "Ganondorf Hovering",
+    "OOT O2R": "Ganondorf Hovering_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample288",
+    "OOT OTR": "Magical Charge-Up",
+    "OOT O2R": "Magical Charge-Up_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample289",
+    "OOT OTR": "Echoing Thunderburst",
+    "OOT O2R": "Echoing Thunderburst_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample290",
+    "OOT OTR": "Phantom Ganon in Agony",
+    "OOT O2R": "Phantom Ganon in Agony_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample291",
+    "OOT OTR": "Phantom Ganon Attacks",
+    "OOT O2R": "Phantom Ganon Attacks_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample292",
+    "OOT OTR": "Phantom Ganon Groans (Unused)",
+    "OOT O2R": "Phantom Ganon Groans (Unused)_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample293",
+    "OOT OTR": "Thunder and Groan",
+    "OOT O2R": "Thunder and Groan_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample294",
+    "OOT OTR": "Goron and Redead Moan\"",
+    "OOT O2R": "Goron and Redead Moan\"_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample295",
+    "OOT OTR": "Phantom Ganon Growls",
+    "OOT O2R": "Phantom Ganon Growls_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample296",
+    "OOT OTR": "Goron Inquiring",
+    "OOT O2R": "Goron Inquiring_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample297",
+    "OOT OTR": "Goron Recognizes",
+    "OOT O2R": "Goron Recognizes_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample298",
+    "OOT OTR": "Goron Yawns",
+    "OOT O2R": "Goron Yawns_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample299",
+    "OOT OTR": "Witch Cackles 1",
+    "OOT O2R": "Witch Cackles 1_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample300",
+    "OOT OTR": "Witch Cackles 2",
+    "OOT O2R": "Witch Cackles 2_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample301",
+    "OOT OTR": "Witch Hurt",
+    "OOT O2R": "Witch Hurt_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample302",
+    "OOT OTR": "Witch Attacks",
+    "OOT O2R": "Witch Attacks_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample303",
+    "OOT OTR": "Witch Inquires",
+    "OOT O2R": "Witch Inquires_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample304",
+    "OOT OTR": "Witch Yells a Curse",
+    "OOT O2R": "Witch Yells a Curse_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample305",
+    "OOT OTR": "Witch Arguing",
+    "OOT O2R": "Witch Arguing_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample306",
+    "OOT OTR": "Witch Surprised",
+    "OOT O2R": "Witch Surprised_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample307",
+    "OOT OTR": "Twinrova Gasps",
+    "OOT O2R": "Twinrova Gasps_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample308",
+    "OOT OTR": "Twinrova Thrown Off",
+    "OOT O2R": "Twinrova Thrown Off_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample309",
+    "OOT OTR": "Twinrova Laughs",
+    "OOT O2R": "Twinrova Laughs_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample310",
+    "OOT OTR": "Witch Howls",
+    "OOT O2R": "Witch Howls_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample311",
+    "OOT OTR": "Woman Chuckles",
+    "OOT O2R": "Woman Chuckles_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample312",
+    "OOT OTR": "Witch Charges (Unused)",
+    "OOT O2R": "Witch Charges (Unused)_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample313",
+    "OOT OTR": "Finger Snap",
+    "OOT O2R": "Finger Snap_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample314",
+    "OOT OTR": "Iron Knuckle Attacks",
+    "OOT O2R": "Iron Knuckle Attacks_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample315",
+    "OOT OTR": "Iron Knuckle Grunt (Unused)",
+    "OOT O2R": "Iron Knuckle Grunt (Unused)_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample316",
+    "OOT OTR": "Iron Knuckle Charges",
+    "OOT O2R": "Iron Knuckle Charges_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample317",
+    "OOT OTR": "Iron Knuckle Dies",
+    "OOT O2R": "Iron Knuckle Dies_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample318",
+    "OOT OTR": "Iron Knuckle Grunts",
+    "OOT O2R": "Iron Knuckle Grunts_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample319",
+    "OOT OTR": "Iron Knuckle Murmurs (Unused)",
+    "OOT O2R": "Iron Knuckle Murmurs (Unused)_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample320",
+    "OOT OTR": "Muted Timpani",
+    "OOT O2R": "Muted Timpani_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample321",
+    "OOT OTR": "Chanting",
+    "OOT O2R": "Chanting_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample322",
+    "OOT OTR": "Gerudo Attacks",
+    "OOT O2R": "Gerudo Attacks_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample323",
+    "OOT OTR": "Gerudo Breathes",
+    "OOT O2R": "Gerudo Breathes_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample324",
+    "OOT OTR": "Gerudo Hurt",
+    "OOT O2R": "Gerudo Hurt_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample325",
+    "OOT OTR": "Gerudo Vanquished",
+    "OOT O2R": "Gerudo Vanquished_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample326",
+    "OOT OTR": "Enemy Struck",
+    "OOT O2R": "Enemy Struck_META",
+    "Sample Rate (Hz)": "22050",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample327",
+    "OOT OTR": "Ganondorf Laughing",
+    "OOT O2R": "Ganondorf Laughing_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample328",
+    "OOT OTR": "Ganondorf Attacks",
+    "OOT O2R": "Ganondorf Attacks_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample329",
+    "OOT OTR": "Ganondorf Heavy Attack",
+    "OOT O2R": "Ganondorf Heavy Attack_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample330",
+    "OOT OTR": "Ganondorf Rebuffs",
+    "OOT O2R": "Ganondorf Rebuffs_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample331",
+    "OOT OTR": "Ganondorf Strikes the Ground",
+    "OOT O2R": "Ganondorf Strikes the Ground_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample332",
+    "OOT OTR": "Ganondorf Hurt 1",
+    "OOT O2R": "Ganondorf Hurt 1_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample333",
+    "OOT OTR": "Ganondorf Hurt 2",
+    "OOT O2R": "Ganondorf Hurt 2_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample334",
+    "OOT OTR": "Ganondorf Breathes (Unused)",
+    "OOT O2R": "Ganondorf Breathes (Unused)_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample335",
+    "OOT OTR": "Ganondorf Recovers",
+    "OOT O2R": "Ganondorf Recovers_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample336",
+    "OOT OTR": "Ganondorf Gurgling Yell (Unused)",
+    "OOT O2R": "Ganondorf Gurgling Yell (Unused)_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample337",
+    "OOT OTR": "Ganondorf Dying Breath",
+    "OOT O2R": "Ganondorf Dying Breath_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample338",
+    "OOT OTR": "Ganondorf Vomits",
+    "OOT O2R": "Ganondorf Vomits_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample339",
+    "OOT OTR": "Ganondorf Yells in Defiance",
+    "OOT O2R": "Ganondorf Yells in Defiance_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample340",
+    "OOT OTR": "Ganondorf's Final Attack (Unused)",
+    "OOT O2R": "Ganondorf's Final Attack (Unused)_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample341",
+    "OOT OTR": "Ganondorf's Final Attack 2 (Unused)",
+    "OOT O2R": "Ganondorf's Final Attack 2 (Unused)_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample342",
+    "OOT OTR": "Ganondorf Chuckles",
+    "OOT O2R": "Ganondorf Chuckles_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample343",
+    "OOT OTR": "Redead Scream",
+    "OOT O2R": "Redead Scream_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample344",
+    "OOT OTR": "Monstrous Roaring",
+    "OOT O2R": "Monstrous Roaring_META",
+    "Sample Rate (Hz)": "22050",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample345",
+    "OOT OTR": "Larval Sound Base",
+    "OOT O2R": "Larval Sound Base_META",
+    "Sample Rate (Hz)": "22050",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample346",
+    "OOT OTR": "Dinosaur Cry",
+    "OOT O2R": "Dinosaur Cry_META",
+    "Sample Rate (Hz)": "22050",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample347",
+    "OOT OTR": "Phantom Ganon's Laughter",
+    "OOT O2R": "Phantom Ganon's Laughter_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample348",
+    "OOT OTR": "Iron Boots 1",
+    "OOT O2R": "Iron Boots 1_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample349",
+    "OOT OTR": "Metal Clink (Copy)",
+    "OOT O2R": "Metal Clink (Copy)_META",
+    "Sample Rate (Hz)": "32000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample350",
+    "OOT OTR": "Ghostly Wind",
+    "OOT O2R": "Ghostly Wind_META",
+    "Sample Rate (Hz)": "32000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample351",
+    "OOT OTR": "Ghostly Echoes",
+    "OOT O2R": "Ghostly Echoes_META",
+    "Sample Rate (Hz)": "32000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample352",
+    "OOT OTR": "Echoing Drums",
+    "OOT O2R": "Echoing Drums_META",
+    "Sample Rate (Hz)": "32000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample353",
+    "OOT OTR": "Vocal Oohs",
+    "OOT O2R": "Vocal Oohs_META",
+    "Sample Rate (Hz)": "22050",
+    "Music Note": "Male C Half Sharp",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample354",
+    "OOT OTR": "Vocal Eees",
+    "OOT O2R": "Vocal Eees_META",
+    "Sample Rate (Hz)": "22050",
+    "Music Note": "Male G Half Flat",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample355",
+    "OOT OTR": "Rattling Scream",
+    "OOT O2R": "Rattling Scream_META",
+    "Sample Rate (Hz)": "22050",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample356",
+    "OOT OTR": "Harpsichord",
+    "OOT O2R": "Harpsichord_META",
+    "Sample Rate (Hz)": "22050",
+    "Music Note": "Piano, A2",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample357",
+    "OOT OTR": "Piano",
+    "OOT O2R": "Piano_META",
+    "Sample Rate (Hz)": "32000",
+    "Music Note": "C4",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample358",
+    "OOT OTR": "Piano (Soft)",
+    "OOT O2R": "Piano (Soft)_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "C5",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample359",
+    "OOT OTR": "Vocal Aahs",
+    "OOT O2R": "Vocal Aahs_META",
+    "Sample Rate (Hz)": "22050",
+    "Music Note": "Female B4",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample360",
+    "OOT OTR": "Resonant Vocal Aahs",
+    "OOT O2R": "Resonant Vocal Aahs_META",
+    "Sample Rate (Hz)": "22050",
+    "Music Note": "F#5",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample361",
+    "OOT OTR": "Harp 2",
+    "OOT O2R": "Harp 2_META",
+    "Sample Rate (Hz)": "24000",
+    "Music Note": "F4",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample362",
+    "OOT OTR": "Glockenspiel",
+    "OOT O2R": "Glockenspiel_META",
+    "Sample Rate (Hz)": "32000",
+    "Music Note": "B5",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample363",
+    "OOT OTR": "Mechanical Rumbling",
+    "OOT O2R": "Mechanical Rumbling_META",
+    "Sample Rate (Hz)": "32000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample364",
+    "OOT OTR": "Trumpet",
+    "OOT O2R": "Trumpet_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "C5",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample365",
+    "OOT OTR": "Trombone",
+    "OOT O2R": "Trombone_META",
+    "Sample Rate (Hz)": "32000",
+    "Music Note": "G4",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample366",
+    "OOT OTR": "Tuba",
+    "OOT O2R": "Tuba_META",
+    "Sample Rate (Hz)": "32000",
+    "Music Note": "E2",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample367",
+    "OOT OTR": "Bass Drum 1",
+    "OOT O2R": "Bass Drum 1_META",
+    "Sample Rate (Hz)": "22000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample368",
+    "OOT OTR": "Snare Drum 1",
+    "OOT O2R": "Snare Drum 1_META",
+    "Sample Rate (Hz)": "32000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample369",
+    "OOT OTR": "Snare Drum 2",
+    "OOT O2R": "Snare Drum 2_META",
+    "Sample Rate (Hz)": "32000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample370",
+    "OOT OTR": "Cymbal",
+    "OOT O2R": "Cymbal_META",
+    "Sample Rate (Hz)": "32000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample371",
+    "OOT OTR": "Timpani",
+    "OOT O2R": "Timpani_META",
+    "Sample Rate (Hz)": "32000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample372",
+    "OOT OTR": "Strings (Low)",
+    "OOT O2R": "Strings (Low)_META",
+    "Sample Rate (Hz)": "32000",
+    "Music Note": "C2",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample373",
+    "OOT OTR": "Strings 1",
+    "OOT O2R": "Strings 1_META",
+    "Sample Rate (Hz)": "32000",
+    "Music Note": "A#3",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample374",
+    "OOT OTR": "Strings 2",
+    "OOT O2R": "Strings 2_META",
+    "Sample Rate (Hz)": "32000",
+    "Music Note": "A#4",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample375",
+    "OOT OTR": "Fiddle",
+    "OOT O2R": "Fiddle_META",
+    "Sample Rate (Hz)": "32000",
+    "Music Note": "",
+    "Notes": "Is actually Harmonica"
+  },
+  {
+    "Decomp": "Sample376",
+    "OOT OTR": "Acoustic Guitar 1",
+    "OOT O2R": "Acoustic Guitar 1_META",
+    "Sample Rate (Hz)": "32000",
+    "Music Note": "G#2",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample377",
+    "OOT OTR": "Acoustic Guitar 2",
+    "OOT O2R": "Acoustic Guitar 2_META",
+    "Sample Rate (Hz)": "32000",
+    "Music Note": "D#4",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample378",
+    "OOT OTR": "Tom Drum",
+    "OOT O2R": "Tom Drum_META",
+    "Sample Rate (Hz)": "32000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample379",
+    "OOT OTR": "Drum Sidestick",
+    "OOT O2R": "Drum Sidestick_META",
+    "Sample Rate (Hz)": "32000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample380",
+    "OOT OTR": "Finger Cymbals",
+    "OOT O2R": "Finger Cymbals_META",
+    "Sample Rate (Hz)": "32000",
+    "Music Note": "",
+    "Notes": "Tambourine again"
+  },
+  {
+    "Decomp": "Sample381",
+    "OOT OTR": "Oboe",
+    "OOT O2R": "Oboe_META",
+    "Sample Rate (Hz)": "32000",
+    "Music Note": "E4",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample382",
+    "OOT OTR": "Bassoon",
+    "OOT O2R": "Bassoon_META",
+    "Sample Rate (Hz)": "32000",
+    "Music Note": "A2",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample383",
+    "OOT OTR": "Harp 3",
+    "OOT O2R": "Harp 3_META",
+    "Sample Rate (Hz)": "32000",
+    "Music Note": "Pizz Bass, B2",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample384",
+    "OOT OTR": "Pizzicato Violin",
+    "OOT O2R": "Pizzicato Violin_META",
+    "Sample Rate (Hz)": "32000",
+    "Music Note": "Bb4",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample385",
+    "OOT OTR": "Church Organ",
+    "OOT O2R": "Church Organ_META",
+    "Sample Rate (Hz)": "32000",
+    "Music Note": "C4",
+    "Notes": "Low Register"
+  },
+  {
+    "Decomp": "Sample386",
+    "OOT OTR": "Electric Organ",
+    "OOT O2R": "Electric Organ_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "C5",
+    "Notes": "High Register"
+  },
+  {
+    "Decomp": "Sample387",
+    "OOT OTR": "Horn",
+    "OOT O2R": "Horn_META",
+    "Sample Rate (Hz)": "32000",
+    "Music Note": "C4",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample388",
+    "OOT OTR": "Bass Guitar",
+    "OOT O2R": "Bass Guitar_META",
+    "Sample Rate (Hz)": "24000",
+    "Music Note": "A1",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample389",
+    "OOT OTR": "Clap",
+    "OOT O2R": "Clap_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample393",
+    "OOT OTR": "Resonant Bass Marimba",
+    "OOT O2R": "Resonant Bass Marimba_META",
+    "Sample Rate (Hz)": "22050",
+    "Music Note": "A3",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample394",
+    "OOT OTR": "Haunting Wind",
+    "OOT O2R": "Haunting Wind_META",
+    "Sample Rate (Hz)": "22050",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample395",
+    "OOT OTR": "Off Hi-Hat",
+    "OOT O2R": "Off Hi-Hat_META",
+    "Sample Rate (Hz)": "27777",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample396",
+    "OOT OTR": "Drum and Sitar",
+    "OOT O2R": "Drum and Sitar_META",
+    "Sample Rate (Hz)": "32000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample397",
+    "OOT OTR": "Percussive Resonance",
+    "OOT O2R": "Percussive Resonance_META",
+    "Sample Rate (Hz)": "32000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample398",
+    "OOT OTR": "Clarinet",
+    "OOT O2R": "Clarinet_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "C5",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample399",
+    "OOT OTR": "Harpsichord (High)",
+    "OOT O2R": "Harpsichord (High)_META",
+    "Sample Rate (Hz)": "32000",
+    "Music Note": "G4",
+    "Notes": "Is actually Hapsichord"
+  },
+  {
+    "Decomp": "Sample400",
+    "OOT OTR": "Marimba 1",
+    "OOT O2R": "Marimba 1_META",
+    "Sample Rate (Hz)": "32000",
+    "Music Note": "D4",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample401",
+    "OOT OTR": "Marimba 2",
+    "OOT O2R": "Marimba 2_META",
+    "Sample Rate (Hz)": "32000",
+    "Music Note": "D5",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample402",
+    "OOT OTR": "Crystal Synth",
+    "OOT O2R": "Crystal Synth_META",
+    "Sample Rate (Hz)": "48000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample403",
+    "OOT OTR": "Koto",
+    "OOT O2R": "Koto_META",
+    "Sample Rate (Hz)": "32000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample404",
+    "OOT OTR": "",
+    "OOT O2R": "_META",
+    "Sample Rate (Hz)": "32000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample405",
+    "OOT OTR": "Some Manner of Drum",
+    "OOT O2R": "Some Manner of Drum_META",
+    "Sample Rate (Hz)": "32000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample406",
+    "OOT OTR": "Another Type of Drum",
+    "OOT O2R": "Another Type of Drum_META",
+    "Sample Rate (Hz)": "32000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample407",
+    "OOT OTR": "Quick Drum",
+    "OOT O2R": "Quick Drum_META",
+    "Sample Rate (Hz)": "24000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample408",
+    "OOT OTR": "Gong",
+    "OOT O2R": "Gong_META",
+    "Sample Rate (Hz)": "32000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample409",
+    "OOT OTR": "Windchimes",
+    "OOT O2R": "Windchimes_META",
+    "Sample Rate (Hz)": "24000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample410",
+    "OOT OTR": "Goron Drum",
+    "OOT O2R": "Goron Drum_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample411",
+    "OOT OTR": "Melodic Wooden Clacking",
+    "OOT O2R": "Melodic Wooden Clacking_META",
+    "Sample Rate (Hz)": "32000",
+    "Music Note": "B3",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample412",
+    "OOT OTR": "Vocal Ohs",
+    "OOT O2R": "Vocal Ohs_META",
+    "Sample Rate (Hz)": "24000",
+    "Music Note": "F4",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample413",
+    "OOT OTR": "Flute and Voice",
+    "OOT O2R": "Flute and Voice_META",
+    "Sample Rate (Hz)": "32000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample414",
+    "OOT OTR": "Off-Kilter Flute",
+    "OOT O2R": "Off-Kilter Flute_META",
+    "Sample Rate (Hz)": "32000",
+    "Music Note": "G#4",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample415",
+    "OOT OTR": "Voice",
+    "OOT O2R": "Voice_META",
+    "Sample Rate (Hz)": "32000",
+    "Music Note": "B3",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample416",
+    "OOT OTR": "Drum 1",
+    "OOT O2R": "Drum 1_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample417",
+    "OOT OTR": "Drum 2",
+    "OOT O2R": "Drum 2_META",
+    "Sample Rate (Hz)": "32000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample418",
+    "OOT OTR": "Slap Bass",
+    "OOT O2R": "Slap Bass_META",
+    "Sample Rate (Hz)": "22050",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample419",
+    "OOT OTR": "Shaker",
+    "OOT O2R": "Shaker_META",
+    "Sample Rate (Hz)": "32000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample420",
+    "OOT OTR": "Cowbell",
+    "OOT O2R": "Cowbell_META",
+    "Sample Rate (Hz)": "32000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample421",
+    "OOT OTR": "Guitar (Low)",
+    "OOT O2R": "Guitar (Low)_META",
+    "Sample Rate (Hz)": "24000",
+    "Music Note": "A3",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample422",
+    "OOT OTR": "Guitar",
+    "OOT O2R": "Guitar_META",
+    "Sample Rate (Hz)": "24000",
+    "Music Note": "C4",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample423",
+    "OOT OTR": "Guitar (High)",
+    "OOT O2R": "Guitar (High)_META",
+    "Sample Rate (Hz)": "24000",
+    "Music Note": "G4",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample424",
+    "OOT OTR": "Viola",
+    "OOT O2R": "Viola_META",
+    "Sample Rate (Hz)": "32000",
+    "Music Note": "A4",
+    "Notes": "Is Actually Fiddle sound"
+  },
+  {
+    "Decomp": "Sample425",
+    "OOT OTR": "Church Bell",
+    "OOT O2R": "Church Bell_META",
+    "Sample Rate (Hz)": "22050",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample426",
+    "OOT OTR": "sample_0000C3B0",
+    "OOT O2R": "sample_0000C3B0_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": "Goron Ooh"
+  },
+  {
+    "Decomp": "Sample427",
+    "OOT OTR": "sample_0000C420",
+    "OOT O2R": "sample_0000C420_META",
+    "Sample Rate (Hz)": "22050",
+    "Music Note": "",
+    "Notes": "Goron Ooh (High)"
+  },
+  {
+    "Decomp": "Sample428",
+    "OOT OTR": "Banjo (Low)",
+    "OOT O2R": "Banjo (Low)_META",
+    "Sample Rate (Hz)": "32000",
+    "Music Note": "D3",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample429",
+    "OOT OTR": "Banjo",
+    "OOT O2R": "Banjo_META",
+    "Sample Rate (Hz)": "32000",
+    "Music Note": "A3",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample430",
+    "OOT OTR": "Islamic Chant",
+    "OOT O2R": "Islamic Chant_META",
+    "Sample Rate (Hz)": "16000",
+    "Music Note": "",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample431",
+    "OOT OTR": "Steel Drum",
+    "OOT O2R": "Steel Drum_META",
+    "Sample Rate (Hz)": "32000",
+    "Music Note": "C4",
+    "Notes": ""
+  },
+  {
+    "Decomp": "Sample432",
+    "OOT OTR": "Steel Drum (High)",
+    "OOT O2R": "Steel Drum (High)_META",
+    "Sample Rate (Hz)": "32000",
+    "Music Note": "D5",
+    "Notes": ""
+  }
+]

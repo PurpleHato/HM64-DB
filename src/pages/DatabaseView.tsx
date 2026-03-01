@@ -89,8 +89,6 @@ export const DatabaseView: React.FC = () => {
     } else if (!database?.hasSubcategories) {
       if (databaseId === 'animations') {
         return `${basePath}data/${gameFolder}/Animations/Animations.json`;
-      } else if (databaseId === 'sounds') {
-        return `${basePath}data/${gameFolder}/Sounds/Sounds.csv`;
       } else if (databaseId === 'instruments') {
         return `${basePath}data/${gameFolder}/Instruments/Instruments.json`;
       }
