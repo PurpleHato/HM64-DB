@@ -81,16 +81,17 @@ export const DatabaseView: React.FC = () => {
     if (!gameId || !databaseId || isTutorial) return null;
 
     const gameFolder = gameId.toUpperCase();
-    const dbName = databaseId;
+    // Capitalize first letter of dbName to match folder names (Dlists, SegmentCalls, etc.)
+    const dbName = databaseId.charAt(0).toUpperCase() + databaseId.slice(1);
 
     if (subcategoryConfig?.dataFile) {
       return `${basePath}data/${gameFolder}/${dbName}/${subcategoryConfig.dataFile}`;
     } else if (!database?.hasSubcategories) {
-      if (dbName === 'animations') {
+      if (databaseId === 'animations') {
         return `${basePath}data/${gameFolder}/Animations/Animations.json`;
-      } else if (dbName === 'sounds') {
+      } else if (databaseId === 'sounds') {
         return `${basePath}data/${gameFolder}/Sounds/Sounds.csv`;
-      } else if (dbName === 'instruments') {
+      } else if (databaseId === 'instruments') {
         return `${basePath}data/${gameFolder}/Instruments/Instruments.json`;
       }
     }
