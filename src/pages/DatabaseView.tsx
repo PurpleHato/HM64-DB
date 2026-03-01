@@ -176,7 +176,7 @@ export const DatabaseView: React.FC = () => {
   // Filter data
   const filteredData = useMemo(() => {
     if (!searchTerm) return data;
-    return data.filter((item) =>
+    return data.filter((item: DataItem) =>
       Object.values(item).some((value) =>
         String(value).toLowerCase().includes(searchTerm.toLowerCase())
       )
@@ -194,7 +194,7 @@ export const DatabaseView: React.FC = () => {
         <div className="text-center">
           <h1 className="text-2xl font-bold text-error">Database not found</h1>
           <Link to={`/${gameId}`} className="mt-4 inline-block text-primary hover:underline">
-            Back to {game.title}
+            Back to {game?.title || 'Home'}
           </Link>
         </div>
       </div>
@@ -301,7 +301,7 @@ export const DatabaseView: React.FC = () => {
                   </tr>
                 </thead>
                 <tbody>
-                  {filteredData.map((item, rowIndex) => (
+                  {filteredData.map((item: DataItem, rowIndex: number) => (
                     <tr
                       key={rowIndex}
                       className="border-b-2 border-border transition-all duration-150 hover:bg-primary/15"
