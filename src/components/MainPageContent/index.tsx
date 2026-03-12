@@ -90,7 +90,7 @@ export const MainPageContent: React.FC = () => {
         <Card className="p-6">
           <h3 className="text-lg font-bold text-primary">📚 Credits & Resources</h3>
           <p className="mt-2 text-sm text-text-secondary">
-            This database is made possible by the hard work of the Zelda modding community. Special thanks to Citrus, Dany, DanaTheElf, Laqueeshous, Malon Rose, Peyton, PurpleHato, wisefries, and more contributors who have documented and shared this technical information.
+            This database is made possible by the hard work of the Zelda modding community. Special thanks to Citrus, Dany, DanaTheElf, Jameriquiah, Malon Rose, Peyton, PurpleHato, wisefries, and more contributors who have documented and shared this technical information.
           </p>
         </Card>
       </div>

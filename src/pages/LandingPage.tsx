@@ -86,7 +86,7 @@ export const LandingPage: React.FC = () => {
           <h2 className="text-xl font-bold text-primary mb-4">📚 Credits & Resources</h2>
           <p className="text-sm text-text-secondary leading-relaxed">
             This database is made possible by the hard work of the Zelda modding community. Special thanks to Citrus, Dany,
-            DanaTheElf, Laqueeshous, Malon Rose, Peyton, PurpleHato, wisefries, and more contributors who have documented and
+            DanaTheElf, Jameriquiah, Malon Rose, Peyton, PurpleHato, wisefries, and more contributors who have documented and
             shared this technical information.
           </p>
           <div className="mt-6 pt-6 border-t border-border/20">
