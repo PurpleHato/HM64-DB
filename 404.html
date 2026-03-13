@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Redirecting...</title>
+    <script>
+      // GitHub Pages redirect for client-side routing
+      // This script runs on 404 errors and redirects to index.html with the original path preserved
+      (function() {
+        var redirectCount = sessionStorage.getItem('gh-redirect-count') || 0;
+        if (redirectCount > 5) {
+          // Prevent infinite redirect loops
+          sessionStorage.removeItem('gh-redirect-count');
+          window.location.href = '/HM64-DB/';
+          return;
+        }
+        sessionStorage.setItem('gh-redirect-count', parseInt(redirectCount) + 1);
+
+        // Get the path after /HM64-DB/ and redirect to index.html
+        var pathname = window.location.pathname;
+        var basePath = '/HM64-DB/';
+
+        // Check if the path starts with our base path
+        if (pathname.indexOf(basePath) === 0) {
+          var relativePath = pathname.substring(basePath.length) || '/';
+          // Store the intended path for the app to use
+          sessionStorage.setItem('gh-redirect-path', relativePath);
+        }
+
+        // Redirect to index.html
+        window.location.href = basePath;
+      })();
+    </script>
+  </head>
+  <body>
+    <p>Redirecting to the application...</p>
+  </body>
+</html>
